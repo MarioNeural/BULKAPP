@@ -1,0 +1,13 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600"],
+        "tcs": ["121042", "121044"],
+        "name": "vodafone-es_adg_SAMSUNG_dis-p20_prs-1_GENERICO",
+        "landing": "https://track.adform.net/adfserve/?bn=70996176;1x1inv=1;srctype=3;ord=[timestamp]",
+        "aws_path_1": "VODAFONE/2024/1/preroll/",
+        "aws_path_2": "/index.html",
+        "link": "https://track.adform.net/C/?bn=70996176",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_adg-vodafone_np_"
+    }
+]

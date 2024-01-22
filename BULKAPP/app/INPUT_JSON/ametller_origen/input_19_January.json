@@ -1,0 +1,46 @@
+[
+    {
+        "type": "link",
+        "sizes": ["300x250", "970x250", "300x600", "728x90"],
+        "tcs": ["120907", "120908", "120909", "120910"],
+        "name": "ametller-origen-es_v1mp_AO-CATALUNA_dis_prs-1_CAPTACION2_ENERO_CAT",
+        "landing": "https://www.ametllerorigen.com/ca/promocions",
+        "aws_path_1": "ametller_origen/2024/1/enero_2/ca/",
+        "aws_path_2": ".png",
+        "url": "https://www.ametllerorigen.com/ca/promocions?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-cataluna",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_ametller-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": ["300x250", "970x250", "300x600", "728x90"],
+        "tcs": ["120911", "120912", "120913", "120914"],
+        "name": "ametller-origen-es_v1mp_AO-CATALUNA_dis_rtg-1_CAPTACION2_ENERO_CAT",
+        "landing": "https://www.ametllerorigen.com/ca/promocions",
+        "aws_path_1": "ametller_origen/2024/1/enero_2/ca/",
+        "aws_path_2": ".png",
+        "url": "https://www.ametllerorigen.com/ca/promocions?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao-cataluna",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_ametller-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": ["300x250", "970x250", "300x600", "728x90"],
+        "tcs": ["120915", "120916", "120917", "120918"],
+        "name": "ametller-origen-es_v1mp_AO-CATALUNA_dis_prs-1_CAPTACION2_ENERO_ES",
+        "landing": "https://www.ametllerorigen.com/es/promociones",
+        "aws_path_1": "ametller_origen/2024/1/enero_2/es/",
+        "aws_path_2": ".png",
+        "url": "https://www.ametllerorigen.com/es/promociones?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-cataluna",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_ametller-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": ["300x250", "970x250", "300x600", "728x90"],
+        "tcs": ["120919", "120920", "120921", "120922"],
+        "name": "ametller-origen-es_v1mp_AO-CATALUNA_dis_rtg-1_CAPTACION2_ENERO_ES",
+        "landing": "https://www.ametllerorigen.com/es/promociones",
+        "aws_path_1": "ametller_origen/2024/1/enero_2/es/",
+        "aws_path_2": ".png",
+        "url": "https://www.ametllerorigen.com/es/promociones?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao-cataluna",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_ametller-es_np_"
+    }
+]

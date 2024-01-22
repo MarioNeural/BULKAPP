@@ -1,0 +1,12 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": [],
+        "name": "3dcard_preview",
+        "landing": "https://web.unican.es/",
+        "aws_path_1": "UNIVERSIDAD_DE_CANTABRIA/2024/1/3dcard/",
+        "aws_path_2": "/index.html",
+        "link": "https://web.unican.es/"
+    }
+]

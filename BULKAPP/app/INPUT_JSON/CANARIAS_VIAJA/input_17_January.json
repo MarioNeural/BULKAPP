@@ -1,0 +1,90 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": ["120838"],
+        "name": "canarias-es_v1mp_AO-MADRID_dis-prem_prs-1_SLIDER",
+        "landing": "https://www.canariasviaja.com/",
+        "aws_path_1": "CANARIAS_VIAJA/2024/1/generica/canarias/slider/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.canariasviaja.com/?utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=ao-madrid",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_canarias-viaja-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": ["120839"],
+        "name": "canarias-es_v1mp_AO-MADRID_dis-prem_rtg-1_SLIDER",
+        "landing": "https://www.canariasviaja.com/",
+        "aws_path_1": "CANARIAS_VIAJA/2024/1/generica/canarias/slider/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.canariasviaja.com/?utm_source=v1mp&utm_medium=dis-prem-rtg-1&utm_campaign=ao-madrid",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_canarias-viaja-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["120840", "120841", "120842", "120843", "120844", "120845"],
+        "name": "canarias-es_v1mp_AO-MADRID_dis_prs-1_GEN",
+        "landing": "https://www.canariasviaja.com/",
+        "aws_path_1": "CANARIAS_VIAJA/2024/1/generica/canarias/display/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.canariasviaja.com/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-madrid",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_canarias-viaja-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["120846", "120847", "120848", "120849", "120850", "120851"],
+        "name": "canarias-es_v1mp_AO-MADRID_dis_rtg-1_GEN",
+        "landing": "https://www.canariasviaja.com/",
+        "aws_path_1": "CANARIAS_VIAJA/2024/1/generica/canarias/display/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.canariasviaja.com/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao-madrid",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_canarias-viaja-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["120852", "120853", "120854", "120855", "120856", "120857"],
+        "name": "canarias-es_v1mp_AO-CANARIAS_dis_prs-1_GEN",
+        "landing": "https://www.canariasviaja.com/",
+        "aws_path_1": "CANARIAS_VIAJA/2024/1/generica/madrid/display/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.canariasviaja.com/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-canarias",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_canarias-viaja-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["120858", "120859", "120860", "120861", "120862", "120863"],
+        "name": "canarias-es_v1mp_AO-CANARIAS_dis_rtg-1_GEN",
+        "landing": "https://www.canariasviaja.com/",
+        "aws_path_1": "CANARIAS_VIAJA/2024/1/generica/madrid/display/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.canariasviaja.com/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao-canarias",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_canarias-viaja-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": ["120864"],
+        "name": "canarias-es_v1mp_AO-CANARIAS_dis-prem_prs-1_SLIDER",
+        "landing": "https://www.canariasviaja.com/",
+        "aws_path_1": "CANARIAS_VIAJA/2024/1/generica/madrid/slider/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.canariasviaja.com/?utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=ao-canarias",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_canarias-viaja-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": ["120865"],
+        "name": "canarias-es_v1mp_AO-CANARIAS_dis-prem_rtg-1_SLIDER",
+        "landing": "https://www.canariasviaja.com/",
+        "aws_path_1": "CANARIAS_VIAJA/2024/1/generica/madrid/slider/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.canariasviaja.com/?utm_source=v1mp&utm_medium=dis-prem-rtg-1&utm_campaign=ao-canarias",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_canarias-viaja-es_np_"
+    }
+]
