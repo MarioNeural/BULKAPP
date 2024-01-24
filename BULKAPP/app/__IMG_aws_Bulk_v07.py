@@ -12,7 +12,6 @@ import xlrd
 import csv
 import urllib.parse
 import requests
-import requests
 
 
 ROOT_PATH = os.path.dirname(os.path.abspath(__file__))
@@ -33,8 +32,8 @@ class IMG_aws_TAG_Bulk:
 
         self.DSPs = {
             "TTD": ["TTD", "TTD_ESC"],
-            "Rest": ["360", "360_ENC", "RKT", "QCT", "QCT_ESC", "ZEM", "ZEM_ENC", "STACK_ENC", "STACK"]
-            # "Rest": ["APN", "APN_ENC", "ADF", "360", "360_ENC", "RKT"]
+            "Rest": ["360", "360_ENC", "RKT", "QCT", "QCT_ESC", "ZEM", "ZEM_ENC", "STACK_ENC", "STACK", "ADF"]
+            # "Rest": ["APN", "APN_ENC", "360", "360_ENC", "RKT"]
         }
 
         # create XLSX files
@@ -63,7 +62,7 @@ class IMG_aws_TAG_Bulk:
                 tcs = item["tcs"]
                 sizes = item["sizes"]
                 url_param_sep = self.url_param_separator(item)
-                 
+
                 for i, s in enumerate(sizes):
                     obj = {}
                     obj["size"] = s
@@ -74,7 +73,7 @@ class IMG_aws_TAG_Bulk:
 
                     obj["name"] = item["name"] + '_' + s
                     obj["landing"] = item["landing"]
-                    
+
                     utm_size = item["add_utm_size"] + s if item.get("add_utm_size") else ""
 
                     if item["type"] == "link":
@@ -110,18 +109,18 @@ class IMG_aws_TAG_Bulk:
                         item["aws_path_1"] + s + item["aws_path_2"] + \
                         '?n_o_ct=${CLICK_URL}' + link + '" width="' + width + '" height="' + height + \
                         '" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>'
-                    
+
                     if item.get("viewability"):
                         try:
                             if item["viewability"]:
                                 if not tcs:
                                     raise ValueError("#Error: Can't add viewability without TCs...")
                                 view = self.set_url_or_link(item["viewability"], tcs, i, "view")
-                                
+
                                 if not self.verify_response_code("http:" + view + ".js"):
                                   raise ValueError("#Error: url response code is not 200...")
-                                
-                                
+
+
                                 obj["tag"] += '<script type="text/javascript" src="' + \
                                 view + '.js?n_o_nu=not&n_o_ord=[CACHEBUSTER]"></script>'
                         except Exception as error:
@@ -135,12 +134,13 @@ class IMG_aws_TAG_Bulk:
                     # if item.get("cruce"):
                     #     if item["cruce"]:
                     #         obj["tag"] += '<script type="text/javascript" src="' + item["cruce"] + item["crucetc"][i]+ '&cid=3456&size='+ width + 'x' +height +'&cb=ADD-RANDOM-NUMBER-HERE&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_152}" async="async" ></script>'
-                            
+
 
                     self._ALL_LIST.append(obj)
                     print("-----------")
                     print(obj)
                     self.create_html(self._ALL_LIST)
+
 
     # url_param_separator()
 
@@ -155,9 +155,9 @@ class IMG_aws_TAG_Bulk:
         else:
             return ""
 
-    #Create html file to preview tags        
+    #Create html file to preview tags
     def create_html(self, tag):
-        with open("HTML/test.html", "w") as f:
+        with open("app/HTML/test.html", "w") as f:
             f.write("<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><meta name='viewport' content='width=device-width, initial-scale=1.0'><title>Document</title>")
             f.write("<style>\n")
             f.write("    body{\n")
@@ -233,8 +233,10 @@ class IMG_aws_TAG_Bulk:
                 f.write(f"<div class=\"row\"><p class=\"title\">{tag_name}</p><div class=\"main\">{tag_value}<p class=\"text\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium ut est nec dignissim. Vestibulum pellentesque ac elit porta rhoncus. Donec vulputate odio leo, at posuere purus tincidunt et. Vivamus ut eleifend orci. Sed iaculis tortor vel ultrices tincidunt. Donec in ipsum ut velit interdum venenatis eget a leo. Nullam pulvinar iaculis tincidunt. Vivamus quis elementum nunc. In arcu ante, sagittis ut finibus a, vehicula eu tortor. Nam blandit pretium quam ac finibus. Praesent finibus ex ex.Donec suscipit vulputate erat, a malesuada ligula hendrerit vitae. Nam bibendum ipsum condimentum sapien pretium, sit amet vehicula erat tempor. Etiam ut ornare leo, quis porttitor felis. Mauris varius tempor nisi, ac blandit elit. Cras a consectetur quam, sit amet vestibulum odio. Fusce semper mauris nisl, tristique volutpat enim pulvinar vitae. Sed rhoncus turpis eu venenatis hendrerit. Sed efficitur augue libero. Quisque urna neque, interdum at feugiat eu, laoreet id metus. Vivamus mi dui, feugiat vel vulputate eu, accumsan vel massa. Duis laoreet, leo sit amet egestas lobortis, nibh ante luctus lorem, sit amet consequat diam lectus a nisl. Donec id tortor gravida lorem cursus ornare. Morbi a consectetur urna, non tempor leo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices.</p></div></div>")
             f.write("</div><script type=\"text/javascript\" src=\"application.js\"></script></body></html>")
             f.close()
-                
-                
+
+
+
+
 
     # Validate URL
     def url_validate(self, url):
@@ -247,10 +249,6 @@ class IMG_aws_TAG_Bulk:
         # Valida que la URL no tenga espacios
         if re.search(r'\s', url):
             errors.append("La URL contiene espacios en blanco")
-
-        # Valida que la URL no contenga el carácter #
-        if '#' in url:
-            errors.append("La URL contiene el carácter ('#')")
 
         # Valida que la URL tenga 0 o 1 interrogaciones
         if not re.match(r'^[^\?]*(\?[^\?]*){0,1}$', url):
@@ -310,7 +308,7 @@ class IMG_aws_TAG_Bulk:
         508: "Loop Detected)",
         510: "Not Extended",
         511: "Network Authentication Required",
-        
+
     }
         try:
             response = requests.get(url)
@@ -330,7 +328,7 @@ class IMG_aws_TAG_Bulk:
             tc = str(tcs[0])
         else:
             tc = ""
-        
+
         if type == "link" and href.lower() == "only_tc":
             return '&link=' + tc
         else:
@@ -341,7 +339,7 @@ class IMG_aws_TAG_Bulk:
             param = '&link=' if type == "link" else ""
             url_complete = param + href + url_param_sep + utm_size + tc
             # print(url_complete)
-            
+
             return param + href + url_param_sep + utm_size + tc
 
     # cache_and_clicktag()
@@ -354,6 +352,7 @@ class IMG_aws_TAG_Bulk:
             "ZEM_ENC"  : {"CB": r"{CACHEBUSTER}", "Clk": r"{CLICK_URL_ENC}"},
             "QCT_ESC"  : {"CB": r"[CACHEBUSTER]", "Clk": r"${CLICKESC}"},
             "STACK_ENC": {"CB": r"[CACHEBUSTER]", "Clk": r"${SA_CLICK_URL_ENC}"},
+            "ADF"      : {"CB": r"%%ADFRND%%", "Clk": r"%%c1;cpdir="},
 
             "360"  : {"CB": r"${CACHEBUSTER}", "Clk": r"${CLICK_URL}"},
             "TTD"  : {"CB": r"%%TTD_CACHEBUSTER%%", "Clk": r"%%TTD_CLK%%"},
@@ -364,7 +363,7 @@ class IMG_aws_TAG_Bulk:
 
             # "APN_ENC": {"CB": r"${CACHEBUSTER}", "Clk": r"${CLICK_URL_ENC}"},
             # "APN": {"CB": r"${CACHEBUSTER}", "Clk": r"${CLICK_URL}"},
-            # "ADF": {"CB": r"%%ADFRND%%", "Clk": r"%%c1;cpdir="}
+
         }
         if Patt_Click in tag:
             tag = tag.replace(Patt_Click, Valid_Patts[dsp]["Clk"])
@@ -432,6 +431,9 @@ class IMG_aws_TAG_Bulk:
             labels = ['Campaign Id', 'Campaign Name (Read only)','Creative Id', 'Image File', 'Creative Name', 'JS Code / HTML', 'Dimension (Image File - Read only)', 'Dimension (JS Code)', 'Is expandable (JS Code)', 'Click URL', 'Sponsored By', 'Impression Tracking URLs']
             order = ['campaign_id', 'campaign_name', 'creative_id', 'image_file', 'name', 'tag', 'dimension_image', 'size', 'is_expandable', 'landing', 'sponsored_by', 'landing']
             missing_content = {'campaign_id':'', 'campaign_name':'', 'creative_id':'', 'image_file': '', 'dimension_image': '', 'is_expandable': '', 'sponsored_by': 'none'}
+        elif DSP == 'ADF':
+            labels = ['Name', 'Click URL', 'Content', 'Size']
+            order = ['name', '_blank', 'tag', 'size']
 
         # elif DSP == 'APN' or DSP == 'APN_ENC':
         #     labels = ['File Name', 'Size', 'Tag Content']
@@ -444,7 +446,7 @@ class IMG_aws_TAG_Bulk:
             ws.write(row, col, i)
             col += 1
         col = 0
-        row += 4 if "APN" in DSP else 1  # ADF 15
+        row += 4 if "APN" in DSP else 1 #ADF 15
         # write_XLSX
         self.write_XLSX(DSP, row, wb, ws, order, missing_content)
 
@@ -508,7 +510,7 @@ def ask_to_run_code():
 
 # -------- MAIN() -------
 def main():
-    
+
     files = []
     print("-----------\nFiles in folder:")
     for f in sorted(os.listdir(ROOT_PATH+"/INPUT_JSON")):

@@ -1,0 +1,24 @@
+[
+    {
+        "type": "link",
+        "sizes": ["160x600", "300x250", "300x600", "300x100", "728x90", "970x250"],
+        "tcs": ["120402", "120403", "120404", "120405", "120406", "120407"],
+        "name": "mundo-cl_v1mp_MOVIL-GENERICA_dis_rtg-1_4990",
+        "landing": "https://www.tumundo.cl/planes-movil/portabilidad-10/",
+        "aws_path_1": "mundo_pacifico/2024/01/4990/",
+        "aws_path_2": ".jpg",
+        "url": "https://www.tumundo.cl/planes-movil/portabilidad-10/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=movil-generica&utm_term=4990",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_mundo-cl_np_"
+    },
+    {
+        "type": "link",
+        "sizes": ["160x600", "300x600", "300x100", "728x90", "970x250"],
+        "tcs": ["120408", "120410", "120411", "120412", "120413"],
+        "name": "mundo-cl_v1mp_MOVIL-GENERICA_dis_rtg-1_6995",
+        "landing": "https://www.tumundo.cl/planes-movil/portabilidad-gl-200/",
+        "aws_path_1": "mundo_pacifico/2024/01/6995/",
+        "aws_path_2": ".jpg",
+        "url": "https://www.tumundo.cl/planes-movil/portabilidad-gl-200/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=movil-generica&utm_term=6995",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_mundo-cl_np_"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "type": "link",
+        "sizes": ["120x600", "160x600", "300x250", "300x600", "468x60", "728x90"],
+        "tcs": ["120820", "120821", "120822", "120823", "120824", "120825"],
+        "name": "civitatis-ar_adg_AO_dis_prs-1_FLORIANOPOLIAS",
+        "landing": "https://www.civitatis.com/ar/florianopolis",
+        "aws_path_1": "CIVITATIS/2024/1/always_on/florianopolis/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/ar/florianopolis?AID=108&cmp=es_AR&cmpint=adg_ar_Florianopolias&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=Florian\u00f3polias&utm_content=argentina",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": ["120x600", "160x600", "300x250", "300x600", "468x60", "728x90"],
+        "tcs": ["120826", "120827", "120828", "120829", "120830", "120831"],
+        "name": "civitatis-ar_adg_AO_dis_prs-1_PORTO-ALEGRE",
+        "landing": "https://www.civitatis.com/ar/porto-alegre/",
+        "aws_path_1": "CIVITATIS/2024/1/always_on/porto_alegre/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/ar/porto-alegre/?AID=108&cmp=es_AR&cmpint=adg_ar_Porto-Alegre&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=Porto-Alegre&utm_content=argentina",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": ["120x600", "160x600", "300x250", "300x600", "468x60", "728x90"],
+        "tcs": ["120832", "120833", "120834", "120835", "120836", "120837"],
+        "name": "civitatis-ar_adg_AO_dis_prs-1_RIO-DE-JANEIRO",
+        "landing": "https://www.civitatis.com/ar/rio-de-janeiro/",
+        "aws_path_1": "CIVITATIS/2024/1/always_on/rio_de_janeiro/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/ar/rio-de-janeiro/?AID=108&cmp=es_AR&cmpint=adg_ar_Rio-de-Janeiro&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=Rio-de-Janeiro&utm_content=argentina",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    }
+]

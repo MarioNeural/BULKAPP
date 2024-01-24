@@ -8,6 +8,7 @@ import re
 import sys
 import threading
 import webbrowser
+import shutil
 
 
 # Estilos generales
@@ -317,41 +318,109 @@ def open_json_with_vscode():
     except Exception as e:
         messagebox.showerror("Error", f"Ocurrió un error: {e}")
 
+csv_generated = False
+iframe_detected = False  # Variable para detectar si se ha detectado un iframe en la consola
 
 def ejecutar_img_aws_bulk():
-    def run_script():
-        global last_execution_time  # Declara que vas a usar la variable global
-        try:
-            script_path = os.path.join("app", "__IMG_aws_Bulk_v08.pyw")
-            output_text.delete(1.0, tk.END)  # Borra el contenido anterior
-            app.update_idletasks()  # Actualiza la GUI para mostrar el mensaje antes de iniciar el proceso
+    global last_execution_time  # Declarar variable global
+    global csv_generated
+    global iframe_detected  # Declarar variable global
+    try:
+        script_path = os.path.join("app", "__IMG_aws_Bulk_v08.pyw")
+        output_text.delete(1.0, tk.END)  # Borrar el contenido anterior
+        app.update_idletasks()  # Actualizar la GUI para mostrar el mensaje antes de iniciar el proceso
 
-            # Abre el proceso con pythonw para evitar la ventana de consola y redirige la salida estándar y la salida de error al widget de texto en el marco
-            process = subprocess.Popen(["pythonw", script_path], stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True, universal_newlines=True)
+        # Cambiar el nombre de la carpeta "compartir" a "COMPARTIR"
+        comparti_folder_path = os.path.join("app", "COMPARTIR")
+        os.makedirs(comparti_folder_path, exist_ok=True)
 
-            # Lee y muestra la salida estándar en el widget de texto en el marco
-            while True:
-                line = process.stdout.readline()
-                if not line:
-                    break
-                output_text.insert(tk.END, line)
-                output_text.see(tk.END)  # Se desplaza hacia abajo automáticamente
-            process.stdout.close()
+        # Abrir el proceso con pythonw para evitar la ventana de consola y redirigir la salida estándar y la salida de error al widget de texto en el marco
+        process = subprocess.Popen(["pythonw", script_path], stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True, universal_newlines=True)
 
-            # Lee y muestra la salida de error en el widget de texto en el marco
-            while True:
-                line = process.stderr.readline()
-                if not line:
-                    break
-                output_text.insert(tk.END, line)
-                output_text.see(tk.END)  # Se desplaza hacia abajo automáticamente
-            process.stderr.close()
+        xlsx_created = False  # Bandera para verificar si los archivos XLSX se crearon con éxito
 
-            last_execution_time = time.time()  # Actualiza el tiempo de la última ejecución
-        except Exception as e:
-            messagebox.showerror("Error", f"Error al ejecutar el script: {e}")
+        # Leer y mostrar la salida estándar en el widget de texto en el marco
+        while True:
+            line = process.stdout.readline()
+            if not line:
+                break
+            output_text.insert(tk.END, line)
+            output_text.see(tk.END)  # Desplazarse hacia abajo automáticamente
+            if "XLSX files have been created successfully!!!" in line:
+                xlsx_created = True  # Establecer la bandera en True si se encuentra el mensaje de éxito
+            if '<iframe' in line:
+                iframe_detected = True  # Establecer la bandera en True si se detecta un iframe en la consola
+        process.stdout.close()
 
-    threading.Thread(target=run_script).start()
+        # Leer y mostrar la salida de error en el widget de texto en el marco
+        while True:
+            line = process.stderr.readline()
+            if not line:
+                break
+            output_text.insert(tk.END, line)
+            output_text.see(tk.END)  # Desplazarse hacia abajo automáticamente
+        process.stderr.close()
+
+        last_execution_time = time.time()  # Actualizar el tiempo de la última ejecución
+
+        # Habilitar el botón "Generar CSV" si los archivos XLSX se crearon con éxito
+        if xlsx_created:
+            app.update()  # Forzar la actualización de la interfaz de usuario
+            generar_csv_btn.config(state=tk.NORMAL)  # Habilitar el botón "Generar CSV"
+            csv_generated = True
+        else:
+            generar_csv_btn.config(state=tk.DISABLED)  # Deshabilitar el botón "Generar CSV" en caso de fallo
+    except Exception as e:
+        messagebox.showerror("Error", f"Error al ejecutar el script: {e}")
+        generar_csv_btn.config(state=tk.DISABLED)  # Deshabi
+
+
+def generar_csv():
+    global csv_generated  # Declarar la variable global
+    try:
+        if csv_generated:
+            # Obtener el texto en el widget de salida
+            output_text_content = output_text.get("1.0", tk.END)
+
+            if '<iframe' in output_text_content:
+                # Si se detecta un <iframe> en el texto, copiar el archivo 360_ENC_file.csv
+                src_csv_filename = "360_ENC_file.csv"
+                messagebox.showinfo("Éxito", f"Se va a generar el archivo {src_csv_filename} para creatividades tipo <iframe>.")
+            else:
+                # Si no se detecta un <iframe>, copiar el archivo 360_file.csv
+                src_csv_filename = "360_file.csv"
+                messagebox.showinfo("Éxito", f"Se va a generar el archivo {src_csv_filename} para creatividades tipo <a>.")
+
+            # Establecer la ruta del archivo CSV en función del archivo seleccionado
+            src_csv_path = os.path.join("app", src_csv_filename)
+
+            # Carpeta de destino (en mayúsculas)
+            compartir_folder_path = os.path.join("app", "COMPARTIR")
+            os.makedirs(compartir_folder_path, exist_ok=True)
+
+            # Verificar si existe el archivo correspondiente en la carpeta de "COMPARTIR" y eliminarlo si es necesario
+            if src_csv_filename == "360_ENC_file.csv":
+                dest_csv_filename = "360_file.csv"
+            else:
+                dest_csv_filename = "360_ENC_file.csv"
+
+            dest_csv_path = os.path.join(compartir_folder_path, dest_csv_filename)
+            if os.path.exists(dest_csv_path):
+                os.remove(dest_csv_path)
+
+            # Copiar el archivo CSV a la carpeta "COMPARTIR"
+            dest_csv_path = os.path.join(compartir_folder_path, src_csv_filename)
+            shutil.copyfile(src_csv_path, dest_csv_path)
+
+            # Abrir la carpeta de "COMPARTIR" en el explorador de archivos
+            os.startfile(compartir_folder_path)
+        else:
+            messagebox.showerror("Error", "No se pueden generar los archivos CSV hasta que se creen los archivos XLSX.")
+    except Exception as e:
+        messagebox.showerror("Error", f"Error al generar los archivos CSV: {e}")
+
+
+
 
 
 app = tk.Tk()
@@ -387,6 +456,10 @@ open_html_btn.grid(row=0, column=0, columnspan=4, pady=10)
 
 open_json_btn = tk.Button(frame, text="Abrir JSON", command=open_json_with_vscode, bg=LIGHT_GREEN, fg=TEXT_COLOR)
 open_json_btn.grid(row=1, column=2, columnspan=4, pady=10)
+
+generar_csv_btn = tk.Button(frame, text="Generar CSV 360", command=generar_csv, bg=LIGHT_GREEN, fg=TEXT_COLOR)
+generar_csv_btn.grid(row=0, column=1, padx=10)
+generar_csv_btn.config(state=tk.DISABLED)  # Deshabilitar el botón "Generar CSV" al inicio
 
 
 update_timer()

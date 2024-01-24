@@ -1,0 +1,68 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": ["120465"],
+        "name": "hoteles-globales-ie_v1mp_SPLASH_dis-prem_prs-1_STORY-JUN23",
+        "landing": "https://www.hotelesglobales.com/en/splash",
+        "aws_path_1": "sd",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelesglobales.com/en/splash?utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=splash",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_hoteles-globales-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["120466", "120467"],
+        "name": "hoteles-globales-ie_v1mp_SPLASH_dis-prem_prs-1_3DCARD-JUN23",
+        "landing": "https://www.hotelesglobales.com/en/splash",
+        "aws_path_1": "sd",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelesglobales.com/en/splash?utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=splash",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_hoteles-globales-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": ["120468"],
+        "name": "hoteles-globales-ie_v1mp_FEEL_dis-prem_prs-1_STORY-JUN23",
+        "landing": "https://www.hotelesglobales.com/en/feel",
+        "aws_path_1": "sd",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelesglobales.com/en/feel?utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=feel",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_hoteles-globales-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["120469", "120470"],
+        "name": "hoteles-globales-ie_v1mp_FEEL_dis-prem_prs-1_3DCARD-JUN23",
+        "landing": "https://www.hotelesglobales.com/en/feel",
+        "aws_path_1": "sd",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelesglobales.com/en/feel?utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=feel",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_hoteles-globales-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "300x250", "970x250"],
+        "tcs": ["120471", "120472", "120473"],
+        "name": "hoteles-globales-ie_v1mp_CLASS_dis-prem_prs-1_CARRUSEL-JUN23",
+        "landing": "https://www.hotelesglobales.com/en/class",
+        "aws_path_1": "sd",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelesglobales.com/en/class?utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=class",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_hoteles-globales-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": ["120474"],
+        "name": "hoteles-globales-ie_v1mp_CLASS_dis-prem_prs-1_STORY-JUN23",
+        "landing": "https://www.hotelesglobales.com/en/class",
+        "aws_path_1": "sd",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelesglobales.com/en/class?utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=class",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_hoteles-globales-es_np_"
+    }
+]
