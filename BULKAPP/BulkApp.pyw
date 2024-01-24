@@ -385,39 +385,43 @@ def generar_csv():
             if '<iframe' in output_text_content:
                 # Si se detecta un <iframe> en el texto, copiar el archivo 360_ENC_file.csv
                 src_csv_filename = "360_ENC_file.csv"
-                messagebox.showinfo("Éxito", f"Se va a generar el archivo {src_csv_filename} para creatividades tipo <iframe>.")
+                success_msg = f"Se va a generar el archivo {src_csv_filename} para creatividades tipo <iframe>."
             else:
                 # Si no se detecta un <iframe>, copiar el archivo 360_file.csv
                 src_csv_filename = "360_file.csv"
-                messagebox.showinfo("Éxito", f"Se va a generar el archivo {src_csv_filename} para creatividades tipo <a>.")
+                success_msg = f"Se va a generar el archivo {src_csv_filename} para creatividades tipo <a>."
 
-            # Establecer la ruta del archivo CSV en función del archivo seleccionado
-            src_csv_path = os.path.join("app", src_csv_filename)
+            # Ventana emergente de éxito
+            success_result = messagebox.askquestion("Éxito", success_msg + "\n¿Desea generar el archivo y abrir la carpeta ahora?")
 
-            # Carpeta de destino (en mayúsculas)
-            compartir_folder_path = os.path.join("app", "COMPARTIR")
-            os.makedirs(compartir_folder_path, exist_ok=True)
+            if success_result == "yes":
+                # Establecer la ruta del archivo CSV en función del archivo seleccionado
+                src_csv_path = os.path.join("app", src_csv_filename)
 
-            # Verificar si existe el archivo correspondiente en la carpeta de "COMPARTIR" y eliminarlo si es necesario
-            if src_csv_filename == "360_ENC_file.csv":
-                dest_csv_filename = "360_file.csv"
-            else:
-                dest_csv_filename = "360_ENC_file.csv"
+                # Carpeta de destino (en mayúsculas)
+                compartir_folder_path = os.path.join("app", "COMPARTIR")
+                os.makedirs(compartir_folder_path, exist_ok=True)
 
-            dest_csv_path = os.path.join(compartir_folder_path, dest_csv_filename)
-            if os.path.exists(dest_csv_path):
-                os.remove(dest_csv_path)
+                # Verificar si existe el archivo correspondiente en la carpeta de "COMPARTIR" y eliminarlo si es necesario
+                if src_csv_filename == "360_ENC_file.csv":
+                    dest_csv_filename = "360_file.csv"
+                else:
+                    dest_csv_filename = "360_ENC_file.csv"
 
-            # Copiar el archivo CSV a la carpeta "COMPARTIR"
-            dest_csv_path = os.path.join(compartir_folder_path, src_csv_filename)
-            shutil.copyfile(src_csv_path, dest_csv_path)
+                dest_csv_path = os.path.join(compartir_folder_path, dest_csv_filename)
+                if os.path.exists(dest_csv_path):
+                    os.remove(dest_csv_path)
 
-            # Abrir la carpeta de "COMPARTIR" en el explorador de archivos
-            os.startfile(compartir_folder_path)
-        else:
-            messagebox.showerror("Error", "No se pueden generar los archivos CSV hasta que se creen los archivos XLSX.")
+                # Copiar el archivo CSV a la carpeta "COMPARTIR"
+                dest_csv_path = os.path.join(compartir_folder_path, src_csv_filename)
+                shutil.copyfile(src_csv_path, dest_csv_path)
+
+                # Abrir la carpeta de "COMPARTIR" en el explorador de archivos
+                os.startfile(compartir_folder_path)
+
     except Exception as e:
         messagebox.showerror("Error", f"Error al generar los archivos CSV: {e}")
+
 
 
 

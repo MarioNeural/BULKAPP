@@ -1,0 +1,26 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "300x250", "320x100", "970x250"],
+        "tcs": ["120930", "120931", "120932", "120934"],
+        "name": "sandos-es_v1mp_ALWAYS-ON_dis_prs-1_ENERO_24",
+        "landing": "https://www.sandos.com/es/atrapa-el-calor",
+        "aws_path_1": "SANDOS/2024/1/html/prs/es/esp/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.sandos.com/es/atrapa-el-calor?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=always-on",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_sandos-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "300x250", "320x100", "970x250"],
+        "tcs": ["120936", "120937", "120938", "120940"],
+        "name": "sandos-es_v1mp_ALWAYS-ON_dis_rtg-1_ENERO_24",
+        "landing": "https://www.sandos.com/es/atrapa-el-calor",
+        "aws_path_1": "SANDOS/2024/1/html/rtg/es/esp/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.sandos.com/es/atrapa-el-calor?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=always-on",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_sandos-es_np_",
+        "add_utm_size": "utm_content="
+    }
+]
