@@ -5,16 +5,18 @@ import subprocess
 import time
 import json
 import re
-import sys
-import threading
-import webbrowser
 import shutil
 
+# FUNCIONES
+from functions.process_json import process_json
+from functions.one_line_arrays import one_line_arrays
 
-# Estilos generales
-DARK_GREEN = "#55967B"
-LIGHT_GREEN = "#88B791"
-TEXT_COLOR = "#000000"
+from functions.open import open_test_html
+from functions.open import open_json_with_vscode
+from functions.open import open_folder
+
+# ESTILOS
+from styles.styles import DARK_GREEN, LIGHT_GREEN, TEXT_COLOR
 
 FOLDER_PATH = os.path.join("app")
 last_execution_time = None
@@ -28,12 +30,6 @@ def update_timer():
             minutes = int(elapsed_time / 60)
             time_label.config(text=f"Han pasado {minutes} minutos desde el último BULK")
     app.after(1000, update_timer)
-
-def open_folder():
-    try:
-        os.startfile(FOLDER_PATH)
-    except Exception as e:
-        messagebox.showerror("Error", f"Error al abrir la carpeta: {e}")
 
 
 def extract_data_from_rows(data):
@@ -54,7 +50,7 @@ def extract_data_from_rows(data):
     landing_index = headers.index("URL")
     link_index = headers.index("URL Final")
     
-    temp_dict = {}  # Usamos un diccionario para agrupar por "name"
+    temp_dict = {}
 
     for line in lines[1:]:
         if line:
@@ -63,20 +59,16 @@ def extract_data_from_rows(data):
             current_tc = values[tc_index]
             current_name = "_".join(values[name_index].split("_")[:-1]).strip()
 
-            # Si el "name" está vacío o es solo espacios en blanco, continuamos con la siguiente línea
             if not current_name:
                 continue
 
             current_landing = values[landing_index]
             current_link = re.sub(r'&tc_alt.*$', '', values[link_index])
 
-            # Verificamos si ya tenemos un objeto con el mismo "name"
             if current_name in temp_dict:
-                # Si ya existe, acumulamos sizes y tcs
                 temp_dict[current_name]['sizes'].append(current_size)
                 temp_dict[current_name]['tcs'].append(current_tc)
             else:
-                # Si no existe, creamos una entrada en el diccionario para ese "name"
                 temp_dict[current_name] = {
                     'sizes': [current_size],
                     'tcs': [current_tc],
@@ -85,7 +77,6 @@ def extract_data_from_rows(data):
                     'link': current_link
                 }
 
-    # Convertimos las entradas del diccionario a objetos
     all_results = [
     generate_object(value['sizes'], value['tcs'], value['line'], key, value['landing'], value['link'], name_index)
     for key, value in temp_dict.items()
@@ -103,11 +94,8 @@ def generate_object(sizes, tcs, line, key, landing, link, name_index):
     utm_content_pattern = r'(&utm_content=([a-zA-Z_]*?)\d*x\d*)'
     match = re.search(utm_content_pattern, link)
     if match:
-        # Extraer solo el prefijo del valor de utm_content
         prefix = match.group(2)
-        # Eliminar el patrón completo de utm_content de la URL
         link = re.sub(utm_content_pattern, '', link)
-        # Añadir el valor modificado de utm_content
         add_utm_size = f"utm_content={prefix}"
     else:
         add_utm_size = None
@@ -145,6 +133,8 @@ def generate_object(sizes, tcs, line, key, landing, link, name_index):
             "url": link 
         }
 
+
+
     if include_viewability.get():
         result_obj["viewability"] = viewability
 
@@ -154,32 +144,16 @@ def generate_object(sizes, tcs, line, key, landing, link, name_index):
     return result_obj
 
 
-def one_line_arrays(json_string):
-    # Esta función reemplazará arrays multilinea con su versión en una línea
-    def replace_array(match):
-        # Tomamos el contenido del array y lo separamos por comas
-        items = match.group(1).split(',')
-        # Eliminamos espacios en blanco y nos quedamos con los elementos que no estén vacíos
-        cleaned_items = [item.strip() for item in items if item.strip()]
-        return '[' + ', '.join(cleaned_items) + ']'
-
-    return re.sub(r'\[\s*((?:"[^"]+",?\s*)+)\]', replace_array, json_string)
-
-
 def save_json(json_data):
     try:
-        # Convertimos los datos a JSON con indentación
         json_output = json.dumps(json_data, indent=4)
         
-        # Hacemos que todos los arrays estén en una línea
         json_output = one_line_arrays(json_output)
 
-        # Asegurarse de que la carpeta 'INPUT_JSON' exista; si no, la crea
         output_folder = os.path.join('app', 'INPUT_JSON')
         if not os.path.exists(output_folder):
             os.makedirs(output_folder)
 
-        # Ruta para guardar el archivo dentro de la carpeta 'INPUT_JSON'
         file_path = os.path.join(output_folder, 'input.json')
 
         with open(file_path, 'w') as f:
@@ -199,7 +173,6 @@ def show_object_window(json_data, index=0):
             messagebox.showwarning("Atención", "Debes introducir un valor para aws_path_1")
             return
 
-        # Si aws_path_1_entry_value contiene "s3://adgravity/", lo elimina.
         aws_path_1_entry_value = aws_path_1_entry_value.replace("s3://adgravity/", "")
 
         json_data[index]['aws_path_1'] = aws_path_1_entry_value
@@ -229,7 +202,7 @@ def show_object_window(json_data, index=0):
     aws_path_2_lbl.pack(pady=5)
     
     aws_path_2_entry = tk.Entry(object_window, width=60, bg=DARK_GREEN, fg=TEXT_COLOR)
-    if link_type.get() == "iframe":  # Si el tipo de link es 'iframe', autocompleta el valor.
+    if link_type.get() == "iframe":
         aws_path_2_entry.insert(0, "/index.html")
     aws_path_2_entry.pack(pady=10)
 
@@ -283,126 +256,81 @@ def ejecutar_script(script_name):
     except Exception as e:
         messagebox.showerror("Error", f"Error al ejecutar {script_name}: {e}")
 
-def open_test_html():
-    # Construir la ruta absoluta al archivo
-    file_path = os.path.abspath(os.path.join('app', 'HTML', 'test.html'))
-    
-    # Imprimir la ruta para depuración
-    print(f"Ruta absoluta al archivo test.html: {file_path}")
-
-    # Verificar si el archivo existe
-    if not os.path.exists(file_path):
-        print("El archivo test.html no existe en la ruta proporcionada.")
-        messagebox.showerror("Error", "El archivo test.html no se encuentra.")
-        return
-
-    # Formatear la ruta del archivo para la URL
-    formatted_path = file_path.replace("\\", "/") if os.name == 'nt' else file_path
-
-    # Crear la URL
-    url = f'file:///{formatted_path}'
-
-    # Intentar abrir el archivo en el navegador
-    webbrowser.open(url)
-
-def open_json_with_vscode():
-    json_file_path = os.path.abspath(os.path.join('app', 'INPUT_JSON', 'input.json'))
-    try:
-        # Ruta al ejecutable de VSCode
-        vscode_path = r"C:\Users\usuario\AppData\Local\Programs\Microsoft VS Code\Code.exe"
-
-        # Ejecutar VSCode con el archivo JSON
-        subprocess.run([vscode_path, json_file_path], check=True)
-    except subprocess.CalledProcessError as e:
-        messagebox.showerror("Error", f"No se pudo abrir el archivo: {e}")
-    except Exception as e:
-        messagebox.showerror("Error", f"Ocurrió un error: {e}")
-
 csv_generated = False
-iframe_detected = False  # Variable para detectar si se ha detectado un iframe en la consola
+iframe_detected = False  
 
 def ejecutar_img_aws_bulk():
-    global last_execution_time  # Declarar variable global
+    global last_execution_time  
     global csv_generated
-    global iframe_detected  # Declarar variable global
+    global iframe_detected 
     try:
-        script_path = os.path.join("app", "__IMG_aws_Bulk_v08.pyw")
-        output_text.delete(1.0, tk.END)  # Borrar el contenido anterior
-        app.update_idletasks()  # Actualizar la GUI para mostrar el mensaje antes de iniciar el proceso
+        output_text.delete(1.0, tk.END) 
+        output_text.insert(tk.END, "Procesando...")
 
-        # Cambiar el nombre de la carpeta "compartir" a "COMPARTIR"
+        script_path = os.path.join("app", "__IMG_aws_Bulk_v08.pyw")
+        app.update_idletasks() 
+
         comparti_folder_path = os.path.join("app", "COMPARTIR")
         os.makedirs(comparti_folder_path, exist_ok=True)
 
-        # Abrir el proceso con pythonw para evitar la ventana de consola y redirigir la salida estándar y la salida de error al widget de texto en el marco
         process = subprocess.Popen(["pythonw", script_path], stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True, universal_newlines=True)
 
-        xlsx_created = False  # Bandera para verificar si los archivos XLSX se crearon con éxito
+        xlsx_created = False
 
-        # Leer y mostrar la salida estándar en el widget de texto en el marco
         while True:
             line = process.stdout.readline()
             if not line:
                 break
             output_text.insert(tk.END, line)
-            output_text.see(tk.END)  # Desplazarse hacia abajo automáticamente
+            output_text.see(tk.END) 
             if "XLSX files have been created successfully!!!" in line:
-                xlsx_created = True  # Establecer la bandera en True si se encuentra el mensaje de éxito
+                xlsx_created = True 
             if '<iframe' in line:
-                iframe_detected = True  # Establecer la bandera en True si se detecta un iframe en la consola
+                iframe_detected = True 
         process.stdout.close()
 
-        # Leer y mostrar la salida de error en el widget de texto en el marco
         while True:
             line = process.stderr.readline()
             if not line:
                 break
             output_text.insert(tk.END, line)
-            output_text.see(tk.END)  # Desplazarse hacia abajo automáticamente
+            output_text.see(tk.END) 
         process.stderr.close()
 
-        last_execution_time = time.time()  # Actualizar el tiempo de la última ejecución
+        last_execution_time = time.time() 
 
-        # Habilitar el botón "Generar CSV" si los archivos XLSX se crearon con éxito
         if xlsx_created:
-            app.update()  # Forzar la actualización de la interfaz de usuario
-            generar_csv_btn.config(state=tk.NORMAL)  # Habilitar el botón "Generar CSV"
+            app.update() 
+            generar_csv_btn.config(state=tk.NORMAL) 
             csv_generated = True
         else:
-            generar_csv_btn.config(state=tk.DISABLED)  # Deshabilitar el botón "Generar CSV" en caso de fallo
+            generar_csv_btn.config(state=tk.DISABLED) 
     except Exception as e:
         messagebox.showerror("Error", f"Error al ejecutar el script: {e}")
-        generar_csv_btn.config(state=tk.DISABLED)  # Deshabi
+        generar_csv_btn.config(state=tk.DISABLED) 
 
 
 def generar_csv():
-    global csv_generated  # Declarar la variable global
+    global csv_generated
     try:
         if csv_generated:
-            # Obtener el texto en el widget de salida
             output_text_content = output_text.get("1.0", tk.END)
 
             if '<iframe' in output_text_content:
-                # Si se detecta un <iframe> en el texto, copiar el archivo 360_ENC_file.csv
                 src_csv_filename = "360_ENC_file.csv"
                 success_msg = f"Se va a generar el archivo {src_csv_filename} para creatividades tipo <iframe>."
             else:
-                # Si no se detecta un <iframe>, copiar el archivo 360_file.csv
                 src_csv_filename = "360_file.csv"
                 success_msg = f"Se va a generar el archivo {src_csv_filename} para creatividades tipo <a>."
 
-            # Ventana emergente de éxito
             success_result = messagebox.askquestion("Éxito", success_msg + "\n¿Desea generar el archivo y abrir la carpeta ahora?")
 
             if success_result == "yes":
-                # Establecer la ruta del archivo CSV en función del archivo seleccionado
                 src_csv_path = os.path.join("app", src_csv_filename)
 
-                # Carpeta de destino (en mayúsculas)
                 compartir_folder_path = os.path.join("app", "COMPARTIR")
                 os.makedirs(compartir_folder_path, exist_ok=True)
 
-                # Verificar si existe el archivo correspondiente en la carpeta de "COMPARTIR" y eliminarlo si es necesario
                 if src_csv_filename == "360_ENC_file.csv":
                     dest_csv_filename = "360_file.csv"
                 else:
@@ -412,19 +340,13 @@ def generar_csv():
                 if os.path.exists(dest_csv_path):
                     os.remove(dest_csv_path)
 
-                # Copiar el archivo CSV a la carpeta "COMPARTIR"
                 dest_csv_path = os.path.join(compartir_folder_path, src_csv_filename)
                 shutil.copyfile(src_csv_path, dest_csv_path)
 
-                # Abrir la carpeta de "COMPARTIR" en el explorador de archivos
                 os.startfile(compartir_folder_path)
 
     except Exception as e:
         messagebox.showerror("Error", f"Error al generar los archivos CSV: {e}")
-
-
-
-
 
 
 app = tk.Tk()
@@ -437,7 +359,7 @@ frame = tk.Frame(app, bg=DARK_GREEN)
 frame.pack(padx=10, pady=10)
 
 output_text = tk.Text(frame, wrap=tk.WORD, bg=LIGHT_GREEN, fg=TEXT_COLOR)
-output_text.grid(row=3, column=0, columnspan=4, pady=10)
+output_text.grid(row=4, column=0, columnspan=4, pady=10)
 
 btn_img_aws_bulk = tk.Button(frame, text="Ejecutar BULK", command=ejecutar_img_aws_bulk, 
                              bg=LIGHT_GREEN, fg=TEXT_COLOR, 
@@ -447,23 +369,28 @@ btn_img_aws_bulk.grid(row=0, column=0, padx=10)
 
 
 btn_show_input = tk.Button(frame, text="Introducir datos", command=show_input_window, bg=LIGHT_GREEN, fg=TEXT_COLOR)
-btn_show_input.grid(row=0, column=2, columnspan=4, padx=10)
+btn_show_input.grid(row=0, column=3, columnspan=4, padx=10)
 
 time_label = tk.Label(frame, text="", bg=DARK_GREEN, fg=TEXT_COLOR)
 time_label.grid(row=1, column=0)
 
 open_folder_btn = tk.Button(frame, text="Carpeta de archivos", command=open_folder, bg=LIGHT_GREEN, fg=TEXT_COLOR)
-open_folder_btn.grid(row=2, column=2, columnspan=4, pady=10)
+open_folder_btn.grid(row=2, column=3, columnspan=4, pady=10)
 
 open_html_btn = tk.Button(frame, text="test.html", command=open_test_html, bg=LIGHT_GREEN, fg=TEXT_COLOR)
 open_html_btn.grid(row=0, column=0, columnspan=4, pady=10)
 
 open_json_btn = tk.Button(frame, text="Abrir JSON", command=open_json_with_vscode, bg=LIGHT_GREEN, fg=TEXT_COLOR)
-open_json_btn.grid(row=1, column=2, columnspan=4, pady=10)
+open_json_btn.grid(row=1, column=3, columnspan=4, pady=10)
 
 generar_csv_btn = tk.Button(frame, text="Generar CSV 360", command=generar_csv, bg=LIGHT_GREEN, fg=TEXT_COLOR)
-generar_csv_btn.grid(row=0, column=1, padx=10)
-generar_csv_btn.config(state=tk.DISABLED)  # Deshabilitar el botón "Generar CSV" al inicio
+generar_csv_btn.grid(row=0, column=2, padx=10)
+generar_csv_btn.config(state=tk.DISABLED) 
+
+btn_process_json = tk.Button(frame, text="JSON Civitatis", command=process_json, 
+                             bg=LIGHT_GREEN, fg=TEXT_COLOR)
+btn_process_json.grid(row=3, column=3, columnspan=4, pady=10)
+
 
 
 update_timer()

@@ -1,7 +1,3 @@
-#!/usr/bin/env python3
-# Copyright 2009-2017 BHG http://bw.org/
-
-
 import os
 import re
 import json
@@ -644,7 +640,7 @@ class IMG_aws_TAG_Bulk:
         401: "Unauthorized",
         402: "Payment Required",
         404: "Page Not Found",
-        403: "No esta actualizado/publicado/encontrado en s3",
+        # 403: "No esta actualizado/publicado/encontrado en s3", se gestiona con if "globales.com" in url
         405: "Method Not Allowed",
         406: "No Such",
         407: "No Such Model",
@@ -682,6 +678,12 @@ class IMG_aws_TAG_Bulk:
         511: "Network Authentication Required",
         
     }
+        
+        if "globales.com" in url:
+            error_code[403] = "Desactivado para globales.com"
+        else:
+            error_code[403] = "No esta actualizado/publicado/encontrado en s3"
+
         try:
             response = requests.get(url)
             if response.status_code in error_code:
@@ -700,19 +702,22 @@ class IMG_aws_TAG_Bulk:
             tc = str(tcs[0])
         else:
             tc = ""
-        
+    
         if type == "link" and href.lower() == "only_tc":
             return '&link=' + tc
         else:
             tc_param = "tc_alt=" if type != "view" and tc else ""
+            # utm partner de globales
+            partner = "&partner=9894" if "globales.com" in href else ""
             tc = tc_param + tc
             if utm_size and tc:
                 utm_size += "&"
             param = '&link=' if type == "link" else ""
             url_complete = param + href + url_param_sep + utm_size + tc
             # print(url_complete)
-            
-            return param + href + url_param_sep + utm_size + tc
+    
+            return url_complete + partner
+
 
     # cache_and_clicktag()
     def cache_and_clicktag(self, tag, dsp, url):
@@ -723,7 +728,7 @@ class IMG_aws_TAG_Bulk:
             "TTD_ESC"  : {"CB": r"%%TTD_CACHEBUSTER%%", "Clk": r"%%TTD_CLK_ESC%%"},
             "ZEM_ENC"  : {"CB": r"{CACHEBUSTER}", "Clk": r"{CLICK_URL_ENC}"},
             "QCT_ESC"  : {"CB": r"[CACHEBUSTER]", "Clk": r"${CLICKESC}"},
-            "STACK_ENC": {"CB": r"[CACHEBUSTER]", "Clk": r"${SA_CLICK_URL_ENC}"},
+            "STACK_ENC": {"CB": r"[CACHEBUSTER]", "Clk": r"{SA_CLICK_URL_ENC}"},
             "ADF": {"CB": r"%%ADFRND%%", "Clk": r"%%c1;cpdir="},
 
             "360"  : {"CB": r"${CACHEBUSTER}", "Clk": r"${CLICK_URL}"},
@@ -731,7 +736,7 @@ class IMG_aws_TAG_Bulk:
             "RKT"  : {"CB": r"{timestamp}", "Clk": r"{scriptclickprefix}"},
             "QCT"  : {"CB": r"[CACHEBUSTER]", "Clk": r"${CLICK}"},
             "ZEM"  : {"CB": r"{CACHEBUSTER}", "Clk": r"{CLICK_URL}"},
-            "STACK": {"CB": r"[CACHEBUSTER]", "Clk": r"${SA_CLICK_URL}"},
+            "STACK": {"CB": r"[CACHEBUSTER]", "Clk": r"{SA_CLICK_URL}"},
 
             # "APN_ENC": {"CB": r"${CACHEBUSTER}", "Clk": r"${CLICK_URL_ENC}"},
             # "APN": {"CB": r"${CACHEBUSTER}", "Clk": r"${CLICK_URL}"},
@@ -959,4 +964,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
