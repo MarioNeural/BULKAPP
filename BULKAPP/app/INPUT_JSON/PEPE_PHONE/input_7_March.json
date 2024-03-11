@@ -1,0 +1,12 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": [],
+        "name": "preview",
+        "landing": "https://www.pepephone.com/",
+        "aws_path_1": "PEPE_PHONE/2024/03/3dcard/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.pepephone.com/"
+    }
+]

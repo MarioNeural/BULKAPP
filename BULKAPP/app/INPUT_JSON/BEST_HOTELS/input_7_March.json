@@ -1,0 +1,46 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "728x90", "970x250"],
+        "tcs": ["125082", "125083", "125084", "125085", "125086", "125087"],
+        "name": "best-us_v1mp_SERENADE-USA-CAN_dis_prs-1_SERENADE-24",
+        "landing": "https://www.serenadepuntacana.com/",
+        "aws_path_1": "BEST_HOTELS/2024/03/serenade/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.serenadepuntacana.com/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=serenade-usa-can&utm_content=serenade",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_best-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "728x90", "970x250"],
+        "tcs": ["125088", "125089", "125090", "125091", "125092", "125093"],
+        "name": "best-us_v1mp_SERENADE-USA-CAN_dis_rtg-1_SERENADE-24",
+        "landing": "https://www.serenadepuntacana.com/",
+        "aws_path_1": "BEST_HOTELS/2024/03/serenade/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.serenadepuntacana.com/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=serenade-usa-can&utm_content=serenade",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_best-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "728x90", "970x250"],
+        "tcs": ["125094", "125095", "125096", "125097", "125098", "125099"],
+        "name": "best-us_v1mp_SERENADE-USA-CAN_dis_prs-1_ALLSUITS-24",
+        "landing": "https://www.serenadeallsuites.com/",
+        "aws_path_1": "BEST_HOTELS/2024/03/all_suites/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.serenadeallsuites.com/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=serenade-usa-can&utm_content=allsuits",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_best-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "728x90", "970x250"],
+        "tcs": ["125100", "125101", "125102", "125103", "125104", "125105"],
+        "name": "best-us_v1mp_SERENADE-USA-CAN_dis_rtg-1_ALLSUITS-24",
+        "landing": "https://www.serenadeallsuites.com/",
+        "aws_path_1": "BEST_HOTELS/2024/03/all_suites/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.serenadeallsuites.com/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=serenade-usa-can&utm_content=allsuits",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_best-hotels-es_np_"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "type": "link",
+        "sizes": ["120x600"],
+        "tcs": ["122510"],
+        "name": "civitatis-es_adg_AO_dis_rtg-1_AWARENESS-TREND-BERLIN",
+        "landing": "https://www.civitatis.com/es/berlin",
+        "aws_path_1": "CIVITATIS/2024/02/piezas_trend/es/berlin/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/berlin?aid=108&cmp=es_ES&cmpint=adg_es_BERLIN_120x600&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=awarenes&utm_term=trend&utm_content=BERLIN",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": ["120x600", "160x600", "300x250", "300x600", "468x60", "728x90"],
+        "tcs": ["122511", "122516", "122521", "122526", "122531", "122536"],
+        "name": "civitatis-es_adg_AO_dis_prs-1_AWARENESS-TREND-DUBLIN",
+        "landing": "https://www.civitatis.com/es/dublin",
+        "aws_path_1": "CIVITATIS/2024/02/piezas_trend/es/dublin/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/dublin?aid=108&cmp=es_ES&cmpint=adg_es_DUBLIN_120x600&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awarenes&utm_term=trend&utm_content=DUBLIN",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": ["120x600", "160x600", "300x250", "300x600", "468x60", "728x90"],
+        "tcs": ["122512", "122517", "122522", "122527", "122532", "122537"],
+        "name": "civitatis-es_adg_AO_dis_prs-1_AWARENESS-TREND-GRANADA",
+        "landing": "https://www.civitatis.com/es/granada",
+        "aws_path_1": "CIVITATIS/2024/02/piezas_trend/es/granada/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/granada?aid=108&cmp=es_ES&cmpint=adg_es_GRANADA_120x600&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awarenes&utm_term=trend&utm_content=GRANADA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": ["120x600", "160x600", "300x250", "300x600", "468x60", "728x90"],
+        "tcs": ["122513", "122518", "122523", "122528", "122533", "122538"],
+        "name": "civitatis-es_adg_AO_dis_prs-1_AWARENESS-TREND-MADRID",
+        "landing": "https://www.civitatis.com/es/madrid",
+        "aws_path_1": "CIVITATIS/2024/02/piezas_trend/es/madrid/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/madrid?aid=108&cmp=es_ES&cmpint=adg_es_MADRID_120x600&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awarenes&utm_term=trend&utm_content=MADRID",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": ["120x600", "160x600", "300x250", "300x600", "468x60", "728x90"],
+        "tcs": ["122514", "122519", "122524", "122529", "122534", "122539"],
+        "name": "civitatis-es_adg_AO_dis_prs-1_AWARENESS-TREND-VENECIA",
+        "landing": "https://www.civitatis.com/es/venecia",
+        "aws_path_1": "CIVITATIS/2024/02/piezas_trend/es/venecia/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/venecia?aid=108&cmp=es_ES&cmpint=adg_es_VENECIA_120x600&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awarenes&utm_term=trend&utm_content=VENECIA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": ["160x600", "300x250", "300x600", "468x60", "728x90"],
+        "tcs": ["122515", "122520", "122525", "122530", "122535"],
+        "name": "civitatis-es_adg_AO_dis_prs-1_AWARENESS-TREND-BERLIN",
+        "landing": "https://www.civitatis.com/es/berlin",
+        "aws_path_1": "CIVITATIS/2024/02/piezas_trend/es/berlin/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/berlin?aid=108&cmp=es_ES&cmpint=adg_es_BERLIN_160x600&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awarenes&utm_term=trend&utm_content=BERLIN",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    }
+]

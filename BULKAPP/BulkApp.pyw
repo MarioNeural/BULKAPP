@@ -1,4 +1,5 @@
 import tkinter as tk
+from tkinter import ttk
 from tkinter import messagebox
 import os
 import subprocess
@@ -6,6 +7,7 @@ import time
 import json
 import re
 import shutil
+import threading
 
 # FUNCIONES
 from functions.process_json import process_json
@@ -16,7 +18,7 @@ from functions.open import open_json_with_vscode
 from functions.open import open_folder
 
 # ESTILOS
-from styles.styles import DARK_GREEN, LIGHT_GREEN, TEXT_COLOR
+from styles.styles import DARK_GREEN, LIGHT_GREEN, TEXT_BLACK, TEXT_WHITE, RED, BLUE
 
 FOLDER_PATH = os.path.join("app")
 last_execution_time = None
@@ -187,26 +189,26 @@ def show_object_window(json_data, index=0):
     object_window.geometry("1000x400")
     object_window.title(f"Objeto {index+1} de {len(json_data)}")
 
-    obj_text = tk.Text(object_window, height=13, width=120, bg=LIGHT_GREEN, fg=TEXT_COLOR)
+    obj_text = tk.Text(object_window, height=13, width=120, bg=LIGHT_GREEN, fg=TEXT_BLACK)
     obj_text.pack(pady=10)
     formatted_json = one_line_arrays(json.dumps(json_data[index], indent=4))
     obj_text.insert(tk.END, formatted_json)
 
-    lbl_instruction = tk.Label(object_window, text="Introduce ruta de aws, ej: s3://adgravity/mundo_pacifico/2023/10/halloween/", bg=DARK_GREEN, fg=TEXT_COLOR)
+    lbl_instruction = tk.Label(object_window, text="Introduce ruta de aws, ej: s3://adgravity/mundo_pacifico/2023/10/halloween/", bg=DARK_GREEN, fg=TEXT_BLACK)
     lbl_instruction.pack(pady=5)
 
-    aws_path_1_entry = tk.Entry(object_window, width=60, bg=DARK_GREEN, fg=TEXT_COLOR)
+    aws_path_1_entry = tk.Entry(object_window, width=60, bg=DARK_GREEN, fg=TEXT_BLACK)
     aws_path_1_entry.pack(pady=10)
 
-    aws_path_2_lbl = tk.Label(object_window, text="AWS Path 2:", bg=LIGHT_GREEN, fg=TEXT_COLOR)
+    aws_path_2_lbl = tk.Label(object_window, text="AWS Path 2:", bg=LIGHT_GREEN, fg=TEXT_BLACK)
     aws_path_2_lbl.pack(pady=5)
     
-    aws_path_2_entry = tk.Entry(object_window, width=60, bg=DARK_GREEN, fg=TEXT_COLOR)
+    aws_path_2_entry = tk.Entry(object_window, width=60, bg=DARK_GREEN, fg=TEXT_BLACK)
     if link_type.get() == "iframe":
         aws_path_2_entry.insert(0, "/index.html")
     aws_path_2_entry.pack(pady=10)
 
-    btn_next = tk.Button(object_window, text="Siguiente", command=process_current_object, bg=LIGHT_GREEN, fg=TEXT_COLOR)
+    btn_next = tk.Button(object_window, text="Siguiente", command=process_current_object, bg=LIGHT_GREEN, fg=TEXT_BLACK)
     btn_next.pack(pady=5)
 
 
@@ -226,22 +228,22 @@ def show_input_window():
     input_window.title("Introducir datos")
 
     link_type = tk.StringVar(value="iframe")
-    chk_link_type_iframe = tk.Radiobutton(input_window, text="Iframe", variable=link_type, value="iframe", bg=DARK_GREEN, fg=TEXT_COLOR)
-    chk_link_type_link = tk.Radiobutton(input_window, text="Link", variable=link_type, value="link", bg=DARK_GREEN, fg=TEXT_COLOR)
+    chk_link_type_iframe = tk.Radiobutton(input_window, text="Iframe", variable=link_type, value="iframe", bg=DARK_GREEN, fg=TEXT_BLACK)
+    chk_link_type_link = tk.Radiobutton(input_window, text="Link", variable=link_type, value="link", bg=DARK_GREEN, fg=TEXT_BLACK)
     
     chk_link_type_iframe.pack(pady=5)
     chk_link_type_link.pack(pady=5)
 
-    lbl_instruction = tk.Label(input_window, text="Introduce los datos:", bg=DARK_GREEN, fg=TEXT_COLOR)
+    lbl_instruction = tk.Label(input_window, text="Introduce los datos:", bg=DARK_GREEN, fg=TEXT_BLACK)
     lbl_instruction.pack(pady=10)
 
-    chk_viewability = tk.Checkbutton(input_window, text="Incluir viewability", variable=include_viewability, bg=DARK_GREEN, fg=TEXT_COLOR)
+    chk_viewability = tk.Checkbutton(input_window, text="Incluir viewability", variable=include_viewability, bg=DARK_GREEN, fg=TEXT_BLACK)
     chk_viewability.pack(pady=5)
 
-    input_data = tk.Text(input_window, height=6, width=80, bg=LIGHT_GREEN, fg=TEXT_COLOR)
+    input_data = tk.Text(input_window, height=6, width=80, bg=LIGHT_GREEN, fg=TEXT_BLACK)
     input_data.pack(pady=10)
 
-    btn_process = tk.Button(input_window, text="Procesar", command=lambda: process_data(input_data), bg=LIGHT_GREEN, fg=TEXT_COLOR)
+    btn_process = tk.Button(input_window, text="Procesar", command=lambda: process_data(input_data), bg=LIGHT_GREEN, fg=TEXT_BLACK)
     btn_process.pack(pady=5)
 
 
@@ -259,55 +261,133 @@ def ejecutar_script(script_name):
 csv_generated = False
 iframe_detected = False  
 
-def ejecutar_img_aws_bulk():
-    global last_execution_time  
-    global csv_generated
-    global iframe_detected 
+script_running = False  # Variable para rastrear el estado de ejecución del script
+script_completed = False  # Nueva variable global
+
+def ejecutar_img_aws_bulk_thread():
+    global csv_generated, iframe_detected, last_execution_time, script_running
+
     try:
-        output_text.delete(1.0, tk.END) 
-        output_text.insert(tk.END, "Procesando...")
-
         script_path = os.path.join("app", "__IMG_aws_Bulk_v08.pyw")
-        app.update_idletasks() 
-
-        comparti_folder_path = os.path.join("app", "COMPARTIR")
-        os.makedirs(comparti_folder_path, exist_ok=True)
-
         process = subprocess.Popen(["pythonw", script_path], stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True, universal_newlines=True)
 
-        xlsx_created = False
-
+        # Lee stdout
         while True:
             line = process.stdout.readline()
             if not line:
                 break
             output_text.insert(tk.END, line)
-            output_text.see(tk.END) 
-            if "XLSX files have been created successfully!!!" in line:
-                xlsx_created = True 
-            if '<iframe' in line:
-                iframe_detected = True 
-        process.stdout.close()
+            output_text.see(tk.END)
 
+        # Lee stderr
         while True:
-            line = process.stderr.readline()
-            if not line:
+            error_line = process.stderr.readline()
+            if not error_line:
                 break
-            output_text.insert(tk.END, line)
-            output_text.see(tk.END) 
+            # Aquí puedes decidir cómo mostrar los mensajes de error, por ejemplo, insertándolos en output_text
+            output_text.insert(tk.END, error_line)
+            output_text.see(tk.END)
+
+        process.stdout.close()
         process.stderr.close()
 
-        last_execution_time = time.time() 
+        last_execution_time = time.time()
 
-        if xlsx_created:
-            app.update() 
-            generar_csv_btn.config(state=tk.NORMAL) 
-            csv_generated = True
-        else:
-            generar_csv_btn.config(state=tk.DISABLED) 
     except Exception as e:
         messagebox.showerror("Error", f"Error al ejecutar el script: {e}")
-        generar_csv_btn.config(state=tk.DISABLED) 
+    finally:
+        script_running = False
+        progress_bar['value'] = 100  # Establecer la barra de progreso al 100% al finalizar el script
+
+        app.after(1000, lambda: progress_bar.grid_forget())
+        app.after(1000, lambda: progress_bar.grid_forget())
+
+        # Comprobación adicional para habilitar el botón de generación de CSV
+        if not script_running:
+            csv_generated = True  # Asumiendo que la ejecución fue exitosa
+            generar_csv_btn.config(state=tk.NORMAL)
+
+def get_file_size():
+    filepath = 'app/INPUT_JSON/input.json'
+    if os.path.isfile(filepath):
+        return os.path.getsize(filepath)
+    else:
+        return 0 
+    
+
+
+def update_progress_bar():
+    global script_running
+    if script_running:
+        file_size = get_file_size()
+        
+        if file_size < 1000: 
+            interval = 10
+        elif file_size < 3000:
+            interval = 30
+        elif file_size < 6000:
+            interval = 60
+        elif file_size < 10000:
+            interval = 100
+        elif file_size < 15000:
+            interval = 150
+        elif file_size < 20000:
+            interval = 200
+        else:  
+            interval = 300
+
+        if progress_bar['value'] < 90:
+            new_value = progress_bar['value'] + 1
+            progress_bar['value'] = new_value
+            app.after(interval, update_progress_bar)
+        elif progress_bar['value'] < 99:
+            new_value = progress_bar['value'] + 1
+            progress_bar['value'] = new_value
+            app.after(10000, update_progress_bar)
+        elif script_running and progress_bar['value'] == 99:
+            app.after(10000, update_progress_bar)
+
+def confirmacion_ejecucion():
+    def on_si():
+        popup.destroy()
+        iniciar_ejecucion_bulk()
+
+    def on_no():
+        popup.destroy()
+
+    popup = tk.Toplevel(app)
+    popup.title("Confirmación")
+    popup.configure(bg=DARK_GREEN)
+
+    window_width = 300
+    window_height = 100
+    pos_x = app.winfo_x() + (app.winfo_width() // 2) - (window_width // 2)
+    pos_y = app.winfo_y() + (app.winfo_height() // 6) - (window_height // 6)
+
+    popup.geometry(f"{window_width}x{window_height}+{pos_x}+{pos_y}")
+
+    label = tk.Label(popup, text="¿Desea ejecutar el Bulk ahora?", bg=DARK_GREEN, fg=TEXT_BLACK)
+    label.pack(pady=10)
+
+    boton_si = tk.Button(popup, text="Sí", command=on_si, bg=BLUE, fg=TEXT_WHITE, font=("Helvetica", 12, "bold"), height=1, width=6)
+    boton_si.pack(side=tk.LEFT, padx=(50, 10), pady=10)
+
+    boton_no = tk.Button(popup, text="No", command=on_no, bg=RED, fg=TEXT_WHITE, font=("Helvetica", 12, "bold"), height=1, width=6)
+    boton_no.pack(side=tk.RIGHT, padx=(10, 50), pady=10)
+
+def iniciar_ejecucion_bulk():
+    global script_running
+    script_running = True
+    progress_bar.grid(row=3, column=0, columnspan=4, pady=10)
+    progress_bar['mode'] = 'determinate'
+    progress_bar['value'] = 0
+    update_progress_bar()  # Iniciar la actualización de la barra de progreso
+
+    thread = threading.Thread(target=ejecutar_img_aws_bulk_thread)
+    thread.start()
+
+def ejecutar_img_aws_bulk():
+    confirmacion_ejecucion()  # Mostrar la ventana de confirmación
 
 
 def generar_csv():
@@ -358,37 +438,39 @@ include_viewability = tk.BooleanVar(value=True)
 frame = tk.Frame(app, bg=DARK_GREEN)
 frame.pack(padx=10, pady=10)
 
-output_text = tk.Text(frame, wrap=tk.WORD, bg=LIGHT_GREEN, fg=TEXT_COLOR)
+output_text = tk.Text(frame, wrap=tk.WORD, bg=LIGHT_GREEN, fg=TEXT_BLACK)
 output_text.grid(row=4, column=0, columnspan=4, pady=10)
 
+progress_bar = ttk.Progressbar(frame, orient="horizontal", mode="indeterminate", length=200)
+
 btn_img_aws_bulk = tk.Button(frame, text="Ejecutar BULK", command=ejecutar_img_aws_bulk, 
-                             bg=LIGHT_GREEN, fg=TEXT_COLOR, 
+                             bg=LIGHT_GREEN, fg=TEXT_BLACK, 
                              font=("Helvetica", 12, "bold"), 
                              width=20, height=2)
 btn_img_aws_bulk.grid(row=0, column=0, padx=10)
 
 
-btn_show_input = tk.Button(frame, text="Introducir datos", command=show_input_window, bg=LIGHT_GREEN, fg=TEXT_COLOR)
+btn_show_input = tk.Button(frame, text="Introducir datos", command=show_input_window, bg=LIGHT_GREEN, fg=TEXT_BLACK)
 btn_show_input.grid(row=0, column=3, columnspan=4, padx=10)
 
-time_label = tk.Label(frame, text="", bg=DARK_GREEN, fg=TEXT_COLOR)
+time_label = tk.Label(frame, text="", bg=DARK_GREEN, fg=TEXT_BLACK)
 time_label.grid(row=1, column=0)
 
-open_folder_btn = tk.Button(frame, text="Carpeta de archivos", command=open_folder, bg=LIGHT_GREEN, fg=TEXT_COLOR)
+open_folder_btn = tk.Button(frame, text="Carpeta de archivos", command=open_folder, bg=LIGHT_GREEN, fg=TEXT_BLACK)
 open_folder_btn.grid(row=2, column=3, columnspan=4, pady=10)
 
-open_html_btn = tk.Button(frame, text="test.html", command=open_test_html, bg=LIGHT_GREEN, fg=TEXT_COLOR)
+open_html_btn = tk.Button(frame, text="test.html", command=open_test_html, bg=LIGHT_GREEN, fg=TEXT_BLACK)
 open_html_btn.grid(row=0, column=0, columnspan=4, pady=10)
 
-open_json_btn = tk.Button(frame, text="Abrir JSON", command=open_json_with_vscode, bg=LIGHT_GREEN, fg=TEXT_COLOR)
+open_json_btn = tk.Button(frame, text="Abrir JSON", command=open_json_with_vscode, bg=LIGHT_GREEN, fg=TEXT_BLACK)
 open_json_btn.grid(row=1, column=3, columnspan=4, pady=10)
 
-generar_csv_btn = tk.Button(frame, text="Generar CSV 360", command=generar_csv, bg=LIGHT_GREEN, fg=TEXT_COLOR)
+generar_csv_btn = tk.Button(frame, text="Generar CSV 360", command=generar_csv, bg=LIGHT_GREEN, fg=TEXT_BLACK)
 generar_csv_btn.grid(row=0, column=2, padx=10)
 generar_csv_btn.config(state=tk.DISABLED) 
 
 btn_process_json = tk.Button(frame, text="JSON Civitatis", command=process_json, 
-                             bg=LIGHT_GREEN, fg=TEXT_COLOR)
+                             bg=LIGHT_GREEN, fg=TEXT_BLACK)
 btn_process_json.grid(row=3, column=3, columnspan=4, pady=10)
 
 

@@ -1,0 +1,14 @@
+[
+    {
+        "type": "link",
+        "sizes": ["970x250", "300x600", "300x250", "160x600", "320x50"],
+        "tcs": ["125011", "125012", "125013", "125014", "125015"],
+        "name": "petit-celler-es_imp_ALWAYS-ON_dis_prs-1_DESTACADOS-MARZO",
+        "landing": "https://www.petitceller.com/es/ofertas",
+        "aws_path_1": "PETIT_CELLER/2024/03/destacados/",
+        "aws_path_2": ".jpg",
+        "url": "https://www.petitceller.com/es/ofertas?utm_source=programatica&utm_medium=display&utm_campaign=always-on&utm_term=DESTACADOS-MARZO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_excelsia-es_np_",
+        "add_utm_size": "utm_content="
+    }
+]

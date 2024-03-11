@@ -1,0 +1,26 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "728x90", "970x250"],
+        "tcs": ["125054", "125055", "125056", "125057", "125058", "125059"],
+        "name": "amresorts-es_v1mp_AO-ALUA_dis_prs-1_SEMANA_SANTA24_TEST",
+        "landing": "https://www.hyattinclusivecollection.com/es/resorts-y-hoteles/alua-hotels/",
+        "aws_path_1": "AM_RESORTS/2024/03/test/alua/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hyattinclusivecollection.com/es/resorts-y-hoteles/alua-hotels/?utm_source=v1mp&utm_medium=Programmatic&utm_campaign=AO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "728x90", "970x250"],
+        "tcs": ["125060", "125061", "125062", "125063", "125064", "125065"],
+        "name": "amresorts-gb_v1mp_AO-DREAMS_dis_prs-1_SEMANA_SANTA24_TEST",
+        "landing": "https://www.hyattinclusivecollection.com/en/resorts-hotels/dreams/",
+        "aws_path_1": "AM_RESORTS/2024/03/test/dreams/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hyattinclusivecollection.com/en/resorts-hotels/dreams/?utm_source=v1mp&utm_medium=Programmatic&utm_campaign=AO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    }
+]

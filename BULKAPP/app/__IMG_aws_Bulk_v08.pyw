@@ -951,16 +951,8 @@ def main():
             print(f"- ... Extension not recognized on file: {f}")
     print("-----------")
 
-    # Verifica si se debe ejecutar el código
-    run_code = ask_to_run_code()
-    if run_code.lower() == "y":
-        # Verificar 'name' en 'viewability' para cada archivo JSON
-        for file in files:
-            with open(os.path.join(INPUT_JSON_PATH, file), 'r') as json_file:
-                json_str = json_file.read()
-
-        # Procesamiento principal
-        IMG_aws_TAG_Bulk(files)
+    # Procesamiento principal
+    IMG_aws_TAG_Bulk(files)
 
 if __name__ == '__main__':
     main()

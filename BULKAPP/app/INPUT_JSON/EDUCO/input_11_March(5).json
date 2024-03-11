@@ -1,0 +1,13 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "728x90", "970x250"],
+        "tcs": ["125284", "125285", "125286", "125287", "125288", "125289"],
+        "name": "educo-es_adg_SOCIOS_dis_rtg-1_GEN",
+        "landing": "https://www.educo.org/Hazte-socio",
+        "aws_path_1": "EDUCO/2023/02/socios/prs/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.educo.org/Hazte-socio?utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=socios",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_educo-es_np_"
+    }
+]

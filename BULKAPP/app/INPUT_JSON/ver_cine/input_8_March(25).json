@@ -1,0 +1,46 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["125219", "125224"],
+        "name": "la-zona-es_adg_EL-ULTIMO-BAILE_dis-p20_prs-1_GEN",
+        "landing": "https://www.youtube.com/watch?v=4dgbyVayQc0",
+        "aws_path_1": "ver_cine/2024/02/nuestro_ultimo_baile/preroll/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.youtube.com/watch?v=4dgbyVayQc0&utm_source=adg&utm_medium=dis-p20-prs-1&utm_campaign=el-ultimo-baile",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_adg-ver-cine_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["125219", "125224"],
+        "name": "la-zona-es_adg_EL-ULTIMO-BAILE_dis-p20_prs-1_GEN",
+        "landing": "https://www.youtube.com/watch?v=4dgbyVayQc0",
+        "aws_path_1": "ver_cine/2024/02/nuestro_ultimo_baile/preroll/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.youtube.com/watch?v=4dgbyVayQc0&utm_source=adg&utm_medium=dis-p20-prs-1&utm_campaign=el-ultimo-baile",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_adg-ver-cine_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["125219", "125224"],
+        "name": "la-zona-es_adg_EL-ULTIMO-BAILE_dis-p20_prs-1_GEN",
+        "landing": "https://www.youtube.com/watch?v=4dgbyVayQc0",
+        "aws_path_1": "ver_cine/2024/02/nuestro_ultimo_baile/preroll/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.youtube.com/watch?v=4dgbyVayQc0&utm_source=adg&utm_medium=dis-p20-prs-1&utm_campaign=el-ultimo-baile",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_adg-ver-cine_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["125219", "125224"],
+        "name": "la-zona-es_adg_EL-ULTIMO-BAILE_dis-p20_prs-1_GEN",
+        "landing": "https://www.youtube.com/watch?v=4dgbyVayQc0",
+        "aws_path_1": "ver_cine/2024/02/nuestro_ultimo_baile/preroll/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.youtube.com/watch?v=4dgbyVayQc0&utm_source=adg&utm_medium=dis-p20-prs-1&utm_campaign=el-ultimo-baile",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_adg-ver-cine_np_"
+    }
+]
