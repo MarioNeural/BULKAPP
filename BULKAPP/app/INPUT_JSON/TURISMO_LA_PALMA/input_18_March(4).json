@@ -1,0 +1,50 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600"
+        ],
+        "tcs": [],
+        "name": "turismo-la-palma-gb_imp_TURISMO-DE-LA-PALMA-UK_dis-sty_prs-1_UK",
+        "landing": "https://visitlapalma.es/en/",
+        "aws_path_1": "TURISMO_LA_PALMA/2024/03/story_banner_logo/en/adstory/",
+        "aws_path_2": "/index.html",
+        "link": "https://visitlapalma.es/en/?utm_source=imp&utm_medium=dis-sty-prs-1&utm_campaign=turismo-de-la-palma-uk"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600"
+        ],
+        "tcs": [],
+        "name": "turismo-la-palma-de_imp_TURISMO-DE-LA-PALMA-DE_dis-sty_prs-1_DE",
+        "landing": "https://visitlapalma.es/de/",
+        "aws_path_1": "TURISMO_LA_PALMA/2024/03/story_banner_logo/ger/adstory/",
+        "aws_path_2": "/index.html",
+        "link": "https://visitlapalma.es/de/?utm_source=imp&utm_medium=dis-sty-prs-1&utm_campaign=turismo-de-la-palma-de"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600"
+        ],
+        "tcs": [],
+        "name": "turismo-la-palma-be_imp_TURISMO-DE-LA-PALMA-BEL_dis-prem_prs-1_BEL",
+        "landing": "https://visitlapalma.es/fr/",
+        "aws_path_1": "TURISMO_LA_PALMA/2024/03/story_banner/en_logos/adstory/",
+        "aws_path_2": "/index.html",
+        "link": "https://visitlapalma.es/fr/?utm_source=imp&utm_medium=dis-prem-prs-1&utm_campaign=turismo-de-la-palma-bel"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600"
+        ],
+        "tcs": [],
+        "name": "turismo-la-palma-nl_imp_TURISMO-DE-LA-PALMA-NL_dis-prem_prs-1_NL",
+        "landing": "https://visitlapalma.es/nl/",
+        "aws_path_1": "TURISMO_LA_PALMA/2024/03/story_banner/en_logos/adstory/",
+        "aws_path_2": "/index.html",
+        "link": "https://visitlapalma.es/nl/?utm_source=imp&utm_medium=dis-prem-prs-1&utm_campaign=turismo-de-la-palma-nl"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["125189", "125190", "125191", "125192", "125193", "125194"],
+        "name": "aecc-es_v1mp_AO-ECOMMERCE_dis_rtg-1_MARZO",
+        "landing": "https://tienda.contraelcancer.es/",
+        "aws_path_1": "AECC/2024/03/standard/ecommerce/",
+        "aws_path_2": "/index.html",
+        "link": "https://tienda.contraelcancer.es/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao-ecommerce",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_aecc-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["125481", "125482", "125483", "125484", "125485", "125486"],
+        "name": "aecc-es_v1mp_AO-ECOMMERCE_dis_prs-1_MARZO",
+        "landing": "https://tienda.contraelcancer.es/",
+        "aws_path_1": "AECC/2024/03/standard/ecommerce/",
+        "aws_path_2": "/index.html",
+        "link": "https://tienda.contraelcancer.es/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-ecommerce",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_aecc-es_np_"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "300x250"],
+        "tcs": [],
+        "name": "preview",
+        "landing": "https://pestana.com",
+        "aws_path_1": "PESTANA/2024/03/flash_sale/en/countdown/",
+        "aws_path_2": ".html",
+        "link": "https://pestana.com"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "300x250"],
+        "tcs": [],
+        "name": "preview",
+        "landing": "https://pestana.com",
+        "aws_path_1": "PESTANA/2024/03/flash_sale/pt/countdown/",
+        "aws_path_2": ".html",
+        "link": "https://pestana.com"
+    }
+]

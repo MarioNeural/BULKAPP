@@ -1,0 +1,24 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["126112", "126113", "126114", "126115", "126116", "126117"],
+        "name": "megacentro-cl_v1mp_OFICINAS_dis_prs-1_MAR24",
+        "landing": "www.megacentrooficinas.cl",
+        "aws_path_1": "MEGACENTRO/2024/03/oficinas/",
+        "aws_path_2": "/index.html",
+        "link": "www.megacentrooficinas.cl?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=oficinas",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_megacentro-cl_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["126118", "126119", "126120", "126121", "126122", "126123"],
+        "name": "megacentro-cl_v1mp_OFICINAS_dis_rtg-1_MAR24",
+        "landing": "www.megacentrooficinas.cl",
+        "aws_path_1": "MEGACENTRO/2024/03/oficinas/",
+        "aws_path_2": "/index.html",
+        "link": "www.megacentrooficinas.cl?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=oficinas",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_megacentro-cl_np_"
+    }
+]

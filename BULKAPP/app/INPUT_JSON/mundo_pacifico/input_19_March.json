@@ -1,0 +1,24 @@
+[
+    {
+        "type": "link",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "728x90", "970x250"],
+        "tcs": ["126135", "126136", "126137", "126138", "126139", "126140"],
+        "name": "mundo-cl_v1mp_HOGAR-GENERICA_dis_prs-1_800-MAR24",
+        "landing": "https://www.tumundo.cl/planes-hogar/fibra-800-tv-mundo-go-fijo/",
+        "aws_path_1": "mundo_pacifico/2024/03/hogar_generica/",
+        "aws_path_2": ".jpg",
+        "url": "https://www.tumundo.cl/planes-hogar/fibra-800-tv-mundo-go-fijo/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=hogar-generica&utm_term=800-mar24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_mundo-cl_np_"
+    },
+    {
+        "type": "link",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "728x90", "970x250"],
+        "tcs": ["126141", "126142", "126143", "126144", "126145", "126146"],
+        "name": "mundo-cl_v1mp_HOGAR-GENERICA_dis_rtg-1_800-MAR24",
+        "landing": "https://www.tumundo.cl/planes-hogar/fibra-800-tv-mundo-go-fijo/",
+        "aws_path_1": "mundo_pacifico/2024/03/hogar_generica/",
+        "aws_path_2": ".jpg",
+        "url": "https://www.tumundo.cl/planes-hogar/fibra-800-tv-mundo-go-fijo/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=hogar-generica&utm_term=800-mar24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_mundo-cl_np_"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "type": "link",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "728x90", "970x250"],
+        "tcs": ["126354", "126355", "126356", "126357", "126358", "126359"],
+        "name": "mundo-cl_v1mp_MOVIL-GENERICA_dis_prs-1_300-MAR24",
+        "landing": "https://www.tumundo.cl/planes-movil/3x-movil-300-portabilidad/",
+        "aws_path_1": "mundo_pacifico/2024/03/movil_generica/",
+        "aws_path_2": ".png",
+        "url": "https://www.tumundo.cl/planes-movil/3x-movil-300-portabilidad/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=movil-generica&utm_term=300-mar24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_mundo-cl_np_"
+    },
+    {
+        "type": "link",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "728x90", "970x250"],
+        "tcs": ["126360", "126361", "126362", "126363", "126364", "126365"],
+        "name": "mundo-cl_v1mp_MOVIL-GENERICA_dis_rtg-1_300-MAR24",
+        "landing": "https://www.tumundo.cl/planes-movil/3x-movil-300-portabilidad/",
+        "aws_path_1": "mundo_pacifico/2024/03/movil_generica/",
+        "aws_path_2": ".png",
+        "url": "https://www.tumundo.cl/planes-movil/3x-movil-300-portabilidad/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=movil-generica&utm_term=300-mar24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_mundo-cl_np_"
+    }
+]

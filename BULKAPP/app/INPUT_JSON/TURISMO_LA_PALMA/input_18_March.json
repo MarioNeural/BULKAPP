@@ -1,0 +1,32 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": [],
+        "name": "preview",
+        "landing": "https://visitlapalma.es/",
+        "aws_path_1": "TURISMO_LA_PALMA/2024/03/cubo/en/",
+        "aws_path_2": "index.html",
+        "link": "https://visitlapalma.es/"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": [],
+        "name": "preview",
+        "landing": "https://visitlapalma.es/",
+        "aws_path_1": "TURISMO_LA_PALMA/2024/03/cubo/en_logos/",
+        "aws_path_2": "index.html",
+        "link": "https://visitlapalma.es/"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": [],
+        "name": "preview",
+        "landing": "https://visitlapalma.es/",
+        "aws_path_1": "TURISMO_LA_PALMA/2024/03/cubo/en_logo_palma/",
+        "aws_path_2": "index.html",
+        "link": "https://visitlapalma.es/"
+    }
+]

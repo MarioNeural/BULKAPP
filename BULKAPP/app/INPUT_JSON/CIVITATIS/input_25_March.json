@@ -1,0 +1,57 @@
+[
+    {
+        "type": "link",
+        "sizes": ["120x600", "160x600", "300x250", "300x600", "468x60", "728x90"],
+        "tcs": ["126550", "126551", "126552", "126553", "126554", "126555"],
+        "name": "civitatis-ar_adg_AO_dis_prs-1_AWARENESS-INSPIRACIONAL-MENSAJE",
+        "landing": "https://www.civitatis.com/ar",
+        "aws_path_1": "CIVITATIS/2024/03/inspiracional_mensaje/ar/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/ar?aid=108&cmp=es_AR&cmpint=adg_ar_AWARENESS-MENSAJE_120x600&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awareness&utm_term=AWARENESS-MENSAJE&utm_content=ARGENTINA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": ["120x600", "160x600", "300x250", "300x600", "468x60", "728x90"],
+        "tcs": ["126556", "126557", "126558", "126559", "126560", "126561"],
+        "name": "civitatis-es_adg_AO_dis_prs-1_AWARENESS-INSPIRACIONAL-MENSAJE",
+        "landing": "https://www.civitatis.com/es",
+        "aws_path_1": "CIVITATIS/2024/03/inspiracional_mensaje/es/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es?aid=108&cmp=es_ES&cmpint=adg_es_AWARENESS-MENSAJE_120x600&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awareness&utm_term=AWARENESS-MENSAJE&utm_content=ESPA\u00d1A",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": ["120x600", "160x600", "300x250", "300x600", "468x60", "728x90"],
+        "tcs": ["126562", "126563", "126564", "126565", "126566", "126567"],
+        "name": "civitatis-mx_adg_AO_dis_prs-1_AWARENESS-INSPIRACIONAL-MENSAJE",
+        "landing": "https://www.civitatis.com/mx/",
+        "aws_path_1": "CIVITATIS/2024/03/inspiracional_mensaje/mx/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/mx/?aid=108&cmp=es_MX&cmpint=adg_mx_AWARENESS-MENSAJE_120x600&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awareness&utm_term=AWARENESS-MENSAJE&utm_content=MEXICO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": ["120x600", "160x600", "300x250", "300x600", "468x60", "728x90"],
+        "tcs": ["126568", "126569", "126570", "126571", "126572", "126573"],
+        "name": "civitatis-it_adg_AO_dis_prs-1_AWARENESS-INSPIRACIONAL-MENSAJE",
+        "landing": "https://www.civitatis.com/it/",
+        "aws_path_1": "CIVITATIS/2024/03/inspiracional_mensaje/it/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/it/?aid=108&cmp=it_IT&cmpint=adg_it_AWARENESS-MENSAJE_120x600&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awareness&utm_term=AWARENESS-MENSAJE&utm_content=ITALIA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": ["120x600", "160x600", "300x250", "300x600", "468x60", "728x90"],
+        "tcs": ["126574", "126575", "126576", "126577", "126578", "126579"],
+        "name": "civitatis-br_adg_AO_dis_prs-1_AWARENESS-INSPIRACIONAL-MENSAJE",
+        "landing": "https://www.civitatis.com/br/",
+        "aws_path_1": "CIVITATIS/2024/03/inspiracional_mensaje/br/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/br/?aid=108&cmp=pt_BR&cmpint=adg_br_AWARENESS-MENSAJE_120x600&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awareness&utm_term=AWARENESS-MENSAJE&utm_content=BRAZIL",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    }
+]

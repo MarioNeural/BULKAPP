@@ -1,0 +1,72 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": [],
+        "name": "preview",
+        "landing": "https://ofertas.bintercanarias.com/",
+        "aws_path_1": "BINTER/2024/03/sliders/esauira_g_canaria/",
+        "aws_path_2": "/index.html",
+        "link": "https://ofertas.bintercanarias.com/"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": [],
+        "name": "preview",
+        "landing": "https://ofertas.bintercanarias.com/",
+        "aws_path_1": "BINTER/2024/03/sliders/esauira_iles_canaries/",
+        "aws_path_2": "/index.html",
+        "link": "https://ofertas.bintercanarias.com/"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": [],
+        "name": "preview",
+        "landing": "https://ofertas.bintercanarias.com/",
+        "aws_path_1": "BINTER/2024/03/sliders/funchal_marrakech/",
+        "aws_path_2": "/index.html",
+        "link": "https://ofertas.bintercanarias.com/"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": [],
+        "name": "preview",
+        "landing": "https://ofertas.bintercanarias.com/",
+        "aws_path_1": "BINTER/2024/03/sliders/marrakech_funchal/",
+        "aws_path_2": "/index.html",
+        "link": "https://ofertas.bintercanarias.com/"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": [],
+        "name": "preview",
+        "landing": "https://ofertas.bintercanarias.com/",
+        "aws_path_1": "BINTER/2024/03/sliders/marrakech_g_canaria/",
+        "aws_path_2": "/index.html",
+        "link": "https://ofertas.bintercanarias.com/"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": [],
+        "name": "preview",
+        "landing": "https://ofertas.bintercanarias.com/",
+        "aws_path_1": "BINTER/2024/03/sliders/marrakech_iles_canaries/",
+        "aws_path_2": "/index.html",
+        "link": "https://ofertas.bintercanarias.com/"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": [],
+        "name": "preview",
+        "landing": "https://ofertas.bintercanarias.com/",
+        "aws_path_1": "BINTER/2024/03/sliders/tanger_iles_canaries/",
+        "aws_path_2": "/index.html",
+        "link": "https://ofertas.bintercanarias.com/"
+    }
+]

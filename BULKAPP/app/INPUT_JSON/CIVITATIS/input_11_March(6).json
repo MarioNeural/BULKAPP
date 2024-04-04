@@ -1,0 +1,57 @@
+[
+    {
+        "type": "link",
+        "sizes": ["120x600", "160x600", "300x250", "300x600", "468x60", "728x90"],
+        "tcs": ["124640", "124645", "124650", "124655", "124660", "124665"],
+        "name": "civitatis-es_adg_AO_dis_rtg-1_CONVERSION-TOPACTIVIDADES-ROMA",
+        "landing": "https://www.civitatis.com/es/roma/",
+        "aws_path_1": "CIVITATIS/2024/03/top_actividades/es/roma/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/roma/?aid=108&cmp=es_ES&cmpint=adg_es_ROMA_120x600&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=TopActividades&utm_content=ROMA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": ["120x600", "160x600", "300x250", "300x600", "468x60", "728x90"],
+        "tcs": ["124641", "124646", "124651", "124656", "124661", "124666"],
+        "name": "civitatis-es_adg_AO_dis_rtg-1_CONVERSION-TOPACTIVIDADES-PARIS",
+        "landing": "https://www.civitatis.com/es/paris/",
+        "aws_path_1": "CIVITATIS/2024/03/top_actividades/es/paris/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/paris/?aid=108&cmp=es_ES&cmpint=adg_es_PARIS_120x600&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=TopActividades&utm_content=PARIS",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": ["120x600", "160x600", "300x250", "300x600", "468x60", "728x90"],
+        "tcs": ["124642", "124647", "124652", "124657", "124662", "124667"],
+        "name": "civitatis-es_adg_AO_dis_rtg-1_CONVERSION-TOPACTIVIDADES-OPORTO",
+        "landing": "https://www.civitatis.com/es/oporto/",
+        "aws_path_1": "CIVITATIS/2024/03/top_actividades/es/oporto/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/oporto/?aid=108&cmp=es_ES&cmpint=adg_es_OPORTO_120x600&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=TopActividades&utm_content=OPORTO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": ["120x600", "160x600", "300x250", "300x600", "468x60", "728x90"],
+        "tcs": ["124643", "124648", "124653", "124658", "124663", "124668"],
+        "name": "civitatis-es_adg_AO_dis_rtg-1_CONVERSION-TOPACTIVIDADES-NYC",
+        "landing": "https://www.civitatis.com/es/nueva-york/",
+        "aws_path_1": "CIVITATIS/2024/03/top_actividades/es/nyc/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/nueva-york/?aid=108&cmp=es_ES&cmpint=adg_es_NYC_120x600&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=TopActividades&utm_content=NYC",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": ["120x600", "160x600", "300x250", "300x600", "468x60", "728x90"],
+        "tcs": ["124644", "124649", "124654", "124659", "124664", "124669"],
+        "name": "civitatis-es_adg_AO_dis_rtg-1_CONVERSION-TOPACTIVIDADES-MARRACKECH",
+        "landing": "https://www.civitatis.com/es/marrakech/",
+        "aws_path_1": "CIVITATIS/2024/03/top_actividades/es/marrakech/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/marrakech/?aid=108&cmp=es_ES&cmpint=adg_es_MARRACKECH_120x600&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=TopActividades&utm_content=MARRACKECH",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    }
+]

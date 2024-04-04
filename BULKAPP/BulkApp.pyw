@@ -13,25 +13,16 @@ import threading
 from functions.process_json import process_json
 from functions.one_line_arrays import one_line_arrays
 
-from functions.open import open_test_html
-from functions.open import open_json_with_vscode
-from functions.open import open_folder
+from functions.timer_functions import TimerUpdater
+from functions.progress_bar_functions import ProgressBarHandler
+
+from functions.open import open_test_html, open_folder, open_json_with_vscode
+
 
 # ESTILOS
 from styles.styles import DARK_GREEN, LIGHT_GREEN, TEXT_BLACK, TEXT_WHITE, RED, BLUE
 
 FOLDER_PATH = os.path.join("app")
-last_execution_time = None
-
-def update_timer():
-    if last_execution_time is not None:
-        elapsed_time = time.time() - last_execution_time
-        if elapsed_time < 60:
-            time_label.config(text=f"Han pasado {int(elapsed_time)} segundos desde el último BULK")
-        else:
-            minutes = int(elapsed_time / 60)
-            time_label.config(text=f"Han pasado {minutes} minutos desde el último BULK")
-    app.after(1000, update_timer)
 
 
 def extract_data_from_rows(data):
@@ -254,7 +245,7 @@ def ejecutar_script(script_name):
         result = subprocess.run(["python", script_path], capture_output=True, text=True)
         output_text.insert(tk.END, result.stdout)
         output_text.see(tk.END)
-        last_execution_time = time.time()
+        timer_updater.set_last_execution_time(time.time())
     except Exception as e:
         messagebox.showerror("Error", f"Error al ejecutar {script_name}: {e}")
 
@@ -291,7 +282,7 @@ def ejecutar_img_aws_bulk_thread():
         process.stdout.close()
         process.stderr.close()
 
-        last_execution_time = time.time()
+        timer_updater.set_last_execution_time(time.time())
 
     except Exception as e:
         messagebox.showerror("Error", f"Error al ejecutar el script: {e}")
@@ -306,46 +297,6 @@ def ejecutar_img_aws_bulk_thread():
         if not script_running:
             csv_generated = True  # Asumiendo que la ejecución fue exitosa
             generar_csv_btn.config(state=tk.NORMAL)
-
-def get_file_size():
-    filepath = 'app/INPUT_JSON/input.json'
-    if os.path.isfile(filepath):
-        return os.path.getsize(filepath)
-    else:
-        return 0 
-    
-
-
-def update_progress_bar():
-    global script_running
-    if script_running:
-        file_size = get_file_size()
-        
-        if file_size < 1000: 
-            interval = 10
-        elif file_size < 3000:
-            interval = 30
-        elif file_size < 6000:
-            interval = 60
-        elif file_size < 10000:
-            interval = 100
-        elif file_size < 15000:
-            interval = 150
-        elif file_size < 20000:
-            interval = 200
-        else:  
-            interval = 300
-
-        if progress_bar['value'] < 90:
-            new_value = progress_bar['value'] + 1
-            progress_bar['value'] = new_value
-            app.after(interval, update_progress_bar)
-        elif progress_bar['value'] < 99:
-            new_value = progress_bar['value'] + 1
-            progress_bar['value'] = new_value
-            app.after(10000, update_progress_bar)
-        elif script_running and progress_bar['value'] == 99:
-            app.after(10000, update_progress_bar)
 
 def confirmacion_ejecucion():
     def on_si():
@@ -378,10 +329,10 @@ def confirmacion_ejecucion():
 def iniciar_ejecucion_bulk():
     global script_running
     script_running = True
+    progress_bar_handler.start_progress_bar()
     progress_bar.grid(row=3, column=0, columnspan=4, pady=10)
     progress_bar['mode'] = 'determinate'
     progress_bar['value'] = 0
-    update_progress_bar()  # Iniciar la actualización de la barra de progreso
 
     thread = threading.Thread(target=ejecutar_img_aws_bulk_thread)
     thread.start()
@@ -390,43 +341,79 @@ def ejecutar_img_aws_bulk():
     confirmacion_ejecucion()  # Mostrar la ventana de confirmación
 
 
-def generar_csv():
-    global csv_generated
+
+def generar_archivo_csv(src_csv_filename):
     try:
-        if csv_generated:
-            output_text_content = output_text.get("1.0", tk.END)
+        src_csv_path = os.path.join("app", src_csv_filename)
 
-            if '<iframe' in output_text_content:
-                src_csv_filename = "360_ENC_file.csv"
-                success_msg = f"Se va a generar el archivo {src_csv_filename} para creatividades tipo <iframe>."
-            else:
-                src_csv_filename = "360_file.csv"
-                success_msg = f"Se va a generar el archivo {src_csv_filename} para creatividades tipo <a>."
+        compartir_folder_path = os.path.join("app", "COMPARTIR")
+        os.makedirs(compartir_folder_path, exist_ok=True)
 
-            success_result = messagebox.askquestion("Éxito", success_msg + "\n¿Desea generar el archivo y abrir la carpeta ahora?")
+        # Determina el nombre del archivo destino basado en el archivo fuente.
+        if src_csv_filename == "360_ENC_file.csv":
+            dest_csv_filename = "360_file.csv"
+        else:
+            dest_csv_filename = "360_ENC_file.csv"
 
-            if success_result == "yes":
-                src_csv_path = os.path.join("app", src_csv_filename)
+        dest_csv_path = os.path.join(compartir_folder_path, dest_csv_filename)
+        if os.path.exists(dest_csv_path):
+            os.remove(dest_csv_path)
 
-                compartir_folder_path = os.path.join("app", "COMPARTIR")
-                os.makedirs(compartir_folder_path, exist_ok=True)
+        # Copia el archivo al destino.
+        dest_csv_path = os.path.join(compartir_folder_path, src_csv_filename)
+        shutil.copyfile(src_csv_path, dest_csv_path)
 
-                if src_csv_filename == "360_ENC_file.csv":
-                    dest_csv_filename = "360_file.csv"
-                else:
-                    dest_csv_filename = "360_ENC_file.csv"
-
-                dest_csv_path = os.path.join(compartir_folder_path, dest_csv_filename)
-                if os.path.exists(dest_csv_path):
-                    os.remove(dest_csv_path)
-
-                dest_csv_path = os.path.join(compartir_folder_path, src_csv_filename)
-                shutil.copyfile(src_csv_path, dest_csv_path)
-
-                os.startfile(compartir_folder_path)
+        # Abre la carpeta donde se encuentra el archivo.
+        os.startfile(compartir_folder_path)
 
     except Exception as e:
-        messagebox.showerror("Error", f"Error al generar los archivos CSV: {e}")
+        print(f"Error al generar y copiar los archivos CSV: {e}")
+
+def generar_csv():
+    global csv_generated
+    if csv_generated:
+        output_text_content = output_text.get("1.0", tk.END)
+
+        last_iframe_index = output_text_content.rfind('<iframe')
+        last_a_index = output_text_content.rfind('<a')
+
+        if last_iframe_index > last_a_index:
+            src_csv_filename = "360_ENC_file.csv"
+            success_msg = "Se va a generar el archivo 360_ENC_file.csv para creatividades tipo <iframe>."
+        elif last_a_index > last_iframe_index:
+            src_csv_filename = "360_file.csv"
+            success_msg = "Se va a generar el archivo 360_file.csv para creatividades tipo <a>."
+        else:
+            messagebox.showerror("Error", "No se pudo determinar el tipo de archivo CSV a generar.")
+            return
+
+        def on_si():
+            generar_archivo_csv(src_csv_filename)
+            csv_popup.destroy()
+
+        def on_no():
+            csv_popup.destroy()
+
+        csv_popup = tk.Toplevel(app)
+        csv_popup.title("Generar CSV")
+        csv_popup.configure(bg=DARK_GREEN)
+
+        window_width = 450
+        window_height = 150
+        pos_x = app.winfo_x() + (app.winfo_width() // 2) - (window_width // 2)
+        pos_y = app.winfo_y() + (app.winfo_height() // 6) - (window_height // 6)
+
+        csv_popup.geometry(f"{window_width}x{window_height}+{pos_x}+{pos_y}")
+
+        label = tk.Label(csv_popup, text=success_msg + "\n¿Desea generar el archivo y abrir la carpeta ahora?", bg=DARK_GREEN, fg=TEXT_BLACK)
+        label.pack(pady=10)
+
+        boton_si = tk.Button(csv_popup, text="Sí", command=on_si, bg=BLUE, fg=TEXT_WHITE, font=("Helvetica", 12, "bold"), height=1, width=10)
+        boton_si.pack(side=tk.LEFT, padx=(50, 10), pady=10)
+
+        boton_no = tk.Button(csv_popup, text="No", command=on_no, bg=RED, fg=TEXT_WHITE, font=("Helvetica", 12, "bold"), height=1, width=10)
+        boton_no.pack(side=tk.RIGHT, padx=(10, 50), pady=10)
+
 
 
 app = tk.Tk()
@@ -438,10 +425,11 @@ include_viewability = tk.BooleanVar(value=True)
 frame = tk.Frame(app, bg=DARK_GREEN)
 frame.pack(padx=10, pady=10)
 
+progress_bar = ttk.Progressbar(frame, orient="horizontal", mode="indeterminate", length=200)
+progress_bar_handler = ProgressBarHandler(app, progress_bar)
+
 output_text = tk.Text(frame, wrap=tk.WORD, bg=LIGHT_GREEN, fg=TEXT_BLACK)
 output_text.grid(row=4, column=0, columnspan=4, pady=10)
-
-progress_bar = ttk.Progressbar(frame, orient="horizontal", mode="indeterminate", length=200)
 
 btn_img_aws_bulk = tk.Button(frame, text="Ejecutar BULK", command=ejecutar_img_aws_bulk, 
                              bg=LIGHT_GREEN, fg=TEXT_BLACK, 
@@ -473,8 +461,8 @@ btn_process_json = tk.Button(frame, text="JSON Civitatis", command=process_json,
                              bg=LIGHT_GREEN, fg=TEXT_BLACK)
 btn_process_json.grid(row=3, column=3, columnspan=4, pady=10)
 
+timer_updater = TimerUpdater(app, time_label)
 
-
-update_timer()
+timer_updater.update_timer()
 
 app.mainloop()

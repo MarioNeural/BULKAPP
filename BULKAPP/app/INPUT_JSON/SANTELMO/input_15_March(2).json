@@ -1,0 +1,90 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["125979", "125980", "125981", "125982", "125983", "125984"],
+        "name": "santelmo-es_imp_SEVILLA_dis_prs-1_1",
+        "landing": "https://www.santelmo.org/programas/lydes",
+        "aws_path_1": "SANTELMO/2024/03/html/sevilla/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.santelmo.org/programas/lydes?utm_source=imp&utm_medium=dis-prs-1&utm_campaign=sevilla",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_santelmo-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["125985", "125986", "125987", "125988", "125989", "125990"],
+        "name": "santelmo-es_imp_SEVILLA_dis_rtg-1_1",
+        "landing": "https://www.santelmo.org/programas/lydes",
+        "aws_path_1": "SANTELMO/2024/03/html/sevilla/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.santelmo.org/programas/lydes?utm_source=imp&utm_medium=dis-rtg-1&utm_campaign=sevilla",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_santelmo-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["125991", "125992", "125993", "125994", "125995", "125996"],
+        "name": "santelmo-es_imp_SEVILLA_dis_prs-1_2",
+        "landing": "https://www.santelmo.org/programas/lydes",
+        "aws_path_1": "SANTELMO/2024/03/html/sevilla_2/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.santelmo.org/programas/lydes?utm_source=imp&utm_medium=dis-prs-1&utm_campaign=sevilla",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_santelmo-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["125997", "125998", "125999", "126000", "126001", "126002"],
+        "name": "santelmo-es_imp_SEVILLA_dis_rtg-1_2",
+        "landing": "https://www.santelmo.org/programas/lydes",
+        "aws_path_1": "SANTELMO/2024/03/html/sevilla_2/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.santelmo.org/programas/lydes?utm_source=imp&utm_medium=dis-rtg-1&utm_campaign=sevilla",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_santelmo-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["126003", "126004", "126005", "126006", "126007", "126008"],
+        "name": "santelmo-es_imp_MALAGA_dis_prs-1_1",
+        "landing": "https://www.santelmo.org/programas/lydes",
+        "aws_path_1": "SANTELMO/2024/03/html/malaga/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.santelmo.org/programas/lydes?utm_source=imp&utm_medium=dis-prs-1&utm_campaign=malaga",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_santelmo-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["126009", "126010", "126011", "126012", "126013", "126014"],
+        "name": "santelmo-es_imp_MALAGA_dis_rtg-1_1",
+        "landing": "https://www.santelmo.org/programas/lydes",
+        "aws_path_1": "SANTELMO/2024/03/html/malaga/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.santelmo.org/programas/lydes?utm_source=imp&utm_medium=dis-rtg-1&utm_campaign=malaga",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_santelmo-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["126015", "126016", "126017", "126018", "126019", "126020"],
+        "name": "santelmo-es_imp_MALAGA_dis_prs-1_2",
+        "landing": "https://www.santelmo.org/programas/lydes",
+        "aws_path_1": "SANTELMO/2024/03/html/malaga_2/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.santelmo.org/programas/lydes?utm_source=imp&utm_medium=dis-prs-1&utm_campaign=malaga",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_santelmo-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["126021", "126022", "126023", "126024", "126025", "126026"],
+        "name": "santelmo-es_imp_MALAGA_dis_rtg-1_2",
+        "landing": "https://www.santelmo.org/programas/lydes",
+        "aws_path_1": "SANTELMO/2024/03/html/malaga_2/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.santelmo.org/programas/lydes?utm_source=imp&utm_medium=dis-rtg-1&utm_campaign=malaga",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_santelmo-es_np_"
+    }
+]

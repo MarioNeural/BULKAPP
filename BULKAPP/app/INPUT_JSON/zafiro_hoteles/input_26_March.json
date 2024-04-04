@@ -1,0 +1,68 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600", "300x250"],
+        "tcs": ["126456", "126488", "126503"],
+        "name": "zafiro-ch_adg_AWARENESS_dis-p20_prs-1_MARZO24",
+        "landing": "https://www.zafirohotels.com/de/",
+        "aws_path_1": "zafiro_hoteles/2024/03/preroll/ch/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.zafirohotels.com/de/?utm_source=adg&utm_medium=dis-p20-prs-1&utm_campaign=45375&utm_term=CH&utm_content=2.0",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_zafiro-hoteles-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600", "300x250"],
+        "tcs": ["126461", "126493", "126508"],
+        "name": "zafiro-de_adg_AWARENESS_dis-p20_prs-1_MARZO24",
+        "landing": "https://www.zafirohotels.com/de/",
+        "aws_path_1": "zafiro_hoteles/2024/03/preroll/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.zafirohotels.com/de/?utm_source=adg&utm_medium=dis-p20-prs-1&utm_campaign=45375&utm_term=DE&utm_content=2.0",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_zafiro-hoteles-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600", "300x250"],
+        "tcs": ["126466", "126498", "126513"],
+        "name": "zafiro-gb_adg_AWARENESS_dis-p20_prs-1_MARZO24",
+        "landing": "https://www.zafirohotels.com/en/",
+        "aws_path_1": "zafiro_hoteles/2024/03/preroll/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.zafirohotels.com/en/?utm_source=adg&utm_medium=dis-p20-prs-1&utm_campaign=45375&utm_term=GB&utm_content=2.0",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_zafiro-hoteles-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600", "300x250"],
+        "tcs": ["126471", "126472", "126473"],
+        "name": "zafiro-ch_adg_AWARENESS_dis-prem_prs-1_3D",
+        "landing": "https://www.zafirohotels.com/de/",
+        "aws_path_1": "zafiro_hoteles/2024/03/3dcard/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.zafirohotels.com/de/?utm_source=adg&utm_medium=dis-prem-prs-1&utm_campaign=3D&utm_term=CH&utm_content=3D",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_zafiro-hoteles-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600", "300x250"],
+        "tcs": ["126474", "126475", "126476"],
+        "name": "zafiro-de_adg_AWARENESS_dis-prem_prs-1_3D",
+        "landing": "https://www.zafirohotels.com/de/",
+        "aws_path_1": "zafiro_hoteles/2024/03/3dcard/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.zafirohotels.com/de/?utm_source=adg&utm_medium=dis-prem-prs-1&utm_campaign=3D&utm_term=DE&utm_content=3D",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_zafiro-hoteles-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600", "300x250"],
+        "tcs": ["126477", "126478", "126479"],
+        "name": "zafiro-gb_adg_AWARENESS_dis-prem_prs-1_3D",
+        "landing": "https://www.zafirohotels.com/en/",
+        "aws_path_1": "zafiro_hoteles/2024/03/3dcard/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.zafirohotels.com/en/?utm_source=adg&utm_medium=dis-prem-prs-1&utm_campaign=3D&utm_term=GB&utm_content=3D",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_zafiro-hoteles-es_np_"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "728x90", "970x250"],
+        "tcs": ["126366", "126367", "126368", "126369", "126370", "126371"],
+        "name": "mibodega-cl_v1mp_REFUERZOS_dis_prs-1_CARRASCAL",
+        "landing": "https://www.mibodega.cl/",
+        "aws_path_1": "MI_BODEGA/2024/03/refuerzo/carrascal/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.mibodega.cl/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=refuerzos&utm_term=carrascal",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_megacentro-mi-bodega-cl_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "728x90", "970x250"],
+        "tcs": ["126372", "126373", "126374", "126375", "126376", "126377"],
+        "name": "mibodega-cl_v1mp_REFUERZOS_dis_prs-1_SAN-DIEGO-SUR",
+        "landing": "https://www.mibodega.cl/",
+        "aws_path_1": "MI_BODEGA/2024/03/refuerzo/san_diego/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.mibodega.cl/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=refuerzos&utm_term=san-diego-sur",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_megacentro-mi-bodega-cl_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "728x90", "970x250"],
+        "tcs": ["126378", "126379", "126380", "126381", "126382", "126383"],
+        "name": "mibodega-cl_v1mp_REFUERZOS_dis_prs-1_VESPUCIO",
+        "landing": "https://www.mibodega.cl/",
+        "aws_path_1": "MI_BODEGA/2024/03/refuerzo/vespucio/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.mibodega.cl/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=refuerzos&utm_term=vespucio",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_megacentro-mi-bodega-cl_np_"
+    }
+]

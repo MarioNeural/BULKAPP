@@ -1,0 +1,22 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": [],
+        "name": "preview_logo",
+        "landing": "https://visitlapalma.es/",
+        "aws_path_1": "TURISMO_LA_PALMA/2024/03/story_banner_logo/en/adstory/",
+        "aws_path_2": "/index.html",
+        "link": "https://visitlapalma.es/"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": [],
+        "name": "preview_logo",
+        "landing": "https://visitlapalma.es/",
+        "aws_path_1": "TURISMO_LA_PALMA/2024/03/story_banner_logo/ger/adstory/",
+        "aws_path_2": "/index.html",
+        "link": "https://visitlapalma.es/"
+    }
+]

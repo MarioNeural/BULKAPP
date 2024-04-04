@@ -1,0 +1,12 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600","970x250"],
+        "tcs": [],
+        "name": "preview",
+        "landing": "https://www.masmovil.es/",
+        "aws_path_1": "masmovil/2024/01/branding/preroll2.0_preview/",
+        "aws_path_2": ".html",
+        "link": "https://www.masmovil.es/"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": [],
+        "name": "dop-alicante-es_adg_MARZO_dis_prs-1_SLIDER",
+        "landing": "https://vinosalicantedop.org/rosados-con-rock-and-roll/",
+        "aws_path_1": "DOP_ALICANTE/2024/03/slider/",
+        "aws_path_2": "/index.html",
+        "link": "https://vinosalicantedop.org/rosados-con-rock-and-roll/?utm_source=adg&utm_medium=dis-prs-1&utm_campaign=marzo&utm_term=slide",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": [],
+        "name": "dop-alicante-es_adg_MARZO_dis_prs-1_CUBO",
+        "landing": "https://vinosalicantedop.org/rosados-con-rock-and-roll/",
+        "aws_path_1": "DOP_ALICANTE/2024/03/cubo/",
+        "aws_path_2": ".html",
+        "link": "https://vinosalicantedop.org/rosados-con-rock-and-roll/?utm_source=adg&utm_medium=dis-prs-1&utm_campaign=marzo&utm_term=cubo",
+        "add_utm_size": "utm_content="
+    }
+]

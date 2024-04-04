@@ -1,0 +1,68 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "728x90", "970x250"],
+        "tcs": ["126263", "126264", "126265", "126266", "126267", "126268"],
+        "name": "educo-es_v1mp_APADRINAMIENTOS_dis_prs-1_APADRINA-1",
+        "landing": "https://www.educo.org/colabora/apadrinamiento",
+        "aws_path_1": "EDUCO/2024/03/apadrinamientos/1/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.educo.org/colabora/apadrinamiento?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=apadrinamientos",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_educo-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "728x90", "970x250"],
+        "tcs": ["126269", "126270", "126271", "126272", "126273", "126274"],
+        "name": "educo-es_v1mp_APADRINAMIENTOS_dis_rtg-1_APADRINA-1",
+        "landing": "https://www.educo.org/colabora/apadrinamiento",
+        "aws_path_1": "EDUCO/2024/03/apadrinamientos/1/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.educo.org/colabora/apadrinamiento?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=apadrinamientos",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_educo-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "728x90", "970x250"],
+        "tcs": ["126275", "126276", "126277", "126278", "126279", "126280"],
+        "name": "educo-es_v1mp_APADRINAMIENTOS_dis_prs-1_APADRINA-3",
+        "landing": "https://www.educo.org/colabora/apadrinamiento",
+        "aws_path_1": "EDUCO/2024/03/apadrinamientos/3/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.educo.org/colabora/apadrinamiento?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=apadrinamientos",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_educo-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "728x90", "970x250"],
+        "tcs": ["126281", "126282", "126283", "126284", "126285", "126286"],
+        "name": "educo-es_v1mp_APADRINAMIENTOS_dis_rtg-1_APADRINA-3",
+        "landing": "https://www.educo.org/colabora/apadrinamiento",
+        "aws_path_1": "EDUCO/2024/03/apadrinamientos/3/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.educo.org/colabora/apadrinamiento?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=apadrinamientos",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_educo-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "728x90", "970x250"],
+        "tcs": ["126287", "126288", "126289", "126290", "126291", "126292"],
+        "name": "educo-es_v1mp_APADRINAMIENTOS_dis_prs-1_APADRINA-4",
+        "landing": "https://www.educo.org/colabora/apadrinamiento",
+        "aws_path_1": "EDUCO/2024/03/apadrinamientos/4/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.educo.org/colabora/apadrinamiento?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=apadrinamientos",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_educo-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "728x90", "970x250"],
+        "tcs": ["126293", "126294", "126295", "126296", "126297", "126298"],
+        "name": "educo-es_v1mp_APADRINAMIENTOS_dis_rtg-1_APADRINA-4",
+        "landing": "https://www.educo.org/colabora/apadrinamiento",
+        "aws_path_1": "EDUCO/2024/03/apadrinamientos/4/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.educo.org/colabora/apadrinamiento?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=apadrinamientos",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_educo-es_np_"
+    }
+]

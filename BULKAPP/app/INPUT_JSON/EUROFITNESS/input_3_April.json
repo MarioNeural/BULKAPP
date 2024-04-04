@@ -1,0 +1,43 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": [],
+        "name": "preview",
+        "landing": "https://eurofitness.com/",
+        "aws_path_1": "EUROFITNESS/2024/04/calistenia_cat",
+        "aws_path_2": "/index.html",
+        "link": "https://eurofitness.com"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": [],
+        "name": "preview",
+        "landing": "https://eurofitness.com/",
+        "aws_path_1": "EUROFITNESS/2024/04/calistenia_es",
+        "aws_path_2": "/index.html",
+        "link": "https://eurofitness.com"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": [],
+        "name": "preview",
+        "landing": "https://eurofitness.com/",
+        "aws_path_1": "EUROFITNESS/2024/04/piscina_cat",
+        "aws_path_2": "/index.html",
+        "link": "https://eurofitness.com"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": [],
+        "name": "preview",
+        "landing": "https://eurofitness.com/",
+        "aws_path_1": "EUROFITNESS/2024/04/piscina_es",
+        "aws_path_2": "/index.html",
+        "link": "https://eurofitness.com"
+    }
+   
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "type": "link",
+        "sizes": ["300x600", "300x250", "160x600", "970x250", "320x50", "728x90"],
+        "tcs": ["126542", "126543", "126544", "126545", "126546", "126547"],
+        "name": "iberia-express-es_imp_AO-RESERVAS_dis_prs-1_12-ANIVERSARIO-DAY",
+        "landing": "https://www.iberiaexpress.com/",
+        "aws_path_1": "iberia/2024/03/aniversario/",
+        "aws_path_2": ".gif",
+        "url": "https://www.iberiaexpress.com/?utm_source=imp&utm_medium=dis-prs-1&utm_campaign=ao-reservas",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_iberia-express-es_np_",
+        "add_utm_size": "utm_content="
+    }
+]

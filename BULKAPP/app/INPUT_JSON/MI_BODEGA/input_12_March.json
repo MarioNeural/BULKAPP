@@ -1,0 +1,46 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["125358", "125359", "125360", "125361", "125362", "125363"],
+        "name": "mibodega-cl_v1mp_AO_dis_prs-1_PERSON",
+        "landing": "https://www.mibodega.cl/",
+        "aws_path_1": "MI_BODEGA/2024/03/always_on/con_personas/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.mibodega.cl/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=mibodega",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_megacentro-mi-bodega-cl_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["125364", "125365", "125366", "125367", "125368", "125369"],
+        "name": "mibodega-cl_v1mp_AO_dis_prs-1_NO-PERSON",
+        "landing": "https://www.mibodega.cl/",
+        "aws_path_1": "MI_BODEGA/2024/03/always_on/sin_personas/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.mibodega.cl/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=mibodega",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_megacentro-mi-bodega-cl_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["125370", "125371", "125372", "125373", "125374", "125375"],
+        "name": "mibodega-cl_v1mp_AO_dis_rtg-1_PERSON",
+        "landing": "https://www.mibodega.cl/",
+        "aws_path_1": "MI_BODEGA/2024/03/always_on/con_personas/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.mibodega.cl/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=mibodega",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_megacentro-mi-bodega-cl_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["125376", "125377", "125378", "125379", "125380", "125381"],
+        "name": "mibodega-cl_v1mp_AO_dis_rtg-1_NO-PERSON",
+        "landing": "https://www.mibodega.cl/",
+        "aws_path_1": "MI_BODEGA/2024/03/always_on/sin_personas/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.mibodega.cl/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=mibodega",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_megacentro-mi-bodega-cl_np_"
+    }
+]

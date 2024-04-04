@@ -1,0 +1,90 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600"],
+        "tcs": ["121259", "121260"],
+        "name": "manos-unidas-es_v1mp_EFECTO-HUMANO-SOCIO_dis-prem_prs-1_COUNTDOWN",
+        "landing": "https://colabora.manosunidas.org/Home?target=0&origin=767",
+        "aws_path_1": "manos_unidas/2024/01/countup_socios/",
+        "aws_path_2": "/index.html",
+        "link": "https://colabora.manosunidas.org/Home?target=0&origin=767&utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=efecto-humano-socio",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_manos-unidas-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": ["121261"],
+        "name": "manos-unidas-es_v1mp_EFECTO-HUMANO-SOCIO_dis-prem_prs-1_ENCUESTA",
+        "landing": "https://colabora.manosunidas.org/Home?target=0&origin=767",
+        "aws_path_1": "manos_unidas/2024/01/banner_encuesta_socios/",
+        "aws_path_2": "/index.html",
+        "link": "https://colabora.manosunidas.org/Home?target=0&origin=767&utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=efecto-humano-socio",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_manos-unidas-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600"],
+        "tcs": ["121262", "121263"],
+        "name": "manos-unidas-es_v1mp_EFECTO-HUMANO-DONA_dis-prem_prs-1_COUNTDOWN",
+        "landing": "https://colabora.manosunidas.org/Home?target=0&origin=767",
+        "aws_path_1": "manos_unidas/2024/01/countup_dona/",
+        "aws_path_2": "/index.html",
+        "link": "https://colabora.manosunidas.org/Home?target=0&origin=767&utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=efecto-humano-dona",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_manos-unidas-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": ["121264"],
+        "name": "manos-unidas-es_v1mp_EFECTO-HUMANO-DONA_dis-prem_prs-1_ENCUESTA",
+        "landing": "https://colabora.manosunidas.org/Home?target=0&origin=767",
+        "aws_path_1": "manos_unidas/2024/01/banner_encuesta_dona/",
+        "aws_path_2": "/index.html",
+        "link": "https://colabora.manosunidas.org/Home?target=0&origin=767&utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=efecto-humano-dona",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_manos-unidas-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["121265", "121266", "121267", "121268", "121269", "121270"],
+        "name": "manos-unidas-es_v1mp_EFECTO-HUMANO-SOCIO_dis_prs-1_ENE24",
+        "landing": "https://colabora.manosunidas.org/Home?target=0&origin=767",
+        "aws_path_1": "manos_unidas/2024/01/display/socios/",
+        "aws_path_2": "/index.html",
+        "link": "https://colabora.manosunidas.org/Home?target=0&origin=767&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=efecto-humano-socio",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_manos-unidas-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["121271", "121272", "121273", "121274", "121275", "121276"],
+        "name": "manos-unidas-es_v1mp_EFECTO-HUMANO-DONA_dis_prs-1_ENE24",
+        "landing": "https://colabora.manosunidas.org/Home?target=0&origin=767",
+        "aws_path_1": "manos_unidas/2024/01/display/dona/",
+        "aws_path_2": "/index.html",
+        "link": "https://colabora.manosunidas.org/Home?target=0&origin=767&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=efecto-humano-dona",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_manos-unidas-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["121277", "121278", "121279", "121280", "121281", "121282"],
+        "name": "manos-unidas-es_v1mp_EFECTO-HUMANO-SOCIO_dis_rtg-1_ENE24",
+        "landing": "https://colabora.manosunidas.org/Home?target=0&origin=767",
+        "aws_path_1": "manos_unidas/2024/01/display/socios/",
+        "aws_path_2": "/index.html",
+        "link": "https://colabora.manosunidas.org/Home?target=0&origin=767&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=efecto-humano-socio",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_manos-unidas-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["121283", "121284", "121285", "121286", "121287", "121288"],
+        "name": "manos-unidas-es_v1mp_EFECTO-HUMANO-DONA_dis_rtg-1_ENE24",
+        "landing": "https://colabora.manosunidas.org/Home?target=0&origin=767",
+        "aws_path_1": "manos_unidas/2024/01/display/dona/",
+        "aws_path_2": "/index.html",
+        "link": "https://colabora.manosunidas.org/Home?target=0&origin=767&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=efecto-humano-dona",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_manos-unidas-es_np_"
+    }
+]

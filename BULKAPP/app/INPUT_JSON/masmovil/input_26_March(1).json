@@ -1,0 +1,12 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600","970x250"],
+        "tcs": [],
+        "name": "preview",
+        "landing": "https://www.masmovil.es/",
+        "aws_path_1": "masmovil/2024/01/branding/video_in_banner/",
+        "aws_path_2": ".html",
+        "link": "https://www.masmovil.es/"
+    }
+]

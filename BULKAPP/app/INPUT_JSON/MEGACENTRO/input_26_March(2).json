@@ -1,0 +1,24 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "728x90", "970x250"],
+        "tcs": ["127230", "127231", "127232", "127233", "127234", "127235"],
+        "name": "megacentro-cl_v1mp_REFUERZOS-OFICINAS_dis_prs-1_SAN-DIEGO",
+        "landing": "https://www.oficinasnucleo.cl/sucursales/nucleo-san-diego/",
+        "aws_path_1": "MEGACENTRO/2024/03/refuerzo_oficinas/san_diego/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.oficinasnucleo.cl/sucursales/nucleo-san-diego/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=refuerzos-oficinas",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_megacentro-cl_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "728x90", "970x250"],
+        "tcs": ["127236", "127237", "127238", "127239", "127240", "127241"],
+        "name": "megacentro-cl_v1mp_REFUERZOS-OFICINAS_dis_prs-1_BELLAVISTA",
+        "landing": "https://www.oficinasnucleo.cl/sucursales/pits-nucleo-bellavista/",
+        "aws_path_1": "MEGACENTRO/2024/03/refuerzo_oficinas/bellavista/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.oficinasnucleo.cl/sucursales/pits-nucleo-bellavista/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=refuerzos-oficinas",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_megacentro-cl_np_"
+    }
+]

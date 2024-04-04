@@ -1,0 +1,102 @@
+[
+    {
+        "type": "link",
+        "sizes": ["300x250"],
+        "tcs": [],
+        "name": "volaris-mx_adg_ENERO24_dis_prs-1_GENERICO-ABR",
+        "landing": "https://a2.adform.net/C/?bn=72591938",
+        "aws_path_1": "VOLARIS/2024/04/genericos/",
+        "aws_path_2": ".jpg",
+        "url": "https://a2.adform.net/C/?bn=72591938"
+    },
+    {
+        "type": "link",
+        "sizes": ["300x600"],
+        "tcs": [],
+        "name": "volaris-mx_adg_ENERO24_dis_prs-1_GENERICO-ABR",
+        "landing": "https://a2.adform.net/C/?bn=72591936",
+        "aws_path_1": "VOLARIS/2024/04/genericos/",
+        "aws_path_2": ".jpg",
+        "url": "https://a2.adform.net/C/?bn=72591936"
+    },
+    {
+        "type": "link",
+        "sizes": ["300x250"],
+        "tcs": [],
+        "name": "volaris-mx_adg_ENERO24_dis_prs-1_PALACE-ABR",
+        "landing": "https://a2.adform.net/C/?bn=72592396",
+        "aws_path_1": "VOLARIS/2024/04/palace/",
+        "aws_path_2": ".jpg",
+        "url": "https://a2.adform.net/C/?bn=72592396"
+    },
+    {
+        "type": "link",
+        "sizes": ["300x600"],
+        "tcs": [],
+        "name": "volaris-mx_adg_ENERO24_dis_prs-1_PALACE-ABR",
+        "landing": "https://a2.adform.net/C/?bn=72592400",
+        "aws_path_1": "VOLARIS/2024/04/palace/",
+        "aws_path_2": ".jpg",
+        "url": "https://a2.adform.net/C/?bn=72592400"
+    },
+    {
+        "type": "link",
+        "sizes": ["300x250"],
+        "tcs": [],
+        "name": "volaris-mx_adg_ENERO24_dis_prs-1_MAZATLAN-ABR",
+        "landing": "https://a2.adform.net/C/?bn=72592398",
+        "aws_path_1": "VOLARIS/2024/04/mazatlan/",
+        "aws_path_2": ".jpg",
+        "url": "https://a2.adform.net/C/?bn=72592398"
+    },
+    {
+        "type": "link",
+        "sizes": ["300x600"],
+        "tcs": [],
+        "name": "volaris-mx_adg_ENERO24_dis_prs-1_MAZATLAN-ABR",
+        "landing": "https://a2.adform.net/C/?bn=72592401",
+        "aws_path_1": "VOLARIS/2024/04/mazatlan/",
+        "aws_path_2": ".jpg",
+        "url": "https://a2.adform.net/C/?bn=72592401"
+    },
+    {
+        "type": "link",
+        "sizes": ["300x250"],
+        "tcs": [],
+        "name": "volaris-mx_adg_ENERO24_dis_prs-1_AM-ABR",
+        "landing": "https://a2.adform.net/C/?bn=72591949",
+        "aws_path_1": "VOLARIS/2024/04/amresorts/",
+        "aws_path_2": ".jpg",
+        "url": "https://a2.adform.net/C/?bn=72591949"
+    },
+    {
+        "type": "link",
+        "sizes": ["300x600"],
+        "tcs": [],
+        "name": "volaris-mx_adg_ENERO24_dis_prs-1_AM-ABR",
+        "landing": "https://a2.adform.net/C/?bn=72591950",
+        "aws_path_1": "VOLARIS/2024/04/amresorts/",
+        "aws_path_2": ".jpg",
+        "url": "https://a2.adform.net/C/?bn=72591950"
+    },
+    {
+        "type": "link",
+        "sizes": ["300x250"],
+        "tcs": [],
+        "name": "volaris-mx_adg_ENERO24_dis_prs-1_VEGAS-ABR",
+        "landing": "https://a2.adform.net/C/?bn=72591940",
+        "aws_path_1": "VOLARIS/2024/04/las_vegas/",
+        "aws_path_2": ".jpg",
+        "url": "https://a2.adform.net/C/?bn=72591940"
+    },
+    {
+        "type": "link",
+        "sizes": ["300x600"],
+        "tcs": [],
+        "name": "volaris-mx_adg_ENERO24_dis_prs-1_VEGAS-ABR",
+        "landing": "https://a2.adform.net/C/?bn=72591939",
+        "aws_path_1": "VOLARIS/2024/04/las_vegas/",
+        "aws_path_2": ".jpg",
+        "url": "https://a2.adform.net/C/?bn=72591939"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": [],
+        "name": "ok-mobility-es_imp_VENTA_dis-prem_prs-1_EMOVE",
+        "landing": "https://okmobility.com/es/comprar-coche/segunda-mano?utm_source=impulsion&utm_medium=paid-display&utm_campaign=display_buy_generic_coches&utm_term=coches_buy",
+        "aws_path_1": "OK_MOBILITY/2024/03/emove/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/es/comprar-coche/segunda-mano?utm_source=impulsion&utm_medium=paid-display&utm_campaign=display_buy_generic_coches&utm_term=coches_buy"
+    }
+]
