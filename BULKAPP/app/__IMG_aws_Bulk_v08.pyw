@@ -236,8 +236,8 @@ class IMG_aws_TAG_Bulk:
     #Create html web prototype
 
     def create_html_web(self, tag):
-        with open("app/HTML/test_web.html", "w") as f:
-            f.write("<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><meta name='viewport' content='width=device-width, initial-scale=1.0'><title>Document</title>")
+        with open("app/HTML/test_web.html", "w", encoding="utf-8") as f:
+            f.write("<!DOCTYPE html><html lang='es'><head><meta charset='UTF-8'><meta name='viewport' content='width=device-width, initial-scale=1.0'><title>Document</title>")
              # Estilo CSS
             css_style = '''
             <style>
@@ -306,9 +306,10 @@ class IMG_aws_TAG_Bulk:
                     font-size: 20px;
                 }
         
-                h2 {
+                h4 {
                     margin: 0;
                     font-family: Poppins, Helvetica, Arial, "sans-serif";
+                    text-align: left;
                 }
         
                 .title {
@@ -426,6 +427,12 @@ class IMG_aws_TAG_Bulk:
                     font-family: Poppins, Helvetica, Arial, "sans-serif";
 
                 }
+
+                @media (max-width: 1300px) {
+                body{
+                transform:scale(0.8)
+                }
+                }
             </style>
             '''
 
@@ -493,40 +500,11 @@ class IMG_aws_TAG_Bulk:
                 <div class="row">
                     <div class="main">
                         <div class="caja-noticia">
-                            <h2>Lorem Ipsum Vivamus</h2>
-                            <p class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium ut
-                                est
-                                nec
-                                dignissim. Vestibulum pellentesque ac elit porta rhoncus. Donec vulputate dio leo, at
-                                posuere
-                                purus tincidunt et.</p>
-                            <p class="text">In arcu ante, sagittis ut finibus a, vehicula eu tortor. Nam blandit pretium
-                                quam ac
-                                finibus.
-                                Praesent finibus ex ex.Donec suscipit vulputate erat, a malesuada ligula hendrerit
-                                vitae.
-                                Nam
-                                bibendum ipsum condimentum sapien pretium, sit amet vehicula erat tempor.
-                                Etiam ut ornare leo,
-                                quis
-                                porttitor felis. Mauris varius tempor nisi, ac blandit elit. Cras a consectetur quam,
-                                sit
-                                amet
-                                vestibulum odio.</p>
+                            <h4>Creatividades dinámicas en el ecosistema digital</h4>
+                            <p class="text">Han pasado más de tres años desde que Google Chrome manifestó por primera vez su intención de bloquear el uso de cookies de terceros. Aunque Chrome no ha cumplido con los plazos iniciales, pronto lo hará y se sumará a la cada vez más larga lista de navegadores que sólo permiten el uso de cookies propias. Por ese motivo, desde Neural.ONE llevamos trabajando más de año y medio en una tecnología que nos permita trabajar con los feeds de cliente de la manera más óptima posible para poder impactar a los usuarios en base a sus gustos y preferencias sin la necesidad de utilizar cookies de terceros.</p>
+                            <p class="text">Para conseguirlo, hemos tenido que enfrentarnos a cuatro grandes retos. El primero es el volumen de los feeds de producto. Gracias a nuestra experiencia previa manejando millones de datos en nuestro modelo de atribución, conseguimos aplicar las últimas tecnologías en Big Data. Con ellas podemos tratar en una sola campaña feeds de hasta 30.000 productos distintos, con la capacidad de actualizarlos cada hora. Esto permite a nuestros clientes tener siempre actualizadas sus DCO (Dynamic Creative Optimization) frente a cambios de precio, stock, url, etc.</p>
                             <img class="img-noticia" src="./img/img_1280x853.jpg">
-                            <p class="text">In arcu ante, sagittis ut finibus a, vehicula eu tortor. Nam blandit pretium
-                                quam ac
-                                finibus.
-                                Praesent finibus ex ex.Donec suscipit vulputate erat, a malesuada ligula hendrerit
-                                vitae.
-                                Nam
-                                bibendum ipsum condimentum sapien pretium, sit amet vehicula erat tempor.
-                                Etiam ut ornare leo,
-                                quis
-                                porttitor felis. Mauris varius tempor nisi, ac blandit elit. Cras a consectetur quam,
-                                sit
-                                amet
-                                vestibulum odio.</p>
+                            <p class="text">Un segundo reto ha sido la personalización del anuncio. Para poder determinar cuáles son los productos más relevantes para los usuarios, analizamos más de una decena de métricas, entre las que destacan el número de visitas por producto y las interacciones realizadas. Alimentamos a nuestro algoritmo con toda esta información y determinamos cuales son los productos más relevantes para cada usuario. Para explicar este punto podemos tomar de referencia un e-commerce de ropa en el que un cliente ha visto 5 productos distintos, gracias a nuestro algoritmo, podemos saber cuánto tiempo ha pasado interactuando el usuario con cada uno de ellos, lo que le permitirá adelantarnos a la demanda del cliente y ofrecerle en las siguientes creatividades aquellos artículos que más le ha interesado.</p>
                                 <div style="margin:auto">{img_src_320x100}</div>
       
                         </div>
@@ -535,40 +513,11 @@ class IMG_aws_TAG_Bulk:
                     <hr>
                     <div class="main">
                         <div class="caja-noticia">
-                            <h2>Lorem Ipsum Vivamus</h2>
-                            <p class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium ut
-                                est
-                                nec
-                                dignissim. Vestibulum pellentesque ac elit porta rhoncus. Donec vulputate dio leo, at
-                                posuere
-                                purus tincidunt et.</p>
-                            <p class="text">In arcu ante, sagittis ut finibus a, vehicula eu tortor. Nam blandit pretium
-                                quam ac
-                                finibus.
-                                Praesent finibus ex ex.Donec suscipit vulputate erat, a malesuada ligula hendrerit
-                                vitae.
-                                Nam
-                                bibendum ipsum condimentum sapien pretium, sit amet vehicula erat tempor.
-                                Etiam ut ornare leo,
-                                quis
-                                porttitor felis. Mauris varius tempor nisi, ac blandit elit. Cras a consectetur quam,
-                                sit
-                                amet
-                                vestibulum odio.</p>
+                            <h4>Las nuevas tendencias digitales en el forum digital</h4>
+                            <p class="text">Las nuevas tendencias digitales sobre publicidad se han dado cita esta mañana en el forum digital celebrado por Neural One, con el que las compañías ha querido inaugurar sus nuevas oficinas, que cuentan con un espacio habilitado en el que celebrarán de forma habitual forums y cursos de formación interna.</p>
+                            <p class="text">Por otro lado, ha aseverado que «a día de hoy somos capaces de mostrar una casa a través de visitas virtuales en las que además se pueden ver las casas decoradas«, todo un paso para las inmobiliarias de la banca, que normalmente ofrecen pisos vacíos. Además, «podemos mostrar la zona gracias a planos que hemos sacado con drones», ha puntualizado, lo que ofrece a los usuarios una experiencia más completa.</p>
                             <img class="img-noticia" src="./img/img_1280x853.jpg">
-                            <p class="text">In arcu ante, sagittis ut finibus a, vehicula eu tortor. Nam blandit pretium
-                                quam ac
-                                finibus.
-                                Praesent finibus ex ex.Donec suscipit vulputate erat, a malesuada ligula hendrerit
-                                vitae.
-                                Nam
-                                bibendum ipsum condimentum sapien pretium, sit amet vehicula erat tempor.
-                                Etiam ut ornare leo,
-                                quis
-                                porttitor felis. Mauris varius tempor nisi, ac blandit elit. Cras a consectetur quam,
-                                sit
-                                amet
-                                vestibulum odio.</p>
+                            <p class="text">Entre las mejoras que han implementado en el grupo, la directora de Marketing Digital de la compañía ha subrayado la posibilidad de lanzar la búsqueda colocando como un punto de partida la ubicación actual del usuario o las funcionalidades en el mapa.</p>
 
                         </div>
                         <div style="display: grid;">
@@ -607,23 +556,23 @@ class IMG_aws_TAG_Bulk:
 
         # Valida que la URL empiece por "https://"
         if not re.match(r'^https://', url):
-            errors.append("La URL no comienza con 'https://'")
+            errors.append("The URL does not start with 'https://'")
 
         # Valida que la URL no tenga espacios
         if re.search(r'\s', url):
-            errors.append("La URL contiene espacios en blanco")
+            errors.append("URL contains whitespaces")
 
         # Valida que la URL no contenga el carácter #
         if '#' in url:
-            errors.append("La URL contiene el carácter ('#')")
+            errors.append("The URL contains the character ('#')")
 
         # Valida que la URL tenga 0 o 1 interrogaciones
         if not re.match(r'^[^\?]*(\?[^\?]*){0,1}$', url):
-            errors.append("La URL contiene más de una interrogación ('?')")
+            errors.append("The URL contains more than one question mark ('?')")
 
         # Valida que la URL no tenga dos "&" juntos
         if re.search(r'&{2}', url):
-            errors.append("La URL contiene dos '&' consecutivos")
+            errors.append("The URL contains two consecutive '&'")
 
         # Si se encontraron errores, devuelve un mensaje de error
         if errors:

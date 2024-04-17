@@ -1,0 +1,46 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "320x100", "300x600", "300x250"],
+        "tcs": ["128741", "128742", "128743", "128744"],
+        "name": "oasis-us_v1mp_AO_dis_prs-14_ESPECIAL_PRIMAVERA",
+        "landing": "https://oasishoteles.com/en",
+        "aws_path_1": "OASIS/2024/04/primavera/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://oasishoteles.com/en?utm_source=v1mp&utm_medium=dis-prs-14&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_oasis-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "320x100", "300x600", "300x250"],
+        "tcs": ["128745", "128746", "128747", "128748"],
+        "name": "oasis-us_v1mp_AO_dis_rtg-14_ESPECIAL_PRIMAVERA",
+        "landing": "https://oasishoteles.com/en",
+        "aws_path_1": "OASIS/2024/04/primavera/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://oasishoteles.com/en?utm_source=v1mp&utm_medium=dis-rtg-14&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_oasis-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "320x100", "300x600", "300x250"],
+        "tcs": ["128749", "128750", "128751", "128752"],
+        "name": "oasis-mx_v1mp_AO_dis_prs-14_ESPECIAL_PRIMAVERA",
+        "landing": "https://oasishoteles.com/es",
+        "aws_path_1": "OASIS/2024/04/primavera/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://oasishoteles.com/es?utm_source=v1mp&utm_medium=dis-prs-14&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_oasis-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "320x100", "300x600", "300x250"],
+        "tcs": ["128753", "128754", "128755", "128756"],
+        "name": "oasis-mx_v1mp_AO_dis_rtg-14_ESPECIAL_PRIMAVERA",
+        "landing": "https://oasishoteles.com/es",
+        "aws_path_1": "OASIS/2024/04/primavera/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://oasishoteles.com/es?utm_source=v1mp&utm_medium=dis-rtg-14&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_oasis-hotels-es_np_"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["128459", "128460", "128461", "128462", "128463", "128464"],
+        "name": "viva-es_v1mp_AO_dis_prs-1_MEJORES_OFERTAS",
+        "landing": "https://www.hotelsviva.com/es/",
+        "aws_path_1": "VIVA_HOTELS/2024/04/display/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/es/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=Mejores_ofertas",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_viva-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["128465", "128466", "128467", "128468", "128469", "128470"],
+        "name": "viva-gb_v1mp_AO_dis_prs-1_MEJORES_OFERTAS",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/04/display/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=Mejores_ofertas",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_viva-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["128471", "128472", "128473", "128474", "128475", "128476"],
+        "name": "viva-de_v1mp_AO_dis_prs-1_MEJORES_OFERTAS",
+        "landing": "https://www.hotelsviva.com/de/",
+        "aws_path_1": "VIVA_HOTELS/2024/04/display/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=Mejores_ofertas",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_viva-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["128477", "128478", "128479", "128480", "128481", "128482"],
+        "name": "viva-ch_v1mp_AO_dis_prs-1_MEJORES_OFERTAS",
+        "landing": "https://www.hotelsviva.com/de/",
+        "aws_path_1": "VIVA_HOTELS/2024/04/display/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=Mejores_ofertas",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_viva-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["128489", "128490", "128491", "128492", "128493", "128494"],
+        "name": "viva-row_v1mp_AO_dis_prs-1_MEJORES_OFERTAS",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/04/display/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=Mejores_ofertas",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_viva-hotels-es_np_"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "type": "link",
+        "sizes": ["120x600", "160x600", "300x250", "300x600", "468x60", "728x90"],
+        "tcs": ["128757", "128758", "128759", "128760", "128761", "128762"],
+        "name": "civitatis-it_adg_AO_dis_prs-22_CONVERSION-MENSAJE-MARRAKECH",
+        "landing": "https://www.civitatis.com/it/marrakech/",
+        "aws_path_1": "CIVITATIS/2024/04/conversion_mensaje/it/marrakech/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/it/marrakech/?aid=108&cmp=it_IT&cmpint=adg_it_MARRAKECH_120x600&utm_source=adg&utm_medium=dis-prs-22&utm_campaign=conversion&utm_term=CONSIDERACION-MENSAJE&utm_content=MARRAKECH",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": ["120x600", "160x600", "300x250", "300x600", "468x60", "728x90"],
+        "tcs": ["128763", "128764", "128765", "128766", "128767", "128768"],
+        "name": "civitatis-it_adg_AO_dis_prs-22_CONVERSION-MENSAJE-CABOS",
+        "landing": "https://www.civitatis.com/it/los-cabos/",
+        "aws_path_1": "CIVITATIS/2024/04/conversion_mensaje/it/los_cabos/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/it/los-cabos/?aid=108&cmp=it_IT&cmpint=adg_it_CABOS_120x600&utm_source=adg&utm_medium=dis-prs-22&utm_campaign=conversion&utm_term=CONSIDERACION-MENSAJE&utm_content=CABOS",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": ["120x600", "160x600", "300x250", "300x600", "468x60", "728x90"],
+        "tcs": ["128769", "128770", "128771", "128772", "128773", "128774"],
+        "name": "civitatis-it_adg_AO_dis_prs-22_CONVERSION-MENSAJE-ESTAMBUL",
+        "landing": "https://www.civitatis.com/it/istanbul/",
+        "aws_path_1": "CIVITATIS/2024/04/conversion_mensaje/it/estambul/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/it/istanbul/?aid=108&cmp=it_IT&cmpint=adg_it_ESTAMBUL_120x600&utm_source=adg&utm_medium=dis-prs-22&utm_campaign=conversion&utm_term=CONSIDERACION-MENSAJE&utm_content=ESTAMBUL",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": ["120x600", "160x600", "300x250", "300x600", "468x60", "728x90"],
+        "tcs": ["128775", "128776", "128777", "128778", "128779", "128780"],
+        "name": "civitatis-it_adg_AO_dis_prs-22_CONVERSION-MENSAJE-BAIRES",
+        "landing": "https://www.civitatis.com/it/buenos-aires/",
+        "aws_path_1": "CIVITATIS/2024/04/conversion_mensaje/it/buenos_aires/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/it/buenos-aires/?aid=108&cmp=it_IT&cmpint=adg_it_BAIRES_120x600&utm_source=adg&utm_medium=dis-prs-22&utm_campaign=conversion&utm_term=CONSIDERACION-MENSAJE&utm_content=BAIRES",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": ["120x600", "160x600", "300x250", "300x600", "468x60", "728x90"],
+        "tcs": ["128781", "128782", "128783", "128784", "128785", "128786"],
+        "name": "civitatis-it_adg_AO_dis_prs-22_CONVERSION-MENSAJE-BUDAPEST",
+        "landing": "https://www.civitatis.com/it/budapest/",
+        "aws_path_1": "CIVITATIS/2024/04/conversion_mensaje/it/budapest/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/it/budapest/?aid=108&cmp=it_IT&cmpint=adg_it_BUDAPEST_120x600&utm_source=adg&utm_medium=dis-prs-22&utm_campaign=conversion&utm_term=CONSIDERACION-MENSAJE&utm_content=BUDAPEST",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": ["120x600", "160x600", "300x250", "300x600", "468x60", "728x90"],
+        "tcs": ["128787", "128788", "128789", "128790", "128791", "128792"],
+        "name": "civitatis-it_adg_AO_dis_prs-22_CONVERSION-MENSAJE-BARCELONA",
+        "landing": "https://www.civitatis.com/it/barcellona/",
+        "aws_path_1": "CIVITATIS/2024/04/conversion_mensaje/it/barcelona/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/it/barcellona/?aid=108&cmp=it_IT&cmpint=adg_it_BARCELONA_120x600&utm_source=adg&utm_medium=dis-prs-22&utm_campaign=conversion&utm_term=CONSIDERACION-MENSAJE&utm_content=BARCELONA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    }
+]

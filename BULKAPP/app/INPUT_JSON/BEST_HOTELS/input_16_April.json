@@ -1,0 +1,13 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "728x90", "970x250"],
+        "tcs": ["129290", "129291", "129292", "129293", "129294", "129295"],
+        "name": "best-pt_v1mp_AO_PT_dis-dco_rtg-1_ABRIL",
+        "landing": "https://www.besthotels.es/en/",
+        "aws_path_1": "BEST_HOTELS/2024/02/dco/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.besthotels.es/en/?utm_source=v1mp&utm_medium=dis-dco-rtg-1&utm_campaign=ao_pt&utm_term=pt",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_best-hotels-es_np_"
+    }
+]

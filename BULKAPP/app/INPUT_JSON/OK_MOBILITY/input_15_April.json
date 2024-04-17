@@ -1,0 +1,12 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": [],
+        "name": "preview",
+        "landing": "https://okmobility.com/",
+        "aws_path_1": "OK_MOBILITY/2024/04/3d_preview/",
+        "aws_path_2": "300x600.html",
+        "link": "https://okmobility.com/"
+    }
+]

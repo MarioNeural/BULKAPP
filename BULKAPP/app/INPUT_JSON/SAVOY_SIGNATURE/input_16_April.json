@@ -1,0 +1,24 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["123162", "123167"],
+        "name": "savoy-gb_v1mp_AO_vid_prs-1_PREROLL",
+        "landing": "https://www.savoysignature.com/en/",
+        "aws_path_1": "SAVOY_SIGNATURE/2024/04/preroll_en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.savoysignature.com/en/?utm_source=v1mp&utm_medium=vid-prs-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_savoy-signature-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["123180", "123185"],
+        "name": "savoy-pt_v1mp_AO_vid_prs-1_PREROLL",
+        "landing": "https://www.savoysignature.com/pt/",
+        "aws_path_1": "SAVOY_SIGNATURE/2024/04/preroll_pt/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.savoysignature.com/pt/?utm_source=v1mp&utm_medium=vid-prs-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_savoy-signature-es_np_"
+    }
+]

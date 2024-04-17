@@ -1,0 +1,46 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["728x90", "320x100", "300x600", "300x250"],
+        "tcs": ["128610", "128611", "128612", "128613"],
+        "name": "canarias-es_v1mp_AO-MADRID_dis_prs-1_SABILA",
+        "landing": "https://www.canariasviaja.com/vuelo_hotel/listado?o=37-26&i=23%2F09%2F2024&v=26%2F09%2F2024&residencia=NR&nH=1&destino=Tenerife%2BNorte&d=1-7&tA=&aP=&zT=&nombreHotel=sabila&isTarifaFlexible=false&isOrdenPrecio=&random=31&nA0=2&nN0=0&nB0=0",
+        "aws_path_1": "CANARIAS_VIAJA/2024/04/madrid/sabila/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.canariasviaja.com/vuelo_hotel/listado?o=37-26&i=23%2F09%2F2024&v=26%2F09%2F2024&residencia=NR&nH=1&destino=Tenerife%2BNorte&d=1-7&tA=&aP=&zT=&nombreHotel=sabila&isTarifaFlexible=false&isOrdenPrecio=&random=31&nA0=2&nN0=0&nB0=0&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-madrid&utm_content=SABILA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_canarias-viaja-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["728x90", "320x100", "300x600", "300x250"],
+        "tcs": ["128614", "128615", "128616", "128617"],
+        "name": "canarias-es_v1mp_AO-MADRID_dis_prs-1_DALIAS",
+        "landing": "https://www.canariasviaja.com/vuelo_hotel/listado?o=37-26&i=06%2F09%2F2024&v=09%2F09%2F2024&residencia=NR&nH=1&destino=Tenerife%2BNorte&d=1-7&tA=&aP=&zT=&nombreHotel=dalias&isTarifaFlexible=false&isOrdenPrecio=&random=85&nA0=2&nN0=0&nB0=0",
+        "aws_path_1": "CANARIAS_VIAJA/2024/04/madrid/dalias/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.canariasviaja.com/vuelo_hotel/listado?o=37-26&i=06%2F09%2F2024&v=09%2F09%2F2024&residencia=NR&nH=1&destino=Tenerife%2BNorte&d=1-7&tA=&aP=&zT=&nombreHotel=dalias&isTarifaFlexible=false&isOrdenPrecio=&random=85&nA0=2&nN0=0&nB0=0&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-madrid&utm_content=DALIAS",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_canarias-viaja-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["728x90", "320x100", "300x600", "300x250"],
+        "tcs": ["128618", "128619", "128620", "128621"],
+        "name": "canarias-es_v1mp_AO-MADRID_dis_prs-1_BOUGANVILLE",
+        "landing": "https://www.canariasviaja.com/vuelo_hotel/listado?o=37-26&i=17%2F09%2F2024&v=20%2F09%2F2024&residencia=NR&nH=1&destino=Tenerife%2BNorte&d=1-7&tA=&aP=&zT=&nombreHotel=bouganville&isTarifaFlexible=false&isOrdenPrecio=&random=87&nA0=2&nN0=0&nB0=0",
+        "aws_path_1": "CANARIAS_VIAJA/2024/04/madrid/bouganville/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.canariasviaja.com/vuelo_hotel/listado?o=37-26&i=17%2F09%2F2024&v=20%2F09%2F2024&residencia=NR&nH=1&destino=Tenerife%2BNorte&d=1-7&tA=&aP=&zT=&nombreHotel=bouganville&isTarifaFlexible=false&isOrdenPrecio=&random=87&nA0=2&nN0=0&nB0=0&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-madrid&utm_content=BOUGANVILLE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_canarias-viaja-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["728x90", "320x100", "300x600", "300x250"],
+        "tcs": ["128622", "128623", "128624", "128625"],
+        "name": "canarias-es_v1mp_AO-MADRID_dis_prs-1_ANTHELIA",
+        "landing": "https://www.canariasviaja.com/vuelo_hotel/listado?o=37-26&i=17%2F09%2F2024&v=20%2F09%2F2024&residencia=NR&nH=1&destino=Tenerife%2BNorte&d=1-7&tA=&aP=&zT=&nombreHotel=anthelia&isTarifaFlexible=false&isOrdenPrecio=&random=98&nA0=2&nN0=0&nB0=0",
+        "aws_path_1": "CANARIAS_VIAJA/2024/04/madrid/anthelia/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.canariasviaja.com/vuelo_hotel/listado?o=37-26&i=17%2F09%2F2024&v=20%2F09%2F2024&residencia=NR&nH=1&destino=Tenerife%2BNorte&d=1-7&tA=&aP=&zT=&nombreHotel=anthelia&isTarifaFlexible=false&isOrdenPrecio=&random=98&nA0=2&nN0=0&nB0=0&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-madrid&utm_content=ANTHELIA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_canarias-viaja-es_np_"
+    }
+]

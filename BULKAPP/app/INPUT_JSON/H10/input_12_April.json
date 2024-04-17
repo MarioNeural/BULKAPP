@@ -1,0 +1,200 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "336x280", "728x90", "970x90", "300x100"],
+        "tcs": ["128883", "128884", "128885", "128886", "128887", "128888", "128889"],
+        "name": "h10-ie_v1mp_AO_dis_prs-1_CANARIAS_APPS_AFINIDAD",
+        "landing": "https://www.h10hotels.com/en",
+        "aws_path_1": "H10/2023/12/ao/canarias/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.h10hotels.com/en?&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=IE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_h10-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "336x280", "728x90", "970x90", "300x100"],
+        "tcs": ["128890", "128891", "128892", "128893", "128894", "128895", "128896"],
+        "name": "h10-ie_v1mp_AO_dis_prs-1_CARIBE_APPS_AFINIDAD",
+        "landing": "https://www.h10hotels.com/en",
+        "aws_path_1": "H10/2023/12/ao/caribe/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.h10hotels.com/en?&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=IE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_h10-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "336x280", "728x90", "970x90", "300x100"],
+        "tcs": ["128897", "128898", "128899", "128900", "128901", "128902", "128903"],
+        "name": "h10-ie_v1mp_AO_dis_prs-1_CORPORATIVO_APPS_AFINIDAD",
+        "landing": "https://www.h10hotels.com/en",
+        "aws_path_1": "H10/2023/12/ao/corp/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.h10hotels.com/en?&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=IE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_h10-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "336x280", "728x90", "970x90", "300x100"],
+        "tcs": ["128904", "128905", "128906", "128907", "128908", "128909", "128910"],
+        "name": "h10-ie_v1mp_AO_dis_prs-1_CANARIAS_WL_PREMIUN",
+        "landing": "https://www.h10hotels.com/en",
+        "aws_path_1": "H10/2023/12/ao/canarias/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.h10hotels.com/en?&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=IE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_h10-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "336x280", "728x90", "970x90", "300x100"],
+        "tcs": ["128911", "128912", "128913", "128914", "128915", "128916", "128917"],
+        "name": "h10-ie_v1mp_AO_dis_prs-1_CARIBE_WL_PREMIUN",
+        "landing": "https://www.h10hotels.com/en",
+        "aws_path_1": "H10/2023/12/ao/caribe/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.h10hotels.com/en?&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=IE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_h10-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "336x280", "728x90", "970x90", "300x100"],
+        "tcs": ["128918", "128919", "128920", "128921", "128922", "128923", "128924"],
+        "name": "h10-ie_v1mp_AO_dis_prs-1_CORPORATIVO_WL_PREMIUN",
+        "landing": "https://www.h10hotels.com/en",
+        "aws_path_1": "H10/2023/12/ao/corp/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.h10hotels.com/en?&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=IE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_h10-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "336x280", "728x90", "970x90", "300x100"],
+        "tcs": ["128925", "128926", "128927", "128928", "128929", "128930", "128931"],
+        "name": "h10-ie_v1mp_AO_dis_prs-1_CANARIAS_WL_TRAVEL",
+        "landing": "https://www.h10hotels.com/en",
+        "aws_path_1": "H10/2023/12/ao/canarias/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.h10hotels.com/en?&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=IE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_h10-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "336x280", "728x90", "970x90", "300x100"],
+        "tcs": ["128932", "128933", "128934", "128935", "128936", "128937", "128938"],
+        "name": "h10-ie_v1mp_AO_dis_prs-1_CARIBE_WL_TRAVEL",
+        "landing": "https://www.h10hotels.com/en",
+        "aws_path_1": "H10/2023/12/ao/caribe/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.h10hotels.com/en?&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=IE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_h10-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "336x280", "728x90", "970x90", "300x100"],
+        "tcs": ["128939", "128940", "128941", "128942", "128943", "128944", "128945"],
+        "name": "h10-ie_v1mp_AO_dis_prs-1_CORPORATIVO_WL_TRAVEL",
+        "landing": "https://www.h10hotels.com/en",
+        "aws_path_1": "H10/2023/12/ao/corp/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.h10hotels.com/en?&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=IE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_h10-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "336x280", "728x90", "970x90", "300x100"],
+        "tcs": ["128946", "128947", "128948", "128949", "128950", "128951", "128952"],
+        "name": "h10-ie_v1mp_AO_dis_prs-1_CANARIAS_KEY_WORDS",
+        "landing": "https://www.h10hotels.com/en",
+        "aws_path_1": "H10/2023/12/ao/canarias/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.h10hotels.com/en?&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=IE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_h10-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "336x280", "728x90", "970x90", "300x100"],
+        "tcs": ["128953", "128954", "128955", "128956", "128957", "128958", "128959"],
+        "name": "h10-ie_v1mp_AO_dis_prs-1_CARIBE_KEY_WORDS",
+        "landing": "https://www.h10hotels.com/en",
+        "aws_path_1": "H10/2023/12/ao/caribe/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.h10hotels.com/en?&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=IE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_h10-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "336x280", "728x90", "970x90", "300x100"],
+        "tcs": ["128960", "128961", "128962", "128963", "128964", "128965", "128966"],
+        "name": "h10-ie_v1mp_AO_dis_prs-1_CORPORATIVO_KEY_WORDS",
+        "landing": "https://www.h10hotels.com/en",
+        "aws_path_1": "H10/2023/12/ao/corp/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.h10hotels.com/en?&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=IE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_h10-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "336x280", "728x90", "970x90", "300x100"],
+        "tcs": ["128967", "128968", "128969", "128970", "128971", "128972", "128973"],
+        "name": "h10-ie_v1mp_AO_dis_prs-1_CANARIAS_INMARKET",
+        "landing": "https://www.h10hotels.com/en",
+        "aws_path_1": "H10/2023/12/ao/canarias/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.h10hotels.com/en?&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=IE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_h10-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "336x280", "728x90", "970x90", "300x100"],
+        "tcs": ["128974", "128975", "128976", "128977", "128978", "128979", "128980"],
+        "name": "h10-ie_v1mp_AO_dis_prs-1_CARIBE_INMARKET",
+        "landing": "https://www.h10hotels.com/en",
+        "aws_path_1": "H10/2023/12/ao/caribe/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.h10hotels.com/en?&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=IE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_h10-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "336x280", "728x90", "970x90", "300x100"],
+        "tcs": ["128981", "128982", "128983", "128984", "128985", "128986", "128987"],
+        "name": "h10-ie_v1mp_AO_dis_prs-1_CORPORATIVO_INMARKET",
+        "landing": "https://www.h10hotels.com/en",
+        "aws_path_1": "H10/2023/12/ao/corp/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.h10hotels.com/en?&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=IE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_h10-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "336x280", "728x90", "970x90", "300x100"],
+        "tcs": ["128988", "128989", "128990", "128991", "128992", "128993", "128994"],
+        "name": "h10-ie_v1mp_AO_dis_rtg-1_CARIBE _RTG_GENERAL",
+        "landing": "https://www.h10hotels.com/en",
+        "aws_path_1": "H10/2023/12/ao/caribe/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.h10hotels.com/en?&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=IE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_h10-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "336x280", "728x90", "970x90", "300x100"],
+        "tcs": ["128995", "128996", "128997", "128998", "128999", "129000", "129001"],
+        "name": "h10-ie_v1mp_AO_dis_rtg-1_CARIBE _CUALIFICADO_TIEMPO",
+        "landing": "https://www.h10hotels.com/en",
+        "aws_path_1": "H10/2023/12/ao/caribe/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.h10hotels.com/en?&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=IE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_h10-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "336x280", "728x90", "970x90", "300x100"],
+        "tcs": ["129002", "129003", "129004", "129005", "129006", "129007", "129008"],
+        "name": "h10-ie_v1mp_AO_dis_rtg-1_CARIBE _CUALIFICADO_PAGINAS",
+        "landing": "https://www.h10hotels.com/en",
+        "aws_path_1": "H10/2023/12/ao/caribe/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.h10hotels.com/en?&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=IE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_h10-hotels-es_np_"
+    }
+]

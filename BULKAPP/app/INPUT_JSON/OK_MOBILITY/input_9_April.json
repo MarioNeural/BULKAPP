@@ -1,0 +1,74 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "160x600", "300x250", "320x100", "728x90", "970x250"],
+        "tcs": ["128574", "128575", "128576", "128577", "128578", "128579"],
+        "name": "ok-mobility-es_v1mp_PASCUA24_dis-dco_rtg-22_DCO",
+        "landing": "https://okmobility.com/es/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/03/dco/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/es/rent/?promo=HOLIDAYS&utm_source=v1mp&utm_medium=dis-dco-rtg-22&utm_campaign=pascua24&utm_term=es",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_okmobility-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "160x600", "300x250", "320x100", "728x90", "970x250"],
+        "tcs": ["128580", "128581", "128582", "128583", "128584", "128585"],
+        "name": "ok-mobility-gb_v1mp_PASCUA24_dis-dco_rtg-22_DCO",
+        "landing": "https://okmobility.com/en/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/03/dco/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/en/rent/?promo=HOLIDAYS&utm_source=v1mp&utm_medium=dis-dco-rtg-22&utm_campaign=pascua24&utm_term=gb",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_okmobility-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "160x600", "300x250", "320x100", "728x90", "970x250"],
+        "tcs": ["128586", "128587", "128588", "128589", "128590", "128591"],
+        "name": "ok-mobility-fr_v1mp_PASCUA24_dis-dco_rtg-22_DCO",
+        "landing": "https://okmobility.com/fr/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/03/dco/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/fr/rent/?promo=HOLIDAYS&utm_source=v1mp&utm_medium=dis-dco-rtg-22&utm_campaign=pascua24&utm_term=fr",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_okmobility-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "160x600", "300x250", "320x100", "728x90", "970x250"],
+        "tcs": ["128592", "128593", "128594", "128595", "128596", "128597"],
+        "name": "ok-mobility-it_v1mp_PASCUA24_dis-dco_rtg-22_DCO",
+        "landing": "https://okmobility.com/it/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/03/dco/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/it/rent/?promo=HOLIDAYS&utm_source=v1mp&utm_medium=dis-dco-rtg-22&utm_campaign=pascua24&utm_term=it",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_okmobility-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "160x600", "300x250", "320x100", "728x90", "970x250"],
+        "tcs": ["128598", "128599", "128600", "128601", "128602", "128603"],
+        "name": "ok-mobility-de_v1mp_PASCUA24_dis-dco_rtg-22_DCO",
+        "landing": "https://okmobility.com/de/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/03/dco/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/de/rent/?promo=HOLIDAYS&utm_source=v1mp&utm_medium=dis-dco-rtg-22&utm_campaign=pascua24&utm_term=de",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_okmobility-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "160x600", "300x250", "320x100", "728x90", "970x250"],
+        "tcs": ["128604", "128605", "128606", "128607", "128608", "128609"],
+        "name": "ok-mobility-pt_v1mp_PASCUA24_dis-dco_rtg-22_DCO",
+        "landing": "https://okmobility.com/pt/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/03/dco/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/pt/rent/?promo=HOLIDAYS&utm_source=v1mp&utm_medium=dis-dco-rtg-22&utm_campaign=pascua24&utm_term=pt",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_okmobility-es_np_",
+        "add_utm_size": "utm_content="
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "type": "link",
+        "sizes": ["970x250", "300x600"],
+        "tcs": [],
+        "name": "turismo-la-palma-de_imp_TURISMO-DE-LA-PALMA-DE_nat_prs-1_DE",
+        "landing": "https://visitlapalma.es/de/",
+        "aws_path_1": "TURISMO_LA_PALMA/2024/04/display_nativa/",
+        "aws_path_2": ".png",
+        "url": "https://visitlapalma.es/de/?utm_source=imp&utm_medium=nat-prs-1&utm_campaign=turismo-de-la-palma-de"
+    },
+    {
+        "type": "link",
+        "sizes": ["970x250", "300x600"],
+        "tcs": [],
+        "name": "turismo-la-palma-de_imp_TURISMO-DE-LA-PALMA-DE_nat_prs-1_DE V2",
+        "landing": "https://visitlapalma.es/de/",
+        "aws_path_1": "TURISMO_LA_PALMA/2024/04/display_nativa/v2/",
+        "aws_path_2": ".png",
+        "url": "https://visitlapalma.es/de/?utm_source=imp&utm_medium=nat-prs-1&utm_campaign=turismo-de-la-palma-de"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "320x100", "160x600", "970x250", "728x90"],
+        "tcs": ["129177", "129178", "129179", "129180", "129181", "129182"],
+        "name": "educo-es_v1mp_BECAS-COMEDOR_dis_prs-1_BECAS-1",
+        "landing": "https://www.educo.org/landing/becascomedor",
+        "aws_path_1": "EDUCO/2024/04/becas_comedor/1/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.educo.org/landing/becascomedor?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=becas-comedor",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_educo-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "970x250"],
+        "tcs": ["129183", "129184", "129185"],
+        "name": "educo-es_v1mp_BECAS-COMEDOR_dis_rtg-1_BECAS-1",
+        "landing": "https://www.educo.org/landing/becascomedor",
+        "aws_path_1": "EDUCO/2024/04/becas_comedor/1/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.educo.org/landing/becascomedor?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=becas-comedor",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_educo-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "320x100", "160x600", "970x250", "728x90"],
+        "tcs": ["129186", "129187", "129188", "129189", "129190", "129191"],
+        "name": "educo-es_v1mp_BECAS-COMEDOR_dis_prs-1_BECAS-2",
+        "landing": "https://www.educo.org/landing/becascomedor",
+        "aws_path_1": "EDUCO/2024/04/becas_comedor/2/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.educo.org/landing/becascomedor?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=becas-comedor",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_educo-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "970x250"],
+        "tcs": ["129192", "129193", "129194"],
+        "name": "educo-es_v1mp_BECAS-COMEDOR_dis_rtg-1_BECAS-2",
+        "landing": "https://www.educo.org/landing/becascomedor",
+        "aws_path_1": "EDUCO/2024/04/becas_comedor/2/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.educo.org/landing/becascomedor?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=becas-comedor",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_educo-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "320x100", "160x600", "970x250", "728x90"],
+        "tcs": ["129195", "129196", "129197", "129198", "129199", "129200"],
+        "name": "educo-es_v1mp_BECAS-COMEDOR_dis_prs-1_BECAS-3",
+        "landing": "https://www.educo.org/landing/becascomedor",
+        "aws_path_1": "EDUCO/2024/04/becas_comedor/3/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.educo.org/landing/becascomedor?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=becas-comedor",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_educo-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "970x250"],
+        "tcs": ["129201", "129202", "129203"],
+        "name": "educo-es_v1mp_BECAS-COMEDOR_dis_rtg-1_BECAS-3",
+        "landing": "https://www.educo.org/landing/becascomedor",
+        "aws_path_1": "EDUCO/2024/04/becas_comedor/3/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.educo.org/landing/becascomedor?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=becas-comedor",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_educo-es_np_"
+    }
+]

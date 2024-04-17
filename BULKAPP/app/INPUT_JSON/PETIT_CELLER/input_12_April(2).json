@@ -1,0 +1,26 @@
+[
+    {
+        "type": "link",
+        "sizes": ["970x250", "300x600", "300x250", "160x600", "320x50", "728x90"],
+        "tcs": ["128871", "128872", "128873", "128874", "128875", "128876"],
+        "name": "petit-celler-es_imp_ALWAYS-ON_dis_prs-1_LIBRO",
+        "landing": "https://www.petitceller.com/es/vino/espumosos",
+        "aws_path_1": "PETIT_CELLER/2024/04/libro/",
+        "aws_path_2": ".jpg",
+        "url": "https://www.petitceller.com/es/vino/espumosos?utm_source=programatica&utm_medium=display&utm_campaign=always-on&utm_term=LIBRO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_excelsia-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "link",
+        "sizes": ["970x250", "300x600", "300x250", "160x600", "320x50", "728x90"],
+        "tcs": ["128877", "128878", "128879", "128880", "128881", "128882"],
+        "name": "petit-celler-es_imp_ALWAYS-ON_dis_prs-1_PACKS-REGALO-ABRIL",
+        "landing": "https://www.petitceller.com/es/packs-regalos",
+        "aws_path_1": "PETIT_CELLER/2024/04/regalo/",
+        "aws_path_2": ".jpg",
+        "url": "https://www.petitceller.com/es/packs-regalos?utm_source=programatica&utm_medium=display&utm_campaign=always-on&utm_term=PACKS-REGALO-ABRIL",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_excelsia-es_np_",
+        "add_utm_size": "utm_content="
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "320x100", "970x250"],
+        "tcs": ["128851", "128852", "128853", "128854"],
+        "name": "medicos-dm-es_v1mp_ALWAYS-ON_dis_prs-1_SOCIOS-24",
+        "landing": "https://www.medicosdelmundo.org/donaciones/periodica",
+        "aws_path_1": "medicos_mundo/2024/04/socio/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.medicosdelmundo.org/donaciones/periodica?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=always-on&utm_term=socios",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_medicos-del-mundo-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "320x100", "970x250"],
+        "tcs": ["128855", "128856", "128857", "128858"],
+        "name": "medicos-dm-es_v1mp_ALWAYS-ON_dis_rtg-1_SOCIOS-24",
+        "landing": "https://www.medicosdelmundo.org/donaciones/periodica",
+        "aws_path_1": "medicos_mundo/2024/04/socio/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.medicosdelmundo.org/donaciones/periodica?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=always-on&utm_term=socios",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_medicos-del-mundo-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "320x100", "300x600"],
+        "tcs": ["128859", "128860", "128861"],
+        "name": "medicos-dm-es_v1mp_ALWAYS-ON_dis_prs-1_DONA-24",
+        "landing": "https://www.medicosdelmundo.org/ayuda-emergencia-gaza",
+        "aws_path_1": "medicos_mundo/2024/04/dona/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.medicosdelmundo.org/ayuda-emergencia-gaza?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=always-on&utm_term=dona",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_medicos-del-mundo-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "320x100", "300x600"],
+        "tcs": ["128862", "128863", "128864"],
+        "name": "medicos-dm-es_v1mp_ALWAYS-ON_dis_rtg-1_DONA-24",
+        "landing": "https://dona.medicosdelmundo.org/ayuda-gaza",
+        "aws_path_1": "medicos_mundo/2024/04/dona/",
+        "aws_path_2": "/index.html",
+        "link": "https://dona.medicosdelmundo.org/ayuda-gaza?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=always-on&utm_term=dona",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_medicos-del-mundo-es_np_"
+    }
+]

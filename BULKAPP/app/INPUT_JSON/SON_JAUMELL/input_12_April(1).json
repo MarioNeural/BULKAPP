@@ -1,0 +1,24 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["129062", "129063", "129064", "129065", "129066", "129067"],
+        "name": "son-jaumell-es_v1mp_AO_dis_prs-1_ABRIL",
+        "landing": "https://www.hotelsonjaumell.com/es/",
+        "aws_path_1": "SON_JAUMELL/2024/04/12/prs/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsonjaumell.com/es/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_son-jaumell-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["129068", "129069", "129070", "129071", "129072", "129073"],
+        "name": "son-jaumell-es_v1mp_AO_dis_rtg-1_ABRIL",
+        "landing": "https://www.hotelsonjaumell.com/es/",
+        "aws_path_1": "SON_JAUMELL/2024/04/12/rtg/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsonjaumell.com/es/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_son-jaumell-es_np_"
+    }
+]

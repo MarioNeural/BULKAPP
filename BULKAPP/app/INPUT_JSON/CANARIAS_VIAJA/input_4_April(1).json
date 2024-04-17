@@ -1,0 +1,24 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250", "300x250"],
+        "tcs": ["127726", "127727", "127728"],
+        "name": "canarias-es_v1mp_AO-CANARIAS_dis_prs-1_WAH-GC",
+        "landing": "https://www.canariasviaja.com/experiencias/todas?o=16-3&residencia=DC&destino=Madrid&d=37-26&sv=false&sca=6-49&ocultar=true",
+        "aws_path_1": "CANARIAS_VIAJA/2024/04/wah/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.canariasviaja.com/experiencias/todas?o=16-3&residencia=DC&destino=Madrid&d=37-26&sv=false&sca=6-49&ocultar=true&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-canarias&utm_content=WAH-TFN",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_canarias-viaja-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250", "300x250"],
+        "tcs": ["127729", "127730", "127731"],
+        "name": "canarias-es_v1mp_AO-CANARIAS_dis_prs-1_WAH-TFN",
+        "landing": "https://www.canariasviaja.com/experiencias/todas?o=1-7&residencia=DC&destino=Madrid&d=37-26&sv=false&sca=6-49&ocultar=true",
+        "aws_path_1": "CANARIAS_VIAJA/2024/04/wah/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.canariasviaja.com/experiencias/todas?o=1-7&residencia=DC&destino=Madrid&d=37-26&sv=false&sca=6-49&ocultar=true&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-canarias&utm_content=WAH-GC",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_canarias-viaja-es_np_"
+    }
+]

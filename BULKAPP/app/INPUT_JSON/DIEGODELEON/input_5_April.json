@@ -1,0 +1,12 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x600", "300x250", "320x100", "970x250"],
+        "tcs": [],
+        "name": "clinicas-ddl-es_adg_MADRID_dis-dco_rtg-1_DCO",
+        "landing": "",
+        "aws_path_1": "DIEGODELEON/2024/04/dco/",
+        "aws_path_2": ".html",
+        "link": ""
+    }
+]
