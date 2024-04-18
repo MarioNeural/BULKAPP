@@ -19,7 +19,6 @@ from functions.open import open_test_html, open_folder, open_json_with_vscode
 # ESTILOS
 from styles.styles import DARK_GREEN, LIGHT_GREEN, TEXT_BLACK, TEXT_WHITE, RED, BLUE
 
-# Ruta del directorio de la aplicación
 FOLDER_PATH = os.path.join("app")
 
 
@@ -250,8 +249,8 @@ def ejecutar_script(script_name):
 csv_generated = False
 iframe_detected = False  
 
-script_running = False  # Variable para rastrear el estado de ejecución del script
-script_completed = False  # Nueva variable global
+script_running = False 
+script_completed = False 
 
 def ejecutar_img_aws_bulk_thread():
     global csv_generated, iframe_detected, last_execution_time, script_running
@@ -260,7 +259,6 @@ def ejecutar_img_aws_bulk_thread():
         script_path = os.path.join("app", "__IMG_aws_Bulk_v08.pyw")
         process = subprocess.Popen(["pythonw", script_path], stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True, universal_newlines=True)
 
-        # Lee stdout
         while True:
             line = process.stdout.readline()
             if not line:
@@ -268,12 +266,10 @@ def ejecutar_img_aws_bulk_thread():
             output_text.insert(tk.END, line)
             output_text.see(tk.END)
 
-        # Lee stderr
         while True:
             error_line = process.stderr.readline()
             if not error_line:
                 break
-            # Aquí puedes decidir cómo mostrar los mensajes de error, por ejemplo, insertándolos en output_text
             output_text.insert(tk.END, error_line)
             output_text.see(tk.END)
 
@@ -286,14 +282,13 @@ def ejecutar_img_aws_bulk_thread():
         messagebox.showerror("Error", f"Error al ejecutar el script: {e}")
     finally:
         script_running = False
-        progress_bar['value'] = 100  # Establecer la barra de progreso al 100% al finalizar el script
+        progress_bar['value'] = 100 
 
         app.after(1000, lambda: progress_bar.grid_forget())
         app.after(1000, lambda: progress_bar.grid_forget())
 
-        # Comprobación adicional para habilitar el botón de generación de CSV
         if not script_running:
-            csv_generated = True  # Asumiendo que la ejecución fue exitosa
+            csv_generated = True 
             generar_csv_btn.config(state=tk.NORMAL)
 
 def confirmacion_ejecucion():
@@ -347,7 +342,6 @@ def generar_archivo_csv(src_csv_filename):
         compartir_folder_path = os.path.join("app", "COMPARTIR")
         os.makedirs(compartir_folder_path, exist_ok=True)
 
-        # Determina el nombre del archivo destino basado en el archivo fuente.
         if src_csv_filename == "360_ENC_file.csv":
             dest_csv_filename = "360_file.csv"
         else:
@@ -357,11 +351,9 @@ def generar_archivo_csv(src_csv_filename):
         if os.path.exists(dest_csv_path):
             os.remove(dest_csv_path)
 
-        # Copia el archivo al destino.
         dest_csv_path = os.path.join(compartir_folder_path, src_csv_filename)
         shutil.copyfile(src_csv_path, dest_csv_path)
 
-        # Abre la carpeta donde se encuentra el archivo.
         os.startfile(compartir_folder_path)
 
     except Exception as e:
@@ -412,15 +404,11 @@ def generar_csv():
         boton_no = tk.Button(csv_popup, text="No", command=on_no, bg=RED, fg=TEXT_WHITE, font=("Helvetica", 12, "bold"), height=1, width=10)
         boton_no.pack(side=tk.RIGHT, padx=(10, 50), pady=10)
 
-
-
-
 def execute_main_script(data):
     try:
         script_path = os.path.join(FOLDER_PATH, "TC_GEN", "tc_gen.py")
-        # Iniciar el proceso y pasar los datos
         process = subprocess.Popen(["python", script_path], stdin=subprocess.PIPE, text=True)
-        process.communicate(input=data)  # Envía `data` a la entrada estándar del script
+        process.communicate(input=data) 
         
         messagebox.showinfo("Éxito", "El script se ejecutó correctamente.")
     except Exception as e:
@@ -428,7 +416,6 @@ def execute_main_script(data):
     finally:
         input_window.destroy()
 
-# Modifica esta función si es necesario para capturar la entrada de datos correctamente
 def show_create_tcs_window():
     global input_window
     input_window = tk.Toplevel(app, bg=DARK_GREEN)
@@ -447,7 +434,6 @@ app = tk.Tk()
 app.title("Bulk App - Neural.one")
 app.configure(bg=DARK_GREEN)
 
-# Variables globales para control de estados
 script_running = False
 script_completed = False
 include_viewability = tk.BooleanVar(value=True)
