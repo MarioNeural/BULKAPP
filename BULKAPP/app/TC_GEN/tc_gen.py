@@ -14,8 +14,10 @@ advertiser_number_map = {
 }
 
 def load_data():
-    input_data = sys.stdin.read() 
+    input_data = sys.stdin.read()
     df = pd.read_csv(StringIO(input_data), sep='\t')
+    df.columns = [col.lower() for col in df.columns] 
+    df = df[df['trackingcode'].notna() & (df['trackingcode'] != '')] 
     return df
 
 load_dotenv()
@@ -129,13 +131,14 @@ def main():
 
     new_crear_tcs_df.replace('', np.nan, inplace=True)
 
-    columns_to_check = ['trackingcode_name', 'lineitem_id']
-    new_crear_tcs_df.dropna(how='any', subset=columns_to_check, inplace=True)
-
     new_crear_tcs_df.to_csv(crear_tcs_file_path, index=False, sep=';')
 
     data_folder_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data')
     webbrowser.open(data_folder_path)
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except Exception as e:
+        print(f"Error: {e}", file=sys.stderr)
+        sys.exit(1)

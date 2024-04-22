@@ -408,31 +408,40 @@ def execute_main_script(data):
     try:
         script_path = os.path.join(FOLDER_PATH, "TC_GEN", "tc_gen.py")
         process = subprocess.Popen(["python", script_path], stdin=subprocess.PIPE, text=True)
-        process.communicate(input=data) 
+        stdout, stderr = process.communicate(input=data)
         
-        messagebox.showinfo("Éxito", "El script se ejecutó correctamente.")
+        if process.returncode != 0:
+            raise Exception(stderr.strip() if stderr else 'Script failed without an error message.')
+        
+        # messagebox.showinfo("Éxito", "El script se ejecutó correctamente.")
     except Exception as e:
         messagebox.showerror("Error", f"Error al ejecutar el script: {e}")
     finally:
         input_window.destroy()
 
 def show_create_tcs_window():
-    global input_window
-    input_window = tk.Toplevel(app, bg=DARK_GREEN)
-    input_window.title("Crear TCs")
+    global input_frame  
+    output_text.grid_remove()  
+    if 'input_frame' in globals(): 
+        input_frame.pack(pady=10, padx=10, fill='both', expand=True)
+    else: 
+        input_frame = tk.Frame(app, bg=DARK_GREEN)
+        input_frame.pack(pady=10, padx=10, fill='both', expand=True)
 
-    lbl_instruction = tk.Label(input_window, text="Introduce los datos para Crear TCs:", bg=DARK_GREEN, fg=TEXT_BLACK)
-    lbl_instruction.pack(pady=10)
+        lbl_instruction = tk.Label(input_frame, text="Introduce los datos para Crear TCs:", bg=DARK_GREEN, fg=TEXT_BLACK)
+        lbl_instruction.pack(pady=10)
 
-    input_data = tk.Text(input_window, height=10, width=80, bg=LIGHT_GREEN, fg=TEXT_BLACK)
-    input_data.pack(pady=10)
+        input_data = tk.Text(input_frame, height=16, width=80, bg=LIGHT_GREEN, fg=TEXT_BLACK)
+        input_data.pack(pady=10)
 
-    btn_continue = tk.Button(input_window, text="Continuar", command=lambda: execute_main_script(input_data.get("1.0", tk.END)), bg=BLUE, fg=TEXT_WHITE)
-    btn_continue.pack(pady=5)
+        btn_continue = tk.Button(input_frame, text="Continuar", command=lambda: execute_main_script(input_data.get("1.0", tk.END)), bg=BLUE, fg=TEXT_WHITE)
+        btn_continue.pack(pady=5)
 
 app = tk.Tk()
 app.title("Bulk App - Neural.one")
 app.configure(bg=DARK_GREEN)
+
+ancho_btn = 20
 
 script_running = False
 script_completed = False
@@ -456,30 +465,30 @@ btn_img_aws_bulk = tk.Button(frame, text="Ejecutar BULK", command=ejecutar_img_a
 btn_img_aws_bulk.grid(row=0, column=0, padx=10)
 
 
-btn_show_input = tk.Button(frame, text="Introducir datos", command=show_input_window, bg=LIGHT_GREEN, fg=TEXT_BLACK)
+btn_show_input = tk.Button(frame, text="Introducir datos", command=show_input_window, bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)
 btn_show_input.grid(row=0, column=3, columnspan=4, padx=10)
 
-btn_create_tcs = tk.Button(frame, text="Crear TCs", command=show_create_tcs_window, bg=LIGHT_GREEN, fg=TEXT_BLACK)
+btn_create_tcs = tk.Button(frame, text="Crear TCs", command=show_create_tcs_window, bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)
 btn_create_tcs.grid(row=0, column=2, padx=10)
 
-time_label = tk.Label(frame, text="", bg=DARK_GREEN, fg=TEXT_BLACK)
+time_label = tk.Label(frame, text="", bg=DARK_GREEN, fg=TEXT_BLACK, width=ancho_btn)
 time_label.grid(row=1, column=0)
 
-open_folder_btn = tk.Button(frame, text="Carpeta de archivos", command=open_folder, bg=LIGHT_GREEN, fg=TEXT_BLACK)
+open_folder_btn = tk.Button(frame, text="Carpeta de archivos", command=open_folder, bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)
 open_folder_btn.grid(row=2, column=3, columnspan=4, pady=10)
 
-open_html_btn = tk.Button(frame, text="test.html", command=open_test_html, bg=LIGHT_GREEN, fg=TEXT_BLACK)
-open_html_btn.grid(row=0, column=0, columnspan=4, pady=10)
+open_html_btn = tk.Button(frame, text="test.html", command=open_test_html, bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)
+open_html_btn.grid(row=3, column=0, pady=10)
 
-open_json_btn = tk.Button(frame, text="Abrir JSON", command=open_json_with_vscode, bg=LIGHT_GREEN, fg=TEXT_BLACK)
+open_json_btn = tk.Button(frame, text="Abrir JSON", command=open_json_with_vscode, bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)
 open_json_btn.grid(row=1, column=3, columnspan=4, pady=10)
 
-generar_csv_btn = tk.Button(frame, text="Generar CSV 360", command=generar_csv, bg=LIGHT_GREEN, fg=TEXT_BLACK)
+generar_csv_btn = tk.Button(frame, text="Generar CSV 360", command=generar_csv, bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)
 generar_csv_btn.grid(row=2, column=0, padx=10)
 generar_csv_btn.config(state=tk.DISABLED) 
 
 btn_process_json = tk.Button(frame, text="JSON Civitatis", command=process_json, 
-                             bg=LIGHT_GREEN, fg=TEXT_BLACK)
+                             bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)
 btn_process_json.grid(row=3, column=3, columnspan=4, pady=10)
 
 timer_updater = TimerUpdater(app, time_label)
