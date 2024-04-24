@@ -10,6 +10,10 @@ from dotenv import load_dotenv
 advertiser_number_map = {
     'Educo': 143,
     'Sr. Gorsky': 36,
+    'Son Jaumell': 261,
+    'Pestana': 309,
+    'AM Resorts': 151,
+    'Best Hotels': 275,
     # Agrega más anunciantes según sea necesario
 }
 

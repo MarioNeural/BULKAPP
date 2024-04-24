@@ -1,0 +1,24 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "970x250"],
+        "tcs": ["129963", "129964", "129965", "129966", "129967"],
+        "name": "pestana-pt_v1mp_FLASH-SALE_dis_prs-1_72H-ABR",
+        "landing": "https://www.pestana.com/pt/promotion/oferta-hotel-72h-descida-precos",
+        "aws_path_1": "PESTANA/2024/04/72h/pt/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.pestana.com/pt/promotion/oferta-hotel-72h-descida-precos?utm_source=v1mp&utm_medium=display&utm_campaign=flash-sale&utm_term=pt",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_pestana-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "970x250"],
+        "tcs": ["129968", "129969", "129970", "129971", "129972"],
+        "name": "pestana-us_v1mp_FLASH-SALE_dis_prs-1_72H-ABR",
+        "landing": "https://www.pestana.com/en/promotion/deal-hotel-72-hour-price-reduction",
+        "aws_path_1": "PESTANA/2024/04/72h/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.pestana.com/en/promotion/deal-hotel-72-hour-price-reduction?utm_source=v1mp&utm_medium=display&utm_campaign=flash-sale&utm_term=us",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_pestana-es_np_"
+    }
+]

@@ -178,9 +178,10 @@ def toggle_frame(frame_to_show):
         output_text.delete('1.0', tk.END)
 
 last_aws_path_2_selection = ""
+last_custom_value = ""  # Variable global para almacenar el último valor ingresado en el campo de texto personalizado
 
 def show_object_window(json_data, index=0):
-    global object_frame, last_aws_path_2_selection
+    global object_frame, last_aws_path_2_selection, last_custom_value
     if 'object_frame' not in globals():
         object_frame = tk.Frame(app, bg=DARK_GREEN)
         object_frame.grid(row=3, column=0, columnspan=4, padx=10, pady=10, sticky='nsew')
@@ -188,57 +189,79 @@ def show_object_window(json_data, index=0):
     for widget in object_frame.winfo_children():
         widget.destroy()
 
-    
     obj_text = tk.Text(object_frame, height=13, width=70, bg=LIGHT_GREEN, fg=TEXT_BLACK)
     obj_text.grid(row=0, column=0, columnspan=3, padx=10, pady=10)
-    
+
     formatted_json = one_line_arrays(json.dumps(json_data[index], indent=4))
     obj_text.insert(tk.END, formatted_json)
 
     lbl_instruction = tk.Label(object_frame, text="Introduce ruta de AWS, ej: s3://adgravity/mundo_pacifico/2023/10/halloween/", bg=DARK_GREEN, fg=TEXT_BLACK)
     lbl_instruction.grid(row=1, column=0, columnspan=3, padx=10, pady=10)
 
-    aws_path_1_entry = tk.Entry(object_frame, width=60, bg=DARK_GREEN, fg=TEXT_BLACK)
-    aws_path_1_entry.grid(row=2, column=0, columnspan=3, padx=10, pady=10)
+    aws_path_1_entry_value = tk.Entry(object_frame, width=60, bg=LIGHT_GREEN, fg=TEXT_BLACK)
+    aws_path_1_entry_value.grid(row=2, column=0, columnspan=3, padx=10, pady=10)
 
-    aws_path_2_lbl = tk.Label(object_frame, text="AWS Path 2:", bg=LIGHT_GREEN, fg=TEXT_BLACK)
-    aws_path_2_lbl.grid(row=3, column=0, padx=10, pady=5)
-    
-    options_iframe = ["", "/index.html", ".html"]
-    options_link = ["", ".png", ".jpg"]
-    options = options_iframe if link_type.get() == "iframe" else options_link
+    options_iframe = [".html", "/index.html"]  # Cambiado el orden para que "Custom" sea la primera opción
+    options_link = [".png", ".jpg", ".gif"]
+    options = options_iframe + options_link
+
     aws_path_2_combobox = ttk.Combobox(object_frame, values=options, state="readonly")
     aws_path_2_combobox.grid(row=3, column=1, padx=10, pady=5)
-    aws_path_2_combobox.set(last_aws_path_2_selection) 
+    aws_path_2_combobox.set("Custom" if last_aws_path_2_selection == "" else last_aws_path_2_selection)
 
-    btn_next = tk.Button(object_frame, text="Siguiente", command=lambda: process_current_object(json_data, index, aws_path_1_entry, aws_path_2_combobox), bg=LIGHT_GREEN, fg=TEXT_BLACK)
+    custom_entry = tk.Entry(object_frame, width=30, bg=LIGHT_GREEN, fg=TEXT_BLACK)
+    custom_entry.grid(row=3, column=2, padx=10, pady=5)
+    custom_entry.grid_remove()
+    custom_entry.insert(tk.END, last_custom_value)
+
+    def show_custom_entry():
+        if aws_path_2_combobox.get() == "Custom":
+            custom_entry.grid()
+        else:
+            custom_entry.grid_remove()
+
+    show_custom_entry()  # Mostrar el campo de texto personalizado desde el principio
+
+    aws_path_2_combobox.bind("<<ComboboxSelected>>", lambda event: show_custom_entry())
+
+    btn_next = tk.Button(object_frame, text="Continuar", command=lambda: process_current_object(json_data, index, aws_path_1_entry_value, aws_path_2_combobox, custom_entry), bg=LIGHT_GREEN, fg=TEXT_BLACK)
     btn_next.grid(row=4, column=0, columnspan=3, padx=10, pady=10)
 
     toggle_frame(object_frame)
 
 
-
-
-def process_current_object(json_data, index, aws_path_1_entry, aws_path_2_combobox):
-    global last_aws_path_2_selection
+def process_current_object(json_data, index, aws_path_1_entry, aws_path_2_combobox, custom_entry):
+    global last_aws_path_2_selection, last_custom_value
 
     aws_path_1_entry_value = aws_path_1_entry.get()
     aws_path_2_combobox_value = aws_path_2_combobox.get()
-    if not aws_path_1_entry_value:
-        messagebox.showwarning("Atención", "Debes introducir un valor para aws_path_1")
-        return
+    custom_entry_value = custom_entry.get()
 
+    # Actualizar el valor de 'aws_path_1' y 'aws_path_2' según lo que se haya ingresado en los campos correspondientes
+    json_data[index]['aws_path_1'] = aws_path_1_entry_value
+
+    # Añadir esta línea para ajustar 'aws_path_1'
     json_data[index]['aws_path_1'] = aws_path_1_entry_value.replace("s3://adgravity/", "")
-    json_data[index]['aws_path_2'] = aws_path_2_combobox_value
+
+    if aws_path_2_combobox_value == "Custom":
+        json_data[index]['aws_path_2'] = custom_entry_value
+        last_custom_value = custom_entry_value  # Almacenar el valor ingresado en el campo de texto personalizado
+    else:
+        json_data[index]['aws_path_2'] = aws_path_2_combobox_value
+
     last_aws_path_2_selection = aws_path_2_combobox_value 
 
     next_index = index + 1
     if next_index < len(json_data):
+        # Asegúrate de pasar el texto personalizado al siguiente objeto si existe
+        if json_data[next_index].get('type') == "iframe" and aws_path_2_combobox_value == "Custom":
+            json_data[next_index]['aws_path_2'] = custom_entry_value
         show_object_window(json_data, next_index)  
     else:
         save_json(json_data) 
-        messagebox.showinfo("Complete", "All objects processed.")
-        toggle_frame(output_text)  
+        messagebox.showinfo("Completo", "Todos los objetos procesados.")
+        toggle_frame(output_text)
+
 
 
 
@@ -254,6 +277,8 @@ def process_data(input_data):
         messagebox.showerror("Error", f"Error al procesar los datos: {e}")
         print("Error occurred:", e) 
 
+def clear_text_field(text_field):
+    text_field.delete("1.0", tk.END)
 
 def show_input_window():
     global input_frame, link_type, include_viewability
@@ -280,11 +305,14 @@ def show_input_window():
         chk_viewability = tk.Checkbutton(input_frame, text="Incluir viewability", variable=include_viewability, onvalue=True, offvalue=False, bg=DARK_GREEN, fg=TEXT_BLACK)
         chk_viewability.grid(row=2, column=0, columnspan=2, pady=10)
 
-        input_data = tk.Text(input_frame, height=10, width=70, bg=LIGHT_GREEN, fg=TEXT_BLACK)
-        input_data.grid(row=3, column=0, columnspan=2, pady=10)
+        input_data = tk.Text(input_frame, height=8, width=70, bg=LIGHT_GREEN, fg=TEXT_BLACK)
+        input_data.grid(row=3, column=0, columnspan=2, pady=10, padx=10)
 
-        btn_process = tk.Button(input_frame, text="Procesar", command=lambda: process_data(input_data), bg=LIGHT_GREEN, fg=TEXT_BLACK)
+        btn_process = tk.Button(input_frame, text="Continuar", command=lambda: process_data(input_data), bg=BLUE, fg=TEXT_WHITE)
         btn_process.grid(row=4, column=0, columnspan=2, pady=10)
+
+        btn_clear = tk.Button(input_frame, text="Limpiar campo de texto", command=lambda: clear_text_field(input_data), bg=RED, fg=TEXT_WHITE)
+        btn_clear.grid(row=5, column=0, columnspan=2, pady=10)
 
     toggle_frame(input_frame)
 
@@ -359,7 +387,7 @@ def confirmacion_ejecucion():
     popup.title("Confirmación")
     popup.configure(bg=DARK_GREEN)
 
-    window_width = 350
+    window_width = 220
     window_height = 100
     pos_x = app.winfo_x() + (app.winfo_width() // 2) - (window_width // 2)
     pos_y = app.winfo_y() + (app.winfo_height() // 6) - (window_height // 6)
@@ -367,13 +395,13 @@ def confirmacion_ejecucion():
     popup.geometry(f"{window_width}x{window_height}+{pos_x}+{pos_y}")
 
     label = tk.Label(popup, text="¿Desea ejecutar el Bulk ahora?", bg=DARK_GREEN, fg=TEXT_BLACK)
-    label.grid(row=0, column=1, columnspan=2, pady=10, padx=0, sticky='ew')
+    label.grid(row=0, column=0, columnspan=2, padx=30, pady=10, sticky='ew') 
 
     boton_si = tk.Button(popup, text="Sí", command=on_si, bg=BLUE, fg=TEXT_WHITE, font=("Helvetica", 12, "bold"), height=1, width=6)
-    boton_si.grid(row=1, column=0, padx=10, pady=10, sticky='e')
+    boton_si.grid(row=1, column=0, padx=10, pady=10, sticky='e') 
 
     boton_no = tk.Button(popup, text="No", command=on_no, bg=RED, fg=TEXT_WHITE, font=("Helvetica", 12, "bold"), height=1, width=6)
-    boton_no.grid(row=1, column=3, padx=10, pady=10, sticky='w')
+    boton_no.grid(row=1, column=1, padx=10, pady=10, sticky='w') 
 
 def iniciar_ejecucion_bulk():
     global script_running
@@ -444,7 +472,7 @@ def generar_csv():
         csv_popup.title("Generar CSV")
         csv_popup.configure(bg=DARK_GREEN)
 
-        window_width = 300
+        window_width = 460
         window_height = 150
         pos_x = app.winfo_x() + (app.winfo_width() // 2) - (window_width // 2)
         pos_y = app.winfo_y() + (app.winfo_height() // 6) - (window_height // 6)
@@ -485,11 +513,14 @@ def show_create_tcs_window():
         lbl_instruction = tk.Label(create_tcs_frame, text="Introduce los datos para Crear TCs:", bg=DARK_GREEN, fg=TEXT_BLACK)
         lbl_instruction.grid(row=0, column=0, pady=10)
 
-        input_data = tk.Text(create_tcs_frame, height=16, width=70, bg=LIGHT_GREEN, fg=TEXT_BLACK)
-        input_data.grid(row=1, column=0, pady=10)
+        input_data = tk.Text(create_tcs_frame, height=14, width=70, bg=LIGHT_GREEN, fg=TEXT_BLACK)
+        input_data.grid(row=1, column=0, pady=10, padx=10)
 
         btn_continue = tk.Button(create_tcs_frame, text="Continuar", command=lambda: execute_main_script(input_data.get("1.0", tk.END)), bg=BLUE, fg=TEXT_WHITE)
         btn_continue.grid(row=2, column=0, pady=10)
+
+        btn_clear = tk.Button(create_tcs_frame, text="Limpiar campo de texto", command=lambda: clear_text_field(input_data), bg=RED, fg=TEXT_WHITE)
+        btn_clear.grid(row=3, column=0, pady=10)
         
     toggle_frame(create_tcs_frame) 
 
@@ -501,20 +532,14 @@ input_frame = tk.Frame(app, bg=DARK_GREEN)
 create_tcs_frame = tk.Frame(app, bg=DARK_GREEN)
 object_frame = tk.Frame(app, bg=DARK_GREEN) 
 
-
-
 progress_bar = ttk.Progressbar(frame, orient="horizontal", mode="indeterminate", length=150)
 progress_bar_handler = ProgressBarHandler(app, progress_bar)
 
-
 output_text = tk.Text(frame, wrap=tk.WORD, bg=LIGHT_GREEN, fg=TEXT_BLACK, width=70)
-output_text.grid(row=4, column=0, columnspan=4, pady=5)
+output_text.grid(row=4, column=0, columnspan=4, pady=5, padx=10)
 
-btn_img_aws_bulk = tk.Button(frame, text="Ejecutar BULK", command=ejecutar_img_aws_bulk, 
-                             bg=LIGHT_GREEN, fg=TEXT_BLACK, 
-                             font=("Helvetica", 12, "bold"), 
-                             width=20, height=2)
-btn_img_aws_bulk.grid(row=0, column=0, padx=10)
+btn_img_aws_bulk = tk.Button(frame, text="Ejecutar BULK", command=ejecutar_img_aws_bulk, bg=BLUE, fg=TEXT_WHITE, width=ancho_btn)
+btn_img_aws_bulk.grid(row=0, column=0, padx=50)
 
 
 btn_create_tcs = tk.Button(frame, text="Crear TCs", command=show_create_tcs_window, bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)
@@ -533,7 +558,7 @@ open_html_btn.grid(row=3, column=0, pady=10)
 open_json_btn = tk.Button(frame, text="Abrir JSON", command=open_json_with_vscode, bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)
 open_json_btn.grid(row=1, column=3, columnspan=4, pady=10)
 
-generar_csv_btn = tk.Button(frame, text="Generar CSV 360", command=generar_csv, bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)
+generar_csv_btn = tk.Button(frame, text="Generar CSV DV360", command=generar_csv, bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)
 generar_csv_btn.grid(row=2, column=0, padx=10)
 generar_csv_btn.config(state=tk.DISABLED) 
 
