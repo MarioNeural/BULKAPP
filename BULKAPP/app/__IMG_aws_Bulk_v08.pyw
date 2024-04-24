@@ -589,7 +589,7 @@ class IMG_aws_TAG_Bulk:
         401: "Unauthorized",
         402: "Payment Required",
         404: "Page Not Found",
-        # 403: "No esta actualizado/publicado/encontrado en s3", se gestiona con if "globales.com" in url
+        403: "Viewability errónea / No exiten uno o más tc's / No está publicado en S3",
         405: "Method Not Allowed",
         406: "No Such",
         407: "No Such Model",

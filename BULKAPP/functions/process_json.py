@@ -6,7 +6,6 @@ import re
 
 def process_json():
     try:
-        # Cargar el contenido de input.json
         with open(os.path.join('app', 'INPUT_JSON', 'input.json'), 'r') as file:
             data = json.load(file)
 
@@ -31,18 +30,15 @@ def process_json():
 
                 new_data.append(new_item)
 
-        # Guardar los nuevos datos en civitatis_output.json
         output_path = os.path.join('app', 'INPUT_JSON', 'civitatis_output.json')
         with open(output_path, 'w') as file:
             json.dump(new_data, file, indent=4)
 
-        # Copiar contenido de civitatis_output.json en input.json
         with open(output_path, 'r') as file:
             output_data = json.load(file)
         with open(os.path.join('app', 'INPUT_JSON', 'input.json'), 'w') as file:
             json.dump(output_data, file, indent=4)
 
-        # Eliminar civitatis_output.json
         os.remove(output_path)
 
         messagebox.showinfo("Éxito", "Archivo JSON procesado y actualizado exitosamente.")

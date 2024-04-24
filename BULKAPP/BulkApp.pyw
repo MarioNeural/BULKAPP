@@ -18,9 +18,23 @@ from functions.open import open_test_html, open_folder, open_json_with_vscode
 
 # ESTILOS
 from styles.styles import DARK_GREEN, LIGHT_GREEN, TEXT_BLACK, TEXT_WHITE, RED, BLUE
+ancho_btn = 20
 
 FOLDER_PATH = os.path.join("app")
 
+app = tk.Tk()
+app.title("Bulk App - Neural.one")
+app.configure(bg=DARK_GREEN)
+app.rowconfigure(0, weight=1)
+app.columnconfigure(0, weight=1)
+
+link_type = tk.StringVar()
+script_running = False
+script_completed = False
+include_viewability = tk.BooleanVar(value=True)
+
+frame = tk.Frame(app, bg=DARK_GREEN)
+frame.grid(row=0, column=0, sticky='nsew', padx=10, pady=10)
 
 def extract_data_from_rows(data):
     lines = data.split("\n")
@@ -31,7 +45,6 @@ def extract_data_from_rows(data):
     headers = lines[0].split("\t")
     for col in ["Size", "Trackingcode Id", "Trackingcode", "URL", "URL Final"]:
         if col not in headers:
-            messagebox.showerror("Error", f"Falta la columna '{col}' en los datos.")
             return []
 
     size_index = headers.index("Size")
@@ -151,88 +164,131 @@ def save_json(json_data):
 
     except Exception as e:
         messagebox.showerror("Error", f"Error al guardar los datos: {e}")
-    finally:
-        input_window.destroy()
 
+
+def toggle_frame(frame_to_show):
+    all_components = [input_frame, create_tcs_frame, object_frame, output_text]
+    for component in all_components:
+        if component is not None:
+            component.grid_forget() 
+
+    frame_to_show.grid(row=2, column=0, columnspan=4, padx=10, pady=10, sticky='nsew') 
+    if frame_to_show == output_text:
+        output_text.grid(row=4, column=0, columnspan=4, pady=10, sticky='ew') 
+        output_text.delete('1.0', tk.END)
+
+last_aws_path_2_selection = ""
 
 def show_object_window(json_data, index=0):
-    def process_current_object():
-        aws_path_1_entry_value = aws_path_1_entry.get()
-        aws_path_2_entry_value = aws_path_2_entry.get()
-        if not aws_path_1_entry_value:
-            messagebox.showwarning("Atención", "Debes introducir un valor para aws_path_1")
-            return
+    global object_frame, last_aws_path_2_selection
+    if 'object_frame' not in globals():
+        object_frame = tk.Frame(app, bg=DARK_GREEN)
+        object_frame.grid(row=3, column=0, columnspan=4, padx=10, pady=10, sticky='nsew')
 
-        aws_path_1_entry_value = aws_path_1_entry_value.replace("s3://adgravity/", "")
+    for widget in object_frame.winfo_children():
+        widget.destroy()
 
-        json_data[index]['aws_path_1'] = aws_path_1_entry_value
-        json_data[index]['aws_path_2'] = aws_path_2_entry_value
-        object_window.destroy()
-        if index + 1 < len(json_data):
-            show_object_window(json_data, index+1)
-        else:
-            save_json(json_data)
-
-    object_window = tk.Toplevel(app, bg=DARK_GREEN)
-    object_window.geometry("1000x400")
-    object_window.title(f"Objeto {index+1} de {len(json_data)}")
-
-    obj_text = tk.Text(object_window, height=13, width=120, bg=LIGHT_GREEN, fg=TEXT_BLACK)
-    obj_text.pack(pady=10)
+    
+    obj_text = tk.Text(object_frame, height=13, width=70, bg=LIGHT_GREEN, fg=TEXT_BLACK)
+    obj_text.grid(row=0, column=0, columnspan=3, padx=10, pady=10)
+    
     formatted_json = one_line_arrays(json.dumps(json_data[index], indent=4))
     obj_text.insert(tk.END, formatted_json)
 
-    lbl_instruction = tk.Label(object_window, text="Introduce ruta de aws, ej: s3://adgravity/mundo_pacifico/2023/10/halloween/", bg=DARK_GREEN, fg=TEXT_BLACK)
-    lbl_instruction.pack(pady=5)
+    lbl_instruction = tk.Label(object_frame, text="Introduce ruta de AWS, ej: s3://adgravity/mundo_pacifico/2023/10/halloween/", bg=DARK_GREEN, fg=TEXT_BLACK)
+    lbl_instruction.grid(row=1, column=0, columnspan=3, padx=10, pady=10)
 
-    aws_path_1_entry = tk.Entry(object_window, width=60, bg=DARK_GREEN, fg=TEXT_BLACK)
-    aws_path_1_entry.pack(pady=10)
+    aws_path_1_entry = tk.Entry(object_frame, width=60, bg=DARK_GREEN, fg=TEXT_BLACK)
+    aws_path_1_entry.grid(row=2, column=0, columnspan=3, padx=10, pady=10)
 
-    aws_path_2_lbl = tk.Label(object_window, text="AWS Path 2:", bg=LIGHT_GREEN, fg=TEXT_BLACK)
-    aws_path_2_lbl.pack(pady=5)
+    aws_path_2_lbl = tk.Label(object_frame, text="AWS Path 2:", bg=LIGHT_GREEN, fg=TEXT_BLACK)
+    aws_path_2_lbl.grid(row=3, column=0, padx=10, pady=5)
     
-    aws_path_2_entry = tk.Entry(object_window, width=60, bg=DARK_GREEN, fg=TEXT_BLACK)
-    if link_type.get() == "iframe":
-        aws_path_2_entry.insert(0, "/index.html")
-    aws_path_2_entry.pack(pady=10)
+    options_iframe = ["", "/index.html", ".html"]
+    options_link = ["", ".png", ".jpg"]
+    options = options_iframe if link_type.get() == "iframe" else options_link
+    aws_path_2_combobox = ttk.Combobox(object_frame, values=options, state="readonly")
+    aws_path_2_combobox.grid(row=3, column=1, padx=10, pady=5)
+    aws_path_2_combobox.set(last_aws_path_2_selection) 
 
-    btn_next = tk.Button(object_window, text="Siguiente", command=process_current_object, bg=LIGHT_GREEN, fg=TEXT_BLACK)
-    btn_next.pack(pady=5)
+    btn_next = tk.Button(object_frame, text="Siguiente", command=lambda: process_current_object(json_data, index, aws_path_1_entry, aws_path_2_combobox), bg=LIGHT_GREEN, fg=TEXT_BLACK)
+    btn_next.grid(row=4, column=0, columnspan=3, padx=10, pady=10)
+
+    toggle_frame(object_frame)
+
+
+
+
+def process_current_object(json_data, index, aws_path_1_entry, aws_path_2_combobox):
+    global last_aws_path_2_selection
+
+    aws_path_1_entry_value = aws_path_1_entry.get()
+    aws_path_2_combobox_value = aws_path_2_combobox.get()
+    if not aws_path_1_entry_value:
+        messagebox.showwarning("Atención", "Debes introducir un valor para aws_path_1")
+        return
+
+    json_data[index]['aws_path_1'] = aws_path_1_entry_value.replace("s3://adgravity/", "")
+    json_data[index]['aws_path_2'] = aws_path_2_combobox_value
+    last_aws_path_2_selection = aws_path_2_combobox_value 
+
+    next_index = index + 1
+    if next_index < len(json_data):
+        show_object_window(json_data, next_index)  
+    else:
+        save_json(json_data) 
+        messagebox.showinfo("Complete", "All objects processed.")
+        toggle_frame(output_text)  
+
 
 
 def process_data(input_data):
     try:
         data = input_data.get("1.0", tk.END)
         json_data = extract_data_from_rows(data)
-        show_object_window(json_data)
+        if json_data:  
+            show_object_window(json_data)
+        else:
+            messagebox.showinfo("Info", "No data processed. Check input format.")
     except Exception as e:
         messagebox.showerror("Error", f"Error al procesar los datos: {e}")
-    finally:
-        input_window.destroy()
+        print("Error occurred:", e) 
+
 
 def show_input_window():
-    global input_window, link_type
-    input_window = tk.Toplevel(app, bg=DARK_GREEN)
-    input_window.title("Introducir datos")
+    global input_frame, link_type, include_viewability
+    if 'input_frame' not in globals() or not input_frame.winfo_children():
+        input_frame = tk.Frame(app, bg=DARK_GREEN)
 
-    link_type = tk.StringVar(value="iframe")
-    chk_link_type_iframe = tk.Radiobutton(input_window, text="Iframe", variable=link_type, value="iframe", bg=DARK_GREEN, fg=TEXT_BLACK)
-    chk_link_type_link = tk.Radiobutton(input_window, text="Link", variable=link_type, value="link", bg=DARK_GREEN, fg=TEXT_BLACK)
-    
-    chk_link_type_iframe.pack(pady=5)
-    chk_link_type_link.pack(pady=5)
+        link_type = tk.StringVar(value="") 
+        include_viewability = tk.BooleanVar(value=True)
 
-    lbl_instruction = tk.Label(input_window, text="Introduce los datos:", bg=DARK_GREEN, fg=TEXT_BLACK)
-    lbl_instruction.pack(pady=10)
+        def select_link_type(type):
+            link_type.set(type)
+            btn_iframe.config(relief="sunken" if link_type.get() == "iframe" else "raised")
+            btn_link.config(relief="sunken" if link_type.get() == "link" else "raised")
 
-    chk_viewability = tk.Checkbutton(input_window, text="Incluir viewability", variable=include_viewability, bg=DARK_GREEN, fg=TEXT_BLACK)
-    chk_viewability.pack(pady=5)
+        btn_iframe = tk.Button(input_frame, text="Iframe", command=lambda: select_link_type("iframe"), relief="raised", bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)
+        btn_link = tk.Button(input_frame, text="Link", command=lambda: select_link_type("link"), relief="raised", bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)
 
-    input_data = tk.Text(input_window, height=6, width=80, bg=LIGHT_GREEN, fg=TEXT_BLACK)
-    input_data.pack(pady=10)
+        btn_iframe.grid(row=0, column=0, padx=10, pady=10)
+        btn_link.grid(row=0, column=1, padx=10, pady=10)
 
-    btn_process = tk.Button(input_window, text="Procesar", command=lambda: process_data(input_data), bg=LIGHT_GREEN, fg=TEXT_BLACK)
-    btn_process.pack(pady=5)
+        lbl_instruction = tk.Label(input_frame, text="Introduce los datos:", bg=DARK_GREEN, fg=TEXT_BLACK)
+        lbl_instruction.grid(row=1, column=0, columnspan=2, pady=10)
+
+        chk_viewability = tk.Checkbutton(input_frame, text="Incluir viewability", variable=include_viewability, onvalue=True, offvalue=False, bg=DARK_GREEN, fg=TEXT_BLACK)
+        chk_viewability.grid(row=2, column=0, columnspan=2, pady=10)
+
+        input_data = tk.Text(input_frame, height=10, width=70, bg=LIGHT_GREEN, fg=TEXT_BLACK)
+        input_data.grid(row=3, column=0, columnspan=2, pady=10)
+
+        btn_process = tk.Button(input_frame, text="Procesar", command=lambda: process_data(input_data), bg=LIGHT_GREEN, fg=TEXT_BLACK)
+        btn_process.grid(row=4, column=0, columnspan=2, pady=10)
+
+    toggle_frame(input_frame)
+
+
 
 
 def ejecutar_script(script_name):
@@ -303,7 +359,7 @@ def confirmacion_ejecucion():
     popup.title("Confirmación")
     popup.configure(bg=DARK_GREEN)
 
-    window_width = 300
+    window_width = 350
     window_height = 100
     pos_x = app.winfo_x() + (app.winfo_width() // 2) - (window_width // 2)
     pos_y = app.winfo_y() + (app.winfo_height() // 6) - (window_height // 6)
@@ -311,13 +367,13 @@ def confirmacion_ejecucion():
     popup.geometry(f"{window_width}x{window_height}+{pos_x}+{pos_y}")
 
     label = tk.Label(popup, text="¿Desea ejecutar el Bulk ahora?", bg=DARK_GREEN, fg=TEXT_BLACK)
-    label.pack(pady=10)
+    label.grid(row=0, column=1, columnspan=2, pady=10, padx=0, sticky='ew')
 
     boton_si = tk.Button(popup, text="Sí", command=on_si, bg=BLUE, fg=TEXT_WHITE, font=("Helvetica", 12, "bold"), height=1, width=6)
-    boton_si.pack(side=tk.LEFT, padx=(50, 10), pady=10)
+    boton_si.grid(row=1, column=0, padx=10, pady=10, sticky='e')
 
     boton_no = tk.Button(popup, text="No", command=on_no, bg=RED, fg=TEXT_WHITE, font=("Helvetica", 12, "bold"), height=1, width=6)
-    boton_no.pack(side=tk.RIGHT, padx=(10, 50), pady=10)
+    boton_no.grid(row=1, column=3, padx=10, pady=10, sticky='w')
 
 def iniciar_ejecucion_bulk():
     global script_running
@@ -331,7 +387,7 @@ def iniciar_ejecucion_bulk():
     thread.start()
 
 def ejecutar_img_aws_bulk():
-    confirmacion_ejecucion()  # Mostrar la ventana de confirmación
+    confirmacion_ejecucion() 
 
 
 
@@ -388,7 +444,7 @@ def generar_csv():
         csv_popup.title("Generar CSV")
         csv_popup.configure(bg=DARK_GREEN)
 
-        window_width = 450
+        window_width = 300
         window_height = 150
         pos_x = app.winfo_x() + (app.winfo_width() // 2) - (window_width // 2)
         pos_y = app.winfo_y() + (app.winfo_height() // 6) - (window_height // 6)
@@ -396,13 +452,14 @@ def generar_csv():
         csv_popup.geometry(f"{window_width}x{window_height}+{pos_x}+{pos_y}")
 
         label = tk.Label(csv_popup, text=success_msg + "\n¿Desea generar el archivo y abrir la carpeta ahora?", bg=DARK_GREEN, fg=TEXT_BLACK)
-        label.pack(pady=10)
+        label.grid(row=0, column=0, columnspan=2, padx=30, pady=10, sticky='ew') 
 
         boton_si = tk.Button(csv_popup, text="Sí", command=on_si, bg=BLUE, fg=TEXT_WHITE, font=("Helvetica", 12, "bold"), height=1, width=10)
-        boton_si.pack(side=tk.LEFT, padx=(50, 10), pady=10)
+        boton_si.grid(row=1, column=0, padx=10, pady=10, sticky='e') 
 
         boton_no = tk.Button(csv_popup, text="No", command=on_no, bg=RED, fg=TEXT_WHITE, font=("Helvetica", 12, "bold"), height=1, width=10)
-        boton_no.pack(side=tk.RIGHT, padx=(10, 50), pady=10)
+        boton_no.grid(row=1, column=1, padx=10, pady=10, sticky='w') 
+
 
 def execute_main_script(data):
     try:
@@ -412,51 +469,46 @@ def execute_main_script(data):
         
         if process.returncode != 0:
             raise Exception(stderr.strip() if stderr else 'Script failed without an error message.')
-        
-        # messagebox.showinfo("Éxito", "El script se ejecutó correctamente.")
+        else:
+            messagebox.showinfo("Éxito", "El script se ejecutó correctamente.")
     except Exception as e:
         messagebox.showerror("Error", f"Error al ejecutar el script: {e}")
     finally:
-        input_window.destroy()
+        toggle_frame(output_text)
+
 
 def show_create_tcs_window():
-    global input_frame  
-    output_text.grid_remove()  
-    if 'input_frame' in globals(): 
-        input_frame.pack(pady=10, padx=10, fill='both', expand=True)
-    else: 
-        input_frame = tk.Frame(app, bg=DARK_GREEN)
-        input_frame.pack(pady=10, padx=10, fill='both', expand=True)
+    global create_tcs_frame 
+    output_text.grid_forget() 
+    if 'create_tcs_frame' not in globals() or not create_tcs_frame.winfo_children(): 
+        create_tcs_frame = tk.Frame(app, bg=DARK_GREEN)
+        lbl_instruction = tk.Label(create_tcs_frame, text="Introduce los datos para Crear TCs:", bg=DARK_GREEN, fg=TEXT_BLACK)
+        lbl_instruction.grid(row=0, column=0, pady=10)
 
-        lbl_instruction = tk.Label(input_frame, text="Introduce los datos para Crear TCs:", bg=DARK_GREEN, fg=TEXT_BLACK)
-        lbl_instruction.pack(pady=10)
+        input_data = tk.Text(create_tcs_frame, height=16, width=70, bg=LIGHT_GREEN, fg=TEXT_BLACK)
+        input_data.grid(row=1, column=0, pady=10)
 
-        input_data = tk.Text(input_frame, height=16, width=80, bg=LIGHT_GREEN, fg=TEXT_BLACK)
-        input_data.pack(pady=10)
+        btn_continue = tk.Button(create_tcs_frame, text="Continuar", command=lambda: execute_main_script(input_data.get("1.0", tk.END)), bg=BLUE, fg=TEXT_WHITE)
+        btn_continue.grid(row=2, column=0, pady=10)
+        
+    toggle_frame(create_tcs_frame) 
 
-        btn_continue = tk.Button(input_frame, text="Continuar", command=lambda: execute_main_script(input_data.get("1.0", tk.END)), bg=BLUE, fg=TEXT_WHITE)
-        btn_continue.pack(pady=5)
 
-app = tk.Tk()
-app.title("Bulk App - Neural.one")
-app.configure(bg=DARK_GREEN)
+btn_show_input = tk.Button(frame, text="Introduce datos", command=show_input_window, bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)
+btn_show_input.grid(row=0, column=3, columnspan=4, padx=10)
 
-ancho_btn = 20
+input_frame = tk.Frame(app, bg=DARK_GREEN)
+create_tcs_frame = tk.Frame(app, bg=DARK_GREEN)
+object_frame = tk.Frame(app, bg=DARK_GREEN) 
 
-script_running = False
-script_completed = False
-include_viewability = tk.BooleanVar(value=True)
 
-frame = tk.Frame(app, bg=DARK_GREEN)
-frame.pack(padx=10, pady=10)
 
-include_viewability = tk.BooleanVar(value=True)
-
-progress_bar = ttk.Progressbar(frame, orient="horizontal", mode="indeterminate", length=200)
+progress_bar = ttk.Progressbar(frame, orient="horizontal", mode="indeterminate", length=150)
 progress_bar_handler = ProgressBarHandler(app, progress_bar)
 
-output_text = tk.Text(frame, wrap=tk.WORD, bg=LIGHT_GREEN, fg=TEXT_BLACK)
-output_text.grid(row=4, column=0, columnspan=4, pady=10)
+
+output_text = tk.Text(frame, wrap=tk.WORD, bg=LIGHT_GREEN, fg=TEXT_BLACK, width=70)
+output_text.grid(row=4, column=0, columnspan=4, pady=5)
 
 btn_img_aws_bulk = tk.Button(frame, text="Ejecutar BULK", command=ejecutar_img_aws_bulk, 
                              bg=LIGHT_GREEN, fg=TEXT_BLACK, 
@@ -465,11 +517,9 @@ btn_img_aws_bulk = tk.Button(frame, text="Ejecutar BULK", command=ejecutar_img_a
 btn_img_aws_bulk.grid(row=0, column=0, padx=10)
 
 
-btn_show_input = tk.Button(frame, text="Introducir datos", command=show_input_window, bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)
-btn_show_input.grid(row=0, column=3, columnspan=4, padx=10)
-
 btn_create_tcs = tk.Button(frame, text="Crear TCs", command=show_create_tcs_window, bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)
 btn_create_tcs.grid(row=0, column=2, padx=10)
+
 
 time_label = tk.Label(frame, text="", bg=DARK_GREEN, fg=TEXT_BLACK, width=ancho_btn)
 time_label.grid(row=1, column=0)

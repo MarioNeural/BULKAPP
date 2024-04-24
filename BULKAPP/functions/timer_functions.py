@@ -10,10 +10,10 @@ class TimerUpdater:
         if self.last_execution_time is not None:
             elapsed_time = time.time() - self.last_execution_time
             if elapsed_time < 60:
-                self.time_label.config(text=f"Han pasado {int(elapsed_time)} segundos desde el último BULK")
+                self.time_label.config(text=f"{int(elapsed_time)} segundos")
             else:
                 minutes = int(elapsed_time / 60)
-                self.time_label.config(text=f"Han pasado {minutes} minutos desde el último BULK")
+                self.time_label.config(text=f"{minutes} minutos")
         self.app.after(1000, self.update_timer)
 
     def set_last_execution_time(self, time_value):

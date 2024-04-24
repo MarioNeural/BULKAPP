@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 
 advertiser_number_map = {
     'Educo': 143,
-    'Empresa2': 144,
+    'Sr. Gorsky': 36,
     # Agrega más anunciantes según sea necesario
 }
 
