@@ -1,0 +1,47 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600"
+        ],
+        "tcs": [
+            "130186"
+        ],
+        "name": "best-pt_v1mp_AO_PT_dis-prem_rtg-1_PRERROLL-PUEBLO",
+        "landing": "https://www.besthotels.es/en/destinations-and-hotels/tourist-apartments-best-pueblo-indalo.html",
+        "aws_path_1": "BEST_HOTELS/2024/04/ao-pt/preroll2.0_rtg/indalo/",
+        "aws_path_2": ".html",
+        "link": "https://www.besthotels.es/en/destinations-and-hotels/tourist-apartments-best-pueblo-indalo.html?utm_source=v1mp&utm_medium=dis-prem-rtg-1&utm_campaign=ao_pt",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_best-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600"
+        ],
+        "tcs": [
+            "130191"
+        ],
+        "name": "best-pt_v1mp_AO_PT_dis-prem_rtg-1_PRERROLL-BALLENA",
+        "landing": "https://www.besthotels.es/en/destinations-and-hotels/best-costa-ballena.html",
+        "aws_path_1": "BEST_HOTELS/2024/04/ao-pt/preroll2.0_rtg/costaballena/",
+        "aws_path_2": ".html",
+        "link": "https://www.besthotels.es/en/destinations-and-hotels/best-costa-ballena.html?utm_source=v1mp&utm_medium=dis-prem-rtg-1&utm_campaign=ao_pt",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_best-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600"
+        ],
+        "tcs": [
+            "130196"
+        ],
+        "name": "best-pt_v1mp_AO_PT_dis-prem_rtg-1_PRERROLL-SABINAL",
+        "landing": "https://www.besthotels.es/en/destinations-and-hotels/best-sabinal.html",
+        "aws_path_1": "BEST_HOTELS/2024/04/ao-pt/preroll2.0_rtg/sabinal/",
+        "aws_path_2": ".html",
+        "link": "https://www.besthotels.es/en/destinations-and-hotels/best-sabinal.html?utm_source=v1mp&utm_medium=dis-prem-rtg-1&utm_campaign=ao_pt",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_best-hotels-es_np_"
+    }
+]

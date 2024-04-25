@@ -17,7 +17,7 @@ from functions.progress_bar_functions import ProgressBarHandler
 from functions.open import open_test_html, open_folder, open_json_with_vscode
 
 # ESTILOS
-from styles.styles import DARK_GREEN, LIGHT_GREEN, TEXT_BLACK, TEXT_WHITE, RED, BLUE
+from styles.styles import DARK_GREEN, LIGHT_GREEN, TEXT_BLACK, TEXT_WHITE, RED, BLUE, GRAY
 ancho_btn = 20
 
 FOLDER_PATH = os.path.join("app")
@@ -178,7 +178,7 @@ def toggle_frame(frame_to_show):
         output_text.delete('1.0', tk.END)
 
 last_aws_path_2_selection = ""
-last_custom_value = ""  # Variable global para almacenar el último valor ingresado en el campo de texto personalizado
+last_custom_value = "" 
 
 def show_object_window(json_data, index=0):
     global object_frame, last_aws_path_2_selection, last_custom_value
@@ -201,7 +201,7 @@ def show_object_window(json_data, index=0):
     aws_path_1_entry_value = tk.Entry(object_frame, width=60, bg=LIGHT_GREEN, fg=TEXT_BLACK)
     aws_path_1_entry_value.grid(row=2, column=0, columnspan=3, padx=10, pady=10)
 
-    options_iframe = [".html", "/index.html"]  # Cambiado el orden para que "Custom" sea la primera opción
+    options_iframe = [".html", "/index.html"] 
     options_link = [".png", ".jpg", ".gif"]
     options = options_iframe + options_link
 
@@ -209,7 +209,7 @@ def show_object_window(json_data, index=0):
     aws_path_2_combobox.grid(row=3, column=1, padx=10, pady=5)
     aws_path_2_combobox.set("Custom" if last_aws_path_2_selection == "" else last_aws_path_2_selection)
 
-    custom_entry = tk.Entry(object_frame, width=30, bg=LIGHT_GREEN, fg=TEXT_BLACK)
+    custom_entry = tk.Entry(object_frame, width=20, bg=LIGHT_GREEN, fg=TEXT_BLACK)
     custom_entry.grid(row=3, column=2, padx=10, pady=5)
     custom_entry.grid_remove()
     custom_entry.insert(tk.END, last_custom_value)
@@ -220,7 +220,7 @@ def show_object_window(json_data, index=0):
         else:
             custom_entry.grid_remove()
 
-    show_custom_entry()  # Mostrar el campo de texto personalizado desde el principio
+    show_custom_entry() 
 
     aws_path_2_combobox.bind("<<ComboboxSelected>>", lambda event: show_custom_entry())
 
@@ -237,15 +237,13 @@ def process_current_object(json_data, index, aws_path_1_entry, aws_path_2_combob
     aws_path_2_combobox_value = aws_path_2_combobox.get()
     custom_entry_value = custom_entry.get()
 
-    # Actualizar el valor de 'aws_path_1' y 'aws_path_2' según lo que se haya ingresado en los campos correspondientes
     json_data[index]['aws_path_1'] = aws_path_1_entry_value
 
-    # Añadir esta línea para ajustar 'aws_path_1'
     json_data[index]['aws_path_1'] = aws_path_1_entry_value.replace("s3://adgravity/", "")
 
     if aws_path_2_combobox_value == "Custom":
         json_data[index]['aws_path_2'] = custom_entry_value
-        last_custom_value = custom_entry_value  # Almacenar el valor ingresado en el campo de texto personalizado
+        last_custom_value = custom_entry_value 
     else:
         json_data[index]['aws_path_2'] = aws_path_2_combobox_value
 
@@ -253,7 +251,6 @@ def process_current_object(json_data, index, aws_path_1_entry, aws_path_2_combob
 
     next_index = index + 1
     if next_index < len(json_data):
-        # Asegúrate de pasar el texto personalizado al siguiente objeto si existe
         if json_data[next_index].get('type') == "iframe" and aws_path_2_combobox_value == "Custom":
             json_data[next_index]['aws_path_2'] = custom_entry_value
         show_object_window(json_data, next_index)  
@@ -290,11 +287,15 @@ def show_input_window():
 
         def select_link_type(type):
             link_type.set(type)
-            btn_iframe.config(relief="sunken" if link_type.get() == "iframe" else "raised")
-            btn_link.config(relief="sunken" if link_type.get() == "link" else "raised")
+            if link_type.get() == "iframe":
+                btn_iframe.config(bg=GRAY, relief="sunken")
+                btn_link.config(bg=LIGHT_GREEN, relief="raised")
+            else:
+                btn_iframe.config(bg=LIGHT_GREEN, relief="raised")
+                btn_link.config(bg=GRAY, relief="sunken")
 
-        btn_iframe = tk.Button(input_frame, text="Iframe", command=lambda: select_link_type("iframe"), relief="raised", bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)
-        btn_link = tk.Button(input_frame, text="Link", command=lambda: select_link_type("link"), relief="raised", bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)
+        btn_iframe = tk.Button(input_frame, text="Iframe", command=lambda: select_link_type("iframe"), relief="raised",bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)
+        btn_link = tk.Button(input_frame, text="Link", command=lambda: select_link_type("link"), relief="sunken", bg=GRAY, fg=TEXT_BLACK, width=ancho_btn)
 
         btn_iframe.grid(row=0, column=0, padx=10, pady=10)
         btn_link.grid(row=0, column=1, padx=10, pady=10)
@@ -407,7 +408,7 @@ def iniciar_ejecucion_bulk():
     global script_running
     script_running = True
     progress_bar_handler.start_progress_bar()
-    progress_bar.grid(row=3, column=0, columnspan=4, pady=10)
+    progress_bar.grid(row=3, column=0, columnspan=7, pady=10)
     progress_bar['mode'] = 'determinate'
     progress_bar['value'] = 0
 
