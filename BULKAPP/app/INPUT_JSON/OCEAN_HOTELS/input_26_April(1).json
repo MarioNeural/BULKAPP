@@ -1,0 +1,68 @@
+[
+    {
+        "type": "link",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["130504", "130505"],
+        "name": "ocean-us_v1mp_AO_dis-p20_prs-1_MEXICO",
+        "landing": "https://www.oceanhotels.net/",
+        "aws_path_1": "OCEAN_HOTELS/2024/04/preroll_mexico/",
+        "aws_path_2": "/index.html",
+        "url": "https://www.oceanhotels.net/?utm_source=v1mp&utm_medium=dis-p20-prs-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_h10-hotels-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["130506", "130507"],
+        "name": "ocean-us_v1mp_AO_dis-p20_prs-1_RD",
+        "landing": "https://www.oceanhotels.net/",
+        "aws_path_1": "OCEAN_HOTELS/2024/04/preroll_republicadominicana/",
+        "aws_path_2": "/index.html",
+        "url": "https://www.oceanhotels.net/?utm_source=v1mp&utm_medium=dis-p20-prs-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_h10-hotels-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["130508", "130509"],
+        "name": "ocean-us_v1mp_AO_dis-p20_prs-1_JAMAICA",
+        "landing": "https://www.oceanhotels.net/",
+        "aws_path_1": "OCEAN_HOTELS/2024/04/preroll_jamaica/",
+        "aws_path_2": "/index.html",
+        "url": "https://www.oceanhotels.net/?utm_source=v1mp&utm_medium=dis-p20-prs-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_h10-hotels-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["130510", "130511"],
+        "name": "ocean-us_v1mp_AO_dis-p20_rtg-1_MEXICO",
+        "landing": "https://www.oceanhotels.net/",
+        "aws_path_1": "OCEAN_HOTELS/2024/04/preroll_mexico/",
+        "aws_path_2": "/index.html",
+        "url": "https://www.oceanhotels.net/?utm_source=v1mp&utm_medium=dis-p20-rtg-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_h10-hotels-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["130512", "130513"],
+        "name": "ocean-us_v1mp_AO_dis-p20_rtg-1_RD",
+        "landing": "https://www.oceanhotels.net/",
+        "aws_path_1": "OCEAN_HOTELS/2024/04/preroll_republicadominicana/",
+        "aws_path_2": "/index.html",
+        "url": "https://www.oceanhotels.net/?utm_source=v1mp&utm_medium=dis-p20-rtg-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_h10-hotels-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["130514", "130515"],
+        "name": "ocean-us_v1mp_AO_dis-p20_rtg-1_JAMAICA",
+        "landing": "https://www.oceanhotels.net/",
+        "aws_path_1": "OCEAN_HOTELS/2024/04/preroll_jamaica/",
+        "aws_path_2": "/index.html",
+        "url": "https://www.oceanhotels.net/?utm_source=v1mp&utm_medium=dis-p20-rtg-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_h10-hotels-es_np_"
+    }
+]

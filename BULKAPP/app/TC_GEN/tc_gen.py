@@ -14,6 +14,7 @@ advertiser_number_map = {
     'Pestana': 309,
     'AM Resorts': 151,
     'Best Hotels': 275,
+    'Ocean Hotels': 34,
     # Agrega más anunciantes según sea necesario
 }
 

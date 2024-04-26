@@ -1,26 +1,54 @@
 [
     {
         "type": "link",
-        "sizes": ["970x250", "300x600", "160x600", "300x250", "320x100", "728x90"],
-        "tcs": ["130380", "130381", "130382", "130383", "130384", "130385"],
-        "name": "amresorts-fr_v1mp_AO-DREAMS_dis_prs-1_WAW_ABRIL",
-        "landing": "https://resorts.hyattinclusivecollection.com/fr-fr/what-a-weekend",
-        "aws_path_1": "",
-        "aws_path_2": "/index.html",
-        "url": "https://resorts.hyattinclusivecollection.com/fr-fr/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-dreams&utm_term=WAW_Abril",
-        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "tcs": [
+            "98296",
+            "98297",
+            "98298",
+            "98299",
+            "98300",
+            "98301"
+        ],
+        "name": "amresorts-es_v1mp_AO-SECRETS_dis_rtg-2_SEMANA-SANTA",
+        "landing": "https://www.amrcollection.com/es/ofertas-especiales/secrets-semana-santa?bpId=17094",
+        "aws_path_1": "s3://adgravity/AM_RESORTS/2024/04/waw/premium_prs/secrets/",
+        "aws_path_2": "dsf",
+        "url": "https://www.amrcollection.com/es/ofertas-especiales/secrets-semana-santa?bpId=17094?utm_source=v1mp&utm_medium=Programmatic&utm_campaign=Easter23-Dreams",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_98296.js?n_o_nu=not&n_o_ord=[CACHEBUSTER]",
         "add_utm_size": "utm_content="
     },
     {
         "type": "link",
-        "sizes": ["970x250", "300x600", "160x600", "300x250", "320x100", "728x90"],
-        "tcs": ["130386", "130387", "130388", "130389", "130390", "130391"],
-        "name": "amresorts-fr_v1mp_AO-SECRETS_dis_prs-1_WAW_ABRIL",
-        "landing": "https://resorts.hyattinclusivecollection.com/fr-fr/what-a-weekend",
-        "aws_path_1": "",
-        "aws_path_2": "/index.html",
-        "url": "https://resorts.hyattinclusivecollection.com/fr-fr/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-secrets&utm_term=WAW_Abril",
-        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "tcs": [
+            "98302",
+            "98303",
+            "98304",
+            "98305",
+            "98306",
+            "98307"
+        ],
+        "name": "amresorts-fr_v1mp_AO-ALUA_dis_prs-1_SEMANA-SANTA",
+        "landing": "https://www.amrcollection.com/fr/offres-speciales/alua-paques?bpId=103583",
+        "aws_path_1": "s3://adgravity/AM_RESORTS/2024/04/waw/premium_prs/alua/",
+        "aws_path_2": "dsf",
+        "url": "https://www.amrcollection.com/fr/offres-speciales/alua-paques?bpId=103583?utm_source=v1mp&utm_medium=Programmatic&utm_campaign=Easter23-Alua",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_98302.js?n_o_nu=not&n_o_ord=[CACHEBUSTER]",
         "add_utm_size": "utm_content="
     }
 ]

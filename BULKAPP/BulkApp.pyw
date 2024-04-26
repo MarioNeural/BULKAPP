@@ -195,22 +195,20 @@ def show_object_window(json_data, index=0):
     formatted_json = one_line_arrays(json.dumps(json_data[index], indent=4))
     obj_text.insert(tk.END, formatted_json)
 
-    lbl_instruction = tk.Label(object_frame, text="Introduce ruta de AWS, ej: s3://adgravity/mundo_pacifico/2023/10/halloween/", bg=DARK_GREEN, fg=TEXT_BLACK)
+    lbl_instruction = tk.Label(object_frame, text="Introduce ruta de AWS, ej: s3://adgravity/mundo_pacifico/2023/10/halloween/\nEsta parte es opcional, solo si no se ejecuta Auto AWS", bg=DARK_GREEN, fg=TEXT_BLACK)
     lbl_instruction.grid(row=1, column=0, columnspan=3, padx=10, pady=10)
 
     aws_path_1_entry_value = tk.Entry(object_frame, width=60, bg=LIGHT_GREEN, fg=TEXT_BLACK)
     aws_path_1_entry_value.grid(row=2, column=0, columnspan=3, padx=10, pady=10)
 
-    options_iframe = [".html", "/index.html"] 
-    options_link = [".png", ".jpg", ".gif"]
-    options = options_iframe + options_link
+    options = ["Custom", ".html", "/index.html", ".png", ".jpg", ".gif"]
 
     aws_path_2_combobox = ttk.Combobox(object_frame, values=options, state="readonly")
     aws_path_2_combobox.grid(row=3, column=1, padx=10, pady=5)
     aws_path_2_combobox.set("Custom" if last_aws_path_2_selection == "" else last_aws_path_2_selection)
 
     custom_entry = tk.Entry(object_frame, width=20, bg=LIGHT_GREEN, fg=TEXT_BLACK)
-    custom_entry.grid(row=3, column=2, padx=10, pady=5)
+    custom_entry.grid(row=4, column=1, padx=10, pady=5)
     custom_entry.grid_remove()
     custom_entry.insert(tk.END, last_custom_value)
 
@@ -224,8 +222,8 @@ def show_object_window(json_data, index=0):
 
     aws_path_2_combobox.bind("<<ComboboxSelected>>", lambda event: show_custom_entry())
 
-    btn_next = tk.Button(object_frame, text="Continuar", command=lambda: process_current_object(json_data, index, aws_path_1_entry_value, aws_path_2_combobox, custom_entry), bg=LIGHT_GREEN, fg=TEXT_BLACK)
-    btn_next.grid(row=4, column=0, columnspan=3, padx=10, pady=10)
+    btn_next = tk.Button(object_frame, text="Continuar", command=lambda: process_current_object(json_data, index, aws_path_1_entry_value, aws_path_2_combobox, custom_entry), bg=BLUE, fg=TEXT_WHITE)
+    btn_next.grid(row=5, column=0, columnspan=3, padx=10, pady=10)
 
     toggle_frame(object_frame)
 
@@ -525,9 +523,65 @@ def show_create_tcs_window():
         
     toggle_frame(create_tcs_frame) 
 
+def show_aws_popup():
+    # Crear una nueva ventana
+    popup = tk.Toplevel(app)
+    popup.title("AWS Folder Path")
+    popup.configure(bg=DARK_GREEN)
+    popup.transient(app)  # Hace la ventana modal respecto a la ventana principal
+
+    # Posicionar la ventana emergente en el centro de la ventana principal
+    window_width = 300
+    window_height = 100
+    pos_x = app.winfo_x() + (app.winfo_width() // 2) - (window_width // 2)
+    pos_y = app.winfo_y() + (app.winfo_height() // 2) - (window_height // 2)
+    popup.geometry(f"{window_width}x{window_height}+{pos_x}+{pos_y}")
+
+    # Añadir un label con instrucciones
+    lbl_instruction = tk.Label(popup, text="Introduce la ubicación de la carpeta en AWS:", bg=DARK_GREEN, fg=TEXT_BLACK)
+    lbl_instruction.pack(padx=10, pady=5)
+
+    # Añadir un entry para ingresar datos
+    aws_path_entry = tk.Entry(popup, width=40, bg=LIGHT_GREEN, fg="black")
+    aws_path_entry.pack(padx=10, pady=5)
+
+    # Añadir un botón para ejecutar el script y cerrar la ventana emergente
+    btn_continue = tk.Button(popup, text="Continuar", command=lambda: execute_script(aws_path_entry.get(), popup), bg=BLUE, fg=TEXT_WHITE)
+    btn_continue.pack(padx=10, pady=10)
+
+def execute_script(aws_path, popup):
+    # Descompone el aws_path en base_url y path si es necesario
+    # Asumiendo que aws_path es algo como "s3://bucket/path/subpath"
+    parts = aws_path.split('/', 3)  # Divide en partes para separar base_url y path
+    if len(parts) < 4:
+        messagebox.showerror("Error", "La ruta de AWS debe ser completa, incluyendo bucket y path.")
+        return
+
+    base_url = f"s3://{parts[2]}"
+    path = parts[3]
+
+    # Formatear la ruta del script para ejecutar
+    script_path = os.path.join("app", "AWS_AUTO", "aws_auto.py")
+    
+    # Ejecutar el script externo pasando el path como argumento
+    try:
+        result = subprocess.run(["python", script_path, base_url, path], capture_output=True, text=True)
+        if result.returncode == 0:
+            messagebox.showinfo("Éxito", "Script ejecutado correctamente")
+        else:
+            messagebox.showerror("Error", "Error al ejecutar el script")
+    except Exception as e:
+        messagebox.showerror("Error", str(e))
+    finally:
+        popup.destroy()
+
+
 
 btn_show_input = tk.Button(frame, text="Introduce datos", command=show_input_window, bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)
 btn_show_input.grid(row=0, column=3, columnspan=4, padx=10)
+
+btn_show_auto_aws = tk.Button(frame, text="Auto AWS", command=lambda: show_aws_popup(), bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)
+btn_show_auto_aws.grid(row=1, column=3, columnspan=4, padx=10, pady=10)
 
 input_frame = tk.Frame(app, bg=DARK_GREEN)
 create_tcs_frame = tk.Frame(app, bg=DARK_GREEN)
@@ -542,22 +596,20 @@ output_text.grid(row=4, column=0, columnspan=4, pady=5, padx=10)
 btn_img_aws_bulk = tk.Button(frame, text="Ejecutar BULK", command=ejecutar_img_aws_bulk, bg=BLUE, fg=TEXT_WHITE, width=ancho_btn)
 btn_img_aws_bulk.grid(row=0, column=0, padx=50)
 
-
 btn_create_tcs = tk.Button(frame, text="Crear TCs", command=show_create_tcs_window, bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)
 btn_create_tcs.grid(row=0, column=2, padx=10)
-
 
 time_label = tk.Label(frame, text="", bg=DARK_GREEN, fg=TEXT_BLACK, width=ancho_btn)
 time_label.grid(row=1, column=0)
 
 open_folder_btn = tk.Button(frame, text="Carpeta de archivos", command=open_folder, bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)
-open_folder_btn.grid(row=2, column=3, columnspan=4, pady=10)
+open_folder_btn.grid(row=1, column=2,  pady=10)
 
 open_html_btn = tk.Button(frame, text="test.html", command=open_test_html, bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)
 open_html_btn.grid(row=3, column=0, pady=10)
 
 open_json_btn = tk.Button(frame, text="Abrir JSON", command=open_json_with_vscode, bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)
-open_json_btn.grid(row=1, column=3, columnspan=4, pady=10)
+open_json_btn.grid(row=2, column=3, columnspan=4, pady=10)
 
 generar_csv_btn = tk.Button(frame, text="Generar CSV DV360", command=generar_csv, bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)
 generar_csv_btn.grid(row=2, column=0, padx=10)
