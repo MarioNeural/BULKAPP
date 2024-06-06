@@ -15,6 +15,26 @@ advertiser_number_map = {
     'AM Resorts': 151,
     'Best Hotels': 275,
     'Ocean Hotels': 34,
+    'Sandos': 123,
+    'Petit Celler': 142,
+    'Insotel': 281,
+    'Iberia Express': 209,
+    'MiBodega': 362,
+    'Estival Group': 381,
+    'Canariasviaja': 321,
+    'Pepephone': 36,
+    'AECC': 349,
+    'Liga-T': 332,
+    'OK Mobility': 371,
+    'Oasis Hotel': 351,
+    'Excelsia': 142,
+    'Viva Hotels': 261,
+    'Wonders': 289,
+    'Médicos del Mundo': 225,
+    'Gilmar': 339,
+    'Ametller Origen': 215,
+    'Solvia': 109,
+    'Palmaia': 109,
     # Agrega más anunciantes según sea necesario
 }
 
@@ -89,7 +109,14 @@ def main():
         mapping_dicts[name_col] = dict(zip(taxonomy_df[name_col].astype(str).str.lower(), taxonomy_df[id_col]))
 
     crear_tcs_file_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data', 'CrearTcs.csv')
-    crear_tcs_df = pd.read_csv(crear_tcs_file_path, sep=';')
+    
+    # Delete existing file if it exists
+    if os.path.exists(crear_tcs_file_path):
+        os.remove(crear_tcs_file_path)
+    
+    # Define the columns for the new DataFrame
+    new_columns = ["trackingcode_name", "awareness_type", "publisher", "publisher_id", "campaign", "campaign_id", "model", "model_id", "placement_id", "lineitem_id", "new_lineitem_name", "channel", "channel_id", "strategy", "strategy_id", "retargeting", "sem_type", "bulk_prospecting"]
+    crear_tcs_df = pd.DataFrame(columns=new_columns)
 
     def clean_lineitem_name(lineitem):
         if lineitem.endswith('_XXXXX'):
@@ -136,6 +163,7 @@ def main():
 
     new_crear_tcs_df.replace('', np.nan, inplace=True)
 
+    # Write the new data to the CSV file
     new_crear_tcs_df.to_csv(crear_tcs_file_path, index=False, sep=';')
 
     data_folder_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data')

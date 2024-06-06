@@ -1,0 +1,12 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": [],
+        "name": "preview",
+        "landing": "https://www.culmia.com/",
+        "aws_path_1": "CULMIA/2024/05/3dcard/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.culmia.com/"
+    }
+]

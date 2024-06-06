@@ -1,0 +1,30 @@
+[
+
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "160x600",
+            "970x250",
+            "320x100",
+            "728x90"
+        ],
+        "tcs": [
+            "132263",
+            "132264",
+            "132265",
+            "132266",
+            "132267",
+            "132268"
+        ],
+        "name": "iberia-express-es_imp_AO-RESERVAS-CAN_dis_prs-1_EMOVE-GC",
+        "landing": "https://www.iberiaexpress.com/",
+        "aws_path_1": "iberia/2024/05/emove/gc/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.iberiaexpress.com/?utm_source=imp&utm_medium=dis-prs-1&utm_campaign=ao-reservas-can&utm_term=GC",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_iberia-express-es_np_",
+        "add_utm_size": "utm_content=",
+        "viewability_3": "<script language='JavaScript1.1' src='https://ad.doubleclick.net/ddm/trackimpj/N760802.3195207ADGRAVITY1/B31381321.389122654;dc_trk_aid=580511199;dc_trk_cid=208672140;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></script>"
+    }
+]

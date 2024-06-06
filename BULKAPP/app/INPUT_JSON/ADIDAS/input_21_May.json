@@ -1,0 +1,13 @@
+
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": [],
+        "name": "preview_3dcard",
+        "landing": "https://www.adidas.es/",
+        "aws_path_1": "ADIDAS/2024/05/3dcard/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.adidas.es/"
+}
+]

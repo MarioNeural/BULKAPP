@@ -1,0 +1,14 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["320x100", "160x600", "300x250", "970x250", "300x600"],
+        "tcs": ["132317", "132318", "132319", "132320", "132321"],
+        "name": "excelsia-es_imp_VINA-SOL-2024-GENERICO_dis_prs-1",
+        "landing": "https://www.petitceller.com/es/vino/vina-sol",
+        "aws_path_1": "VINASOL/2024/05/generico/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.petitceller.com/es/vino/vina-sol?utm_source=imp&utm_medium=dis-prs-1&utm_campaign=vina-sol-2024&utm_term=generico",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_excelsia-es_np_",
+        "add_utm_size": "utm_content="
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "970x250"
+        ],
+        "tcs": [
+            "132514",
+            "132515"
+        ],
+        "name": "ametller-origen-es_v1mp_AO-CATALUNA_dis_prs-1_FLASHDAYS24-COUNTDOWN-ES",
+        "landing": "https://www.ametllerorigen.com/es/promociones",
+        "aws_path_1": "ametller_origen/2024/05/countdown/es/",
+        "aws_path_2": ".html",
+        "link": "https://www.ametllerorigen.com/es/promociones?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-cataluna&utm_term=FLASHDAYS24-COUNTDOWN-ES",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_ametller-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "970x250"
+        ],
+        "tcs": [
+            "132516",
+            "132517"
+        ],
+        "name": "ametller-origen-es_v1mp_AO-CATALUNA_dis_prs-1_FLASHDAYS24-COUNTDOWN-CAT",
+        "landing": "https://www.ametllerorigen.com/ca/promocions",
+        "aws_path_1": "ametller_origen/2024/05/countdown/cat/",
+        "aws_path_2": ".html",
+        "link": "https://www.ametllerorigen.com/ca/promocions?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-cataluna&utm_term=FLASHDAYS24-COUNTDOWN-CAT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_ametller-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "970x250"
+        ],
+        "tcs": [
+            "132518",
+            "132519"
+        ],
+        "name": "ametller-origen-es_v1mp_AO-CATALUNA_dis_rtg-1_FLASHDAYS24-COUNTDOWN-ES",
+        "landing": "https://www.ametllerorigen.com/es/promociones",
+        "aws_path_1": "ametller_origen/2024/05/countdown/es/",
+        "aws_path_2": ".html",
+        "link": "https://www.ametllerorigen.com/es/promociones?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao-cataluna&utm_term=FLASHDAYS24-COUNTDOWN-ES",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_ametller-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "970x250"
+        ],
+        "tcs": [
+            "132520",
+            "132521"
+        ],
+        "name": "ametller-origen-es_v1mp_AO-CATALUNA_dis_rtg-1_FLASHDAYS24-COUNTDOWN-CAT",
+        "landing": "https://www.ametllerorigen.com/ca/promocions",
+        "aws_path_1": "ametller_origen/2024/05/countdown/cat/",
+        "aws_path_2": ".html",
+        "link": "https://www.ametllerorigen.com/ca/promocions?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao-cataluna&utm_term=FLASHDAYS24-COUNTDOWN-CAT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_ametller-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "970x250",
+            "320x100",
+            "728x90",
+            "300x250"
+        ],
+        "tcs": [
+            "132522",
+            "132523",
+            "132524",
+            "132525",
+            "132526"
+        ],
+        "name": "ametller-origen-es_v1mp_AO-CATALUNA_dis_prs-1_FLASHDAYS24-ES",
+        "landing": "https://www.ametllerorigen.com/es/promociones",
+        "aws_path_1": "ametller_origen/2024/05/flashdays24/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.ametllerorigen.com/es/promociones?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-cataluna&utm_term=FLASHDAYS24-ES",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_ametller-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "970x250",
+            "320x100",
+            "728x90",
+            "300x250"
+        ],
+        "tcs": [
+            "132527",
+            "132528",
+            "132529",
+            "132530",
+            "132531"
+        ],
+        "name": "ametller-origen-es_v1mp_AO-CATALUNA_dis_prs-1_FLASHDAYS24-CAT",
+        "landing": "https://www.ametllerorigen.com/ca/promocions",
+        "aws_path_1": "ametller_origen/2024/05/flashdays24/cat/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.ametllerorigen.com/ca/promocions?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-cataluna&utm_term=FLASHDAYS24-CAT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_ametller-es_np_",
+        "add_utm_size": "utm_content="
+    }
+]

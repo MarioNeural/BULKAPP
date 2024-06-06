@@ -1,0 +1,86 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["132270", "132273"],
+        "name": "ok-mobility-it_v1mp_AO_dis-prem_prs-1_3D-ROAD",
+        "landing": "https://okmobility.com/it/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/05/3dcard_idiomas/it/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/it/rent/?promo=ROADTOSUMMER&utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=roadtosummer&utm_term=it",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_okmobility-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["132271", "132274"],
+        "name": "ok-mobility-fr_v1mp_AO_dis-prem_prs-1_3D-ROAD",
+        "landing": "https://okmobility.com/fr/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/05/3dcard_idiomas/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/fr/rent/?promo=ROADTOSUMMER&utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=roadtosummer&utm_term=fr",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_okmobility-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["132272", "132275"],
+        "name": "ok-mobility-es_v1mp_AO_dis-prem_prs-1_3D-ROAD",
+        "landing": "https://okmobility.com/es/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/05/3dcard_idiomas/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/es/rent/?promo=ROADTOSUMMER&utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=roadtosummer&utm_term=es",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_okmobility-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["132276", "132277", "132278", "132279", "132280", "132281"],
+        "name": "ok-mobility-es_v1mp_AO_dis_prs-1_ROADTOSUMMER",
+        "landing": "https://okmobility.com/es/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/05/display_idiomas/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/es/rent/?promo=ROADTOSUMMER&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=roadtosummer&utm_term=es",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_okmobility-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["132282", "132283", "132284", "132285", "132286", "132287"],
+        "name": "ok-mobility-fr_v1mp_AO_dis_prs-1_ROADTOSUMMER",
+        "landing": "https://okmobility.com/fr/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/05/display_idiomas/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/fr/rent/?promo=ROADTOSUMMER&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=roadtosummer&utm_term=fr",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_okmobility-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["132288", "132289", "132290", "132291", "132292", "132293"],
+        "name": "ok-mobility-de_v1mp_AO_dis_prs-1_ROADTOSUMMER",
+        "landing": "https://okmobility.com/de/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/05/display_idiomas/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/de/rent/?promo=ROADTOSUMMER&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=roadtosummer&utm_term=de",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_okmobility-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["132294", "132295", "132296", "132297", "132298", "132299"],
+        "name": "ok-mobility-gb_v1mp_AO_dis_prs-1_ROADTOSUMMER",
+        "landing": "https://okmobility.com/en/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/05/display_idiomas/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/en/rent/?promo=ROADTOSUMMER&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=roadtosummer&utm_term=gb",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_okmobility-es_np_",
+        "add_utm_size": "utm_content="
+    }
+]

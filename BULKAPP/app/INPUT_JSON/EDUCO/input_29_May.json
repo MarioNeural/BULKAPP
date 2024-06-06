@@ -1,0 +1,57 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["132694", "132704"],
+        "name": "educo-es_v1mp_BECAS-COMEDOR_dis-p20_prs-1_VERANO24",
+        "landing": "https://www.educo.org/landing/becascomedor",
+        "aws_path_1": "EDUCO/2024/05/preroll_prs/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.educo.org/landing/becascomedor?utm_source=banner_v1&utm_medium=display&utm_campaign=becas-comedor-verano_2024&utm_content=prerroll",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_educo-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["132699", "132709"],
+        "name": "educo-es_v1mp_BECAS-COMEDOR_dis-p20_rtg-1_VERANO24",
+        "landing": "https://www.educo.org/landing/becascomedor",
+        "aws_path_1": "EDUCO/2024/05/preroll_rtg/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.educo.org/landing/becascomedor?utm_source=banner_v1&utm_medium=display&utm_campaign=becas-comedor-verano_2024&utm_content=prerroll",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_educo-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "320x100", "160x600", "970x250", "728x90"],
+        "tcs": ["132714", "132715", "132716", "132717", "132718", "132719"],
+        "name": "educo-es_v1mp_BECAS-COMEDOR_dis_prs-1_VERANO24",
+        "landing": "https://www.educo.org/landing/becascomedor",
+        "aws_path_1": "EDUCO/2024/05/html/prs/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.educo.org/landing/becascomedor?utm_source=banner_v1&utm_medium=display&utm_campaign=becas-comedor-verano_2024",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_educo-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "320x100", "160x600", "970x250", "728x90"],
+        "tcs": ["132720", "132721", "132722", "132723", "132724", "132725"],
+        "name": "educo-es_v1mp_BECAS-COMEDOR_dis_rtg-1_VERANO24",
+        "landing": "https://www.educo.org/landing/becascomedor",
+        "aws_path_1": "EDUCO/2024/05/html/rtg/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.educo.org/landing/becascomedor?utm_source=banner_v1&utm_medium=display&utm_campaign=becas-comedor-verano_2024",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_educo-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600"],
+        "tcs": ["132726", "132727"],
+        "name": "educo-es_v1mp_BECAS-COMEDOR_dis_prs-1_3D-VERANO24",
+        "landing": "https://www.educo.org/landing/becascomedor",
+        "aws_path_1": "EDUCO/2024/05/3dcard/",
+        "aws_path_2": "/index.html",
+        "link": "#\u00a1REF!",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_educo-es_np_"
+    }
+]

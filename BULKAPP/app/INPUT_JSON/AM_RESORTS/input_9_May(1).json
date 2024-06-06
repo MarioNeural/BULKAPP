@@ -1,0 +1,54 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "tcs": [
+            "131492",
+            "131493",
+            "131494",
+            "131495",
+            "131496",
+            "131497"
+        ],
+        "name": "amresorts-de_v1mp_PRE-HALKIDIKI_dis_prs-1_OPENING",
+        "landing": "https://www.hyattinclusivecollection.com/de/resorts-hotels/zoetry/griechenland/zoetry-halkidiki-resort-and-spa/",
+        "aws_path_1": "AM_RESORTS/2024/05/opening/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hyattinclusivecollection.com/de/resorts-hotels/zoetry/griechenland/zoetry-halkidiki-resort-and-spa/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=Pre-Halkidiki&utm_term=OPENING",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "tcs": [
+            "131498",
+            "131499",
+            "131500",
+            "131501",
+            "131502",
+            "131503"
+        ],
+        "name": "amresorts-it_v1mp_PRE-HALKIDIKI_dis_prs-1_OPENING",
+        "landing": "https://www.hyattinclusivecollection.com/en/resorts-hotels/zoetry/greece/zoetry-halkidiki-resort-and-spa/",
+        "aws_path_1": "AM_RESORTS/2024/05/opening/it/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hyattinclusivecollection.com/en/resorts-hotels/zoetry/greece/zoetry-halkidiki-resort-and-spa/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=Pre-Halkidiki&utm_term=OPENING",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    }
+]

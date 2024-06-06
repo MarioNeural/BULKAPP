@@ -1,0 +1,38 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["133260", "133261", "133262", "133263", "133264", "133265"],
+        "name": "ok-mobility-pt_v1mp_AO_dis_prs-1_ROADTOSUMMER",
+        "landing": "https://okmobility.com/pt/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/06/materiales_pt/standard/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/pt/rent/?promo=ROADTOSUMMER&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=roadtosummer&utm_term=pt",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_okmobility-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600"],
+        "tcs": ["133266", "133267"],
+        "name": "ok-mobility-pt_v1mp_AO_dis-prem_prs-1_3D-ROAD",
+        "landing": "https://okmobility.com/pt/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/06/materiales_pt/premium/3dcard/pt/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/pt/rent/?promo=ROADTOSUMMER&utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=roadtosummer&utm_term=pt",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_okmobility-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["133268", "133269"],
+        "name": "ok-mobility-pt_v1mp_AO_dis-prem_prs-1_SCRATCHER-ROAD",
+        "landing": "https://okmobility.com/pt/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/06/materiales_pt/premium/scratcher/pt/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/pt/rent/?promo=ROADTOSUMMER&utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=roadtosummer&utm_term=pt",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_okmobility-es_np_",
+        "add_utm_size": "utm_content="
+    }
+]

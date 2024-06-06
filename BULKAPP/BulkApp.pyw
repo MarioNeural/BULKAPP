@@ -137,7 +137,6 @@ def generate_object(sizes, tcs, line, key, landing, link, name_index):
         }
 
 
-
     if include_viewability.get():
         result_obj["viewability"] = viewability
 
@@ -258,8 +257,6 @@ def process_current_object(json_data, index, aws_path_1_entry, aws_path_2_combob
         toggle_frame(output_text)
 
 
-
-
 def process_data(input_data):
     try:
         data = input_data.get("1.0", tk.END)
@@ -314,8 +311,6 @@ def show_input_window():
         btn_clear.grid(row=5, column=0, columnspan=2, pady=10)
 
     toggle_frame(input_frame)
-
-
 
 
 def ejecutar_script(script_name):
@@ -524,35 +519,28 @@ def show_create_tcs_window():
     toggle_frame(create_tcs_frame) 
 
 def show_aws_popup():
-    # Crear una nueva ventana
     popup = tk.Toplevel(app)
     popup.title("AWS Folder Path")
     popup.configure(bg=DARK_GREEN)
-    popup.transient(app)  # Hace la ventana modal respecto a la ventana principal
+    popup.transient(app) 
 
-    # Posicionar la ventana emergente en el centro de la ventana principal
     window_width = 300
     window_height = 100
     pos_x = app.winfo_x() + (app.winfo_width() // 2) - (window_width // 2)
     pos_y = app.winfo_y() + (app.winfo_height() // 2) - (window_height // 2)
     popup.geometry(f"{window_width}x{window_height}+{pos_x}+{pos_y}")
 
-    # Añadir un label con instrucciones
     lbl_instruction = tk.Label(popup, text="Introduce la ubicación de la carpeta en AWS:", bg=DARK_GREEN, fg=TEXT_BLACK)
     lbl_instruction.pack(padx=10, pady=5)
 
-    # Añadir un entry para ingresar datos
     aws_path_entry = tk.Entry(popup, width=40, bg=LIGHT_GREEN, fg="black")
     aws_path_entry.pack(padx=10, pady=5)
 
-    # Añadir un botón para ejecutar el script y cerrar la ventana emergente
     btn_continue = tk.Button(popup, text="Continuar", command=lambda: execute_script(aws_path_entry.get(), popup), bg=BLUE, fg=TEXT_WHITE)
     btn_continue.pack(padx=10, pady=10)
 
 def execute_script(aws_path, popup):
-    # Descompone el aws_path en base_url y path si es necesario
-    # Asumiendo que aws_path es algo como "s3://bucket/path/subpath"
-    parts = aws_path.split('/', 3)  # Divide en partes para separar base_url y path
+    parts = aws_path.split('/', 3) 
     if len(parts) < 4:
         messagebox.showerror("Error", "La ruta de AWS debe ser completa, incluyendo bucket y path.")
         return
@@ -560,10 +548,8 @@ def execute_script(aws_path, popup):
     base_url = f"s3://{parts[2]}"
     path = parts[3]
 
-    # Formatear la ruta del script para ejecutar
     script_path = os.path.join("app", "AWS_AUTO", "aws_auto.py")
     
-    # Ejecutar el script externo pasando el path como argumento
     try:
         result = subprocess.run(["python", script_path, base_url, path], capture_output=True, text=True)
         if result.returncode == 0:
@@ -574,7 +560,6 @@ def execute_script(aws_path, popup):
         messagebox.showerror("Error", str(e))
     finally:
         popup.destroy()
-
 
 
 btn_show_input = tk.Button(frame, text="Introduce datos", command=show_input_window, bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)

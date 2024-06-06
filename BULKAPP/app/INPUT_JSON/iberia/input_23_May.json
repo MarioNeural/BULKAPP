@@ -1,0 +1,14 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x600", "728x90", "970x250", "300x250", "320x100"],
+        "tcs": ["132305", "132306", "132307", "132308", "132309", "132310"],
+        "name": "iberia-express-es_imp_AO-RESERVAS-CAN_dis_rtg-1_DCO-CAN",
+        "landing": "https://www.iberiaexpress.com/",
+        "aws_path_1": "iberia/2023/03/dco/",
+        "aws_path_2": ".html",
+        "link": "https://www.iberiaexpress.com/?utm_source=imp&utm_medium=dis-rtg-1&utm_campaign=ao-reservas-can",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_iberia-express-es_np_",
+        "add_utm_size": "utm_content="
+    }
+]

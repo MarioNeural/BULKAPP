@@ -1,0 +1,14 @@
+[
+    {
+        "type": "link",
+        "sizes": ["970x250", "300x600", "300x250", "160x600", "320x50", "728x90"],
+        "tcs": ["132457", "132458", "132459", "132460", "132461", "132462"],
+        "name": "petit-celler-es_imp_ALWAYS-ON_dis_prs-1_VINOS-ECO",
+        "landing": "https://www.petitceller.com/es/vino/ecologicos",
+        "aws_path_1": "PETIT_CELLER/2024/05/vinoseco/",
+        "aws_path_2": ".jpg",
+        "url": "https://www.petitceller.com/es/vino/ecologicos?utm_source=programatica&utm_medium=display&utm_campaign=always-on&utm_term=VINOS-ECO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_excelsia-es_np_",
+        "add_utm_size": "utm_content="
+    }
+]

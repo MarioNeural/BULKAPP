@@ -1,0 +1,30 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": [
+            "",
+            ""
+        ],
+        "name": "plan-internacional-es_adg_CLOCK_dis-prem_prs-22_COUNTDOWN",
+        "landing": "https://apoya.plan-international.es/beat-the-clock-ag?utm_source=adgravity&utm_medium=display&utm_campaign=beat-the-clock",
+        "aws_path_1": "PLAN_INTERNACIONAL/2024/04/clock/countdown/",
+        "aws_path_2": ".html",
+        "link": "https://apoya.plan-international.es/beat-the-clock-ag?utm_source=adgravity&utm_medium=display&utm_campaign=beat-the-clock",
+        "viewability": ""
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600"],
+        "tcs": [
+            "",
+            ""
+        ],
+        "name": "plan-internacional-es_adg_CLOCK_dis-p20_prs-22_P20",
+        "landing": "https://apoya.plan-international.es/beat-the-clock-ag?utm_source=adgravity&utm_medium=display&utm_campaign=beat-the-clock",
+        "aws_path_1": "PLAN_INTERNACIONAL/2024/04/clock/preroll2.0/",
+        "aws_path_2": ".html",
+        "link": "https://apoya.plan-international.es/beat-the-clock-ag?utm_source=adgravity&utm_medium=display&utm_campaign=beat-the-clock",
+        "viewability": ""
+    }
+]

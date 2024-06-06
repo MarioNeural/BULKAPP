@@ -1,0 +1,13 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250"],
+        "tcs": [],
+        "name": "preview",
+        "landing": "https://lopesan.com/",
+        "aws_path_1": "LOPESAN/2024/06/dco/",
+        "aws_path_2": ".html",
+        "link": "https://lopesan.com/",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_okmobility-es_np_"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": [],
+        "name": "preview",
+        "landing": "https://www.ametllerorigen.com/",
+        "aws_path_1": "ametller_origen/2024/05/countdown/cat/",
+        "aws_path_2": ".html",
+        "link": "https://www.ametllerorigen.com/"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": [],
+        "name": "pewview",
+        "landing": "https://www.ametllerorigen.com/",
+        "aws_path_1": "ametller_origen/2024/05/countdown/es/",
+        "aws_path_2": ".html",
+        "link": "https://www.ametllerorigen.com/"
+    }
+]

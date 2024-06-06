@@ -1,0 +1,49 @@
+[
+    {
+        "type": "link",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "tcs": [],
+        "name": "fp-maragall-es_adg_TANGIBILIZACION_dis_rtg-1_FUTURO-B",
+        "landing": "https://fpmaragall.org/donativos/",
+        "aws_path_1": "FP_MARAGALL/2024/05/futuro/tangibilizacion/",
+        "aws_path_2": ".gif",
+        "url": "https://fpmaragall.org/donativos/?utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=tangibilizacion&utm_term=ES&utm_content=FUTURO-B"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "tcs": [],
+        "name": "fp-maragall-es_adg_SOCIOS_dis_rtg-1_FUTURO-B",
+        "landing": "https://fpmaragall.org/donativos/",
+        "aws_path_1": "FP_MARAGALL/2024/05/futuro/socios/",
+        "aws_path_2": ".gif",
+        "url": "https://fpmaragall.org/donativos/?utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=socios&utm_term=ES&utm_content=FUTURO-B"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "728x90",
+            "970x250"
+        ],
+        "tcs": [ ],
+        "name": "fp-maragall-es_adg_AWARENESS_dis_prs-1_FUTURO-B",
+        "landing": "https://recursos.fpmaragall.org/hazte-socio",
+        "aws_path_1": "FP_MARAGALL/2024/05/futuro/awareness/",
+        "aws_path_2": ".gif",
+        "url": "https://recursos.fpmaragall.org/hazte-socio?utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awareness&utm_term=ES&utm_content=FUTURO-B"
+    }
+]

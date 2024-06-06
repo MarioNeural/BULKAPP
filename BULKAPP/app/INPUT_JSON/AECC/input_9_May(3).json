@@ -1,0 +1,15 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "728x90", "970x250", "160x600", "320x100"],
+        "tcs": ["131467", "131468", "131469", "131470", "131471", "131472"],
+        "name": "aecc-es_v1mp_AO-DONACION_dis-prem_prs-1_CUESTACION",
+        "landing": "https://colabora.contraelcancer.es/dona",
+        "aws_path_1": "AECC/2024/05/cuestacion/",
+        "aws_path_2": "/index.html",
+        "link": "https://colabora.contraelcancer.es/dona?utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=ao-donacion",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_aecc-es_np_",
+        "viewability_2": true,
+        "viewability_2_tcs": ["131504", "131505", "131506", "131507", "131508", "131509"]
+    }
+]

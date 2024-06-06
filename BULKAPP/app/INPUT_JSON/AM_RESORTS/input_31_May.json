@@ -1,0 +1,12 @@
+[
+    {
+        "type": "link",
+        "sizes": ["160x600", "300x600", "970x250", "728x90"],
+        "tcs": [],
+        "name": "preview",
+        "landing": "https://www.hyattinclusivecollection.com/es/",
+        "aws_path_1": "AM_RESORTS/2024/05/waw_preview/",
+        "aws_path_2": ".png",
+        "url": "https://www.hyattinclusivecollection.com/es/"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "type": "link",
+        "sizes": ["970x250", "300x600", "300x250", "160x600", "320x50", "728x90"],
+        "tcs": ["133241", "133242", "133243", "133244", "133245", "133246"],
+        "name": "petit-celler-es_imp_ALWAYS-ON_dis_prs-1_AVGVSTVS-FORVM",
+        "landing": "https://www.petitceller.com/es/vino/avgvstvs-forvm",
+        "aws_path_1": "PETIT_CELLER/2024/05/forum/",
+        "aws_path_2": ".jpg",
+        "url": "https://www.petitceller.com/es/vino/avgvstvs-forvm?utm_source=programatica&utm_medium=display&utm_campaign=always-on&utm_term=AVGVSTVS-FORVM",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_excelsia-es_np_",
+        "add_utm_size": "utm_content="
+    }
+]

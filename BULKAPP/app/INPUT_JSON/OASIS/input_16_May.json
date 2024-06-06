@@ -1,0 +1,46 @@
+[
+    {
+        "type": "link",
+        "sizes": ["320x100", "300x600", "300x250", "728x90", "468x60", "320x50", "250x250", "120x600"],
+        "tcs": ["131692", "131693", "131694", "131695", "131696", "131697", "131698", "131699"],
+        "name": "oasis-mx_v1mp_HOTSALES_dis_prs-1_GIF",
+        "landing": "https://oasishoteles.com/es",
+        "aws_path_1": "OASIS/2024/05/hotsales/es/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/es?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=hotsales&utm_term=Mx",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_oasis-hotels-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": ["320x100", "300x600", "300x250", "728x90", "468x60", "320x50", "250x250", "120x600"],
+        "tcs": ["131700", "131701", "131702", "131703", "131704", "131705", "131706", "131707"],
+        "name": "oasis-mx_v1mp_HOTSALES_dis_rtg-1_GIF",
+        "landing": "https://oasishoteles.com/es",
+        "aws_path_1": "OASIS/2024/05/hotsales/es/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/es?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=hotsales&utm_term=Mx",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_oasis-hotels-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": ["320x100", "300x600", "300x250", "728x90", "468x60", "320x50", "250x250", "120x600"],
+        "tcs": ["131708", "131709", "131710", "131711", "131712", "131713", "131714", "131715"],
+        "name": "oasis-us_v1mp_HOTSALES_dis_prs-1_GIF",
+        "landing": "https://oasishoteles.com/en",
+        "aws_path_1": "OASIS/2024/05/hotsales/en/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/en?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=hotsales&utm_term=Us",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_oasis-hotels-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": ["320x100", "300x600", "300x250", "728x90", "468x60", "320x50", "250x250", "120x600"],
+        "tcs": ["131716", "131717", "131718", "131719", "131720", "131721", "131722", "131723"],
+        "name": "oasis-us_v1mp_HOTSALES_dis_rtg-1_GIF",
+        "landing": "https://oasishoteles.com/en",
+        "aws_path_1": "OASIS/2024/05/hotsales/en/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/en?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=hotsales&utm_term=Us",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_oasis-hotels-es_np_"
+    }
+]

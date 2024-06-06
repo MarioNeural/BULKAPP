@@ -1,0 +1,496 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "tcs": [
+            "131093",
+            "131094",
+            "131095",
+            "131096",
+            "131097",
+            "131098"
+        ],
+        "name": "amresorts-eu_v1mp_AO-ZOETRY_dis_prs-1_VERANO24",
+        "landing": "https://www.hyattinclusivecollection.com/en/resorts-hotels/zoetry/",
+        "aws_path_1": "AM_RESORTS/2024/05/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hyattinclusivecollection.com/en/resorts-hotels/zoetry/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-zoetry&utm_term=VERANO24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "tcs": [
+            "131099",
+            "131100",
+            "131101",
+            "131102",
+            "131103",
+            "131104"
+        ],
+        "name": "amresorts-eu_v1mp_AO-ALUA_dis_prs-1_VERANO24",
+        "landing": "https://www.hyattinclusivecollection.com/en/resorts-y-hoteles/alua-hotels/",
+        "aws_path_1": "AM_RESORTS/2024/05/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hyattinclusivecollection.com/en/resorts-y-hoteles/alua-hotels/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-alua&utm_term=VERANO24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "tcs": [
+            "131105",
+            "131106",
+            "131107",
+            "131108",
+            "131109",
+            "131110"
+        ],
+        "name": "amresorts-eu_v1mp_AO-DREAMS_dis_prs-1_VERANO24",
+        "landing": "https://www.hyattinclusivecollection.com/en/resorts-y-hoteles/dreams/",
+        "aws_path_1": "AM_RESORTS/2024/05/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hyattinclusivecollection.com/en/resorts-y-hoteles/dreams/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-dreams&utm_term=VERANO24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "tcs": [
+            "131111",
+            "131112",
+            "131113",
+            "131114",
+            "131115",
+            "131116"
+        ],
+        "name": "amresorts-eu_v1mp_AO-SECRETS_dis_prs-1_VERANO24",
+        "landing": "https://www.hyattinclusivecollection.com/en/resorts-hotels/secrets/",
+        "aws_path_1": "AM_RESORTS/2024/05/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hyattinclusivecollection.com/en/resorts-hotels/secrets/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-secrets&utm_term=VERANO24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "tcs": [
+            "131117",
+            "131118",
+            "131119",
+            "131120",
+            "131121",
+            "131122"
+        ],
+        "name": "amresorts-es_v1mp_AO-ZOETRY_dis_prs-1_VERANO24",
+        "landing": "https://www.hyattinclusivecollection.com/Es/resorts-hotels/zoetry/",
+        "aws_path_1": "AM_RESORTS/2024/05/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hyattinclusivecollection.com/Es/resorts-hotels/zoetry/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-zoetry&utm_term=VERANO24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "tcs": [
+            "131123",
+            "131124",
+            "131125",
+            "131126",
+            "131127",
+            "131128"
+        ],
+        "name": "amresorts-es_v1mp_AO-ALUA_dis_prs-1_VERANO24",
+        "landing": "https://www.hyattinclusivecollection.com/Es/resorts-y-hoteles/alua-hotels/",
+        "aws_path_1": "AM_RESORTS/2024/05/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hyattinclusivecollection.com/Es/resorts-y-hoteles/alua-hotels/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-alua&utm_term=VERANO24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "tcs": [
+            "131129",
+            "131130",
+            "131131",
+            "131132",
+            "131133",
+            "131134"
+        ],
+        "name": "amresorts-es_v1mp_AO-DREAMS_dis_prs-1_VERANO24",
+        "landing": "https://www.hyattinclusivecollection.com/Es/resorts-y-hoteles/dreams/",
+        "aws_path_1": "AM_RESORTS/2024/05/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hyattinclusivecollection.com/Es/resorts-y-hoteles/dreams/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-dreams&utm_term=VERANO24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "tcs": [
+            "131135",
+            "131136",
+            "131137",
+            "131138",
+            "131139",
+            "131140"
+        ],
+        "name": "amresorts-es_v1mp_AO-SECRETS_dis_prs-1_VERANO24",
+        "landing": "https://www.hyattinclusivecollection.com/Es/resorts-hotels/secrets/",
+        "aws_path_1": "AM_RESORTS/2024/05/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hyattinclusivecollection.com/Es/resorts-hotels/secrets/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-secrets&utm_term=VERANO24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "tcs": [
+            "131141",
+            "131142",
+            "131143",
+            "131144",
+            "131145",
+            "131146"
+        ],
+        "name": "amresorts-gb_v1mp_AO-ZOETRY_dis_prs-1_VERANO24",
+        "landing": "https://www.hyattinclusivecollection.com/en/resorts-hotels/zoetry/",
+        "aws_path_1": "AM_RESORTS/2024/05/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hyattinclusivecollection.com/en/resorts-hotels/zoetry/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-zoetry&utm_term=VERANO24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "tcs": [
+            "131147",
+            "131148",
+            "131149",
+            "131150",
+            "131151",
+            "131152"
+        ],
+        "name": "amresorts-gb_v1mp_AO-ALUA_dis_prs-1_VERANO24",
+        "landing": "https://www.hyattinclusivecollection.com/en/resorts-y-hoteles/alua-hotels/",
+        "aws_path_1": "AM_RESORTS/2024/05/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hyattinclusivecollection.com/en/resorts-y-hoteles/alua-hotels/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-alua&utm_term=VERANO24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "tcs": [
+            "131153",
+            "131154",
+            "131155",
+            "131156",
+            "131157",
+            "131158"
+        ],
+        "name": "amresorts-gb_v1mp_AO-DREAMS_dis_prs-1_VERANO24",
+        "landing": "https://www.hyattinclusivecollection.com/en/resorts-y-hoteles/dreams/",
+        "aws_path_1": "AM_RESORTS/2024/05/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hyattinclusivecollection.com/en/resorts-y-hoteles/dreams/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-dreams&utm_term=VERANO24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "tcs": [
+            "131159",
+            "131160",
+            "131161",
+            "131162",
+            "131163",
+            "131164"
+        ],
+        "name": "amresorts-gb_v1mp_AO-SECRETS_dis_prs-1_VERANO24",
+        "landing": "https://www.hyattinclusivecollection.com/en/resorts-hotels/secrets/",
+        "aws_path_1": "AM_RESORTS/2024/05/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hyattinclusivecollection.com/en/resorts-hotels/secrets/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-secrets&utm_term=VERANO24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "tcs": [
+            "131165",
+            "131166",
+            "131167",
+            "131168",
+            "131169",
+            "131170"
+        ],
+        "name": "amresorts-de_v1mp_AO-ZOETRY_dis_prs-1_VERANO24",
+        "landing": "https://www.hyattinclusivecollection.com/DE/resorts-hotels/zoetry/",
+        "aws_path_1": "AM_RESORTS/2024/05/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hyattinclusivecollection.com/DE/resorts-hotels/zoetry/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-zoetry&utm_term=VERANO24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "tcs": [
+            "131171",
+            "131172",
+            "131173",
+            "131174",
+            "131175",
+            "131176"
+        ],
+        "name": "amresorts-de_v1mp_AO-ALUA_dis_prs-1_VERANO24",
+        "landing": "https://www.hyattinclusivecollection.com/DE/resorts-y-hoteles/alua-hotels/",
+        "aws_path_1": "AM_RESORTS/2024/05/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hyattinclusivecollection.com/DE/resorts-y-hoteles/alua-hotels/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-alua&utm_term=VERANO24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "tcs": [
+            "131177",
+            "131178",
+            "131179",
+            "131180",
+            "131181",
+            "131182"
+        ],
+        "name": "amresorts-de_v1mp_AO-DREAMS_dis_prs-1_VERANO24",
+        "landing": "https://www.hyattinclusivecollection.com/DE/resorts-y-hoteles/dreams/",
+        "aws_path_1": "AM_RESORTS/2024/05/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hyattinclusivecollection.com/DE/resorts-y-hoteles/dreams/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-dreams&utm_term=VERANO24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "tcs": [
+            "131183",
+            "131184",
+            "131185",
+            "131186",
+            "131187",
+            "131188"
+        ],
+        "name": "amresorts-de_v1mp_AO-SECRETS_dis_prs-1_VERANO24",
+        "landing": "https://www.hyattinclusivecollection.com/DE/resorts-hotels/secrets/",
+        "aws_path_1": "AM_RESORTS/2024/05/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hyattinclusivecollection.com/DE/resorts-hotels/secrets/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-secrets&utm_term=VERANO24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "tcs": [
+            "131189",
+            "131190",
+            "131191",
+            "131192",
+            "131193",
+            "131194"
+        ],
+        "name": "amresorts-fr_v1mp_AO-ALUA_dis_prs-1_VERANO24",
+        "landing": "https://www.hyattinclusivecollection.com/fr/resorts-hotels/zoetry/",
+        "aws_path_1": "AM_RESORTS/2024/05/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hyattinclusivecollection.com/fr/resorts-hotels/zoetry/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-alua&utm_term=VERANO24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "tcs": [
+            "131195",
+            "131196",
+            "131197",
+            "131198",
+            "131199",
+            "131200"
+        ],
+        "name": "amresorts-fr_v1mp_AO-DREAMS_dis_prs-1_VERANO24",
+        "landing": "https://www.hyattinclusivecollection.com/fr/resorts-y-hoteles/dreams/",
+        "aws_path_1": "AM_RESORTS/2024/05/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hyattinclusivecollection.com/fr/resorts-y-hoteles/dreams/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-dreams&utm_term=VERANO24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "tcs": [
+            "131201",
+            "131202",
+            "131203",
+            "131204",
+            "131205",
+            "131206"
+        ],
+        "name": "amresorts-fr_v1mp_AO-SECRETS_dis_prs-1_VERANO24",
+        "landing": "https://www.hyattinclusivecollection.com/fr/resorts-hotels/secrets/",
+        "aws_path_1": "AM_RESORTS/2024/05/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hyattinclusivecollection.com/fr/resorts-hotels/secrets/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-secrets&utm_term=VERANO24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    }
+]

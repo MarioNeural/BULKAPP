@@ -1,0 +1,22 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": [],
+        "name": "preview",
+        "landing": "https://okmobility.com/",
+        "aws_path_1": "OK_MOBILITY/2024/04/coches/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": [],
+        "name": "preview",
+        "landing": "https://okmobility.com/",
+        "aws_path_1": "OK_MOBILITY/2024/04/motos/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/"
+    }
+]

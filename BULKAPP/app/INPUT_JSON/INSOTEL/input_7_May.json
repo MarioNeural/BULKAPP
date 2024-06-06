@@ -1,0 +1,202 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "tcs": [
+            "131208",
+            "131209",
+            "131210",
+            "131211",
+            "131212",
+            "131213"
+        ],
+        "name": "insotel-es_v1mp_AO_dis-dco_rtg-1_GEN",
+        "landing": "https://www.insotelhotelgroup.com/",
+        "aws_path_1": "INSOTEL/2024/04/dco_creatividades/",
+        "aws_path_2": ".html",
+        "link": "https://www.insotelhotelgroup.com/?utm_source=v1mp&utm_medium=dis-dco-rtg-1&utm_campaign=ao&utm_term=es",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_insotel-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "tcs": [
+            "131214",
+            "131215",
+            "131216",
+            "131217",
+            "131218",
+            "131219"
+        ],
+        "name": "insotel-gb_v1mp_AO_dis-dco_rtg-1_GEN",
+        "landing": "https://www.insotelhotelgroup.com/en",
+        "aws_path_1": "INSOTEL/2024/04/dco_creatividades/",
+        "aws_path_2": ".html",
+        "link": "https://www.insotelhotelgroup.com/en?utm_source=v1mp&utm_medium=dis-dco-rtg-1&utm_campaign=ao&utm_term=en",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_insotel-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "tcs": [
+            "131220",
+            "131221",
+            "131222",
+            "131223",
+            "131224",
+            "131225"
+        ],
+        "name": "insotel-it_v1mp_AO_dis-dco_rtg-1_GEN",
+        "landing": "https://www.insotelhotelgroup.com/it",
+        "aws_path_1": "INSOTEL/2024/04/dco_creatividades/",
+        "aws_path_2": ".html",
+        "link": "https://www.insotelhotelgroup.com/it?utm_source=v1mp&utm_medium=dis-dco-rtg-1&utm_campaign=ao&utm_term=it",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_insotel-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "tcs": [
+            "131226",
+            "131227",
+            "131228",
+            "131229",
+            "131230",
+            "131231"
+        ],
+        "name": "insotel-de_v1mp_AO_dis-dco_rtg-1_GEN",
+        "landing": "https://www.insotelhotelgroup.com/de",
+        "aws_path_1": "INSOTEL/2024/04/dco_creatividades/",
+        "aws_path_2": ".html",
+        "link": "https://www.insotelhotelgroup.com/de?utm_source=v1mp&utm_medium=dis-dco-rtg-1&utm_campaign=ao&utm_term=de",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_insotel-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "tcs": [
+            "131232",
+            "131233",
+            "131234",
+            "131235",
+            "131236",
+            "131237"
+        ],
+        "name": "insotel-pt_v1mp_AO_dis-dco_rtg-1_GEN",
+        "landing": "https://www.insotelhotelgroup.com/en",
+        "aws_path_1": "INSOTEL/2024/04/dco_creatividades/",
+        "aws_path_2": ".html",
+        "link": "https://www.insotelhotelgroup.com/en?utm_source=v1mp&utm_medium=dis-dco-rtg-1&utm_campaign=ao&utm_term=pt",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_insotel-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "tcs": [
+            "131238",
+            "131239",
+            "131240",
+            "131241",
+            "131242",
+            "131243"
+        ],
+        "name": "insotel-nl-be_v1mp_AO_dis-dco_rtg-1_GEN",
+        "landing": "https://www.insotelhotelgroup.com/fr",
+        "aws_path_1": "INSOTEL/2024/04/dco_creatividades/",
+        "aws_path_2": ".html",
+        "link": "https://www.insotelhotelgroup.com/fr?utm_source=v1mp&utm_medium=dis-dco-rtg-1&utm_campaign=ao&utm_term=nl-be",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_insotel-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "tcs": [
+            "131244",
+            "131245",
+            "131246",
+            "131247",
+            "131248",
+            "131249"
+        ],
+        "name": "insotel-row_v1mp_AO_dis-dco_rtg-1_GEN",
+        "landing": "https://www.insotelhotelgroup.com/en",
+        "aws_path_1": "INSOTEL/2024/04/dco_creatividades/",
+        "aws_path_2": ".html",
+        "link": "https://www.insotelhotelgroup.com/en?utm_source=v1mp&utm_medium=dis-dco-rtg-1&utm_campaign=ao&utm_term=row",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_insotel-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "tcs": [
+            "131250",
+            "131251",
+            "131252",
+            "131253",
+            "131254",
+            "131255"
+        ],
+        "name": "insotel-fr_v1mp_AO_dis-dco_rtg-1_GEN",
+        "landing": "https://www.insotelhotelgroup.com/fr",
+        "aws_path_1": "INSOTEL/2024/04/dco_creatividades/",
+        "aws_path_2": ".html",
+        "link": "https://www.insotelhotelgroup.com/fr?utm_source=v1mp&utm_medium=dis-dco-rtg-1&utm_campaign=ao&utm_term=fr",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_insotel-es_np_"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "300x250",
+            "160x600",
+            "320x100",
+            "728x90"
+        ],
+        "tcs": [],
+        "name": "preview",
+        "landing": "https://www.insotelhotelgroup.com/",
+        "aws_path_1": "INSOTEL/2024/04/dco_creatividades/",
+        "aws_path_2": ".html",
+        "link": "https://www.insotelhotelgroup.com/"
+    }
+]

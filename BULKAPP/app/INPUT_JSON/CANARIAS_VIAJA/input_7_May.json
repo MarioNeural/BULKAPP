@@ -1,0 +1,78 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250"
+        ],
+        "tcs": [
+            "131073",
+            "131074",
+            "131075"
+        ],
+        "name": "canarias-es_v1mp_AO-MADRID_dis_prs-14_ABORA-CATARINA",
+        "landing": "https://www.canariasviaja.com/vuelo_hotel/listado?o=37-26&i=16%2F05%2F2024&v=19%2F05%2F2024&residencia=NR&nH=1&destino=Gran%2BCanaria&d=16-3&tA=&aP=&zT=&isTarifaFlexible=false&isOrdenPrecio=&random=55&nA0=2&nN0=0&nB0=0",
+        "aws_path_1": "CANARIAS_VIAJA/2024/05/display/abora/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.canariasviaja.com/vuelo_hotel/listado?o=37-26&i=16%2F05%2F2024&v=19%2F05%2F2024&residencia=NR&nH=1&destino=Gran%2BCanaria&d=16-3&tA=&aP=&zT=&isTarifaFlexible=false&isOrdenPrecio=&random=55&nA0=2&nN0=0&nB0=0&utm_source=v1mp&utm_medium=dis-prs-14&utm_campaign=ao-madrid&utm_content=abora-catarina",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_canarias-viaja-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250"
+        ],
+        "tcs": [
+            "131076",
+            "131077",
+            "131078"
+        ],
+        "name": "canarias-es_v1mp_AO-MADRID_dis_prs-14_CORALIUM-DUNAMAR",
+        "landing": "https://www.canariasviaja.com/vuelo_hotel/listado?o=37-26&i=22%2F05%2F2024&v=25%2F05%2F2024&residencia=NR&nH=1&destino=Gran%2BCanaria&d=16-3&tA=&aP=&zT=&isTarifaFlexible=false&isOrdenPrecio=&random=56&nA0=2&nN0=0&nB0=0",
+        "aws_path_1": "CANARIAS_VIAJA/2024/05/display/coralium/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.canariasviaja.com/vuelo_hotel/listado?o=37-26&i=22%2F05%2F2024&v=25%2F05%2F2024&residencia=NR&nH=1&destino=Gran%2BCanaria&d=16-3&tA=&aP=&zT=&isTarifaFlexible=false&isOrdenPrecio=&random=56&nA0=2&nN0=0&nB0=0&utm_source=v1mp&utm_medium=dis-prs-14&utm_campaign=ao-madrid&utm_content=dunamar",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_canarias-viaja-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250"
+        ],
+        "tcs": [
+            "131079",
+            "131080",
+            "131081"
+        ],
+        "name": "canarias-es_v1mp_AO-MADRID_dis_prs-14_FARO",
+        "landing": "https://www.canariasviaja.com/vuelo_hotel/listado?o=37-26&i=22%2F05%2F2024&v=25%2F05%2F2024&residencia=NR&nH=1&destino=Gran%2BCanaria&d=16-3&tA=&aP=&zT=&isTarifaFlexible=false&isOrdenPrecio=&random=56&nA0=2&nN0=0&nB0=0",
+        "aws_path_1": "CANARIAS_VIAJA/2024/05/display/faro/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.canariasviaja.com/vuelo_hotel/listado?o=37-26&i=22%2F05%2F2024&v=25%2F05%2F2024&residencia=NR&nH=1&destino=Gran%2BCanaria&d=16-3&tA=&aP=&zT=&isTarifaFlexible=false&isOrdenPrecio=&random=56&nA0=2&nN0=0&nB0=0&utm_source=v1mp&utm_medium=dis-prs-14&utm_campaign=ao-madrid&utm_content=faro",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_canarias-viaja-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250"
+        ],
+        "tcs": [
+            "131082",
+            "131083",
+            "131084"
+        ],
+        "name": "canarias-es_v1mp_AO-MADRID_dis_prs-14_VILLA-CONDE",
+        "landing": "https://www.canariasviaja.com/vuelo_hotel/listado?o=37-26&i=22%2F06%2F2024&v=25%2F06%2F2024&residencia=NR&nH=1&destino=Gran%2BCanaria&d=16-3&tA=&aP=&zT=&isTarifaFlexible=false&isOrdenPrecio=&random=9&nA0=2&nN0=0&nB0=0",
+        "aws_path_1": "CANARIAS_VIAJA/2024/05/display/conde/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.canariasviaja.com/vuelo_hotel/listado?o=37-26&i=22%2F06%2F2024&v=25%2F06%2F2024&residencia=NR&nH=1&destino=Gran%2BCanaria&d=16-3&tA=&aP=&zT=&isTarifaFlexible=false&isOrdenPrecio=&random=9&nA0=2&nN0=0&nB0=0&utm_source=v1mp&utm_medium=dis-prs-14&utm_campaign=ao-madrid&utm_content=villa-conde",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_canarias-viaja-es_np_"
+    }
+]

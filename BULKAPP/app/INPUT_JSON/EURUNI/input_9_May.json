@@ -1,0 +1,24 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["131531", "131532", "131533", "131534", "131535", "131536"],
+        "name": "euruni-ch_v1mp_AO_dis_prs-1_MAYO",
+        "landing": "https://info.euruni.edu/open-day/geneva/",
+        "aws_path_1": "EURUNI/2024/05/display/",
+        "aws_path_2": "/index.html",
+        "link": "https://info.euruni.edu/open-day/geneva/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_euruni-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["131537", "131538", "131539", "131540", "131541", "131542"],
+        "name": "euruni-ch_v1mp_AO_dis_rtg-1_MAYO",
+        "landing": "https://info.euruni.edu/open-day/geneva/",
+        "aws_path_1": "EURUNI/2024/05/display/",
+        "aws_path_2": "/index.html",
+        "link": "https://info.euruni.edu/open-day/geneva/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_euruni-es_np_"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "728x90", "970x250", "160x600", "320x100"],
+        "tcs": ["131284", "131285", "131286", "131287", "131288", "131289"],
+        "name": "aecc-es_v1mp_AO-ECOMMERCE_dis_prs-1_ECOMMERCE_CUESTACION",
+        "landing": "https://tienda.contraelcancer.es/",
+        "aws_path_1": "AECC/2024/05/standard/ecommerce/",
+        "aws_path_2": "/index.html",
+        "link": "https://tienda.contraelcancer.es/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-ecommerce",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_aecc-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "728x90", "970x250", "160x600", "320x100"],
+        "tcs": ["131290", "131291", "131292", "131293", "131294", "131295"],
+        "name": "aecc-es_v1mp_AO-ECOMMERCE_dis_rtg-1_ECOMMERCE_CUESTACION",
+        "landing": "https://tienda.contraelcancer.es/",
+        "aws_path_1": "AECC/2024/05/standard/ecommerce/",
+        "aws_path_2": "/index.html",
+        "link": "https://tienda.contraelcancer.es/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao-ecommerce",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_aecc-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "728x90", "970x250", "160x600", "320x100"],
+        "tcs": ["131296", "131297", "131298", "131299", "131300", "131301"],
+        "name": "aecc-es_v1mp_AO-SOCIOS_dis_prs-1_SOCIOS_CUESTACION",
+        "landing": "https://colabora.contraelcancer.es/socios",
+        "aws_path_1": "AECC/2024/05/standard/socio/",
+        "aws_path_2": "/index.html",
+        "link": "https://colabora.contraelcancer.es/socios?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-socios",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_aecc-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "728x90", "970x250", "160x600", "320x100"],
+        "tcs": ["131302", "131303", "131304", "131305", "131306", "131307"],
+        "name": "aecc-es_v1mp_AO-SOCIOS_dis_rtg-1_SOCIOS_CUESTACION",
+        "landing": "https://colabora.contraelcancer.es/socios",
+        "aws_path_1": "AECC/2024/05/standard/socio/",
+        "aws_path_2": "/index.html",
+        "link": "https://colabora.contraelcancer.es/socios?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao-socios",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_aecc-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "728x90", "970x250", "160x600", "320x100"],
+        "tcs": ["131308", "131309", "131310", "131311", "131312", "131313"],
+        "name": "aecc-es_v1mp_AO-DONACION_dis_prs-1_DONACION_CUESTACION",
+        "landing": "https://colabora.contraelcancer.es/dona",
+        "aws_path_1": "AECC/2024/05/standard/donacion/",
+        "aws_path_2": "/index.html",
+        "link": "https://colabora.contraelcancer.es/dona?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-donacion",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_aecc-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "728x90", "970x250", "160x600", "320x100"],
+        "tcs": ["131314", "131315", "131316", "131317", "131318", "131319"],
+        "name": "aecc-es_v1mp_AO-DONACION_dis_rtg-1_DONACION_CUESTACION",
+        "landing": "https://colabora.contraelcancer.es/dona",
+        "aws_path_1": "AECC/2024/05/standard/donacion/",
+        "aws_path_2": "/index.html",
+        "link": "https://colabora.contraelcancer.es/dona?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao-donacion",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_aecc-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "728x90", "970x250", "160x600", "320x100"],
+        "tcs": ["131320", "131321", "131322", "131323", "131324", "131325"],
+        "name": "aecc-es_v1mp_AO-DONACION_dis-prem_prs-1_PROSPECT_CUESTACION",
+        "landing": "https://colabora.contraelcancer.es/dona",
+        "aws_path_1": "AECC/2024/05/standard/prospect/",
+        "aws_path_2": "/index.html",
+        "link": "https://colabora.contraelcancer.es/dona?utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=ao-donacion",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_aecc-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "728x90", "970x250", "160x600", "320x100"],
+        "tcs": ["131326", "131327", "131328", "131329", "131330", "131331"],
+        "name": "aecc-es_v1mp_AO-DONACION_dis-prem_rtg-1_PROSPECT_CUESTACION",
+        "landing": "https://colabora.contraelcancer.es/dona",
+        "aws_path_1": "AECC/2024/05/standard/prospect/",
+        "aws_path_2": "/index.html",
+        "link": "https://colabora.contraelcancer.es/dona?utm_source=v1mp&utm_medium=dis-prem-rtg-1&utm_campaign=ao-donacion",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_aecc-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600"],
+        "tcs": ["131332", "131333"],
+        "name": "aecc-es_v1mp_AO-ECOMMERCE_dis_prs-1_CAROUSEL_CUESTACION",
+        "landing": "https://tienda.contraelcancer.es/",
+        "aws_path_1": "AECC/2024/05/carousel/normal_prs/",
+        "aws_path_2": "/index.html",
+        "link": "https://tienda.contraelcancer.es/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-ecommerce",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_aecc-es_np_"
+    }
+]

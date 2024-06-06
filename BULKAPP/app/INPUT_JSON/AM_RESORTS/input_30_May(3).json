@@ -1,0 +1,686 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "132765",
+            "132766"
+        ],
+        "name": "amresorts-eu_v1mp_AO-ZOETRY_dis_prs-1_WAW_MAYO_SCRATCHER",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/05/display_premium/scratcher/zoetry/eu/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-zoetry&utm_term=WAW_Mayo_Scratcher",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "132767",
+            "132768"
+        ],
+        "name": "amresorts-eu_v1mp_AO-ALUA_dis_prs-1_WAW_MAYO_SCRATCHER",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/05/display_premium/scratcher/alua/eu/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-alua&utm_term=WAW_Mayo_Scratcher",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "132769",
+            "132770"
+        ],
+        "name": "amresorts-eu_v1mp_AO-DREAMS_dis_prs-1_WAW_MAYO_SCRATCHER",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/05/display_premium/scratcher/dreams/eu/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-dreams&utm_term=WAW_Mayo_Scratcher",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "132771",
+            "132772"
+        ],
+        "name": "amresorts-eu_v1mp_AO-SECRETS_dis_prs-1_WAW_MAYO_SCRATCHER",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/05/display_premium/scratcher/secrets/eu/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-secrets&utm_term=WAW_Mayo_Scratcher",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "132773",
+            "132774"
+        ],
+        "name": "amresorts-es_v1mp_AO-ZOETRY_dis_prs-1_WAW_MAYO_SCRATCHER",
+        "landing": "https://resorts.hyattinclusivecollection.com/es-es/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/05/display_premium/scratcher/zoetry/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/es-es/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-zoetry&utm_term=WAW_Mayo_Scratcher",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "132775",
+            "132776"
+        ],
+        "name": "amresorts-es_v1mp_AO-ALUA_dis_prs-1_WAW_MAYO_SCRATCHER",
+        "landing": "https://resorts.hyattinclusivecollection.com/es-es/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/05/display_premium/scratcher/alua/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/es-es/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-alua&utm_term=WAW_Mayo_Scratcher",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "132777",
+            "132778"
+        ],
+        "name": "amresorts-es_v1mp_AO-DREAMS_dis_prs-1_WAW_MAYO_SCRATCHER",
+        "landing": "https://resorts.hyattinclusivecollection.com/es-es/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/05/display_premium/scratcher/dreams/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/es-es/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-dreams&utm_term=WAW_Mayo_Scratcher",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "132779",
+            "132780"
+        ],
+        "name": "amresorts-es_v1mp_AO-SECRETS_dis_prs-1_WAW_MAYO_SCRATCHER",
+        "landing": "https://resorts.hyattinclusivecollection.com/es-es/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/05/display_premium/scratcher/secrets/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/es-es/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-secrets&utm_term=WAW_Mayo_Scratcher",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "132781",
+            "132782"
+        ],
+        "name": "amresorts-gb_v1mp_AO-ZOETRY_dis_prs-1_WAW_MAYO_SCRATCHER",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/05/display_premium/scratcher/zoetry/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-zoetry&utm_term=WAW_Mayo_Scratcher",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "132783",
+            "132784"
+        ],
+        "name": "amresorts-gb_v1mp_AO-ALUA_dis_prs-1_WAW_MAYO_SCRATCHER",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/05/display_premium/scratcher/alua/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-alua&utm_term=WAW_Mayo_Scratcher",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "132785",
+            "132786"
+        ],
+        "name": "amresorts-gb_v1mp_AO-DREAMS_dis_prs-1_WAW_MAYO_SCRATCHER",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/05/display_premium/scratcher/dreams/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-dreams&utm_term=WAW_Mayo_Scratcher",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "132787",
+            "132788"
+        ],
+        "name": "amresorts-gb_v1mp_AO-SECRETS_dis_prs-1_WAW_MAYO_SCRATCHER",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/05/display_premium/scratcher/secrets/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-secrets&utm_term=WAW_Mayo_Scratcher",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "132789",
+            "132790"
+        ],
+        "name": "amresorts-de_v1mp_AO-ZOETRY_dis_prs-1_WAW_MAYO_SCRATCHER",
+        "landing": "https://resorts.hyattinclusivecollection.com/de-de/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/05/display_premium/scratcher/zoetry/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/de-de/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-zoetry&utm_term=WAW_Mayo_Scratcher",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "132791",
+            "132792"
+        ],
+        "name": "amresorts-de_v1mp_AO-ALUA_dis_prs-1_WAW_MAYO_SCRATCHER",
+        "landing": "https://resorts.hyattinclusivecollection.com/de-de/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/05/display_premium/scratcher/alua/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/de-de/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-alua&utm_term=WAW_Mayo_Scratcher",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "132793",
+            "132794"
+        ],
+        "name": "amresorts-de_v1mp_AO-DREAMS_dis_prs-1_WAW_MAYO_SCRATCHER",
+        "landing": "https://resorts.hyattinclusivecollection.com/de-de/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/05/display_premium/scratcher/dreams/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/de-de/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-dreams&utm_term=WAW_Mayo_Scratcher",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "132795",
+            "132796"
+        ],
+        "name": "amresorts-de_v1mp_AO-SECRETS_dis_prs-1_WAW_MAYO_SCRATCHER",
+        "landing": "https://resorts.hyattinclusivecollection.com/de-de/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/05/display_premium/scratcher/secrets/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/de-de/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-secrets&utm_term=WAW_Mayo_Scratcher",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "132797",
+            "132798"
+        ],
+        "name": "amresorts-fr_v1mp_AO-ALUA_dis_prs-1_WAW_MAYO_SCRATCHER",
+        "landing": "https://resorts.hyattinclusivecollection.com/fr-fr/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/05/display_premium/scratcher/alua/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/fr-fr/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-alua&utm_term=WAW_Mayo_Scratcher",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "132799",
+            "132800"
+        ],
+        "name": "amresorts-fr_v1mp_AO-DREAMS_dis_prs-1_WAW_MAYO_SCRATCHER",
+        "landing": "https://resorts.hyattinclusivecollection.com/fr-fr/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/05/display_premium/scratcher/dreams/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/fr-fr/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-dreams&utm_term=WAW_Mayo_Scratcher",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "132801",
+            "132802"
+        ],
+        "name": "amresorts-fr_v1mp_AO-SECRETS_dis_prs-1_WAW_MAYO_SCRATCHER",
+        "landing": "https://resorts.hyattinclusivecollection.com/fr-fr/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/05/display_premium/scratcher/secrets/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/fr-fr/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-secrets&utm_term=WAW_Mayo_Scratcher",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "132803",
+            "132804"
+        ],
+        "name": "amresorts-eu_v1mp_AO-ZOETRY_dis_prs-1_WAW_MAYO_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/05/display_premium/countdown/zoetry/eu/",
+        "aws_path_2": ".html",
+        "link": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-zoetry&utm_term=WAW_Mayo_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "132805",
+            "132806"
+        ],
+        "name": "amresorts-eu_v1mp_AO-ALUA_dis_prs-1_WAW_MAYO_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/05/display_premium/countdown/alua/eu/",
+        "aws_path_2": ".html",
+        "link": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-alua&utm_term=WAW_Mayo_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "132807",
+            "132808"
+        ],
+        "name": "amresorts-eu_v1mp_AO-DREAMS_dis_prs-1_WAW_MAYO_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/05/display_premium/countdown/dreams/eu/",
+        "aws_path_2": ".html",
+        "link": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-dreams&utm_term=WAW_Mayo_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "132809",
+            "132810"
+        ],
+        "name": "amresorts-eu_v1mp_AO-SECRETS_dis_prs-1_WAW_MAYO_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/05/display_premium/countdown/secrets/eu/",
+        "aws_path_2": ".html",
+        "link": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-secrets&utm_term=WAW_Mayo_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "132811",
+            "132812"
+        ],
+        "name": "amresorts-es_v1mp_AO-ZOETRY_dis_prs-1_WAW_MAYO_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/es-es/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/05/display_premium/countdown/zoetry/es/",
+        "aws_path_2": ".html",
+        "link": "https://resorts.hyattinclusivecollection.com/es-es/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-zoetry&utm_term=WAW_Mayo_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "132813",
+            "132814"
+        ],
+        "name": "amresorts-es_v1mp_AO-ALUA_dis_prs-1_WAW_MAYO_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/es-es/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/05/display_premium/countdown/alua/es/",
+        "aws_path_2": ".html",
+        "link": "https://resorts.hyattinclusivecollection.com/es-es/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-alua&utm_term=WAW_Mayo_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "132815",
+            "132816"
+        ],
+        "name": "amresorts-es_v1mp_AO-DREAMS_dis_prs-1_WAW_MAYO_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/es-es/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/05/display_premium/countdown/dreams/es/",
+        "aws_path_2": ".html",
+        "link": "https://resorts.hyattinclusivecollection.com/es-es/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-dreams&utm_term=WAW_Mayo_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "132817",
+            "132818"
+        ],
+        "name": "amresorts-es_v1mp_AO-SECRETS_dis_prs-1_WAW_MAYO_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/es-es/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/05/display_premium/countdown/secrets/es/",
+        "aws_path_2": ".html",
+        "link": "https://resorts.hyattinclusivecollection.com/es-es/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-secrets&utm_term=WAW_Mayo_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "132819",
+            "132820"
+        ],
+        "name": "amresorts-gb_v1mp_AO-ZOETRY_dis_prs-1_WAW_MAYO_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/05/display_premium/countdown/zoetry/gb/",
+        "aws_path_2": ".html",
+        "link": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-zoetry&utm_term=WAW_Mayo_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "132821",
+            "132822"
+        ],
+        "name": "amresorts-gb_v1mp_AO-ALUA_dis_prs-1_WAW_MAYO_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/05/display_premium/countdown/alua/gb/",
+        "aws_path_2": ".html",
+        "link": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-alua&utm_term=WAW_Mayo_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "132823",
+            "132824"
+        ],
+        "name": "amresorts-gb_v1mp_AO-DREAMS_dis_prs-1_WAW_MAYO_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/05/display_premium/countdown/dreams/gb/",
+        "aws_path_2": ".html",
+        "link": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-dreams&utm_term=WAW_Mayo_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "132825",
+            "132826"
+        ],
+        "name": "amresorts-gb_v1mp_AO-SECRETS_dis_prs-1_WAW_MAYO_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/05/display_premium/countdown/secrets/gb/",
+        "aws_path_2": ".html",
+        "link": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-secrets&utm_term=WAW_Mayo_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "132827",
+            "132828"
+        ],
+        "name": "amresorts-de_v1mp_AO-ZOETRY_dis_prs-1_WAW_MAYO_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/de-de/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/05/display_premium/countdown/zoetry/de/",
+        "aws_path_2": ".html",
+        "link": "https://resorts.hyattinclusivecollection.com/de-de/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-zoetry&utm_term=WAW_Mayo_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "132829",
+            "132830"
+        ],
+        "name": "amresorts-de_v1mp_AO-ALUA_dis_prs-1_WAW_MAYO_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/de-de/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/05/display_premium/countdown/alua/de/",
+        "aws_path_2": ".html",
+        "link": "https://resorts.hyattinclusivecollection.com/de-de/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-alua&utm_term=WAW_Mayo_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "132831",
+            "132832"
+        ],
+        "name": "amresorts-de_v1mp_AO-DREAMS_dis_prs-1_WAW_MAYO_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/de-de/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/05/display_premium/countdown/dreams/de/",
+        "aws_path_2": ".html",
+        "link": "https://resorts.hyattinclusivecollection.com/de-de/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-dreams&utm_term=WAW_Mayo_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "132833",
+            "132834"
+        ],
+        "name": "amresorts-de_v1mp_AO-SECRETS_dis_prs-1_WAW_MAYO_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/de-de/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/05/display_premium/countdown/secrets/de/",
+        "aws_path_2": ".html",
+        "link": "https://resorts.hyattinclusivecollection.com/de-de/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-secrets&utm_term=WAW_Mayo_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "132835",
+            "132836"
+        ],
+        "name": "amresorts-fr_v1mp_AO-ALUA_dis_prs-1_WAW_MAYO_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/fr-fr/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/05/display_premium/countdown/alua/fr/",
+        "aws_path_2": ".html",
+        "link": "https://resorts.hyattinclusivecollection.com/fr-fr/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-alua&utm_term=WAW_Mayo_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "132837",
+            "132838"
+        ],
+        "name": "amresorts-fr_v1mp_AO-DREAMS_dis_prs-1_WAW_MAYO_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/fr-fr/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/05/display_premium/countdown/dreams/fr/",
+        "aws_path_2": ".html",
+        "link": "https://resorts.hyattinclusivecollection.com/fr-fr/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-dreams&utm_term=WAW_Mayo_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "132839",
+            "132840"
+        ],
+        "name": "amresorts-fr_v1mp_AO-SECRETS_dis_prs-1_WAW_MAYO_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/fr-fr/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/05/display_premium/countdown/secrets/fr/",
+        "aws_path_2": ".html",
+        "link": "https://resorts.hyattinclusivecollection.com/fr-fr/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-secrets&utm_term=WAW_Mayo_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    }
+]

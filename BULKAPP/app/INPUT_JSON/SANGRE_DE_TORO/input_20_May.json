@@ -1,0 +1,12 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": [],
+        "name": "preview",
+        "landing": "https://www.sangredetoro.com/",
+        "aws_path_1": "SANGRE_DE_TORO/2024/05/3dcard/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.sangredetoro.com/"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600"],
+        "tcs": ["130640", "130645"],
+        "name": "vercine-es_adg_QUERIDA DESCONOCIDA_dis-p20_prs-1_GEN",
+        "landing": "https://www.youtube.com/watch?v=gKXRj8aEt60&t=4s",
+        "aws_path_1": "ver_cine/2024/04/querida_desconocida/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.youtube.com/watch?v=gKXRj8aEt60&t=4s?utm_source=adg&utm_medium=dis-p20-prs-1&utm_campaign=querida desconocida",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_adg-ver-cine_np_"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["133328", "133329", "133330", "133331", "133332", "133333"],
+        "name": "ok-mobility-es_adg_VENTA_dis-prem_prs-22_EMOVE-V2",
+        "landing": "https://okmobility.com/es/comprar-coche/segunda-mano",
+        "aws_path_1": "OK_MOBILITY/2024/06/emove/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/es/comprar-coche/segunda-mano?utm_source=adg&utm_medium=dis-prem-prs-22&utm_campaign=venta&utm_term=EMOVE-V2",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_okmobility-es_np_",
+        "add_utm_size": "utm_content="
+    }
+]

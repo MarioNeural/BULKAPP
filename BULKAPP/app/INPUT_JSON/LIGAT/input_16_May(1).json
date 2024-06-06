@@ -1,0 +1,78 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "970x250"
+        ],
+        "tcs": [
+            "131662",
+            "131663",
+            "131664"
+        ],
+        "name": "ligat-pt_v1mp_STANDARD_dis_rtg-1_L1-MAY24",
+        "landing": "https://ligat.pt/",
+        "aws_path_1": "LIGAT/2024/05/standard/l1/",
+        "aws_path_2": "/index.html",
+        "link": "https://ligat.pt/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=standard",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_ligate-pt_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "970x250"
+        ],
+        "tcs": [
+            "131665",
+            "131666",
+            "131667"
+        ],
+        "name": "ligat-pt_v1mp_STANDARD_dis_rtg-1_L2-MAY24",
+        "landing": "https://ligat.pt/",
+        "aws_path_1": "LIGAT/2024/05/standard/l2/",
+        "aws_path_2": "/index.html",
+        "link": "https://ligat.pt/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=standard",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_ligate-pt_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "970x250"
+        ],
+        "tcs": [
+            "131668",
+            "131669",
+            "131670"
+        ],
+        "name": "ligat-pt_v1mp_STANDARD_dis_rtg-1_L3-MAY24",
+        "landing": "https://ligat.pt/",
+        "aws_path_1": "LIGAT/2024/05/standard/l3/",
+        "aws_path_2": "/index.html",
+        "link": "https://ligat.pt/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=standard",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_ligate-pt_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "970x250"
+        ],
+        "tcs": [
+            "131671",
+            "131672",
+            "131673"
+        ],
+        "name": "ligat-pt_v1mp_STANDARD_dis_rtg-1_L4-MAY24",
+        "landing": "https://ligat.pt/",
+        "aws_path_1": "LIGAT/2024/05/standard/l4/",
+        "aws_path_2": "/index.html",
+        "link": "https://ligat.pt/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=standard",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_ligate-pt_np_"
+    }
+]

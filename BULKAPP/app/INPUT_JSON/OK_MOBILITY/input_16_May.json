@@ -1,0 +1,28 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "160x600",
+            "970x250",
+            "728x90",
+            "320x100"
+        ],
+        "tcs": [
+            "131674",
+            "131675",
+            "131676",
+            "131677",
+            "131678",
+            "131679"
+        ],
+        "name": "ok-mobility-es_adg_VENTA_dis-dco_rtg-1_DCO",
+        "landing": "https://okmobility.com/es/comprar-coche/segunda-mano",
+        "aws_path_1": "OK_MOBILITY/2024/04/dco_buy/",
+        "aws_path_2": ".html",
+        "link": "https://okmobility.com/es/comprar-coche/segunda-mano?utm_source=adg&utm_medium=dis-dco-rtg-1&utm_campaign=venta&utm_term=dco",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_okmobility-es_np_",
+        "add_utm_size": "utm_content="
+    }
+]

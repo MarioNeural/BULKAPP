@@ -1,0 +1,68 @@
+[
+    {
+        "type": "link",
+        "sizes": [
+            "160x600",
+            "120x600",
+            "300x250",
+            "300x600",
+            "320x50",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "tcs": [ ],
+        "name": "huakai-es_imp_AO_dis_prs-1_JUNIO",
+        "landing": "https://huakai.es/viajes-verano/?utm_source=programatica&utm_medium=display&utm_id=junio",
+        "aws_path_1": "HUAKAI/2024/06/junio/",
+        "aws_path_2": ".png",
+        "url": "https://huakai.es/viajes-verano/?utm_source=programatica&utm_medium=display&utm_id=junio&"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "160x600",
+            "120x600",
+            "300x250",
+            "300x600",
+            "320x50",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "tcs": [ ],
+        "name": "huakai-es_imp_AO_dis_prs-1_JUNIO2",
+        "landing": "https://huakai.es/viajes-verano/?utm_source=programatica&utm_medium=display&utm_id=junio",
+        "aws_path_1": "HUAKAI/2024/06/junio2/",
+        "aws_path_2": ".png",
+        "url": "https://huakai.es/viajes-verano/?utm_source=programatica&utm_medium=display&utm_id=junio&"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100"
+        ],
+        "tcs": [],
+        "name": "huakai-es_imp_AO_dis_prs-1_JUNIO3",
+        "landing": "https://huakai.es/viajes-verano/?utm_source=programatica&utm_medium=display&utm_id=junio",
+        "aws_path_1": "HUAKAI/2024/06/junio3/",
+        "aws_path_2": ".png",
+        "url": "https://huakai.es/viajes-verano/?utm_source=programatica&utm_medium=display&utm_id=junio&"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100"
+        ],
+        "tcs": [],
+        "name": "huakai-es_imp_AO_dis_prs-1_JUNIO4",
+        "landing": "https://huakai.es/viajes-verano/?utm_source=programatica&utm_medium=display&utm_id=junio",
+        "aws_path_1": "HUAKAI/2024/06/junio4/",
+        "aws_path_2": ".png",
+        "url": "https://huakai.es/viajes-verano/?utm_source=programatica&utm_medium=display&utm_id=junio&"
+    }
+]

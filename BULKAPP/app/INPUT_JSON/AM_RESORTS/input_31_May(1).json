@@ -1,0 +1,74 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600", "160x600", "300x250", "320x100", "728x90"],
+        "tcs": ["133185", "133186", "133187", "133188", "133189", "133190"],
+        "name": "amresorts-gb_v1mp_PRE-HALKIDIKI_dis_prs-1_WAW_MAYO",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/05/display_html/zoetry/standard_hkdk/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=Pre-Halkidiki&utm_term=WAW_Mayo",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600", "160x600", "300x250", "320x100", "728x90"],
+        "tcs": ["133191", "133192", "133193", "133194", "133195", "133196"],
+        "name": "amresorts-de_v1mp_PRE-HALKIDIKI_dis_prs-1_WAW_MAYO",
+        "landing": "https://resorts.hyattinclusivecollection.com/de-de/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/05/display_html/zoetry/standard_hkdk/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/de-de/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=Pre-Halkidiki&utm_term=WAW_Mayo",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600"],
+        "tcs": ["133197", "133198"],
+        "name": "amresorts-gb_v1mp_PRE-HALKIDIKI_dis_prs-1_WAW_MAYO-COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/05/display_premium/countdown/zoetry/hkdk/gb/",
+        "aws_path_2": ".html",
+        "link": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=Pre-Halkidiki&utm_term=WAW_Mayo-Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600"],
+        "tcs": ["133199", "133200"],
+        "name": "amresorts-de_v1mp_PRE-HALKIDIKI_dis_prs-1_WAW_MAYO-COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/de-de/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/05/display_premium/countdown/zoetry/hkdk/de/",
+        "aws_path_2": ".html",
+        "link": "https://resorts.hyattinclusivecollection.com/de-de/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=Pre-Halkidiki&utm_term=WAW_Mayo-Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600"],
+        "tcs": ["133201", "133202"],
+        "name": "amresorts-gb_v1mp_PRE-HALKIDIKI_dis_prs-1_WAW_MAYO-SCRATCHER",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/05/display_premium/scratcher/zoetry/hkdk/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=Pre-Halkidiki&utm_term=WAW_Mayo-Scratcher",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600"],
+        "tcs": ["133203", "133204"],
+        "name": "amresorts-de_v1mp_PRE-HALKIDIKI_dis_prs-1_WAW_MAYO-SCRATCHER",
+        "landing": "https://resorts.hyattinclusivecollection.com/de-de/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/05/display_premium/scratcher/zoetry/hkdk/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/de-de/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=Pre-Halkidiki&utm_term=WAW_Mayo-Scratcher",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_amr-collection-es_np_",
+        "add_utm_size": "utm_content="
+    }
+]

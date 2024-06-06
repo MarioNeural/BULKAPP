@@ -134,6 +134,7 @@ class IMG_aws_TAG_Bulk:
                             if item["viewability"]:
                                 if not tcs:
                                     raise ValueError("#Error: Can't add viewability without TCs...")
+                                
                                 view = self.set_url_or_link(item["viewability"], tcs, i, "view")
                                 
                                 if not self.verify_response_code("http:" + view + ".js"):
@@ -142,6 +143,34 @@ class IMG_aws_TAG_Bulk:
                                 
                                 obj["tag"] += '<script type="text/javascript" src="' + \
                                 view + '.js?n_o_nu=not&n_o_ord=[CACHEBUSTER]"></script>'
+                        except Exception as error:
+                            return error
+                        
+                    if item.get("viewability_2"):
+                        try:
+                            if item["viewability_2"]:
+                                if not tcs:
+                                    raise ValueError("#Error: Can't add viewability_2 without TCs...")
+
+                                view = "https://bucket.cdnwebcloud.com/n_one_vway_v2_TEST-es.js?tc=" + item.get("viewability_2_tcs")[i]
+                                
+                                if not self.verify_response_code(view + ".js"):
+                                  raise ValueError("#Error: url response code is not 200...")
+                                
+                                
+                                obj["tag"] += '<script type="text/javascript" src="' + \
+                                view + '&n_o_ord=[CACHEBUSTER]"></script>'
+                        except Exception as error:
+                            return error
+                        
+                    if item.get("impression_tag"):
+                        try:
+                            if item["impression_tag"]:
+
+                                view = item.get("impression_tag")
+                                
+                                obj["tag"] += view
+
                         except Exception as error:
                             return error
 

@@ -1,0 +1,22 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": [],
+        "name": "preview",
+        "landing": "https://www.clinicasdiegodeleon.com/",
+        "aws_path_1": "DIEGODELEON/2024/05/3dcard_rmdlc/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.clinicasdiegodeleon.com/"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": [],
+        "name": "preview",
+        "landing": "https://www.clinicasdiegodeleon.com/",
+        "aws_path_1": "DIEGODELEON/2024/05/3dcard_tp/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.clinicasdiegodeleon.com/"
+    }
+]

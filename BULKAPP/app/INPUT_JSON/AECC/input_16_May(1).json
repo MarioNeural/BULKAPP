@@ -1,0 +1,13 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x250", "300x600"],
+        "tcs": ["131724", "131725", "131726"],
+        "name": "aecc-es_v1mp_AO-ECOMMERCE_dis_prs-1_CARROUSEL-MAY",
+        "landing": "https://tienda.contraelcancer.es/eventos/tipo-de-evento/comuniones/",
+        "aws_path_1": "AECC/2024/05/ecommerce/carousel/",
+        "aws_path_2": "/index.html",
+        "link": "https://tienda.contraelcancer.es/eventos/tipo-de-evento/comuniones/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-ecommerce&utm_content=carrousel",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_aecc-es_np_"
+    }
+]

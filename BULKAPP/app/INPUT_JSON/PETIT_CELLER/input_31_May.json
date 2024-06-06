@@ -1,0 +1,14 @@
+[
+    {
+        "type": "link",
+        "sizes": ["970x250", "300x600", "300x250", "160x600"],
+        "tcs": ["133078", "133079", "133080", "133081"],
+        "name": "petit-celler-es_imp_ALWAYS-ON_dis_prs-1_DESTACADOS-JUNIO",
+        "landing": "https://www.petitceller.com/es/ofertas",
+        "aws_path_1": "PETIT_CELLER/2024/05/destacados/",
+        "aws_path_2": ".jpg",
+        "url": "https://www.petitceller.com/es/ofertas?utm_source=programatica&utm_medium=display&utm_campaign=always-on&utm_term=DESTACADOS-JUNIO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_excelsia-es_np_",
+        "add_utm_size": "utm_content="
+    }
+]

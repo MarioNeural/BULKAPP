@@ -1,0 +1,22 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "970x250"],
+        "tcs": [],
+        "name": "pepephone-es_imp_MARZO-24_dis-p20_prs-1_LLAMADAS",
+        "landing": "https://ad.doubleclick.net/ddm/trackclk/N1216184.4358942ADIMPULSION/B31136902.395017077;dc_trk_aid=586407271;dc_trk_cid=131007626;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1",
+        "aws_path_1": "PEPE_PHONE/2024/05/sin_llamadas/preroll/",
+        "aws_path_2": "/index.html",
+        "link": "https://ad.doubleclick.net/ddm/trackclk/N1216184.4358942ADIMPULSION/B31136902.395017077;dc_trk_aid=586407271;dc_trk_cid=131007626;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "970x250"],
+        "tcs": [],
+        "name": "pepephone-es_imp_MARZO-24_dis-p20_prs-1_MEJORAR",
+        "landing": "https://ad.doubleclick.net/ddm/trackclk/N1216184.4358942ADIMPULSION/B31136902.394713446;dc_trk_aid=586407268;dc_trk_cid=131007626;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1",
+        "aws_path_1": "PEPE_PHONE/2024/05/disimulo/preroll/",
+        "aws_path_2": "/index.html",
+        "link": "https://ad.doubleclick.net/ddm/trackclk/N1216184.4358942ADIMPULSION/B31136902.394713446;dc_trk_aid=586407268;dc_trk_cid=131007626;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["132445", "132448"],
+        "name": "ligat-pt_v1mp_TEASER_dis-prem_prs-1_SLIDER",
+        "landing": "https://ligat.pt/",
+        "aws_path_1": "LIGAT/2024/05/slider/",
+        "aws_path_2": "/index.html",
+        "link": "https://ligat.pt/?utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=teaser&utm_term=SLIDER",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_ligate-pt_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["132447", "132450"],
+        "name": "ligat-pt_v1mp_TEASER_dis-prem_prs-1_3D",
+        "landing": "https://ligat.pt/",
+        "aws_path_1": "LIGAT/2024/05/flipcard3d/",
+        "aws_path_2": "/index.html",
+        "link": "https://ligat.pt/?utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=teaser&utm_term=3D",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_ligate-pt_np_",
+        "add_utm_size": "utm_content="
+    }
+]

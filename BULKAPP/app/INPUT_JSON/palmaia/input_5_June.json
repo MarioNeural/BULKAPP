@@ -1,0 +1,40 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "728x90", "970x250"],
+        "tcs": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "name": "palmaia-us_adg_AO_dis_prs-1_GENERICO",
+        "landing": "https://thehouseofaia.com/specials/",
+        "aws_path_1": "palmaia/2024/06/generico/prs/",
+        "aws_path_2": "/index.html",
+        "link": "https://thehouseofaia.com/specials/?utm_source=adg&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=GENERICO",
+        "viewability": "",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "728x90", "970x250"],
+        "tcs": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "name": "palmaia-us_adg_AO_dis_rtg-1_GENERICO",
+        "landing": "https://thehouseofaia.com/specials/",
+        "aws_path_1": "palmaia/2024/06/generico/rtg/",
+        "aws_path_2": "/index.html",
+        "link": "https://thehouseofaia.com/specials/?utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=GENERICO",
+        "viewability": "",
+        "add_utm_size": "utm_content="
+    }
+]

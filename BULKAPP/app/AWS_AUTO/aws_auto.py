@@ -9,6 +9,7 @@ from botocore.exceptions import ClientError
 load_dotenv()
 
 def encontrar_directorios(base_url, path, target_phrase):
+
     s3 = boto3.client(
         's3',
         aws_access_key_id=os.getenv("AWS_ACCESS_KEY_ID"),
@@ -45,7 +46,10 @@ def encontrar_directorios(base_url, path, target_phrase):
 
     final_path = buscar_profundo(full_prefix, target_keys)
     if final_path:
-        return f"s3://{bucket}/{final_path}/"
+        # Si el prefijo del base_url es "s3://adgravity/", eliminarlo completamente
+        if base_url.startswith("s3://adgravity/"):
+            final_path = final_path.replace("s3://adgravity/", "")
+        return f"{final_path}/"
     else:
         print("No se encontraron directorios relevantes.")
         return None

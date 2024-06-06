@@ -1,0 +1,26 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600"],
+        "tcs": ["133318", "133319"],
+        "name": "ok-mobility-de_v1mp_AO_dis-prem_prs-1_3D-ROAD",
+        "landing": "https://okmobility.com/de/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/06/materiales_de/3dcard/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/de/rent/?promo=ROADTOSUMMER&utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=roadtosummer&utm_term=de",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_okmobility-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["133320", "133321"],
+        "name": "ok-mobility-de_v1mp_AO_dis-prem_prs-1_SCRATCHER-ROAD",
+        "landing": "https://okmobility.com/de/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/06/materiales_de/scratcher/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/de/rent/?promo=ROADTOSUMMER&utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=roadtosummer&utm_term=de",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_okmobility-es_np_",
+        "add_utm_size": "utm_content="
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["131728", "131729", "131730", "131731", "131732", "131733"],
+        "name": "canarias-es_v1mp_AO-CANARIAS_dis_prs-1_TFN-MAD-MAY",
+        "landing": "https://www.canariasviaja.com/vuelo_hotel/listado?o=1-7&i=&v=&residencia=DC&nH=1&destino=Madrid&d=37-26&tA=&aP=&zT=&isTarifaFlexible=false&isOrdenPrecio=true&random=68&nA0=2&nN0=0&nB0=0",
+        "aws_path_1": "CANARIAS_VIAJA/2024/05/may/tnf_mad/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.canariasviaja.com/vuelo_hotel/listado?o=1-7&i=&v=&residencia=DC&nH=1&destino=Madrid&d=37-26&tA=&aP=&zT=&isTarifaFlexible=false&isOrdenPrecio=true&random=68&nA0=2&nN0=0&nB0=0&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-canarias&utm_content=tfn-mad",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_canarias-viaja-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["131734", "131735", "131736", "131737", "131738", "131739"],
+        "name": "canarias-es_v1mp_AO-CANARIAS_dis_prs-1_LPA-MAD-MAY",
+        "landing": "https://www.canariasviaja.com/vuelo_hotel/listado?o=16-3&i=&v=&residencia=DC&nH=1&destino=Madrid&d=37-26&tA=&aP=&zT=&isTarifaFlexible=false&isOrdenPrecio=true&random=85&nA0=2&nN0=0&nB0=0",
+        "aws_path_1": "CANARIAS_VIAJA/2024/05/may/lpa_mad/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.canariasviaja.com/vuelo_hotel/listado?o=16-3&i=&v=&residencia=DC&nH=1&destino=Madrid&d=37-26&tA=&aP=&zT=&isTarifaFlexible=false&isOrdenPrecio=true&random=85&nA0=2&nN0=0&nB0=0&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-canarias&utm_content=lpa-mad",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_canarias-viaja-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["131740", "131741", "131742", "131743", "131744", "131745"],
+        "name": "canarias-es_v1mp_AO-MADRID_dis_prs-1_MAD-TFN-MAY",
+        "landing": "https://www.canariasviaja.com/vuelo_hotel/listado?o=37-26&i=&v=&residencia=NR&nH=1&destino=Tenerife%2BNorte&d=1-7&tA=&aP=&zT=&isTarifaFlexible=false&isOrdenPrecio=true&random=86&nA0=2&nN0=0&nB0=0",
+        "aws_path_1": "CANARIAS_VIAJA/2024/05/may/mad_tnf/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.canariasviaja.com/vuelo_hotel/listado?o=37-26&i=&v=&residencia=NR&nH=1&destino=Tenerife%2BNorte&d=1-7&tA=&aP=&zT=&isTarifaFlexible=false&isOrdenPrecio=true&random=86&nA0=2&nN0=0&nB0=0&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-madrid&utm_content=mad-tfn",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_canarias-viaja-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["131746", "131747", "131748", "131749", "131750", "131751"],
+        "name": "canarias-es_v1mp_AO-MADRID_dis_prs-1_MAD-LPA-MAY",
+        "landing": "https://www.canariasviaja.com/vuelo_hotel/listado?o=37-26&i=&v=&residencia=NR&nH=1&destino=Gran%2BCanaria&d=16-3&tA=&aP=&zT=&isTarifaFlexible=false&isOrdenPrecio=true&random=47&nA0=2&nN0=0&nB0=0",
+        "aws_path_1": "CANARIAS_VIAJA/2024/05/may/mad_lpa/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.canariasviaja.com/vuelo_hotel/listado?o=37-26&i=&v=&residencia=NR&nH=1&destino=Gran%2BCanaria&d=16-3&tA=&aP=&zT=&isTarifaFlexible=false&isOrdenPrecio=true&random=47&nA0=2&nN0=0&nB0=0&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-madrid&utm_content=mad-lpa",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_canarias-viaja-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["131752", "131753", "131754", "131755", "131756", "131757"],
+        "name": "canarias-es_v1mp_AO-MADRID_dis_prs-1_MAD-VDE-MAY",
+        "landing": "https://www.canariasviaja.com/vuelo_hotel/listado?o=37-26&i=&v=&residencia=NR&nH=1&destino=El%2BHierro&d=2-1&tA=&aP=&zT=&isTarifaFlexible=false&isOrdenPrecio=true&random=37&nA0=2&nN0=0&nB0=0",
+        "aws_path_1": "CANARIAS_VIAJA/2024/05/may/mad_eh/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.canariasviaja.com/vuelo_hotel/listado?o=37-26&i=&v=&residencia=NR&nH=1&destino=El%2BHierro&d=2-1&tA=&aP=&zT=&isTarifaFlexible=false&isOrdenPrecio=true&random=37&nA0=2&nN0=0&nB0=0&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-madrid&utm_content=mad-vde",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_canarias-viaja-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["131758", "131759", "131760", "131761", "131762", "131763"],
+        "name": "canarias-es_v1mp_AO-MADRID_dis_prs-1_MAD-SPC-MAY",
+        "landing": "https://www.canariasviaja.com/vuelo_hotel/listado?o=37-26&i=&v=&residencia=NR&nH=1&destino=La%2BPalma&d=5-5&tA=&aP=&zT=&isTarifaFlexible=false&isOrdenPrecio=true&random=59&nA0=2&nN0=0&nB0=0",
+        "aws_path_1": "CANARIAS_VIAJA/2024/05/may/mad_lp/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.canariasviaja.com/vuelo_hotel/listado?o=37-26&i=&v=&residencia=NR&nH=1&destino=La%2BPalma&d=5-5&tA=&aP=&zT=&isTarifaFlexible=false&isOrdenPrecio=true&random=59&nA0=2&nN0=0&nB0=0&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-madrid&utm_content=mad-spc",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_canarias-viaja-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["131764", "131765", "131766", "131767", "131768", "131769"],
+        "name": "canarias-es_v1mp_AO-MADRID_dis_prs-1_MAD-GMZ-MAY",
+        "landing": "https://www.canariasviaja.com/vuelo_hotel/listado?o=37-26&i=&v=&residencia=NR&nH=1&destino=La%2BGomera&d=4-4&tA=&aP=&zT=&isTarifaFlexible=false&isOrdenPrecio=true&random=87&nA0=2&nN0=0&nB0=0",
+        "aws_path_1": "CANARIAS_VIAJA/2024/05/may/mad_lg/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.canariasviaja.com/vuelo_hotel/listado?o=37-26&i=&v=&residencia=NR&nH=1&destino=La%2BGomera&d=4-4&tA=&aP=&zT=&isTarifaFlexible=false&isOrdenPrecio=true&random=87&nA0=2&nN0=0&nB0=0&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-madrid&utm_content=mad-gmz",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_canarias-viaja-es_np_"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "300x250", "320x100", "970x250", "728x90", "160x600"],
+        "tcs": [],
+        "name": "eurofitness-es_imp_CAN DRAGO_dis_prs-1_ESP",
+        "landing": "https://eurofitness.com/llac",
+        "aws_path_1": "EUROFITNESS/2024/05/can_drago/",
+        "aws_path_2": "/index.html",
+        "link": "https://eurofitness.com/llac?utm_source=imp&utm_medium=dis-prs-1&utm_campaign=can drago"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "300x250", "320x100", "970x250", "728x90", "160x600"],
+        "tcs": [],
+        "name": "eurofitness-es_imp_CAN DRAGO_dis_prs-1_CAT",
+        "landing": "https://eurofitness.com/llac",
+        "aws_path_1": "EUROFITNESS/2024/05/can_drago/",
+        "aws_path_2": "/index.html",
+        "link": "https://eurofitness.com/llac?utm_source=imp&utm_medium=dis-prs-1&utm_campaign=can drago"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "300x250", "320x100", "970x250", "728x90", "160x600"],
+        "tcs": [],
+        "name": "eurofitness-es_imp_EL SORALL _dis_prs-1_ESP",
+        "landing": "https://eurofitness.com/caleta",
+        "aws_path_1": "EUROFITNESS/2024/05/can_drago/",
+        "aws_path_2": "/index.html",
+        "link": "https://eurofitness.com/caleta?utm_source=imp&utm_medium=dis-prs-1&utm_campaign=el sorall "
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "300x250", "320x100", "970x250", "728x90", "160x600"],
+        "tcs": [],
+        "name": "eurofitness-es_imp_EL SORALL _dis_prs-1_CAT",
+        "landing": "https://eurofitness.com/caleta",
+        "aws_path_1": "EUROFITNESS/2024/05/can_drago/",
+        "aws_path_2": "/index.html",
+        "link": "https://eurofitness.com/caleta?utm_source=imp&utm_medium=dis-prs-1&utm_campaign=el sorall "
+    }
+]

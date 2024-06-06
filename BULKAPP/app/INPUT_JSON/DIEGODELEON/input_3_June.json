@@ -1,0 +1,22 @@
+[
+    {
+        "type": "link",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "728x90", "970x250"],
+        "tcs": [],
+        "name": "clinicas-ddl-es_adg_MADRID-JUNIO_dis_prs-1_JUNIO",
+        "landing": "https://www.clinicasdiegodeleon.com/?utm_source=adgravity&utm_medium=display-madrid&utm_campaign=display-madrid-junio-2024",
+        "aws_path_1": "DIEGODELEON/2024/06/display_standard/",
+        "aws_path_2": ".jpg",
+        "url": "https://www.clinicasdiegodeleon.com/?utm_source=adgravity&utm_medium=display-madrid&utm_campaign=display-madrid-junio-2024"
+    },
+    {
+        "type": "link",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "728x90", "970x250"],
+        "tcs": [],
+        "name": "clinicas-ddl-es_adg_MADRID-JUNIO_dis_rtg-1_JUNIO",
+        "landing": "https://www.clinicasdiegodeleon.com/?utm_source=adgravity&utm_medium=display-madrid&utm_campaign=display-madrid-junio-2024",
+        "aws_path_1": "DIEGODELEON/2024/06/display_standard/",
+        "aws_path_2": ".jpg",
+        "url": "https://www.clinicasdiegodeleon.com/?utm_source=adgravity&utm_medium=display-madrid&utm_campaign=display-madrid-junio-2024"
+    }
+]

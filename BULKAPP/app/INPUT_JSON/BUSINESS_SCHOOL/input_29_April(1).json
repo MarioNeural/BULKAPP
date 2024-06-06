@@ -1,0 +1,14 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600"
+        ],
+        "tcs": [],
+        "name": "preview",
+        "landing": "https://www.euruni.edu/",
+        "aws_path_1": "BUSINESS_SCHOOL/2024/04/3dcard/300x600/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.euruni.edu/"
+    }
+]

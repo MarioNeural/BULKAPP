@@ -1,0 +1,602 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "131936",
+            "131937",
+            "131938",
+            "131939",
+            "131940",
+            "131941"
+        ],
+        "name": "viva-es_v1mp_AO_dis_prs-1_FAMILY-SUMMER-24",
+        "landing": "https://www.hotelsviva.com/es/",
+        "aws_path_1": "VIVA_HOTELS/2024/05/display/family/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/es/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=family-summer-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_viva-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "131942",
+            "131943",
+            "131944",
+            "131945",
+            "131946",
+            "131947"
+        ],
+        "name": "viva-es_v1mp_AO_dis_rtg-1_FAMILY-SUMMER-24",
+        "landing": "https://www.hotelsviva.com/es/",
+        "aws_path_1": "VIVA_HOTELS/2024/05/display/family/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/es/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=family-summer-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_viva-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "131948",
+            "131949",
+            "131950",
+            "131951",
+            "131952",
+            "131953"
+        ],
+        "name": "viva-ch_v1mp_AO_dis_prs-1_FAMILY-SUMMER-24",
+        "landing": "https://www.hotelsviva.com/de/",
+        "aws_path_1": "VIVA_HOTELS/2024/05/display/family/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=family-summer-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_viva-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "131954",
+            "131955",
+            "131956",
+            "131957",
+            "131958",
+            "131959"
+        ],
+        "name": "viva-ch_v1mp_AO_dis_rtg-1_FAMILY-SUMMER-24",
+        "landing": "https://www.hotelsviva.com/de/",
+        "aws_path_1": "VIVA_HOTELS/2024/05/display/family/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=family-summer-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_viva-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "131960",
+            "131961",
+            "131962",
+            "131963",
+            "131964",
+            "131965"
+        ],
+        "name": "viva-de_v1mp_AO_dis_prs-1_FAMILY-SUMMER-24",
+        "landing": "https://www.hotelsviva.com/de/",
+        "aws_path_1": "VIVA_HOTELS/2024/05/display/family/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=family-summer-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_viva-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "131966",
+            "131967",
+            "131968",
+            "131969",
+            "131970",
+            "131971"
+        ],
+        "name": "viva-de_v1mp_AO_dis_rtg-1_FAMILY-SUMMER-24",
+        "landing": "https://www.hotelsviva.com/de/",
+        "aws_path_1": "VIVA_HOTELS/2024/05/display/family/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=family-summer-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_viva-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "131972",
+            "131973",
+            "131974",
+            "131975",
+            "131976",
+            "131977"
+        ],
+        "name": "viva-fr_v1mp_AO_dis_prs-1_FAMILY-SUMMER-24",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/05/display/family/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=family-summer-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_viva-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "131978",
+            "131979",
+            "131980",
+            "131981",
+            "131982",
+            "131983"
+        ],
+        "name": "viva-fr_v1mp_AO_dis_rtg-1_FAMILY-SUMMER-24",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/05/display/family/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=family-summer-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_viva-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "131984",
+            "131985",
+            "131986",
+            "131987",
+            "131988",
+            "131989"
+        ],
+        "name": "viva-row_v1mp_AO_dis_prs-1_FAMILY-SUMMER-24",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/05/display/family/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=family-summer-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_viva-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "131990",
+            "131991",
+            "131992",
+            "131993",
+            "131994",
+            "131995"
+        ],
+        "name": "viva-row_v1mp_AO_dis_rtg-1_FAMILY-SUMMER-24",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/05/display/family/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=family-summer-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_viva-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "131996",
+            "131997",
+            "131998",
+            "131999",
+            "132000",
+            "132001"
+        ],
+        "name": "viva-gb_v1mp_AO_dis_prs-1_FAMILY-SUMMER-24",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/05/display/family/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=family-summer-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_viva-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "132002",
+            "132003",
+            "132004",
+            "132005",
+            "132006",
+            "132007"
+        ],
+        "name": "viva-gb_v1mp_AO_dis_rtg-1_FAMILY-SUMMER-24",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/05/display/family/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=family-summer-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_viva-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "132008",
+            "132009",
+            "132010",
+            "132011",
+            "132012",
+            "132013"
+        ],
+        "name": "viva-es_v1mp_AO_dis_prs-1_ADULTS-SUMMER-24",
+        "landing": "https://www.hotelsviva.com/es/",
+        "aws_path_1": "VIVA_HOTELS/2024/05/display/adults/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/es/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=adults-summer-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_viva-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "132014",
+            "132015",
+            "132016",
+            "132017",
+            "132018",
+            "132019"
+        ],
+        "name": "viva-es_v1mp_AO_dis_rtg-1_ADULTS-SUMMER-24",
+        "landing": "https://www.hotelsviva.com/es/",
+        "aws_path_1": "VIVA_HOTELS/2024/05/display/adults/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/es/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=adults-summer-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_viva-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "132020",
+            "132021",
+            "132022",
+            "132023",
+            "132024",
+            "132025"
+        ],
+        "name": "viva-ch_v1mp_AO_dis_prs-1_ADULTS-SUMMER-24",
+        "landing": "https://www.hotelsviva.com/de/",
+        "aws_path_1": "VIVA_HOTELS/2024/05/display/adults/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=adults-summer-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_viva-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "132026",
+            "132027",
+            "132028",
+            "132029",
+            "132030",
+            "132031"
+        ],
+        "name": "viva-ch_v1mp_AO_dis_rtg-1_ADULTS-SUMMER-24",
+        "landing": "https://www.hotelsviva.com/de/",
+        "aws_path_1": "VIVA_HOTELS/2024/05/display/adults/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=adults-summer-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_viva-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "132032",
+            "132033",
+            "132034",
+            "132035",
+            "132036",
+            "132037"
+        ],
+        "name": "viva-de_v1mp_AO_dis_prs-1_ADULTS-SUMMER-24",
+        "landing": "https://www.hotelsviva.com/de/",
+        "aws_path_1": "VIVA_HOTELS/2024/05/display/adults/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=adults-summer-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_viva-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "132038",
+            "132039",
+            "132040",
+            "132041",
+            "132042",
+            "132043"
+        ],
+        "name": "viva-de_v1mp_AO_dis_rtg-1_ADULTS-SUMMER-24",
+        "landing": "https://www.hotelsviva.com/de/",
+        "aws_path_1": "VIVA_HOTELS/2024/05/display/adults/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=adults-summer-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_viva-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "132044",
+            "132045",
+            "132046",
+            "132047",
+            "132048",
+            "132049"
+        ],
+        "name": "viva-fr_v1mp_AO_dis_prs-1_ADULTS-SUMMER-24",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/05/display/adults/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=adults-summer-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_viva-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "132050",
+            "132051",
+            "132052",
+            "132053",
+            "132054",
+            "132055"
+        ],
+        "name": "viva-fr_v1mp_AO_dis_rtg-1_ADULTS-SUMMER-24",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/05/display/adults/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=adults-summer-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_viva-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "132056",
+            "132057",
+            "132058",
+            "132059",
+            "132060",
+            "132061"
+        ],
+        "name": "viva-row_v1mp_AO_dis_prs-1_ADULTS-SUMMER-24",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/05/display/adults/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=adults-summer-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_viva-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "132062",
+            "132063",
+            "132064",
+            "132065",
+            "132066",
+            "132067"
+        ],
+        "name": "viva-row_v1mp_AO_dis_rtg-1_ADULTS-SUMMER-24",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/05/display/adults/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=adults-summer-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_viva-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "132068",
+            "132069",
+            "132070",
+            "132071",
+            "132072",
+            "132073"
+        ],
+        "name": "viva-gb_v1mp_AO_dis_prs-1_ADULTS-SUMMER-24",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/05/display/adults/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=adults-summer-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_viva-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "132074",
+            "132075",
+            "132076",
+            "132077",
+            "132078",
+            "132079"
+        ],
+        "name": "viva-gb_v1mp_AO_dis_rtg-1_ADULTS-SUMMER-24",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/05/display/adults/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=adults-summer-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_viva-hotels-es_np_"
+    }
+]

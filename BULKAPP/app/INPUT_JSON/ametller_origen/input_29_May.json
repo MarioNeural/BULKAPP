@@ -1,0 +1,26 @@
+[
+    {
+        "type": "link",
+        "sizes": ["300x600", "728x90", "300x250"],
+        "tcs": ["132733", "132734", "132735"],
+        "name": "ametller-origen-es_v1mp_COMUNICACION_dis_prs-1_COMUNICACION-24",
+        "landing": "https://aoapps.net/trivial/una-manera-de-fer",
+        "aws_path_1": "ametller_origen/2024/05/comunicacion/",
+        "aws_path_2": ".gif",
+        "url": "https://aoapps.net/trivial/una-manera-de-fer?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=comunicacion&utm_term=COMUNICACION-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_ametller-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "link",
+        "sizes": ["300x600", "728x90", "300x250"],
+        "tcs": ["132736", "132737", "132738"],
+        "name": "ametller-origen-es_v1mp_COMUNICACION_dis_rtg-1_COMUNICACION-24",
+        "landing": "https://aoapps.net/trivial/una-manera-de-fer",
+        "aws_path_1": "ametller_origen/2024/05/comunicacion/",
+        "aws_path_2": ".gif",
+        "url": "https://aoapps.net/trivial/una-manera-de-fer?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=comunicacion&utm_term=COMUNICACION-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_ametller-es_np_",
+        "add_utm_size": "utm_content="
+    }
+]

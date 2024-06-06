@@ -1,0 +1,102 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "tcs": [
+            "130993",
+            "130994",
+            "130995",
+            "130996",
+            "130997",
+            "130998"
+        ],
+        "name": "estival-group-es_v1mp_HOTELES_dis_prs-1_",
+        "landing": "https://www.estivalgroup.com/",
+        "aws_path_1": "ESTIVAL_GROUP/2024/05/hoteles/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.estivalgroup.com/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=hoteles&utm_term=Es",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_estivalgroup-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "tcs": [
+            "130999",
+            "131000",
+            "131001",
+            "131002",
+            "131003",
+            "131004"
+        ],
+        "name": "estival-group-es_v1mp_HOTELES_dis_rtg-1_",
+        "landing": "https://www.estivalgroup.com/",
+        "aws_path_1": "ESTIVAL_GROUP/2024/05/hoteles/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.estivalgroup.com/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=hoteles&utm_term=Es",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_estivalgroup-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "tcs": [
+            "131017",
+            "131018",
+            "131019",
+            "131020",
+            "131021",
+            "131022"
+        ],
+        "name": "estival-group-es_v1mp_CAMPING_dis_prs-1_",
+        "landing": "https://www.estivalgroup.com/",
+        "aws_path_1": "ESTIVAL_GROUP/2024/05/camping/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.estivalgroup.com/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=camping&utm_term=Es",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_estivalgroup-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "tcs": [
+            "131023",
+            "131024",
+            "131025",
+            "131026",
+            "131027",
+            "131028"
+        ],
+        "name": "estival-group-es_v1mp_CAMPING_dis_rtg-1_",
+        "landing": "https://www.estivalgroup.com/",
+        "aws_path_1": "ESTIVAL_GROUP/2024/05/camping/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.estivalgroup.com/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=camping&utm_term=Es",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_estivalgroup-es_np_"
+    }
+]

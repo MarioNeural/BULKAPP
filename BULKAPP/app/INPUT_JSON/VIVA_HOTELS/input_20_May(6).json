@@ -1,0 +1,134 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["132080", "132140"],
+        "name": "viva-es_v1mp_AO_dis_prs-1_PREROLL-FAMILY-SUMMER-24",
+        "landing": "https://www.hotelsviva.com/es/",
+        "aws_path_1": "VIVA_HOTELS/2024/05/adultos_familia/preroll_familia_es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/es/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=preroll-family-summer-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_viva-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["132085", "132145"],
+        "name": "viva-ch_v1mp_AO_dis_prs-1_PREROLL-FAMILY-SUMMER-24",
+        "landing": "https://www.hotelsviva.com/de/",
+        "aws_path_1": "VIVA_HOTELS/2024/05/adultos_familia/preroll_familia_ch/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=preroll-family-summer-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_viva-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["132090", "132150"],
+        "name": "viva-de_v1mp_AO_dis_prs-1_PREROLL-FAMILY-SUMMER-24",
+        "landing": "https://www.hotelsviva.com/de/",
+        "aws_path_1": "VIVA_HOTELS/2024/05/adultos_familia/preroll_familia_de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=preroll-family-summer-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_viva-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["132095", "132155"],
+        "name": "viva-fr_v1mp_AO_dis_prs-1_PREROLL-FAMILY-SUMMER-24",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/05/adultos_familia/preroll_familia_fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=preroll-family-summer-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_viva-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["132100", "132160"],
+        "name": "viva-row_v1mp_AO_dis_prs-1_PREROLL-FAMILY-SUMMER-24",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/05/adultos_familia/preroll_familia_row/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=preroll-family-summer-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_viva-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["132105", "132165"],
+        "name": "viva-gb_v1mp_AO_dis_prs-1_PREROLL-FAMILY-SUMMER-24",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/05/adultos_familia/preroll_familia_en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=preroll-family-summer-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_viva-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["132110", "132170"],
+        "name": "viva-es_v1mp_AO_dis_prs-1_PREROLL-ADULTS-SUMMER-24",
+        "landing": "https://www.hotelsviva.com/es/",
+        "aws_path_1": "VIVA_HOTELS/2024/05/adultos_familia/preroll_adults_es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/es/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=preroll-adults-summer-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_viva-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["132115", "132175"],
+        "name": "viva-ch_v1mp_AO_dis_prs-1_PREROLL-ADULTS-SUMMER-24",
+        "landing": "https://www.hotelsviva.com/de/",
+        "aws_path_1": "VIVA_HOTELS/2024/05/adultos_familia/preroll_adults_ch/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=preroll-adults-summer-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_viva-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["132120", "132180"],
+        "name": "viva-de_v1mp_AO_dis_prs-1_PREROLL-ADULTS-SUMMER-24",
+        "landing": "https://www.hotelsviva.com/de/",
+        "aws_path_1": "VIVA_HOTELS/2024/05/adultos_familia/preroll_adults_de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=preroll-adults-summer-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_viva-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["132125", "132185"],
+        "name": "viva-fr_v1mp_AO_dis_prs-1_PREROLL-ADULTS-SUMMER-24",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/05/adultos_familia/preroll_adults_fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=preroll-adults-summer-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_viva-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["132130", "132190"],
+        "name": "viva-row_v1mp_AO_dis_prs-1_PREROLL-ADULTS-SUMMER-24",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/05/adultos_familia/preroll_adults_row/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=preroll-adults-summer-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_viva-hotels-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["132135", "132195"],
+        "name": "viva-gb_v1mp_AO_dis_prs-1_PREROLL-ADULTS-SUMMER-24",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/05/adultos_familia/preroll_adults_en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=preroll-adults-summer-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_viva-hotels-es_np_"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "160x600",
+            "970x250",
+            "320x50",
+            "728x90"
+        ],
+        "tcs": [
+            "130710",
+            "130711",
+            "130712",
+            "130713",
+            "130714",
+            "130715"
+        ],
+        "name": "iberia-express-es_imp_AO-LEADS_dis_prs-1_MAY24",
+        "landing": "https://club.iberiaexpress.com/",
+        "aws_path_1": "iberia/2024/04/leads/",
+        "aws_path_2": ".jpg",
+        "url": "https://club.iberiaexpress.com/?utm_source=imp&utm_medium=dis-prs-1&utm_campaign=ao-leads",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_iberia-express-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "160x600",
+            "970x250",
+            "320x50",
+            "728x90"
+        ],
+        "tcs": [
+            "130716",
+            "130717",
+            "130718",
+            "130719",
+            "130720",
+            "130721"
+        ],
+        "name": "iberia-express-es_imp_AO-LEADS_dis_rtg-1_MAY24",
+        "landing": "https://club.iberiaexpress.com/",
+        "aws_path_1": "iberia/2024/04/leads/",
+        "aws_path_2": ".jpg",
+        "url": "https://club.iberiaexpress.com/?utm_source=imp&utm_medium=dis-rtg-1&utm_campaign=ao-leads",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_iberia-express-es_np_",
+        "add_utm_size": "utm_content="
+    }
+]

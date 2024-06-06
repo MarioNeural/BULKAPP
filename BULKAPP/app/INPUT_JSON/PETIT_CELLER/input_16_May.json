@@ -1,0 +1,54 @@
+[
+    {
+        "type": "link",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "300x250",
+            "160x600",
+            "320x50",
+            "728x90"
+        ],
+        "tcs": [
+            "131637",
+            "131638",
+            "131639",
+            "131640",
+            "131641",
+            "131642"
+        ],
+        "name": "petit-celler-es_imp_ALWAYS-ON_dis_prs-1_AT-ROCA",
+        "landing": "https://www.petitceller.com/es/vino/at-roca",
+        "aws_path_1": "PETIT_CELLER/2024/05/roca/",
+        "aws_path_2": ".jpg",
+        "url": "https://www.petitceller.com/es/vino/at-roca?utm_source=programatica&utm_medium=display&utm_campaign=always-on&utm_term=AT-ROCA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_excelsia-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "300x250",
+            "160x600",
+            "320x50",
+            "728x90"
+        ],
+        "tcs": [
+            "131643",
+            "131644",
+            "131645",
+            "131646",
+            "131647",
+            "131648"
+        ],
+        "name": "petit-celler-es_imp_ALWAYS-ON_dis_prs-1_ANIMA-MUNDI",
+        "landing": "https://www.petitceller.com/es/vino/anima-mundi",
+        "aws_path_1": "PETIT_CELLER/2024/05/anima/",
+        "aws_path_2": ".jpg",
+        "url": "https://www.petitceller.com/es/vino/anima-mundi?utm_source=programatica&utm_medium=display&utm_campaign=always-on&utm_term=ANIMA-MUNDI",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_excelsia-es_np_",
+        "add_utm_size": "utm_content="
+    }
+]
