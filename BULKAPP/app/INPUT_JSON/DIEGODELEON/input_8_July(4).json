@@ -1,0 +1,22 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "728x90", "970x250"],
+        "tcs": [],
+        "name": "clinicas-ddl-es_adg_MADRID-JUL_dis_prs-1_JULIO",
+        "landing": "https://www.clinicasdiegodeleon.com/ofertas/glow-up-verano/?utm_source=adg&utm_medium=dis-prs-1&utm_campaign=generica&utm_term=glowup24",
+        "aws_path_1": "DIEGODELEON/2024/07/standard/",
+        "aws_path_2": ".jpg",
+        "link": "https://www.clinicasdiegodeleon.com/ofertas/glow-up-verano/?utm_source=adg&utm_medium=dis-prs-1&utm_campaign=generica&utm_term=glowup24"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "728x90", "970x250"],
+        "tcs": [],
+        "name": "clinicas-ddl-es_adg_MADRID-JUL_dis_rtg-1_JULIO",
+        "landing": "https://www.clinicasdiegodeleon.com/ofertas/glow-up-verano/?utm_source=adg&utm_medium=dis-prs-1&utm_campaign=generica&utm_term=glowup24",
+        "aws_path_1": "DIEGODELEON/2024/07/standard/",
+        "aws_path_2": ".jpg",
+        "link": "https://www.clinicasdiegodeleon.com/ofertas/glow-up-verano/?utm_source=adg&utm_medium=dis-prs-1&utm_campaign=generica&utm_term=glowup24"
+    }
+]

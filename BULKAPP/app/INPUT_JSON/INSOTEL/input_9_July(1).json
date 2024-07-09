@@ -1,0 +1,68 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "320x100", "970x250", "728x90", "160x600"],
+        "tcs": ["138893", "138894", "138895", "138896", "138897", "138898"],
+        "name": "insotel-es_v1mp_CLUB-MARYLAND_dis_prs-1_SUMMER",
+        "landing": "https://www.insotelhotelgroup.com/hoteles/formentera/insotel-club-maryland",
+        "aws_path_1": "INSOTEL/2024/07/maryland/standard/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/hoteles/formentera/insotel-club-maryland?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=club-maryland&utm_term=ESP",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "320x100", "970x250", "728x90", "160x600"],
+        "tcs": ["138899", "138900", "138901", "138902", "138903", "138904"],
+        "name": "insotel-it_v1mp_CLUB-MARYLAND_dis_prs-1_SUMMER",
+        "landing": "https://www.insotelhotelgroup.com/it/hotels/formentera/insotel-club-maryland",
+        "aws_path_1": "INSOTEL/2024/07/maryland/standard/it/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/it/hotels/formentera/insotel-club-maryland?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=club-maryland&utm_term=IT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "320x100", "970x250", "728x90", "160x600"],
+        "tcs": ["138905", "138906", "138907", "138908", "138909", "138910"],
+        "name": "insotel-pt_v1mp_CLUB-MARYLAND_dis_prs-1_SUMMER",
+        "landing": "https://www.insotelhotelgroup.com/en/hotels/formentera/insotel-club-maryland",
+        "aws_path_1": "INSOTEL/2024/07/maryland/standard/pt/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/en/hotels/formentera/insotel-club-maryland?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=club-maryland&utm_term=PT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600"],
+        "tcs": ["138911", "138912"],
+        "name": "insotel-es_v1mp_CLUB-MARYLAND_dis-p20_prs-1_SUMMER",
+        "landing": "https://www.insotelhotelgroup.com/hoteles/formentera/insotel-club-maryland",
+        "aws_path_1": "INSOTEL/2024/07/maryland/preroll/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/hoteles/formentera/insotel-club-maryland?utm_source=v1mp&utm_medium=dis-p20-prs-1&utm_campaign=club-maryland&utm_term=ESP",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600"],
+        "tcs": ["138913", "138914"],
+        "name": "insotel-it_v1mp_CLUB-MARYLAND_dis-p20_prs-1_SUMMER",
+        "landing": "https://www.insotelhotelgroup.com/it/hotels/formentera/insotel-club-maryland",
+        "aws_path_1": "INSOTEL/2024/07/maryland/preroll/it/",
+        "aws_path_2": "/index.html",
+        "link": "#\u00a1REF!",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600"],
+        "tcs": ["138915", "138916"],
+        "name": "insotel-pt_v1mp_CLUB-MARYLAND_dis-p20_prs-1_SUMMER",
+        "landing": "https://www.insotelhotelgroup.com/en/hotels/formentera/insotel-club-maryland",
+        "aws_path_1": "INSOTEL/2024/07/maryland/preroll/pt/",
+        "aws_path_2": "/index.html",
+        "link": "#\u00a1REF!",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    }
+]

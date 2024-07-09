@@ -68,26 +68,32 @@ def extract_data_from_rows(data):
             current_landing = values[landing_index]
             current_link = re.sub(r'&tc_alt.*$', '', values[link_index])
 
-            if current_name in temp_dict:
-                temp_dict[current_name]['sizes'].append(current_size)
-                temp_dict[current_name]['tcs'].append(current_tc)
+            if process_individual.get():
+                obj = generate_object([current_size], [current_tc], line, current_name, current_landing, current_link, name_index, headers)
+                temp_dict[f"{current_name}_{current_size}"] = obj
             else:
-                temp_dict[current_name] = {
-                    'sizes': [current_size],
-                    'tcs': [current_tc],
-                    'line': line,
-                    'landing': current_landing,
-                    'link': current_link
-                }
+                if current_name in temp_dict:
+                    temp_dict[current_name]['sizes'].append(current_size)
+                    temp_dict[current_name]['tcs'].append(current_tc)
+                else:
+                    temp_dict[current_name] = {
+                        'sizes': [current_size],
+                        'tcs': [current_tc],
+                        'line': line,
+                        'landing': current_landing,
+                        'link': current_link
+                    }
 
-    all_results = [
-    generate_object(value['sizes'], value['tcs'], value['line'], key, value['landing'], value['link'], name_index)
-    for key, value in temp_dict.items()
-]
+    if process_individual.get():
+        all_results = [value for key, value in temp_dict.items()]
+    else:
+        all_results = [
+            generate_object(value['sizes'], value['tcs'], value['line'], key, value['landing'], value['link'], name_index, headers)
+            for key, value in temp_dict.items()
+        ]
     return all_results
 
-
-def generate_object(sizes, tcs, line, key, landing, link, name_index):
+def generate_object(sizes, tcs, line, key, landing, link, name_index, headers):
     values = line.split("\t")
 
     url_match = re.search(r'(?<!"|\')https?://[^\s<>"\']+(?<!["\'])', line)
@@ -100,48 +106,69 @@ def generate_object(sizes, tcs, line, key, landing, link, name_index):
         prefix = match.group(2)
         link = re.sub(utm_content_pattern, '', link)
         add_utm_size = f"utm_content={prefix}"
+        
+        utm_content_full = match.group(1)[1:]
+        x_index = utm_content_full.find('x')
+        if x_index != -1:
+            part_before_x = utm_content_full[:x_index - 3] + utm_content_full[x_index + 1:x_index + 4]
+            part_after_x = utm_content_full[x_index + 4:]
+            utm_content_parts = f"{utm_content_full[:x_index - 3]}{utm_content_full[x_index + 4:]}"
+        else:
+            utm_content_parts = None
     else:
         add_utm_size = None
+        utm_content_parts = None
 
     aws_path_1 = ""
     aws_path_2 = ""
     link = re.sub(r'&tc_alt.*$', '', link)
     viewability = ""
+    impression_tag = ""
     if include_viewability.get():
         script_match = re.search(r'<script.*?src="([^"]+)', line)
         if script_match:
             viewability_url = script_match.group(1)
             viewability = re.sub(r'\d{6}.*$', '', viewability_url)
 
+    if include_impression.get() and "Impression" in headers:
+        impression_index = headers.index("Impression")
+        if impression_index < len(values):
+            impression_tag = values[impression_index].replace('"', "'")
+
     if link_type.get() == "iframe":
         result_obj = {
             "type": "iframe",
             "sizes": sizes,
             "tcs": tcs,
-            "name": "_".join(values[name_index].split("_")[:-1]).strip(),
+            "name": key,
             "landing": landing,
             "aws_path_1": aws_path_1,
             "aws_path_2": aws_path_2,
-            "link": link 
+            "link": link
         }
     else:
         result_obj = {
             "type": "link",
             "sizes": sizes,
             "tcs": tcs,
-            "name": "_".join(values[name_index].split("_")[:-1]).strip(),
+            "name": key,
             "landing": landing,
             "aws_path_1": aws_path_1,
             "aws_path_2": aws_path_2,
-            "url": link 
+            "url": link
         }
-
 
     if include_viewability.get():
         result_obj["viewability"] = viewability
 
+    if include_impression.get():
+        result_obj["impression_tag"] = impression_tag
+
     if add_utm_size:
         result_obj["add_utm_size"] = add_utm_size
+    
+    if utm_content_parts:
+        result_obj["utm_content"] = utm_content_parts
 
     return result_obj
 
@@ -272,13 +299,17 @@ def process_data(input_data):
 def clear_text_field(text_field):
     text_field.delete("1.0", tk.END)
 
+process_individual = tk.BooleanVar(value=False)  # Nuevo checkbox para procesar individualmente
+
 def show_input_window():
-    global input_frame, link_type, include_viewability
+    global input_frame, link_type, include_viewability, include_impression, process_individual
     if 'input_frame' not in globals() or not input_frame.winfo_children():
         input_frame = tk.Frame(app, bg=DARK_GREEN)
 
-        link_type = tk.StringVar(value="") 
+        link_type = tk.StringVar(value="")
         include_viewability = tk.BooleanVar(value=True)
+        include_impression = tk.BooleanVar(value=False)  # Añadir esta línea
+        process_individual = tk.BooleanVar(value=False)
 
         def select_link_type(type):
             link_type.set(type)
@@ -289,7 +320,7 @@ def show_input_window():
                 btn_iframe.config(bg=LIGHT_GREEN, relief="raised")
                 btn_link.config(bg=GRAY, relief="sunken")
 
-        btn_iframe = tk.Button(input_frame, text="Iframe", command=lambda: select_link_type("iframe"), relief="raised",bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)
+        btn_iframe = tk.Button(input_frame, text="Iframe", command=lambda: select_link_type("iframe"), relief="raised", bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)
         btn_link = tk.Button(input_frame, text="Link", command=lambda: select_link_type("link"), relief="sunken", bg=GRAY, fg=TEXT_BLACK, width=ancho_btn)
 
         btn_iframe.grid(row=0, column=0, padx=10, pady=10)
@@ -301,16 +332,24 @@ def show_input_window():
         chk_viewability = tk.Checkbutton(input_frame, text="Incluir viewability", variable=include_viewability, onvalue=True, offvalue=False, bg=DARK_GREEN, fg=TEXT_BLACK)
         chk_viewability.grid(row=2, column=0, columnspan=2, pady=10)
 
+        chk_impression = tk.Checkbutton(input_frame, text="Incluir impression", variable=include_impression, onvalue=True, offvalue=False, bg=DARK_GREEN, fg=TEXT_BLACK)  # Añadir esta línea
+        chk_impression.grid(row=3, column=0, columnspan=2, pady=10)
+
+        chk_process_individual = tk.Checkbutton(input_frame, text="Procesar individualmente", variable=process_individual, onvalue=True, offvalue=False, bg=DARK_GREEN, fg=TEXT_BLACK)
+        chk_process_individual.grid(row=4, column=0, columnspan=2, pady=10)
+
         input_data = tk.Text(input_frame, height=8, width=70, bg=LIGHT_GREEN, fg=TEXT_BLACK)
-        input_data.grid(row=3, column=0, columnspan=2, pady=10, padx=10)
+        input_data.grid(row=5, column=0, columnspan=2, pady=10, padx=10)
 
         btn_process = tk.Button(input_frame, text="Continuar", command=lambda: process_data(input_data), bg=BLUE, fg=TEXT_WHITE)
-        btn_process.grid(row=4, column=0, columnspan=2, pady=10)
+        btn_process.grid(row=6, column=0, columnspan=2, pady=10)
 
         btn_clear = tk.Button(input_frame, text="Limpiar campo de texto", command=lambda: clear_text_field(input_data), bg=RED, fg=TEXT_WHITE)
-        btn_clear.grid(row=5, column=0, columnspan=2, pady=10)
+        btn_clear.grid(row=7, column=0, columnspan=2, pady=10)
 
     toggle_frame(input_frame)
+
+
 
 
 def ejecutar_script(script_name):

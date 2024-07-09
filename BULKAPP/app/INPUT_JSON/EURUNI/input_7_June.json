@@ -1,0 +1,24 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "728x90", "970x250"],
+        "tcs": ["133455", "133456", "133457", "133458", "133459"],
+        "name": "euruni-ch_v1mp_AO_dis_prs-1_JUNIO",
+        "landing": "https://www.euruni.edu/?utm_source=V1&utm_medium=mediap&utm_mode=11&utm_campaign=v1-gva-awa-europe-central-prog-allp-gen-ongoing-0",
+        "aws_path_1": "EURUNI/2024/06/junio/",
+        "aws_path_2": ".gif",
+        "link": "https://www.euruni.edu/?utm_source=V1&utm_medium=mediap&utm_mode=11&utm_campaign=v1-gva-awa-europe-central-prog-allp-gen-ongoing-0?",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_euruni-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "728x90", "970x250"],
+        "tcs": ["133460", "133461", "133462", "133463", "133464"],
+        "name": "euruni-ch_v1mp_AO_dis_rtg-1_JUNIO",
+        "landing": "https://www.euruni.edu/?utm_source=V1&utm_medium=mediap&utm_mode=11&utm_campaign=v1-gva-awa-europe-central-prog-allp-gen-ongoing-0",
+        "aws_path_1": "EURUNI/2024/06/junio/",
+        "aws_path_2": ".gif",
+        "link": "https://www.euruni.edu/?utm_source=V1&utm_medium=mediap&utm_mode=11&utm_campaign=v1-gva-awa-europe-central-prog-allp-gen-ongoing-0?",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_euruni-es_np_"
+    }
+]

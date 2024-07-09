@@ -1,0 +1,68 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "320x100", "970x250", "728x90", "160x600"],
+        "tcs": ["138469", "138470", "138471", "138472", "138473", "138474"],
+        "name": "insotel-es_v1mp_FORMENTERA_dis_prs-1_SUMMER",
+        "landing": "https://www.insotelhotelgroup.com/hoteles/formentera/insotel-hotel-formentera-playa",
+        "aws_path_1": "INSOTEL/2024/07/standard_2/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/hoteles/formentera/insotel-hotel-formentera-playa?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=formentera&utm_term=ESP",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "320x100", "970x250", "728x90", "160x600"],
+        "tcs": ["138475", "138476", "138477", "138478", "138479", "138480"],
+        "name": "insotel-it_v1mp_FORMENTERA_dis_prs-1_SUMMER",
+        "landing": "https://www.insotelhotelgroup.com/it/hotels/formentera/insotel-hotel-formentera-playa",
+        "aws_path_1": "INSOTEL/2024/07/standard_2/it/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/it/hotels/formentera/insotel-hotel-formentera-playa?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=formentera&utm_term=IT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "320x100", "970x250", "728x90", "160x600"],
+        "tcs": ["138481", "138482", "138483", "138484", "138485", "138486"],
+        "name": "insotel-pt_v1mp_FORMENTERA_dis_prs-1_SUMMER",
+        "landing": "https://www.insotelhotelgroup.com/en/hotels/formentera/insotel-hotel-formentera-playa",
+        "aws_path_1": "INSOTEL/2024/07/standard_2/pt/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/en/hotels/formentera/insotel-hotel-formentera-playa?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=formentera&utm_term=PT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600"],
+        "tcs": ["138487", "138488"],
+        "name": "insotel-es_v1mp_FORMENTERA_dis-p20_prs-1_SUMMER",
+        "landing": "https://www.insotelhotelgroup.com/hoteles/formentera/insotel-hotel-formentera-playa",
+        "aws_path_1": "INSOTEL/2024/07/preroll/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/hoteles/formentera/insotel-hotel-formentera-playa?utm_source=v1mp&utm_medium=dis-p20-prs-1&utm_campaign=formentera&utm_term=ESP",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600"],
+        "tcs": ["138489", "138490"],
+        "name": "insotel-it_v1mp_FORMENTERA_dis-p20_prs-1_SUMMER",
+        "landing": "https://www.insotelhotelgroup.com/it/hotels/formentera/insotel-hotel-formentera-playa",
+        "aws_path_1": "INSOTEL/2024/07/preroll/it/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/it/hotels/formentera/insotel-hotel-formentera-playa?utm_source=v1mp&utm_medium=dis-p20-prs-1&utm_campaign=formentera&utm_term=IT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600"],
+        "tcs": ["138491", "138492"],
+        "name": "insotel-pt_v1mp_FORMENTERA_dis-p20_prs-1_SUMMER",
+        "landing": "https://www.insotelhotelgroup.com/en/hotels/formentera/insotel-hotel-formentera-playa",
+        "aws_path_1": "INSOTEL/2024/07/preroll/pt/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/en/hotels/formentera/insotel-hotel-formentera-playa?utm_source=v1mp&utm_medium=dis-p20-prs-1&utm_campaign=formentera&utm_term=PT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    }
+]

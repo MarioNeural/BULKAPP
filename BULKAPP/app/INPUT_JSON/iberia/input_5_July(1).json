@@ -1,0 +1,27 @@
+[
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "160x600",
+            "970x250",
+            "320x50",
+            "728x90"
+        ],
+        "tcs": [
+            "138493",
+            "138494",
+            "138495",
+            "138496",
+            "138497",
+            "138498"
+        ],
+        "name": "iberia-express-es_imp_AO-RESERVAS_dis_prs-1_VENTAJAS-CLASSIC",
+        "landing": "https://www.iberiaexpress.com/",
+        "aws_path_1": "iberia/2024/07/ventajas/",
+        "aws_path_2": ".gif",
+        "url": "https://www.iberiaexpress.com/?utm_source=imp&utm_medium=dis-prs-1&utm_campaign=ao-reservas&utm_content=ventajas-classic",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Iberia%20Express.js?tc="
+    }
+]

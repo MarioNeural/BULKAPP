@@ -1,0 +1,97 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "970x250"
+        ],
+        "tcs": [
+            "138539",
+            "138542"
+        ],
+        "name": "ok-mobility-es_v1mp_AO_dis-prem_prs-1_3D-COCHES",
+        "landing": "https://okmobility.com/es/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/07/3dcard/coches/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/es/rent/?promo=HOLIDAYS&utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=coches&utm_term=es",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ok%20Mobility.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "970x250"
+        ],
+        "tcs": [
+            "138540",
+            "138543"
+        ],
+        "name": "ok-mobility-de_v1mp_AO_dis-prem_prs-1_3D-COCHES",
+        "landing": "https://okmobility.com/de/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/07/3dcard/coches/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/de/rent/?promo=HOLIDAYS&utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=coches&utm_term=de",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ok%20Mobility.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "970x250"
+        ],
+        "tcs": [
+            "138541",
+            "138544"
+        ],
+        "name": "ok-mobility-pt_v1mp_AO_dis-prem_prs-1_3D-COCHES",
+        "landing": "https://okmobility.com/pt/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/07/3dcard/coches/pt/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/pt/rent/?promo=HOLIDAYS&utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=coches&utm_term=pt",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ok%20Mobility.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "970x250"
+        ],
+        "tcs": [
+            "138545",
+            "138547"
+        ],
+        "name": "ok-mobility-es_v1mp_AO_dis-prem_prs-1_3D-MOTOS",
+        "landing": "https://okmobility.com/es/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/07/3dcard/motos/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/es/rent/?promo=HOLIDAYS&utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=motos&utm_term=es",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ok%20Mobility.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "970x250"
+        ],
+        "tcs": [
+            "138546",
+            "138548"
+        ],
+        "name": "ok-mobility-pt_v1mp_AO_dis-prem_prs-1_3D-MOTOS",
+        "landing": "https://okmobility.com/pt/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/07/3dcard/motos/pt/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/pt/rent/?promo=HOLIDAYS&utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=motos&utm_term=pt",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ok%20Mobility.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

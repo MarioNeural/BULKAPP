@@ -1,0 +1,41 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["138516", "138517", "138518", "138519", "138520", "138521"],
+        "name": "ok-mobility-pt_v1mp_AO_dis_prs-1_MOTOS",
+        "landing": "https://okmobility.com/pt/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/07/moto/pt/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/pt/rent/?promo=HOLIDAYS&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=motos&utm_term=pt",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ok%20Mobility.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["138522", "138523", "138524", "138525", "138526", "138527"],
+        "name": "ok-mobility-pt_v1mp_AO_dis_prs-1_COCHES",
+        "landing": "https://okmobility.com/pt/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/07/coche/pt/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/pt/rent/?promo=HOLIDAYS&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=coches&utm_term=pt",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ok%20Mobility.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["138528", "138529", "138530", "138531", "138532", "138533"],
+        "name": "ok-mobility-it_v1mp_AO_dis_prs-1_COCHES",
+        "landing": "https://okmobility.com/it/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/07/coche/it/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/it/rent/?promo=HOLIDAYS&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=coches&utm_term=it",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ok%20Mobility.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

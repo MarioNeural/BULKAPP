@@ -1,0 +1,13 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["133437", "133438", "133439", "133440"],
+        "name": "gilmar-es_v1mp_COSTA-DEL-SOL_dis-dco_rtg-1_EXTRANJEROS-EU",
+        "landing": "https://www.gilmar.es/en/costa-del-sol/",
+        "aws_path_1": "GILMAR/2024/06/dco_en/",
+        "aws_path_2": ".html",
+        "link": "https://www.gilmar.es/en/costa-del-sol/?utm_source=v1mp&utm_medium=dis-dco-rtg-1&utm_campaign=costa-del-sol&utm_term=ex-eu",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_gilmar-es_np_"
+    }
+]

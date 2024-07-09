@@ -1,0 +1,13 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "970x250", "320x100", "728x90"],
+        "tcs": ["136394", "136395", "136396", "136397", "136398", "136399"],
+        "name": "wonders-es_v1mp_NUEVA-COLECCION_dis-dco_rtg-1_REBAJAS-24",
+        "landing": "https://wonders.com/ES/es/rebajas",
+        "aws_path_1": "WONDERS/2024/06/dco_30/",
+        "aws_path_2": ".html",
+        "link": "https://wonders.com/ES/es/rebajas?utm_source=v1mp&utm_medium=dis-dco-rtg-1&utm_campaign=nueva-coleccion&utm_content=rebajas-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Wonders.js?tc="
+    }
+]

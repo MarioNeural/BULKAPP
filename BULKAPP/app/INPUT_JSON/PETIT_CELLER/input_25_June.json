@@ -1,0 +1,15 @@
+[
+    {
+        "type": "link",
+        "sizes": ["970x250", "300x600", "300x250", "160x600", "320x50", "728x90"],
+        "tcs": ["137425", "137426", "137427", "137428", "137429", "137430"],
+        "name": "petit-celler-es_imp_ALWAYS-ON_dis_prs-1_REBAJAS-VERANO-24",
+        "landing": "https://www.petitceller.com/es",
+        "aws_path_1": "PETIT_CELLER/2024/06/rebajas_verano/",
+        "aws_path_2": ".jpg",
+        "url": "https://www.petitceller.com/es?utm_source=programatica&utm_medium=display&utm_campaign=always-on&utm_term=REBAJAS-VERANO-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Excelsia.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

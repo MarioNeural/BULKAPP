@@ -1,0 +1,524 @@
+[
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "tcs": [
+            "136821",
+            "136822",
+            "136823",
+            "136824",
+            "136825",
+            "136826",
+            "136827",
+            "136828"
+        ],
+        "name": "oasis-mx_v1mp_AO_dis_prs-1_GOC",
+        "landing": "https://oasishoteles.com/es/ofertas-hoteles-semana-outlet",
+        "aws_path_1": "OASIS/2024/06/standard/goc/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/es/ofertas-hoteles-semana-outlet?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=mx",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "tcs": [
+            "136829",
+            "136830",
+            "136831",
+            "136832",
+            "136833",
+            "136834",
+            "136835",
+            "136836"
+        ],
+        "name": "oasis-mx_v1mp_AO_dis_rtg-1_GOC",
+        "landing": "https://oasishoteles.com/es/ofertas-hoteles-semana-outlet",
+        "aws_path_1": "OASIS/2024/06/standard/goc/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/es/ofertas-hoteles-semana-outlet?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=mx",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "tcs": [
+            "136837",
+            "136838",
+            "136839",
+            "136840",
+            "136841",
+            "136842",
+            "136843",
+            "136844"
+        ],
+        "name": "oasis-us_v1mp_AO_dis_prs-1_GOC",
+        "landing": "https://oasishoteles.com/en/hotel-offers-week-outlet",
+        "aws_path_1": "OASIS/2024/06/standard/goc/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/en/hotel-offers-week-outlet?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=Us",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "tcs": [
+            "136845",
+            "136846",
+            "136847",
+            "136848",
+            "136849",
+            "136850",
+            "136851",
+            "136852"
+        ],
+        "name": "oasis-us_v1mp_AO_dis_rtg-1_GOC",
+        "landing": "https://oasishoteles.com/en/hotel-offers-week-outlet",
+        "aws_path_1": "OASIS/2024/06/standard/goc/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/en/hotel-offers-week-outlet?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=Us",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "tcs": [
+            "136884",
+            "136885",
+            "136886",
+            "136887",
+            "136888",
+            "136889",
+            "136890",
+            "136891"
+        ],
+        "name": "oasis-us_v1mp_AO_dis_prs-1_CORP",
+        "landing": "https://oasishoteles.com/en/hotel-offers-week-outlet",
+        "aws_path_1": "OASIS/2024/06/standard/corp/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/en/hotel-offers-week-outlet?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "tcs": [
+            "136892",
+            "136893",
+            "136894",
+            "136895",
+            "136896",
+            "136897",
+            "136898",
+            "136899"
+        ],
+        "name": "oasis-mx_v1mp_AO_dis_prs-1_CORP",
+        "landing": "https://oasishoteles.com/es/ofertas-hoteles-semana-outlet",
+        "aws_path_1": "OASIS/2024/06/standard/corp/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/es/ofertas-hoteles-semana-outlet?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "tcs": [
+            "136900",
+            "136901",
+            "136902",
+            "136903",
+            "136904",
+            "136905",
+            "136906",
+            "136907"
+        ],
+        "name": "oasis-us_v1mp_AO_dis_prs-1_GOP",
+        "landing": "https://oasishoteles.com/en/hotel-offers-week-outlet",
+        "aws_path_1": "OASIS/2024/06/standard/gop/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/en/hotel-offers-week-outlet?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "tcs": [
+            "136908",
+            "136909",
+            "136910",
+            "136911",
+            "136912",
+            "136913",
+            "136914",
+            "136915"
+        ],
+        "name": "oasis-us_v1mp_AO_dis_rtg-1_GOP",
+        "landing": "https://oasishoteles.com/en/hotel-offers-week-outlet",
+        "aws_path_1": "OASIS/2024/06/standard/gop/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/en/hotel-offers-week-outlet?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "tcs": [
+            "136916",
+            "136917",
+            "136918",
+            "136919",
+            "136920",
+            "136921",
+            "136922",
+            "136923"
+        ],
+        "name": "oasis-mx_v1mp_AO_dis_prs-1_GOP",
+        "landing": "https://oasishoteles.com/es/ofertas-hoteles-semana-outlet",
+        "aws_path_1": "OASIS/2024/06/standard/gop/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/es/ofertas-hoteles-semana-outlet?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "tcs": [
+            "136924",
+            "136925",
+            "136926",
+            "136927",
+            "136928",
+            "136929",
+            "136930",
+            "136931"
+        ],
+        "name": "oasis-mx_v1mp_AO_dis_rtg-1_GOP",
+        "landing": "https://oasishoteles.com/es/ofertas-hoteles-semana-outlet",
+        "aws_path_1": "OASIS/2024/06/standard/gop/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/es/ofertas-hoteles-semana-outlet?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "tcs": [
+            "136932",
+            "136933",
+            "136934",
+            "136935",
+            "136936",
+            "136937",
+            "136938",
+            "136939"
+        ],
+        "name": "oasis-us_v1mp_AO_dis_prs-1_GOTR",
+        "landing": "https://oasishoteles.com/en/hotel-offers-week-outlet",
+        "aws_path_1": "OASIS/2024/06/standard/gotr/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/en/hotel-offers-week-outlet?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "tcs": [
+            "136940",
+            "136941",
+            "136942",
+            "136943",
+            "136944",
+            "136945",
+            "136946",
+            "136947"
+        ],
+        "name": "oasis-us_v1mp_AO_dis_rtg-1_GOTR",
+        "landing": "https://oasishoteles.com/en/hotel-offers-week-outlet",
+        "aws_path_1": "OASIS/2024/06/standard/gotr/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/en/hotel-offers-week-outlet?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "tcs": [
+            "136948",
+            "136949",
+            "136950",
+            "136951",
+            "136952",
+            "136953",
+            "136954",
+            "136955"
+        ],
+        "name": "oasis-mx_v1mp_AO_dis_prs-1_GOTR",
+        "landing": "https://oasishoteles.com/es/ofertas-hoteles-semana-outlet",
+        "aws_path_1": "OASIS/2024/06/standard/gotr/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/es/ofertas-hoteles-semana-outlet?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "tcs": [
+            "136956",
+            "136957",
+            "136958",
+            "136959",
+            "136960",
+            "136961",
+            "136962",
+            "136963"
+        ],
+        "name": "oasis-mx_v1mp_AO_dis_rtg-1_GOTR",
+        "landing": "https://oasishoteles.com/es/ofertas-hoteles-semana-outlet",
+        "aws_path_1": "OASIS/2024/06/standard/gotr/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/es/ofertas-hoteles-semana-outlet?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "tcs": [
+            "136964",
+            "136965",
+            "136966",
+            "136967",
+            "136968",
+            "136969",
+            "136970",
+            "136971"
+        ],
+        "name": "oasis-us_v1mp_AO_dis_prs-1_PYRAMID",
+        "landing": "https://oasishoteles.com/en/hotel-offers-week-outlet",
+        "aws_path_1": "OASIS/2024/06/standard/pyramid/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/en/hotel-offers-week-outlet?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "tcs": [
+            "136972",
+            "136973",
+            "136974",
+            "136975",
+            "136976",
+            "136977",
+            "136978",
+            "136979"
+        ],
+        "name": "oasis-us_v1mp_AO_dis_rtg-1_PYRAMID",
+        "landing": "https://oasishoteles.com/en/hotel-offers-week-outlet",
+        "aws_path_1": "OASIS/2024/06/standard/pyramid/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/en/hotel-offers-week-outlet?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "tcs": [
+            "136980",
+            "136981",
+            "136982",
+            "136983",
+            "136984",
+            "136985",
+            "136986",
+            "136987"
+        ],
+        "name": "oasis-mx_v1mp_AO_dis_prs-1_PYRAMID",
+        "landing": "https://oasishoteles.com/es/ofertas-hoteles-semana-outlet",
+        "aws_path_1": "OASIS/2024/06/standard/pyramid/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/es/ofertas-hoteles-semana-outlet?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "tcs": [
+            "136988",
+            "136989",
+            "136990",
+            "136991",
+            "136992",
+            "136993",
+            "136994",
+            "136995"
+        ],
+        "name": "oasis-mx_v1mp_AO_dis_rtg-1_PYRAMID",
+        "landing": "https://oasishoteles.com/es/ofertas-hoteles-semana-outlet",
+        "aws_path_1": "OASIS/2024/06/standard/pyramid/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/es/ofertas-hoteles-semana-outlet?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc="
+    }
+]

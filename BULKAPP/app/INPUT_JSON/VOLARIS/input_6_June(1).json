@@ -1,0 +1,102 @@
+[
+    {
+        "type": "link",
+        "sizes": ["160x600", "300x250", "300x600", "468x60", "728x90"],
+        "tcs": [],
+        "name": "volaris-mx_adg_ABRIL24_dis_prs-22_VEGAS_JUNIO",
+        "landing": "https://a2.adform.net/C/?bn=73925779",
+        "aws_path_1": "VOLARIS/2024/06/vegas/",
+        "aws_path_2": ".jpg",
+        "url": "https://a2.adform.net/C/?bn=73925779"
+    },
+    {
+        "type": "link",
+        "sizes": ["160x600", "300x250", "300x600", "468x60", "728x90"],
+        "tcs": [],
+        "name": "volaris-mx_adg_ABRIL24_dis_prs-22_PLAYAS_JUNIO",
+        "landing": "https://a2.adform.net/C/?bn=73925756",
+        "aws_path_1": "VOLARIS/2024/06/playas/",
+        "aws_path_2": ".jpg",
+        "url": "https://a2.adform.net/C/?bn=73925756"
+    },
+    {
+        "type": "link",
+        "sizes": ["160x600", "300x250", "300x600", "468x60", "728x90"],
+        "tcs": [],
+        "name": "volaris-mx_adg_ABRIL24_dis_prs-22_PALACE_IBEROSTAR_JUNIO",
+        "landing": "https://a2.adform.net/C/?bn=73925772",
+        "aws_path_1": "VOLARIS/2024/06/palace_resorts/",
+        "aws_path_2": ".jpg",
+        "url": "https://a2.adform.net/C/?bn=73925772"
+    },
+    {
+        "type": "link",
+        "sizes": ["160x600", "300x250", "300x600", "468x60", "728x90"],
+        "tcs": [],
+        "name": "volaris-mx_adg_ABRIL24_dis_prs-22_GRAN-VIDID_JUNIO",
+        "landing": "https://a2.adform.net/C/?bn=73925769",
+        "aws_path_1": "VOLARIS/2024/06/grand_vivid/",
+        "aws_path_2": ".jpg",
+        "url": "https://a2.adform.net/C/?bn=73925769"
+    },
+    {
+        "type": "link",
+        "sizes": ["160x600", "300x250", "300x600", "468x60", "728x90"],
+        "tcs": [],
+        "name": "volaris-mx_adg_ABRIL24_dis_prs-22_DREAMS_JUNIO",
+        "landing": "https://a2.adform.net/C/?bn=73925770",
+        "aws_path_1": "VOLARIS/2024/06/dreams/",
+        "aws_path_2": ".jpg",
+        "url": "https://a2.adform.net/C/?bn=73925770"
+    },
+    {
+        "type": "link",
+        "sizes": ["160x600", "300x250", "300x600", "468x60", "728x90"],
+        "tcs": [],
+        "name": "volaris-mx_adg_ABRIL24_dis_prs-1_VEGAS_JUNIO",
+        "landing": "https://a2.adform.net/C/?bn=73925779",
+        "aws_path_1": "VOLARIS/2024/06/vegas/",
+        "aws_path_2": ".jpg",
+        "url": "https://a2.adform.net/C/?bn=73925779"
+    },
+    {
+        "type": "link",
+        "sizes": ["160x600", "300x250", "300x600", "468x60", "728x90"],
+        "tcs": [],
+        "name": "volaris-mx_adg_ABRIL24_dis_prs-1_PLAYAS_JUNIO",
+        "landing": "https://a2.adform.net/C/?bn=73925756",
+        "aws_path_1": "VOLARIS/2024/06/playas/",
+        "aws_path_2": ".jpg",
+        "url": "https://a2.adform.net/C/?bn=73925756"
+    },
+    {
+        "type": "link",
+        "sizes": ["160x600", "300x250", "300x600", "468x60", "728x90"],
+        "tcs": [],
+        "name": "volaris-mx_adg_ABRIL24_dis_prs-1_PALACE_IBEROSTAR_JUNIO",
+        "landing": "https://a2.adform.net/C/?bn=73925772",
+        "aws_path_1": "VOLARIS/2024/06/palace_resorts/",
+        "aws_path_2": ".jpg",
+        "url": "https://a2.adform.net/C/?bn=73925772"
+    },
+    {
+        "type": "link",
+        "sizes": ["160x600", "300x250", "300x600", "468x60", "728x90"],
+        "tcs": [],
+        "name": "volaris-mx_adg_ABRIL24_dis_prs-1_GRAN-VIDID_JUNIO",
+        "landing": "https://a2.adform.net/C/?bn=73925769",
+        "aws_path_1": "VOLARIS/2024/06/grand_vivid/",
+        "aws_path_2": ".jpg",
+        "url": "https://a2.adform.net/C/?bn=73925769"
+    },
+    {
+        "type": "link",
+        "sizes": ["160x600", "300x250", "300x600", "468x60", "728x90"],
+        "tcs": [],
+        "name": "volaris-mx_adg_ABRIL24_dis_prs-1_DREAMS_JUNIO",
+        "landing": "https://a2.adform.net/C/?bn=73925770",
+        "aws_path_1": "VOLARIS/2024/06/dreams/",
+        "aws_path_2": ".jpg",
+        "url": "https://a2.adform.net/C/?bn=73925770"
+    }
+]

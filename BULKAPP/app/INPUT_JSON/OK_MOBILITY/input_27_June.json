@@ -1,0 +1,164 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "135262",
+            "135263",
+            "135264",
+            "135265",
+            "135266",
+            "135267"
+        ],
+        "name": "ok-mobility-pt_v1mp_AO_dis_prs-1_YELLOWSUMMER",
+        "landing": "https://okmobility.com/pt/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/06/yelow_summer/pt/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/pt/rent/?promo=YELLOWSUMMER&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=YELLOWSUMMER&utm_term=pt",
+        "viewability": "?n_o_nu=not&n_o_ord=[CACHEBUSTER]",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "135268",
+            "135269",
+            "135270",
+            "135271",
+            "135272",
+            "135273"
+        ],
+        "name": "ok-mobility-it_v1mp_AO_dis_prs-1_YELLOWSUMMER",
+        "landing": "https://okmobility.com/it/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/06/yelow_summer/it/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/it/rent/?promo=YELLOWSUMMER&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=YELLOWSUMMER&utm_term=it",
+        "viewability": "?n_o_nu=not&n_o_ord=[CACHEBUSTER]",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "135274",
+            "135275",
+            "135276",
+            "135277",
+            "135278",
+            "135279"
+        ],
+        "name": "ok-mobility-fr_v1mp_AO_dis_prs-1_YELLOWSUMMER",
+        "landing": "https://okmobility.com/fr/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/06/yelow_summer/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/fr/rent/?promo=YELLOWSUMMER&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=YELLOWSUMMER&utm_term=fr",
+        "viewability": "?n_o_nu=not&n_o_ord=[CACHEBUSTER]",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "135280",
+            "135281",
+            "135282",
+            "135283",
+            "135284",
+            "135285"
+        ],
+        "name": "ok-mobility-es_v1mp_AO_dis_prs-1_YELLOWSUMMER",
+        "landing": "https://okmobility.com/es/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/06/yelow_summer/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/es/rent/?promo=YELLOWSUMMER&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=YELLOWSUMMER&utm_term=es",
+        "viewability": "?n_o_nu=not&n_o_ord=[CACHEBUSTER]",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "135286",
+            "135287",
+            "135288",
+            "135289",
+            "135290",
+            "135291"
+        ],
+        "name": "ok-mobility-gb_v1mp_AO_dis_prs-1_YELLOWSUMMER",
+        "landing": "https://okmobility.com/en/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/06/yelow_summer/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/en/rent/?promo=YELLOWSUMMER&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=YELLOWSUMMER&utm_term=gb",
+        "viewability": "?n_o_nu=not&n_o_ord=[CACHEBUSTER]",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "135292",
+            "135293",
+            "135294",
+            "135295",
+            "135296",
+            "135297"
+        ],
+        "name": "ok-mobility-de_v1mp_AO_dis_prs-1_YELLOWSUMMER",
+        "landing": "https://okmobility.com/de/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/06/yelow_summer/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/de/rent/?promo=YELLOWSUMMER&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=YELLOWSUMMER&utm_term=de",
+        "viewability": "?n_o_nu=not&n_o_ord=[CACHEBUSTER]",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

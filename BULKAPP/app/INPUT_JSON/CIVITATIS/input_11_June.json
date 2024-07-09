@@ -1,0 +1,702 @@
+[
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "133993",
+            "134021",
+            "134049",
+            "134077",
+            "134105",
+            "134133"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_rtg-1_ES_ES_CONVERSION_RTG_PURCHASE_2024_VERANO_ACTIVIDAD_VIENAOPERA",
+        "landing": "https://www.civitatis.com/es/viena/visita-guiada-viena-opera/",
+        "aws_path_1": "CIVITATIS/2024/06/conversion/vienaopera/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/viena/visita-guiada-viena-opera/?aid=108&cmp=es_ES&cmpint=adg_es_OPERA_728x90&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=es_ES_Conversion_RTG_Purchase_2024_Verano_Actividad_VienaOpera&utm_content=OPERA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "133994",
+            "134022",
+            "134050",
+            "134078",
+            "134106",
+            "134134"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_rtg-1_ES_ES_CONVERSION_RTG_PURCHASE_2024_VERANO_ACTIVIDAD_TOURPALERMOCRUCEROS",
+        "landing": "https://www.civitatis.com/es/palermo/tour-palermo-cruceros/",
+        "aws_path_1": "CIVITATIS/2024/06/conversion/tourpalermocruceros/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/palermo/tour-palermo-cruceros/?aid=108&cmp=es_ES&cmpint=adg_es_PALERMOCRUCERO_728x90&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=es_ES_Conversion_RTG_Purchase_2024_Verano_Actividad_TourPalermoCruceros&utm_content=PALERMOCRUCERO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "133995",
+            "134023",
+            "134051",
+            "134079",
+            "134107",
+            "134135"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_rtg-1_ES_ES_CONVERSION_RTG_PURCHASE_2024_VERANO_ACTIVIDAD_TOURBIGBUS",
+        "landing": "https://www.civitatis.com/es/paris/autobus-turistico-paris/",
+        "aws_path_1": "CIVITATIS/2024/06/conversion/tourbigbus/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/paris/autobus-turistico-paris/?aid=108&cmp=es_ES&cmpint=adg_es_TOURBIGBUS_728x90&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=es_ES_Conversion_RTG_Purchase_2024_Verano_Actividad_TourBigBus&utm_content=TOURBIGBUS",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "133996",
+            "134024",
+            "134052",
+            "134080",
+            "134108",
+            "134136"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_rtg-1_ES_ES_CONVERSION_RTG_PURCHASE_2024_VERANO_ACTIVIDAD_TOURAUTOBUS",
+        "landing": "https://www.civitatis.com/es/londres/tour-nocturno-autobus-descapotable/",
+        "aws_path_1": "CIVITATIS/2024/06/conversion/tourautobus/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/londres/tour-nocturno-autobus-descapotable/?aid=108&cmp=es_ES&cmpint=adg_es_TOURAUTOBUS_728x90&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=es_ES_Conversion_RTG_Purchase_2024_Verano_Actividad_TourAutobus&utm_content=TOURAUTOBUS",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "133997",
+            "134025",
+            "134053",
+            "134081",
+            "134109",
+            "134137"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_rtg-1_ES_ES_CONVERSION_RTG_PURCHASE_2024_VERANO_ACTIVIDAD_TANGO",
+        "landing": "https://www.civitatis.com/es/buenos-aires/espectaculo-tango-porteno/",
+        "aws_path_1": "CIVITATIS/2024/06/conversion/tango/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/buenos-aires/espectaculo-tango-porteno/?aid=108&cmp=es_ES&cmpint=adg_es_TANGO_728x90&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=es_ES_Conversion_RTG_Purchase_2024_Verano_Actividad_Tango&utm_content=TANGO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "133998",
+            "134026",
+            "134054",
+            "134082",
+            "134110",
+            "134138"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_rtg-1_ES_ES_CONVERSION_RTG_PURCHASE_2024_VERANO_ACTIVIDAD_SEISPUENTES",
+        "landing": "https://www.civitatis.com/es/oporto/crucero-seis-puentes/",
+        "aws_path_1": "CIVITATIS/2024/06/conversion/seispuentes/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/oporto/crucero-seis-puentes/?aid=108&cmp=es_ES&cmpint=adg_es_SEISPUENTES_728x90&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=es_ES_Conversion_RTG_Purchase_2024_Verano_Actividad_SeisPuentes&utm_content=SEISPUENTES",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "133999",
+            "134027",
+            "134055",
+            "134083",
+            "134111",
+            "134139"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_rtg-1_ES_ES_CONVERSION_RTG_PURCHASE_2024_VERANO_ACTIVIDAD_TOURMEDELLIN",
+        "landing": "https://www.civitatis.com/es/medellin/tour-medellin-completo/",
+        "aws_path_1": "CIVITATIS/2024/06/conversion/tourmedellin/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/medellin/tour-medellin-completo/?aid=108&cmp=es_ES&cmpint=adg_es_TOUMEDELLIN_728x90&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=es_ES_Conversion_RTG_Purchase_2024_Verano_Actividad_TourMedellin&utm_content=TOUMEDELLIN",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "134000",
+            "134028",
+            "134056",
+            "134084",
+            "134112",
+            "134140"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_rtg-1_ES_ES_CONVERSION_RTG_PURCHASE_2024_VERANO_ACTIVIDAD_ROMAANTIGUA",
+        "landing": "https://www.civitatis.com/es/roma/visita-guiada-roma-antigua/",
+        "aws_path_1": "CIVITATIS/2024/06/conversion/romaantigua/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/roma/visita-guiada-roma-antigua/?aid=108&cmp=es_ES&cmpint=adg_es_ROMAANTIGUA_728x90&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=es_ES_Conversion_RTG_Purchase_2024_Verano_Actividad_RomaAntigua&utm_content=ROMAANTIGUA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "134001",
+            "134029",
+            "134057",
+            "134085",
+            "134113",
+            "134141"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_rtg-1_ES_ES_CONVERSION_RTG_PURCHASE_2024_VERANO_ACTIVIDAD_PISA",
+        "landing": "https://www.civitatis.com/es/florencia/tour-pisa-san-gimignano-siena/",
+        "aws_path_1": "CIVITATIS/2024/06/conversion/pisa/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/florencia/tour-pisa-san-gimignano-siena/?aid=108&cmp=es_ES&cmpint=adg_es_PISA_728x90&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=es_ES_Conversion_RTG_Purchase_2024_Verano_Actividad_Pisa&utm_content=PISA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "134002",
+            "134030",
+            "134058",
+            "134086",
+            "134114",
+            "134142"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_rtg-1_ES_ES_CONVERSION_RTG_PURCHASE_2024_VERANO_ACTIVIDAD_PASEOSENA",
+        "landing": "https://www.civitatis.com/es/paris/paseo-barco-sena/",
+        "aws_path_1": "CIVITATIS/2024/06/conversion/paseosena/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/paris/paseo-barco-sena/?aid=108&cmp=es_ES&cmpint=adg_es_PASEOSENA_728x90&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=es_ES_Conversion_RTG_Purchase_2024_Verano_Actividad_PaseoSena&utm_content=PASEOSENA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "134003",
+            "134031",
+            "134059",
+            "134087",
+            "134115",
+            "134143"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_rtg-1_ES_ES_CONVERSION_RTG_PURCHASE_2024_VERANO_ACTIVIDAD_PALACIOVERSALLES",
+        "landing": "https://www.civitatis.com/es/paris/excursion-palacio-versalles/",
+        "aws_path_1": "CIVITATIS/2024/06/conversion/palacioversalles/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/paris/excursion-palacio-versalles/?&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=es_ES_Conversion_RTG_Purchase_2024_Verano_Actividad_PalacioVersalles&utm_content=VERSALLES",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "134004",
+            "134032",
+            "134060",
+            "134088",
+            "134116",
+            "134144"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_rtg-1_ES_ES_CONVERSION_RTG_PURCHASE_2024_VERANO_ACTIVIDAD_MUSEOSVATICANOS",
+        "landing": "https://www.civitatis.com/es/roma/visita-guiada-vaticano/",
+        "aws_path_1": "CIVITATIS/2024/06/conversion/museosvaticanos/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/roma/visita-guiada-vaticano/?aid=108&cmp=es_ES&cmpint=adg_es_VATICANOS_728x90&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=es_ES_Conversion_RTG_Purchase_2024_Verano_Actividad_MuseosVaticanos&utm_content=VATICANOS",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "134005",
+            "134033",
+            "134061",
+            "134089",
+            "134117",
+            "134145"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_rtg-1_ES_ES_CONVERSION_RTG_PURCHASE_2024_VERANO_ACTIVIDAD_MADEIRATOUR",
+        "landing": "https://www.civitatis.com/es/funchal/madeira-completo-2-dias/",
+        "aws_path_1": "CIVITATIS/2024/06/conversion/madeiratour/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/funchal/madeira-completo-2-dias/?aid=108&cmp=es_ES&cmpint=adg_es_TOURMADEITA_728x90&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=es_ES_Conversion_RTG_Purchase_2024_Verano_Actividad_MadeiraTour&utm_content=TOURMADEITA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "134006",
+            "134034",
+            "134062",
+            "134090",
+            "134118",
+            "134146"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_rtg-1_ES_ES_CONVERSION_RTG_PURCHASE_2024_VERANO_ACTIVIDAD_ISLASCIES",
+        "landing": "https://www.civitatis.com/es/baiona/barco-islas-cies/",
+        "aws_path_1": "CIVITATIS/2024/06/conversion/islascies/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/baiona/barco-islas-cies/?aid=108&cmp=es_ES&cmpint=adg_es_ISLASCIES_728x90&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=es_ES_Conversion_RTG_Purchase_2024_Verano_Actividad_IslasCies&utm_content=ISLASCIES",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "134007",
+            "134035",
+            "134063",
+            "134091",
+            "134119",
+            "134147"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_rtg-1_ES_ES_CONVERSION_RTG_PURCHASE_2024_VERANO_ACTIVIDAD_ISLAMUJERES",
+        "landing": "https://www.civitatis.com/es/cancun/excursion-isla-mujeres-catamaran/",
+        "aws_path_1": "CIVITATIS/2024/06/conversion/islamujeres/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/cancun/excursion-isla-mujeres-catamaran/?aid=108&cmp=es_ES&cmpint=adg_es_ISLASMUJERES_728x90&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=es_ES_Conversion_RTG_Purchase_2024_Verano_Actividad_IslaMujeres&utm_content=ISLASMUJERES",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "134008",
+            "134036",
+            "134064",
+            "134092",
+            "134120",
+            "134148"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_rtg-1_ES_ES_CONVERSION_RTG_PURCHASE_2024_VERANO_ACTIVIDAD_FLORENCIAYPISA",
+        "landing": "https://www.civitatis.com/es/florencia/excursion-san-gimignano-siena-chianti/",
+        "aws_path_1": "CIVITATIS/2024/06/conversion/florenciaypisa/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/florencia/excursion-san-gimignano-siena-chianti/?aid=108&cmp=es_ES&cmpint=adg_es_TOURFLORENCIA_728x90&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=es_ES_Conversion_RTG_Purchase_2024_Verano_Actividad_FlorenciayPisa&utm_content=TOURFLORENCIA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "134009",
+            "134037",
+            "134065",
+            "134093",
+            "134121",
+            "134149"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_rtg-1_ES_ES_CONVERSION_RTG_PURCHASE_2024_VERANO_ACTIVIDAD_EXCURSIONWASHINGTON",
+        "landing": "https://www.civitatis.com/es/nueva-york/excursion-washington/",
+        "aws_path_1": "CIVITATIS/2024/06/conversion/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/nueva-york/excursion-washington/?aid=108&cmp=es_ES&cmpint=adg_es_WASHINGTON_728x90&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=es_ES_Conversion_RTG_Purchase_2024_Verano_Actividad_ExcursionWashington&utm_content=WASHINGTON",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "134010",
+            "134038",
+            "134066",
+            "134094",
+            "134122",
+            "134150"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_rtg-1_ES_ES_CONVERSION_RTG_PURCHASE_2024_VERANO_ACTIVIDAD_EXCURSIONVARADERO",
+        "landing": "https://www.civitatis.com/es/la-habana/excursion-varadero/",
+        "aws_path_1": "CIVITATIS/2024/06/conversion/excursionvaradero/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/la-habana/excursion-varadero/?aid=108&cmp=es_ES&cmpint=adg_es_VARADERO_728x90&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=es_ES_Conversion_RTG_Purchase_2024_Verano_Actividad_ExcursionVaradero&utm_content=VARADERO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "134011",
+            "134039",
+            "134067",
+            "134095",
+            "134123",
+            "134151"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_rtg-1_ES_ES_CONVERSION_RTG_PURCHASE_2024_VERANO_ACTIVIDAD_EXCURSIONTOLEDO",
+        "landing": "https://www.civitatis.com/es/madrid/excursion-toledo-segovia/",
+        "aws_path_1": "CIVITATIS/2024/06/conversion/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/madrid/excursion-toledo-segovia/?aid=108&cmp=es_ES&cmpint=adg_es_TOLEDO_728x90&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=es_ES_Conversion_RTG_Purchase_2024_Verano_Actividad_ExcursionToledo&utm_content=TOLEDO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "134012",
+            "134040",
+            "134068",
+            "134096",
+            "134124",
+            "134152"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_rtg-1_ES_ES_CONVERSION_RTG_PURCHASE_2024_VERANO_ACTIVIDAD_DISNEYLAND",
+        "landing": "https://www.civitatis.com/es/disneyland-paris/entrada-disneyland-paris/",
+        "aws_path_1": "CIVITATIS/2024/06/conversion/disneyland/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/disneyland-paris/entrada-disneyland-paris/?aid=108&cmp=es_ES&cmpint=adg_es_DISNEY_728x90&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=es_ES_Conversion_RTG_Purchase_2024_Verano_Actividad_Disneyland&utm_content=DISNEY",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "134013",
+            "134041",
+            "134069",
+            "134097",
+            "134125",
+            "134153"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_rtg-1_ES_ES_CONVERSION_RTG_PURCHASE_2024_VERANO_ACTIVIDAD_CONTRASTESNEWYORK",
+        "landing": "https://www.civitatis.com/es/nueva-york/contrastes-nueva-york/",
+        "aws_path_1": "CIVITATIS/2024/06/conversion/contrastesnewyork/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/nueva-york/contrastes-nueva-york/?aid=108&cmp=es_ES&cmpint=adg_es_TOURNYC_728x90&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=es_ES_Conversion_RTG_Purchase_2024_Verano_Actividad_ContrastesNewYork&utm_content=TOURNYC",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "134014",
+            "134042",
+            "134070",
+            "134098",
+            "134126",
+            "134154"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_rtg-1_ES_ES_CONVERSION_RTG_PURCHASE_2024_VERANO_ACTIVIDAD_CIRCUITOEGIPTO",
+        "landing": "https://www.civitatis.com/es/el-cairo/circuito-8-dias-egipto/",
+        "aws_path_1": "CIVITATIS/2024/06/conversion/circuitoegipto/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/el-cairo/circuito-8-dias-egipto/?aid=108&cmp=es_ES&cmpint=adg_es_TOUREGIPTO_728x90&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=es_ES_Conversion_RTG_Purchase_2024_Verano_Actividad_CircuitoEgipto&utm_content=TOUREGIPTO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "134015",
+            "134043",
+            "134071",
+            "134099",
+            "134127",
+            "134155"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_rtg-1_ES_ES_CONVERSION_RTG_PURCHASE_2024_VERANO_ACTIVIDAD_CASTILLOEDIMBURGO",
+        "landing": "https://www.civitatis.com/es/edimburgo/visita-guiada-castillo-edimburgo/",
+        "aws_path_1": "CIVITATIS/2024/06/conversion/castilloedimburgo/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/edimburgo/visita-guiada-castillo-edimburgo/?aid=108&cmp=es_ES&cmpint=adg_es_CASTILLO_728x90&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=es_ES_Conversion_RTG_Purchase_2024_Verano_Actividad_CastilloEdimburgo&utm_content=CASTILLO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "134016",
+            "134044",
+            "134072",
+            "134100",
+            "134128",
+            "134156"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_rtg-1_ES_ES_CONVERSION_RTG_PURCHASE_2024_VERANO_ACTIVIDAD_CALABASSA",
+        "landing": "https://www.civitatis.com/es/san-antonio-abad/barco-cala-bassa-conta/",
+        "aws_path_1": "CIVITATIS/2024/06/conversion/calabassa/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/san-antonio-abad/barco-cala-bassa-conta/?aid=108&cmp=es_ES&cmpint=adg_es_CALABASSA_728x90&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=es_ES_Conversion_RTG_Purchase_2024_Verano_Actividad_CalaBassa&utm_content=CALABASSA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "134017",
+            "134045",
+            "134073",
+            "134101",
+            "134129",
+            "134157"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_rtg-1_ES_ES_CONVERSION_RTG_PURCHASE_2024_VERANO_ACTIVIDAD_EXCURSIONVOLENDAM",
+        "landing": "https://www.civitatis.com/es/amsterdam/excursion-zaanse-schans-volendam-marken/",
+        "aws_path_1": "CIVITATIS/2024/06/conversion/excursionvolendam/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/amsterdam/excursion-zaanse-schans-volendam-marken/?aid=108&cmp=es_ES&cmpint=adg_es_VOLDENDAM_728x90&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=es_ES_Conversion_RTG_Purchase_2024_Verano_Actividad_ExcursionVolendam&utm_content=VOLDENDAM",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "134018",
+            "134046",
+            "134074",
+            "134102",
+            "134130",
+            "134158"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_rtg-1_ES_ES_CONVERSION_RTG_PURCHASE_2024_VERANO_ACTIVIDAD_BUSMEXICO",
+        "landing": "https://www.civitatis.com/es/ciudad-de-mexico/autobus-turistico-mexico/",
+        "aws_path_1": "CIVITATIS/2024/06/conversion/busmexico/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/ciudad-de-mexico/autobus-turistico-mexico/?aid=108&cmp=es_ES&cmpint=adg_es_BUSMEXICO_728x90&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=es_ES_Conversion_RTG_Purchase_2024_Verano_Actividad_BusMexico&utm_content=BUSMEXICO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "134019",
+            "134047",
+            "134075",
+            "134103",
+            "134131",
+            "134159"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_rtg-1_ES_ES_CONVERSION_RTG_PURCHASE_2024_VERANO_ACTIVIDAD_BARCOFORMENTERA",
+        "landing": "https://www.civitatis.com/es/ibiza-ciudad/barco-ibiza-formentera/",
+        "aws_path_1": "CIVITATIS/2024/06/conversion/barcoformentera/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/ibiza-ciudad/barco-ibiza-formentera/?aid=108&cmp=es_ES&cmpint=adg_es_BARCOFORMENTRA_728x90&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=es_ES_Conversion_RTG_Purchase_2024_Verano_Actividad_BarcoFormentera&utm_content=BARCOFORMENTRA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "134020",
+            "134048",
+            "134076",
+            "134104",
+            "134132",
+            "134160"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_rtg-1_ES_ES_CONVERSION_RTG_PURCHASE_2024_VERANO_ACTIVIDAD_AUSCHWITZ",
+        "landing": "https://www.civitatis.com/es/cracovia/excursion-auschwitz-birkenau/",
+        "aws_path_1": "CIVITATIS/2024/06/conversion/auschwitz/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/cracovia/excursion-auschwitz-birkenau/?aid=108&cmp=es_ES&cmpint=adg_es_AUSCHIWITZ_728x90&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=es_ES_Conversion_RTG_Purchase_2024_Verano_Actividad_Auschwitz&utm_content=AUSCHIWITZ",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_"
+    }
+]

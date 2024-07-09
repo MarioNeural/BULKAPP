@@ -1,0 +1,41 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": ["138503"],
+        "name": "oasis-wild-es_v1mp_VERANO_dis-prem_prs-1_GEN",
+        "landing": "https://tickets.oasiswildlifefuerteventura.com/",
+        "aws_path_1": "OASIS_WILDLIFE/2024/06/3dcard/",
+        "aws_path_2": "/index.html",
+        "link": "https://tickets.oasiswildlifefuerteventura.com/?utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=verano",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Wildlife.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "970x250", "728x90", "160x600", "320x100"],
+        "tcs": ["138504", "138505", "138506", "138507", "138508", "138509"],
+        "name": "oasis-wild-es_v1mp_VERANO_dis_prs-1_GEN",
+        "landing": "https://tickets.oasiswildlifefuerteventura.com/",
+        "aws_path_1": "OASIS_WILDLIFE/2024/07/verano/",
+        "aws_path_2": "/index.html",
+        "link": "https://tickets.oasiswildlifefuerteventura.com/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=verano",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Wildlife.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "970x250", "728x90", "160x600", "320x100"],
+        "tcs": ["138510", "138511", "138512", "138513", "138514", "138515"],
+        "name": "oasis-wild-es_v1mp_VERANO_dis_rtg-1_GEN",
+        "landing": "https://tickets.oasiswildlifefuerteventura.com/",
+        "aws_path_1": "OASIS_WILDLIFE/2024/07/verano/",
+        "aws_path_2": "/index.html",
+        "link": "https://tickets.oasiswildlifefuerteventura.com/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=verano",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Wildlife.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

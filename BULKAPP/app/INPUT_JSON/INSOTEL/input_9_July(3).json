@@ -1,0 +1,90 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "320x100", "970x250", "728x90", "160x600"],
+        "tcs": ["138917", "138918", "138919", "138920", "138921", "138922"],
+        "name": "insotel-es_v1mp_FENICIA_dis_prs-1_SUMMER",
+        "landing": "https://www.insotelhotelgroup.com/hoteles/ibiza/insotel-fenicia-prestige-suites-spa",
+        "aws_path_1": "INSOTEL/2024/07/fenicia/standard/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/hoteles/ibiza/insotel-fenicia-prestige-suites-spa?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=fenicia&utm_term=ESP",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "320x100", "970x250", "728x90", "160x600"],
+        "tcs": ["138923", "138924", "138925", "138926", "138927", "138928"],
+        "name": "insotel-gb_v1mp_FENICIA_dis_prs-1_SUMMER",
+        "landing": "https://www.insotelhotelgroup.com/en/hotels/ibiza/insotel-fenicia-prestige-suites-spa",
+        "aws_path_1": "INSOTEL/2024/07/fenicia/standard/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/en/hotels/ibiza/insotel-fenicia-prestige-suites-spa?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=fenicia&utm_term=gb",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "320x100", "970x250", "728x90", "160x600"],
+        "tcs": ["138929", "138930", "138931", "138932", "138933", "138934"],
+        "name": "insotel-de_v1mp_FENICIA_dis_prs-1_SUMMER",
+        "landing": "https://www.insotelhotelgroup.com/de/hotels/ibiza/insotel-fenicia-prestige-suites-spa",
+        "aws_path_1": "INSOTEL/2024/07/fenicia/standard/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/de/hotels/ibiza/insotel-fenicia-prestige-suites-spa?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=fenicia&utm_term=DE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "320x100", "970x250", "728x90", "160x600"],
+        "tcs": ["138935", "138936", "138937", "138938", "138939", "138940"],
+        "name": "insotel-nl_v1mp_FENICIA_dis_prs-1_SUMMER",
+        "landing": "https://www.insotelhotelgroup.com/en/hotels/ibiza/insotel-fenicia-prestige-suites-spa",
+        "aws_path_1": "INSOTEL/2024/07/fenicia/standard/nl/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/en/hotels/ibiza/insotel-fenicia-prestige-suites-spa?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=fenicia&utm_term=NL",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600"],
+        "tcs": ["138941", "138942"],
+        "name": "insotel-es_v1mp_FENICIA_dis-p20_prs-1_SUMMER",
+        "landing": "https://www.insotelhotelgroup.com/hoteles/ibiza/insotel-fenicia-prestige-suites-spa",
+        "aws_path_1": "INSOTEL/2024/07/fenicia/preroll/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/hoteles/ibiza/insotel-fenicia-prestige-suites-spa?utm_source=v1mp&utm_medium=dis-p20-prs-1&utm_campaign=fenicia&utm_term=ESP",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600"],
+        "tcs": ["138943", "138944"],
+        "name": "insotel-gb_v1mp_FENICIA_dis-p20_prs-1_SUMMER",
+        "landing": "https://www.insotelhotelgroup.com/en/hotels/ibiza/insotel-fenicia-prestige-suites-spa",
+        "aws_path_1": "INSOTEL/2024/07/fenicia/preroll/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/en/hotels/ibiza/insotel-fenicia-prestige-suites-spa?utm_source=v1mp&utm_medium=dis-p20-prs-1&utm_campaign=fenicia&utm_term=gb",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600"],
+        "tcs": ["138945", "138946"],
+        "name": "insotel-de_v1mp_FENICIA_dis-p20_prs-1_SUMMER",
+        "landing": "https://www.insotelhotelgroup.com/de/hotels/ibiza/insotel-fenicia-prestige-suites-spa",
+        "aws_path_1": "INSOTEL/2024/07/fenicia/preroll/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/de/hotels/ibiza/insotel-fenicia-prestige-suites-spa?utm_source=v1mp&utm_medium=dis-p20-prs-1&utm_campaign=fenicia&utm_term=DE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600"],
+        "tcs": ["138947", "138948"],
+        "name": "insotel-nl_v1mp_FENICIA_dis-p20_prs-1_SUMMER",
+        "landing": "https://www.insotelhotelgroup.com/en/hotels/ibiza/insotel-fenicia-prestige-suites-spa",
+        "aws_path_1": "INSOTEL/2024/07/fenicia/preroll/nl/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/en/hotels/ibiza/insotel-fenicia-prestige-suites-spa?utm_source=v1mp&utm_medium=dis-p20-prs-1&utm_campaign=fenicia&utm_term=NL",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "type": "link",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "tcs": [
+            "135022",
+            "135023",
+            "135024",
+            "135025",
+            "135026",
+            "135027"
+        ],
+        "name": "zafiro-gb_adg_ALWAYS-ON_dis_prs-1_VERANO24",
+        "landing": "https://www.zafirohotels.com/en/",
+        "aws_path_1": "zafiro_hoteles/2024/06/verano/de/",
+        "aws_path_2": ".jpg",
+        "url": "https://www.zafirohotels.com/en/?utm_source=adg&utm_medium=dis-prs-1&utm_campaign=VERANO24&utm_term=GB&utm_content=verano24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Zafiro%20Hoteles.js?tc="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "135028",
+            "135029",
+            "135030",
+            "135031",
+            "135032",
+            "135033"
+        ],
+        "name": "zafiro-ch_adg_ALWAYS-ON_dis_prs-1_VERANO24",
+        "landing": "https://www.zafirohotels.com/de/",
+        "aws_path_1": "zafiro_hoteles/2024/06/verano/de/",
+        "aws_path_2": ".jpg",
+        "url": "https://www.zafirohotels.com/de/?utm_source=adg&utm_medium=dis-prs-1&utm_campaign=VERANO24&utm_term=CH&utm_content=verano24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Zafiro%20Hoteles.js?tc="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "135034",
+            "135035",
+            "135036",
+            "135037",
+            "135038",
+            "135039"
+        ],
+        "name": "zafiro-de_adg_ALWAYS-ON_dis_prs-1_VERANO24",
+        "landing": "https://www.zafirohotels.com/de/",
+        "aws_path_1": "zafiro_hoteles/2024/06/verano/de/",
+        "aws_path_2": ".jpg",
+        "url": "https://www.zafirohotels.com/de/?utm_source=adg&utm_medium=dis-prs-1&utm_campaign=VERANO24&utm_term=DE&utm_content=verano24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Zafiro%20Hoteles.js?tc="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "135040",
+            "135041",
+            "135042",
+            "135043",
+            "135044",
+            "135045"
+        ],
+        "name": "zafiro-es_adg_ALWAYS-ON_dis_prs-1_VERANO24",
+        "landing": "https://www.zafirohotels.com/",
+        "aws_path_1": "zafiro_hoteles/2024/06/verano/de/",
+        "aws_path_2": ".jpg",
+        "url": "https://www.zafirohotels.com/?utm_source=adg&utm_medium=dis-prs-1&utm_campaign=VERANO24&utm_term=ES&utm_content=verano24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Zafiro%20Hoteles.js?tc="
+    }
+]

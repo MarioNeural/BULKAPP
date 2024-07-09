@@ -1,0 +1,22 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["970x250"],
+        "tcs": [],
+        "name": "preview",
+        "landing": "https://colabora.contraelcancer.es/dona",
+        "aws_path_1": "AECC/2024/06/nuevas_creas/selector1/",
+        "aws_path_2": "/index.html",
+        "link": "https://colabora.contraelcancer.es/dona"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250"],
+        "tcs": [],
+        "name": "preview",
+        "landing": "https://colabora.contraelcancer.es/dona",
+        "aws_path_1": "AECC/2024/06/nuevas_creas/selector2/",
+        "aws_path_2": "/index.html",
+        "link": "https://colabora.contraelcancer.es/dona"
+    }
+]

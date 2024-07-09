@@ -1,0 +1,22 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600"],
+        "tcs": [],
+        "name": "preview",
+        "landing": "https://fpmaragall.org/",
+        "aws_path_1": "FP_MARAGALL/2024/06/preroll_es/",
+        "aws_path_2": "/index.html",
+        "link": "https://fpmaragall.org/"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600"],
+        "tcs": [],
+        "name": "preview",
+        "landing": "https://fpmaragall.org/",
+        "aws_path_1": "FP_MARAGALL/2024/06/preroll_cat/",
+        "aws_path_2": "/index.html",
+        "link": "https://fpmaragall.org/"
+    }
+]

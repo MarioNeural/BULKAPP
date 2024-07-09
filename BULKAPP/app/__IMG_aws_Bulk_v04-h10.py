@@ -99,10 +99,15 @@ class IMG_aws_TAG_Bulk:
                             if item["viewability"]:
                                 if not tcs:
                                     raise ValueError("#Error: Can't add viewability without TCs...")
+                                
                                 view = self.set_url_or_link(item["viewability"], tcs, i, "view")
                                 
+                                # if not self.verify_response_code("http:" + view + ".js"):
+                                #   raise ValueError("#Error: url response code is not 200...")
+                                
+                                
                                 obj["tag"] += '<script type="text/javascript" src="' + \
-                                view + '.js?n_o_nu=not&n_o_ord=[CACHEBUSTER]"></script>'
+                                view + '&n_o_ord=[CACHEBUSTER]"></script>'
                         except Exception as error:
                             return error
 

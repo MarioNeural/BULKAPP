@@ -1,0 +1,34 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600"],
+        "tcs": [
+            "",
+            ""
+        ],
+        "name": "fp-maragall-es_adg_AWARENESS_dis-p20_prs-1_FUTURO-ES",
+        "landing": "https://recursos.fpmaragall.org/hazte-socio",
+        "aws_path_1": "FP_MARAGALL/2024/06/preroll_es/",
+        "aws_path_2": "/index.html",
+        "link": "https://recursos.fpmaragall.org/hazte-socio?utm_source=adg&utm_medium=dis-p20-prs-1&utm_campaign=awareness&utm_term=FUTURO-ES",
+        "viewability": "",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600"],
+        "tcs": [
+            "",
+            ""
+        ],
+        "name": "fp-maragall-es_adg_AWARENESS_dis-p20_prs-1_FUTURO-CAT",
+        "landing": "https://recursos.fpmaragall.org/hazte-socio",
+        "aws_path_1": "FP_MARAGALL/2024/06/preroll_cat/",
+        "aws_path_2": "/index.html",
+        "link": "https://recursos.fpmaragall.org/hazte-socio?utm_source=adg&utm_medium=dis-p20-prs-1&utm_campaign=awareness&utm_term=FUTURO-CAT",
+        "viewability": "",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

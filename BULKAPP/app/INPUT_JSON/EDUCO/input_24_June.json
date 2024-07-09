@@ -1,0 +1,12 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": [],
+        "name": "preview",
+        "landing": "https://www.educo.org/",
+        "aws_path_1": "EDUCO/2024/06/3dcard/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.educo.org/"
+    }
+]

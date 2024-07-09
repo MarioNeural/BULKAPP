@@ -1,0 +1,13 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600"],
+        "tcs": ["137467", "137468"],
+        "name": "turismo-la-palma-es_adg_JULIO24_dis-p20_prs-1_GEN",
+        "landing": "https://visitlapalma.es/",
+        "aws_path_1": "TURISMO_LA_PALMA/2024/06/preroll_pro/",
+        "aws_path_2": "/index.html",
+        "link": "https://visitlapalma.es/?utm_source=adg&utm_medium=dis-p20-prs-1&utm_campaign=julio24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Braincell.js?tc="
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x250"],
+        "tcs": ["138108"],
+        "name": "DIS_INT_MA_rak-ao_Traffic_PROS_rak-gc-jul24_300x250",
+        "landing": "https://ad.doubleclick.net/ddm/trackclk/N1300917.5259813BINTER_MAROCCO/B32191285.398930056;dc_trk_aid=590870390;dc_trk_cid=218596568;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1",
+        "aws_path_1": "BINTER/2024/07/rak/gc/",
+        "aws_path_2": "/index.html",
+        "link": "https://ad.doubleclick.net/ddm/trackclk/N1300917.5259813BINTER_MAROCCO/B32191285.398930056;dc_trk_aid=590870390;dc_trk_cid=218596568;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1",
+        "impression_tag": "<SCRIPT language='JavaScript1.1' SRC='https://ad.doubleclick.net/ddm/trackimpj/N1300917.5259813BINTER_MAROCCO/B32191285.398930056;dc_trk_aid=590870390;dc_trk_cid=218596568;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></SCRIPT>"
+    }
+]

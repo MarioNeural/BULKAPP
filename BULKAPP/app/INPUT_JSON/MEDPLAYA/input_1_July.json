@@ -1,0 +1,110 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "160x600",
+            "970x250",
+            "728x90"
+        ],
+        "tcs": [
+            "138059",
+            "138060",
+            "138061",
+            "138062",
+            "138063",
+            "138064"
+        ],
+        "name": "medplaya-es_v1mp_AO-ES_dis_prs-1_JULIO",
+        "landing": "https://www.medplaya.es/",
+        "aws_path_1": "MEDPLAYA/2024/07/standard/es/prs/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.medplaya.es/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-es",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Medplaya.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "160x600",
+            "970x250",
+            "728x90"
+        ],
+        "tcs": [
+            "138065",
+            "138066",
+            "138067",
+            "138068",
+            "138069",
+            "138070"
+        ],
+        "name": "medplaya-es_v1mp_AO-ES_dis_rtg-1_JULIO",
+        "landing": "https://www.medplaya.es/",
+        "aws_path_1": "MEDPLAYA/2024/07/standard/es/rtg/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.medplaya.es/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao-es",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Medplaya.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "160x600",
+            "970x250",
+            "728x90"
+        ],
+        "tcs": [
+            "138071",
+            "138072",
+            "138073",
+            "138074",
+            "138075",
+            "138076"
+        ],
+        "name": "medplaya-fr_v1mp_AO-FR_dis_prs-1_JULIO",
+        "landing": "https://www.medplaya.fr/",
+        "aws_path_1": "MEDPLAYA/2024/07/standard/fr/prs/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.medplaya.fr/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-fr",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Medplaya.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "160x600",
+            "970x250",
+            "728x90"
+        ],
+        "tcs": [
+            "138077",
+            "138078",
+            "138079",
+            "138080",
+            "138081",
+            "138082"
+        ],
+        "name": "medplaya-fr_v1mp_AO-FR_dis_rtg-1_JULIO",
+        "landing": "https://www.medplaya.fr/",
+        "aws_path_1": "MEDPLAYA/2024/07/standard/fr/rtg/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.medplaya.fr/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao-fr",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Medplaya.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

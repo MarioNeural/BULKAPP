@@ -1,0 +1,13 @@
+[
+    {
+        "type": "link",
+        "sizes": ["300x600", "300x250", "160x600", "970x250", "320x50", "728x90"],
+        "tcs": ["138812", "138813", "138814", "138815", "138816", "138817"],
+        "name": "iberia-express-es_imp_AO-RESERVAS_dis_prs-1_OTO\u00d1O-MADRID",
+        "landing": "https://www.iberiaexpress.com/",
+        "aws_path_1": "iberia/2024/07/otono/",
+        "aws_path_2": ".gif",
+        "url": "https://www.iberiaexpress.com/?utm_source=imp&utm_medium=dis-prs-1&utm_campaign=ao-reservas&utm_content=oto\u00f1o-madrid",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Iberia%20Express.js?tc="
+    }
+]

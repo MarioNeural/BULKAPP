@@ -1,0 +1,28 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["137997", "137998", "137999", "138000", "138001", "138002"],
+        "name": "manos-unidas-es_v1mp_RETO-SOLIDARIO_dis_prs-1_KENIA",
+        "landing": "https://colabora.manosunidas.org/Landing/60/Reto-Kenia&codIdioma=es&loged=true&origin=776",
+        "aws_path_1": "manos_unidas/2024/06/kenia/",
+        "aws_path_2": "/index.html",
+        "link": "https://colabora.manosunidas.org/Landing/60/Reto-Kenia&codIdioma=es&loged=true&origin=776?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=reto-solidario&utm_term=KENIA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Manos%20Unidas.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["138003", "138004", "138005", "138006", "138007", "138008"],
+        "name": "manos-unidas-es_v1mp_RETO-SOLIDARIO_dis_rtg-1_KENIA",
+        "landing": "https://colabora.manosunidas.org/Landing/60/Reto-Kenia&codIdioma=es&loged=true&origin=776",
+        "aws_path_1": "manos_unidas/2024/06/kenia/",
+        "aws_path_2": "/index.html",
+        "link": "https://colabora.manosunidas.org/Landing/60/Reto-Kenia&codIdioma=es&loged=true&origin=776?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=reto-solidario&utm_term=KENIA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Manos%20Unidas.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

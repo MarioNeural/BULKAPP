@@ -1,0 +1,152 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137389",
+            "137390",
+            "137391",
+            "137392",
+            "137393",
+            "137394"
+        ],
+        "name": "viva-de_v1mp_AO_dis_rtg-1_DCO-LASTSUMMER-2024",
+        "landing": "https://www.hotelsviva.com/de/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/dco/",
+        "aws_path_2": ".html",
+        "link": "https://www.hotelsviva.com/de/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=de&utm_content=dco-lastsummer-2024",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137395",
+            "137396",
+            "137397",
+            "137398",
+            "137399",
+            "137400"
+        ],
+        "name": "viva-fr_v1mp_AO_dis_rtg-1_DCO-LASTSUMMER-2024",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/dco/",
+        "aws_path_2": ".html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=fr&utm_content=dco-lastsummer-2024",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137401",
+            "137402",
+            "137403",
+            "137404",
+            "137405",
+            "137406"
+        ],
+        "name": "viva-row_v1mp_AO_dis_rtg-1_DCO-LASTSUMMER-2024",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/dco/",
+        "aws_path_2": ".html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=en&utm_content=dco-lastsummer-2024",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137407",
+            "137408",
+            "137409",
+            "137410",
+            "137411",
+            "137412"
+        ],
+        "name": "viva-gb_v1mp_AO_dis_rtg-1_DCO-LASTSUMMER-2024",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/dco/",
+        "aws_path_2": ".html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=en&utm_content=dco-lastsummer-2024",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137413",
+            "137414",
+            "137415",
+            "137416",
+            "137417",
+            "137418"
+        ],
+        "name": "viva-es_v1mp_AO_dis_rtg-1_DCO-LASTSUMMER-2024",
+        "landing": "https://www.hotelsviva.com/es/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/dco/",
+        "aws_path_2": ".html",
+        "link": "https://www.hotelsviva.com/es/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=es&utm_content=dco-lastsummer-2024",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137419",
+            "137420",
+            "137421",
+            "137422",
+            "137423",
+            "137424"
+        ],
+        "name": "viva-ch_v1mp_AO_dis_rtg-1_DCO-LASTSUMMER-2024",
+        "landing": "https://www.hotelsviva.com/de/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/dco/",
+        "aws_path_2": ".html",
+        "link": "https://www.hotelsviva.com/de/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=de&utm_content=dco-lastsummer-2024",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    }
+]

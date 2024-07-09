@@ -35,6 +35,13 @@ advertiser_number_map = {
     'Ametller Origen': 215,
     'Solvia': 109,
     'Palmaia': 109,
+    'Vicente Ferrer': 210,
+    'EU Business School': 283,
+    'Civitatis': 245,
+    'Savoy Signature': 341,
+    'Manos Unidas': 139,
+    'Medplaya': 393,
+    'Oasis Wild Life': 394,
     # Agrega más anunciantes según sea necesario
 }
 
@@ -131,7 +138,9 @@ def main():
 
         new_row['trackingcode_name'] = str(row.get('trackingcode', '')).strip()
         new_row['publisher_id'] = find_id_or_name('publisher', str(row.get('publisher', '')).strip(), mapping_dicts, str(row.get('publisher', '')).strip())
-        new_row['campaign_id'] = find_id_or_name('campaign', str(row.get('campaign', '')).strip(), mapping_dicts, str(row.get('campaign', '')).strip())
+        campaign_name = str(row.get('campaign name', '')).strip()
+        campaign_fallback = str(row.get('campaign', '')).strip()
+        new_row['campaign_id'] = find_id_or_name('campaign name', campaign_name, mapping_dicts, find_id_or_name('campaign', campaign_fallback, mapping_dicts, campaign_fallback))
         new_row['lineitem_id'] = find_id_or_name('lineitem', lineitem_cleaned, mapping_dicts, lineitem_cleaned)
         new_row['channel_id'] = find_id_or_name('channel', str(row.get('channel', '')).strip(), mapping_dicts, str(row.get('channel', '')).strip())
         new_row['model_id'] = find_id_or_name('model', str(row.get('model', '')).strip(), mapping_dicts, str(row.get('model', '')).strip())
@@ -175,3 +184,4 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"Error: {e}", file=sys.stderr)
         sys.exit(1)
+

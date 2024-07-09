@@ -1,0 +1,67 @@
+[
+    {
+        "type": "link",
+        "sizes": [
+            "160x600"
+        ],
+        "tcs": [],
+        "name": "volaris-mx_adg_ABRIL24_dis_prs-22_VEGAS-GENERICO-CONVERSION-JULIO",
+        "landing": "https://a2.adform.net/C/?bn=73925779",
+        "aws_path_1": "VOLARIS/2024/06/vegas_conv/",
+        "aws_path_2": ".jpg",
+        "url": "https://a2.adform.net/C/?bn=73925779",
+        "impression_tag": "<img src='https://a2.adform.net/adfserve/?bn=73925779;1x1inv=1;srctype=3;ord=[timestamp]' border='0' width='1' height='1'/>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x250"
+        ],
+        "tcs": [],
+        "name": "volaris-mx_adg_ABRIL24_dis_prs-22_VEGAS-GENERICO-CONVERSION-JULIO",
+        "landing": "https://a2.adform.net/C/?bn=73925786",
+        "aws_path_1": "VOLARIS/2024/06/vegas_conv/",
+        "aws_path_2": ".jpg",
+        "url": "https://a2.adform.net/C/?bn=73925786",
+        "impression_tag": "<img src='https://a2.adform.net/adfserve/?bn=73925786;1x1inv=1;srctype=3;ord=[timestamp]' border='0' width='1' height='1'/>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x600"
+        ],
+        "tcs": [],
+        "name": "volaris-mx_adg_ABRIL24_dis_prs-22_VEGAS-GENERICO-CONVERSION-JULIO",
+        "landing": "https://a2.adform.net/C/?bn=73925778",
+        "aws_path_1": "VOLARIS/2024/06/vegas_conv/",
+        "aws_path_2": ".jpg",
+        "url": "https://a2.adform.net/C/?bn=73925778",
+        "impression_tag": "<img src='https://a2.adform.net/adfserve/?bn=73925778;1x1inv=1;srctype=3;ord=[timestamp]' border='0' width='1' height='1'/>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "468x60"
+        ],
+        "tcs": [],
+        "name": "volaris-mx_adg_ABRIL24_dis_prs-22_VEGAS-GENERICO-CONVERSION-JULIO",
+        "landing": "https://a2.adform.net/C/?bn=73925774",
+        "aws_path_1": "VOLARIS/2024/06/vegas_conv/",
+        "aws_path_2": ".jpg",
+        "url": "https://a2.adform.net/C/?bn=73925774",
+        "impression_tag": "<img src='https://a2.adform.net/adfserve/?bn=73925774;1x1inv=1;srctype=3;ord=[timestamp]' border='0' width='1' height='1'/>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90"
+        ],
+        "tcs": [],
+        "name": "volaris-mx_adg_ABRIL24_dis_prs-22_VEGAS-GENERICO-CONVERSION-JULIO",
+        "landing": "https://a2.adform.net/C/?bn=73925777",
+        "aws_path_1": "VOLARIS/2024/06/vegas_conv/",
+        "aws_path_2": ".jpg",
+        "url": "https://a2.adform.net/C/?bn=73925777",
+        "impression_tag": "<img src='https://a2.adform.net/adfserve/?bn=73925777;1x1inv=1;srctype=3;ord=[timestamp]' border='0' width='1' height='1'/>"
+    }
+]

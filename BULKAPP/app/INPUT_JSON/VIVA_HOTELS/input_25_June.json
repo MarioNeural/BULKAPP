@@ -1,0 +1,1202 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "136996",
+            "136997",
+            "136998",
+            "136999",
+            "137000",
+            "137001"
+        ],
+        "name": "viva-es_v1mp_AO_dis_prs-1_LASTMINUTE-GEN-24",
+        "landing": "https://www.hotelsviva.com/es/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/gen/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/es/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=lastminute-gen-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137002",
+            "137003",
+            "137004",
+            "137005",
+            "137006",
+            "137007"
+        ],
+        "name": "viva-es_v1mp_AO_dis_rtg-1_LASTMINUTE-GEN-24",
+        "landing": "https://www.hotelsviva.com/es/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/gen/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/es/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=lastminute-gen-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137008",
+            "137009",
+            "137010",
+            "137011",
+            "137012",
+            "137013"
+        ],
+        "name": "viva-ch_v1mp_AO_dis_prs-1_LASTMINUTE-GEN-24",
+        "landing": "https://www.hotelsviva.com/de/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/gen/ch/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=lastminute-gen-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137014",
+            "137015",
+            "137016",
+            "137017",
+            "137018",
+            "137019"
+        ],
+        "name": "viva-ch_v1mp_AO_dis_rtg-1_LASTMINUTE-GEN-24",
+        "landing": "https://www.hotelsviva.com/de/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/gen/ch/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=lastminute-gen-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137020",
+            "137021",
+            "137022",
+            "137023",
+            "137024",
+            "137025"
+        ],
+        "name": "viva-de_v1mp_AO_dis_prs-1_LASTMINUTE-GEN-24",
+        "landing": "https://www.hotelsviva.com/de/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/gen/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=lastminute-gen-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137026",
+            "137027",
+            "137028",
+            "137029",
+            "137030",
+            "137031"
+        ],
+        "name": "viva-de_v1mp_AO_dis_rtg-1_LASTMINUTE-GEN-24",
+        "landing": "https://www.hotelsviva.com/de/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/gen/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=lastminute-gen-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137032",
+            "137033",
+            "137034",
+            "137035",
+            "137036",
+            "137037"
+        ],
+        "name": "viva-fr_v1mp_AO_dis_prs-1_LASTMINUTE-GEN-24",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/gen/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=lastminute-gen-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137038",
+            "137039",
+            "137040",
+            "137041",
+            "137042",
+            "137043"
+        ],
+        "name": "viva-fr_v1mp_AO_dis_rtg-1_LASTMINUTE-GEN-24",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/gen/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=lastminute-gen-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137044",
+            "137045",
+            "137046",
+            "137047",
+            "137048",
+            "137049"
+        ],
+        "name": "viva-row_v1mp_AO_dis_prs-1_LASTMINUTE-GEN-24",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/gen/row/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=lastminute-gen-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137050",
+            "137051",
+            "137052",
+            "137053",
+            "137054",
+            "137055"
+        ],
+        "name": "viva-row_v1mp_AO_dis_rtg-1_LASTMINUTE-GEN-24",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/gen/row/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=lastminute-gen-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137056",
+            "137057",
+            "137058",
+            "137059",
+            "137060",
+            "137061"
+        ],
+        "name": "viva-gb_v1mp_AO_dis_prs-1_LASTMINUTE-GEN-24",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/gen/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=lastminute-gen-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137062",
+            "137063",
+            "137064",
+            "137065",
+            "137066",
+            "137067"
+        ],
+        "name": "viva-gb_v1mp_AO_dis_rtg-1_LASTMINUTE-GEN-24",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/gen/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=lastminute-gen-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137068",
+            "137069",
+            "137070",
+            "137071",
+            "137072",
+            "137073"
+        ],
+        "name": "viva-es_v1mp_AO_dis_prs-1_LASTMINUTE-SUITES-24",
+        "landing": "https://www.hotelsviva.com/es/adults-only-hotel-suites/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/suites/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/es/adults-only-hotel-suites/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=lastminute-suites-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137074",
+            "137075",
+            "137076",
+            "137077",
+            "137078",
+            "137079"
+        ],
+        "name": "viva-es_v1mp_AO_dis_rtg-1_LASTMINUTE-SUITES-24",
+        "landing": "https://www.hotelsviva.com/es/adults-only-hotel-suites/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/suites/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/es/adults-only-hotel-suites/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=lastminute-suites-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137080",
+            "137081",
+            "137082",
+            "137083",
+            "137084",
+            "137085"
+        ],
+        "name": "viva-ch_v1mp_AO_dis_prs-1_LASTMINUTE-SUITES-24",
+        "landing": "https://www.hotelsviva.com/de/adults-only-hotel-suites/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/suites/ch/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/adults-only-hotel-suites/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=lastminute-suites-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137086",
+            "137087",
+            "137088",
+            "137089",
+            "137090",
+            "137091"
+        ],
+        "name": "viva-ch_v1mp_AO_dis_rtg-1_LASTMINUTE-SUITES-24",
+        "landing": "https://www.hotelsviva.com/de/adults-only-hotel-suites/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/suites/ch/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/adults-only-hotel-suites/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=lastminute-suites-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137092",
+            "137093",
+            "137094",
+            "137095",
+            "137096",
+            "137097"
+        ],
+        "name": "viva-de_v1mp_AO_dis_prs-1_LASTMINUTE-SUITES-24",
+        "landing": "https://www.hotelsviva.com/de/adults-only-hotel-suites/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/suites/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/adults-only-hotel-suites/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=lastminute-suites-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137098",
+            "137099",
+            "137100",
+            "137101",
+            "137102",
+            "137103"
+        ],
+        "name": "viva-de_v1mp_AO_dis_rtg-1_LASTMINUTE-SUITES-24",
+        "landing": "https://www.hotelsviva.com/de/adults-only-hotel-suites/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/suites/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/adults-only-hotel-suites/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=lastminute-suites-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137104",
+            "137105",
+            "137106",
+            "137107",
+            "137108",
+            "137109"
+        ],
+        "name": "viva-fr_v1mp_AO_dis_prs-1_LASTMINUTE-SUITES-24",
+        "landing": "https://www.hotelsviva.com/en/adults-only-hotel-suites/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/suites/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/adults-only-hotel-suites/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=lastminute-suites-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137110",
+            "137111",
+            "137112",
+            "137113",
+            "137114",
+            "137115"
+        ],
+        "name": "viva-fr_v1mp_AO_dis_rtg-1_LASTMINUTE-SUITES-24",
+        "landing": "https://www.hotelsviva.com/en/adults-only-hotel-suites/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/suites/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/adults-only-hotel-suites/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=lastminute-suites-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137116",
+            "137117",
+            "137118",
+            "137119",
+            "137120",
+            "137121"
+        ],
+        "name": "viva-row_v1mp_AO_dis_prs-1_LASTMINUTE-SUITES-24",
+        "landing": "https://www.hotelsviva.com/en/adults-only-hotel-suites/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/suites/row/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/adults-only-hotel-suites/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=lastminute-suites-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137122",
+            "137123",
+            "137124",
+            "137125",
+            "137126",
+            "137127"
+        ],
+        "name": "viva-row_v1mp_AO_dis_rtg-1_LASTMINUTE-SUITES-24",
+        "landing": "https://www.hotelsviva.com/en/adults-only-hotel-suites/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/suites/row/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/adults-only-hotel-suites/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=lastminute-suites-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137128",
+            "137129",
+            "137130",
+            "137131",
+            "137132",
+            "137133"
+        ],
+        "name": "viva-gb_v1mp_AO_dis_prs-1_LASTMINUTE-SUITES-24",
+        "landing": "https://www.hotelsviva.com/en/adults-only-hotel-suites/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/suites/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/adults-only-hotel-suites/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=lastminute-suites-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137134",
+            "137135",
+            "137136",
+            "137137",
+            "137138",
+            "137139"
+        ],
+        "name": "viva-gb_v1mp_AO_dis_rtg-1_LASTMINUTE-SUITES-24",
+        "landing": "https://www.hotelsviva.com/en/adults-only-hotel-suites/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/suites/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/adults-only-hotel-suites/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=lastminute-suites-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137140",
+            "137141",
+            "137142",
+            "137143",
+            "137144",
+            "137145"
+        ],
+        "name": "viva-es_v1mp_AO_dis_prs-1_LASTMINUTE-GOLF-24",
+        "landing": "https://www.hotelsviva.com/es/adults-only-hotel-viva-golf/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/golf/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/es/adults-only-hotel-viva-golf/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=lastminute-golf-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137146",
+            "137147",
+            "137148",
+            "137149",
+            "137150",
+            "137151"
+        ],
+        "name": "viva-es_v1mp_AO_dis_rtg-1_LASTMINUTE-GOLF-24",
+        "landing": "https://www.hotelsviva.com/es/adults-only-hotel-viva-golf/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/golf/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/es/adults-only-hotel-viva-golf/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=lastminute-golf-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137152",
+            "137153",
+            "137154",
+            "137155",
+            "137156",
+            "137157"
+        ],
+        "name": "viva-ch_v1mp_AO_dis_prs-1_LASTMINUTE-GOLF-24",
+        "landing": "https://www.hotelsviva.com/de/adults-only-hotel-viva-golf/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/golf/ch/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/adults-only-hotel-viva-golf/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=lastminute-golf-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137158",
+            "137159",
+            "137160",
+            "137161",
+            "137162",
+            "137163"
+        ],
+        "name": "viva-ch_v1mp_AO_dis_rtg-1_LASTMINUTE-GOLF-24",
+        "landing": "https://www.hotelsviva.com/de/adults-only-hotel-viva-golf/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/golf/ch/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/adults-only-hotel-viva-golf/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=lastminute-golf-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137164",
+            "137165",
+            "137166",
+            "137167",
+            "137168",
+            "137169"
+        ],
+        "name": "viva-de_v1mp_AO_dis_prs-1_LASTMINUTE-GOLF-24",
+        "landing": "https://www.hotelsviva.com/de/adults-only-hotel-viva-golf/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/golf/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/adults-only-hotel-viva-golf/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=lastminute-golf-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137170",
+            "137171",
+            "137172",
+            "137173",
+            "137174",
+            "137175"
+        ],
+        "name": "viva-de_v1mp_AO_dis_rtg-1_LASTMINUTE-GOLF-24",
+        "landing": "https://www.hotelsviva.com/de/adults-only-hotel-viva-golf/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/golf/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/adults-only-hotel-viva-golf/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=lastminute-golf-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137176",
+            "137177",
+            "137178",
+            "137179",
+            "137180",
+            "137181"
+        ],
+        "name": "viva-fr_v1mp_AO_dis_prs-1_LASTMINUTE-GOLF-24",
+        "landing": "https://www.hotelsviva.com/en/adults-only-hotel-viva-golf/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/golf/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/adults-only-hotel-viva-golf/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=lastminute-golf-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137182",
+            "137183",
+            "137184",
+            "137185",
+            "137186",
+            "137187"
+        ],
+        "name": "viva-fr_v1mp_AO_dis_rtg-1_LASTMINUTE-GOLF-24",
+        "landing": "https://www.hotelsviva.com/en/adults-only-hotel-viva-golf/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/golf/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/adults-only-hotel-viva-golf/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=lastminute-golf-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137188",
+            "137189",
+            "137190",
+            "137191",
+            "137192",
+            "137193"
+        ],
+        "name": "viva-row_v1mp_AO_dis_prs-1_LASTMINUTE-GOLF-24",
+        "landing": "https://www.hotelsviva.com/en/adults-only-hotel-viva-golf/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/golf/row/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/adults-only-hotel-viva-golf/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=lastminute-golf-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137194",
+            "137195",
+            "137196",
+            "137197",
+            "137198",
+            "137199"
+        ],
+        "name": "viva-row_v1mp_AO_dis_rtg-1_LASTMINUTE-GOLF-24",
+        "landing": "https://www.hotelsviva.com/en/adults-only-hotel-viva-golf/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/golf/row/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/adults-only-hotel-viva-golf/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=lastminute-golf-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137200",
+            "137201",
+            "137202",
+            "137203",
+            "137204",
+            "137205"
+        ],
+        "name": "viva-gb_v1mp_AO_dis_prs-1_LASTMINUTE-GOLF-24",
+        "landing": "https://www.hotelsviva.com/en/adults-only-hotel-viva-golf/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/golf/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/adults-only-hotel-viva-golf/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=lastminute-golf-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137206",
+            "137207",
+            "137208",
+            "137209",
+            "137210",
+            "137211"
+        ],
+        "name": "viva-gb_v1mp_AO_dis_rtg-1_LASTMINUTE-GOLF-24",
+        "landing": "https://www.hotelsviva.com/en/adults-only-hotel-viva-golf/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/golf/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/adults-only-hotel-viva-golf/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=lastminute-golf-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137212",
+            "137213",
+            "137214",
+            "137215",
+            "137216",
+            "137217"
+        ],
+        "name": "viva-es_v1mp_AO_dis_prs-1_LASTMINUTE-BLUE-24",
+        "landing": "https://www.hotelsviva.com/es/viva-blue/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/blue/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/es/viva-blue/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=lastminute-blue-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137218",
+            "137219",
+            "137220",
+            "137221",
+            "137222",
+            "137223"
+        ],
+        "name": "viva-es_v1mp_AO_dis_rtg-1_LASTMINUTE-BLUE-24",
+        "landing": "https://www.hotelsviva.com/es/viva-blue/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/blue/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/es/viva-blue/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=lastminute-blue-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137224",
+            "137225",
+            "137226",
+            "137227",
+            "137228",
+            "137229"
+        ],
+        "name": "viva-ch_v1mp_AO_dis_prs-1_LASTMINUTE-BLUE-24",
+        "landing": "https://www.hotelsviva.com/de/viva-blue/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/blue/ch/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/viva-blue/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=lastminute-blue-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137230",
+            "137231",
+            "137232",
+            "137233",
+            "137234",
+            "137235"
+        ],
+        "name": "viva-ch_v1mp_AO_dis_rtg-1_LASTMINUTE-BLUE-24",
+        "landing": "https://www.hotelsviva.com/de/viva-blue/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/blue/ch/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/viva-blue/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=lastminute-blue-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137236",
+            "137237",
+            "137238",
+            "137239",
+            "137240",
+            "137241"
+        ],
+        "name": "viva-de_v1mp_AO_dis_prs-1_LASTMINUTE-BLUE-24",
+        "landing": "https://www.hotelsviva.com/de/viva-blue/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/blue/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/viva-blue/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=lastminute-blue-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137242",
+            "137243",
+            "137244",
+            "137245",
+            "137246",
+            "137247"
+        ],
+        "name": "viva-de_v1mp_AO_dis_rtg-1_LASTMINUTE-BLUE-24",
+        "landing": "https://www.hotelsviva.com/de/viva-blue/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/blue/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/viva-blue/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=lastminute-blue-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137248",
+            "137249",
+            "137250",
+            "137251",
+            "137252",
+            "137253"
+        ],
+        "name": "viva-fr_v1mp_AO_dis_prs-1_LASTMINUTE-BLUE-24",
+        "landing": "https://www.hotelsviva.com/en/viva-blue/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/blue/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/viva-blue/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=fr&utm_content=lastminute-blue-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137254",
+            "137255",
+            "137256",
+            "137257",
+            "137258",
+            "137259"
+        ],
+        "name": "viva-fr_v1mp_AO_dis_rtg-1_LASTMINUTE-BLUE-24",
+        "landing": "https://www.hotelsviva.com/en/viva-blue/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/blue/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/viva-blue/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=lastminute-blue-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137260",
+            "137261",
+            "137262",
+            "137263",
+            "137264",
+            "137265"
+        ],
+        "name": "viva-row_v1mp_AO_dis_prs-1_LASTMINUTE-BLUE-24",
+        "landing": "https://www.hotelsviva.com/en/viva-blue/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/blue/row/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/viva-blue/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=lastminute-blue-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137266",
+            "137267",
+            "137268",
+            "137269",
+            "137270",
+            "137271"
+        ],
+        "name": "viva-row_v1mp_AO_dis_rtg-1_LASTMINUTE-BLUE-24",
+        "landing": "https://www.hotelsviva.com/en/viva-blue/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/blue/row/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/viva-blue/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=lastminute-blue-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137272",
+            "137273",
+            "137274",
+            "137275",
+            "137276",
+            "137277"
+        ],
+        "name": "viva-gb_v1mp_AO_dis_prs-1_LASTMINUTE-BLUE-24",
+        "landing": "https://www.hotelsviva.com/en/viva-blue/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/blue/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/viva-blue/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=lastminute-blue-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "137278",
+            "137279",
+            "137280",
+            "137281",
+            "137282",
+            "137283"
+        ],
+        "name": "viva-gb_v1mp_AO_dis_rtg-1_LASTMINUTE-BLUE-24",
+        "landing": "https://www.hotelsviva.com/en/viva-blue/",
+        "aws_path_1": "VIVA_HOTELS/2024/06/blue/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/viva-blue/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=lastminute-blue-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc="
+    }
+]

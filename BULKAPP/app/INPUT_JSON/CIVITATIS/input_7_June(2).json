@@ -1,0 +1,912 @@
+[
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "133466",
+            "133475",
+            "133484",
+            "133493",
+            "133502",
+            "133511"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_prs-1_ES_ES_AWARENESS_PROS_REACH_2024_VERANO_HOME_SICILIA",
+        "landing": "www.civitatis.com/es/",
+        "aws_path_1": "CIVITATIS/2024/06/home/sicilia/",
+        "aws_path_2": ".gif",
+        "url": "www.civitatis.com/es/?aid=108&cmp=es_ES&cmpint=adg_es_SICILIA_728x90&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awareness&utm_term=es_ES_Awareness_PROS_Reach_2024_Verano_Home_Sicilia&utm_content=SICILIA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_",
+        "impression_tag": "<script language='JavaScript1.1' src='https://ad.doubleclick.net/ddm/trackimpj/N760802.3195207ADGRAVITY1/B31381321.389122654;dc_trk_aid=580511199;dc_trk_cid=208672140;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></script>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "133467",
+            "133476",
+            "133485",
+            "133494",
+            "133503",
+            "133512"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_prs-1_ES_ES_AWARENESS_PROS_REACH_2024_VERANO_HOME_ROMA",
+        "landing": "www.civitatis.com/es/",
+        "aws_path_1": "CIVITATIS/2024/06/home/roma/",
+        "aws_path_2": ".gif",
+        "url": "www.civitatis.com/es/?aid=108&cmp=es_ES&cmpint=adg_es_ROMA_728x90&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awareness&utm_term=es_ES_Awareness_PROS_Reach_2024_Verano_Home_Roma&utm_content=ROMA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_",
+        "impression_tag": "<script language='JavaScript1.1' src='https://ad.doubleclick.net/ddm/trackimpj/N760802.3195207ADGRAVITY1/B31381321.389122654;dc_trk_aid=580511199;dc_trk_cid=208672140;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></script>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "133468",
+            "133477",
+            "133486",
+            "133495",
+            "133504",
+            "133513"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_prs-1_ES_ES_AWARENESS_PROS_REACH_2024_VERANO_HOME_NY",
+        "landing": "www.civitatis.com/es/",
+        "aws_path_1": "CIVITATIS/2024/06/home/ny/",
+        "aws_path_2": ".gif",
+        "url": "www.civitatis.com/es/?aid=108&cmp=es_ES&cmpint=adg_es_NYC_728x90&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awareness&utm_term=es_ES_Awareness_PROS_Reach_2024_Verano_Home_NY&utm_content=NYC",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_",
+        "impression_tag": "<script language='JavaScript1.1' src='https://ad.doubleclick.net/ddm/trackimpj/N760802.3195207ADGRAVITY1/B31381321.389122654;dc_trk_aid=580511199;dc_trk_cid=208672140;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></script>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "133469",
+            "133478",
+            "133487",
+            "133496",
+            "133505",
+            "133514"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_prs-1_ES_ES_AWARENESS_PROS_REACH_2024_VERANO_HOME_MEDELLIIN",
+        "landing": "www.civitatis.com/es/",
+        "aws_path_1": "CIVITATIS/2024/06/home/",
+        "aws_path_2": ".gif",
+        "url": "www.civitatis.com/es/?aid=108&cmp=es_ES&cmpint=adg_es_MEDELLIN_728x90&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awareness&utm_term=es_ES_Awareness_PROS_Reach_2024_Verano_Home_Medelliin&utm_content=MEDELLIN",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_",
+        "impression_tag": "<script language='JavaScript1.1' src='https://ad.doubleclick.net/ddm/trackimpj/N760802.3195207ADGRAVITY1/B31381321.389122654;dc_trk_aid=580511199;dc_trk_cid=208672140;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></script>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "133470",
+            "133479",
+            "133488",
+            "133497",
+            "133506",
+            "133515"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_prs-1_ES_ES_AWARENESS_PROS_REACH_2024_VERANO_HOME_LISBOA",
+        "landing": "www.civitatis.com/es/",
+        "aws_path_1": "CIVITATIS/2024/06/home/lisboa/",
+        "aws_path_2": ".gif",
+        "url": "www.civitatis.com/es/?aid=108&cmp=es_ES&cmpint=adg_es_LISBOA_728x90&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awareness&utm_term=es_ES_Awareness_PROS_Reach_2024_Verano_Home_Lisboa&utm_content=LISBOA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_",
+        "impression_tag": "<script language='JavaScript1.1' src='https://ad.doubleclick.net/ddm/trackimpj/N760802.3195207ADGRAVITY1/B31381321.389122654;dc_trk_aid=580511199;dc_trk_cid=208672140;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></script>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "133471",
+            "133480",
+            "133489",
+            "133498",
+            "133507",
+            "133516"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_prs-1_ES_ES_AWARENESS_PROS_REACH_2024_VERANO_HOME_FORMENTERA",
+        "landing": "www.civitatis.com/es/",
+        "aws_path_1": "CIVITATIS/2024/06/home/formentera/",
+        "aws_path_2": ".gif",
+        "url": "www.civitatis.com/es/?aid=108&cmp=es_ES&cmpint=adg_es_FORMENTERA_728x90&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awareness&utm_term=es_ES_Awareness_PROS_Reach_2024_Verano_Home_Formentera&utm_content=FORMENTERA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_",
+        "impression_tag": "<script language='JavaScript1.1' src='https://ad.doubleclick.net/ddm/trackimpj/N760802.3195207ADGRAVITY1/B31381321.389122654;dc_trk_aid=580511199;dc_trk_cid=208672140;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></script>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "133472",
+            "133481",
+            "133490",
+            "133499",
+            "133508",
+            "133517"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_prs-1_ES_ES_AWARENESS_PROS_REACH_2024_VERANO_HOME_FLORENCIA",
+        "landing": "www.civitatis.com/es/",
+        "aws_path_1": "CIVITATIS/2024/06/home/florencia/",
+        "aws_path_2": ".gif",
+        "url": "www.civitatis.com/es/?aid=108&cmp=es_ES&cmpint=adg_es_FLORENCIA_728x90&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awareness&utm_term=es_ES_Awareness_PROS_Reach_2024_Verano_Home_Florencia&utm_content=FLORENCIA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_",
+        "impression_tag": "<script language='JavaScript1.1' src='https://ad.doubleclick.net/ddm/trackimpj/N760802.3195207ADGRAVITY1/B31381321.389122654;dc_trk_aid=580511199;dc_trk_cid=208672140;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></script>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "133473",
+            "133482",
+            "133491",
+            "133500",
+            "133509",
+            "133518"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_prs-1_ES_ES_AWARENESS_PROS_REACH_2024_VERANO_HOME_CRACOVIA",
+        "landing": "www.civitatis.com/es/",
+        "aws_path_1": "CIVITATIS/2024/06/home/cracovia/",
+        "aws_path_2": ".gif",
+        "url": "www.civitatis.com/es/?aid=108&cmp=es_ES&cmpint=adg_es_CRACOVIA_728x90&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awareness&utm_term=es_ES_Awareness_PROS_Reach_2024_Verano_Home_Cracovia&utm_content=CRACOVIA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_",
+        "impression_tag": "<script language='JavaScript1.1' src='https://ad.doubleclick.net/ddm/trackimpj/N760802.3195207ADGRAVITY1/B31381321.389122654;dc_trk_aid=580511199;dc_trk_cid=208672140;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></script>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "133474",
+            "133483",
+            "133492",
+            "133501",
+            "133510",
+            "133519"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_prs-1_ES_ES_AWARENESS_PROS_REACH_2024_VERANO_HOME_CAIRO",
+        "landing": "www.civitatis.com/es/",
+        "aws_path_1": "CIVITATIS/2024/06/home/cairo/",
+        "aws_path_2": ".gif",
+        "url": "www.civitatis.com/es/?aid=108&cmp=es_ES&cmpint=adg_es_CAIRO_728x90&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awareness&utm_term=es_ES_Awareness_PROS_Reach_2024_Verano_Home_Cairo&utm_content=CAIRO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_",
+        "impression_tag": "<script language='JavaScript1.1' src='https://ad.doubleclick.net/ddm/trackimpj/N760802.3195207ADGRAVITY1/B31381321.389122654;dc_trk_aid=580511199;dc_trk_cid=208672140;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></script>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "133520",
+            "133546",
+            "133572",
+            "133598",
+            "133624",
+            "133650"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_prs-1_ES_ES_AWARENESS_PROS_REACH_2024_VERANO_DESTINO_VIENA",
+        "landing": "https://www.civitatis.com/es/viena/",
+        "aws_path_1": "CIVITATIS/2024/06/destino/viena/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/viena/?aid=108&cmp=es_ES&cmpint=adg_es_VIENA_728x90&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awareness&utm_term=es_ES_Awareness_PROS_Reach_2024_Verano_Destino_Viena&utm_content=VIENA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_",
+        "impression_tag": "<script language='JavaScript1.1' src='https://ad.doubleclick.net/ddm/trackimpj/N760802.3195207ADGRAVITY1/B31381321.389122654;dc_trk_aid=580511199;dc_trk_cid=208672140;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></script>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "133521",
+            "133547",
+            "133573",
+            "133599",
+            "133625",
+            "133651"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_prs-1_ES_ES_AWARENESS_PROS_REACH_2024_VERANO_DESTINO_SICILIA",
+        "landing": "https://www.civitatis.com/es/sicilia/",
+        "aws_path_1": "CIVITATIS/2024/06/destino/sicilia/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/sicilia/?aid=108&cmp=es_ES&cmpint=adg_es_SICILIA_728x90&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awareness&utm_term=es_ES_Awareness_PROS_Reach_2024_Verano_Destino_Sicilia&utm_content=SICILIA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_",
+        "impression_tag": "<script language='JavaScript1.1' src='https://ad.doubleclick.net/ddm/trackimpj/N760802.3195207ADGRAVITY1/B31381321.389122654;dc_trk_aid=580511199;dc_trk_cid=208672140;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></script>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "133522",
+            "133548",
+            "133574",
+            "133600",
+            "133626",
+            "133652"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_prs-1_ES_ES_AWARENESS_PROS_REACH_2024_VERANO_DESTINO_ROMA",
+        "landing": "https://www.civitatis.com/es/roma/",
+        "aws_path_1": "CIVITATIS/2024/06/destino/roma/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/roma/?aid=108&cmp=es_ES&cmpint=adg_es_ROMA_728x90&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awareness&utm_term=es_ES_Awareness_PROS_Reach_2024_Verano_Destino_Roma&utm_content=ROMA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_",
+        "impression_tag": "<script language='JavaScript1.1' src='https://ad.doubleclick.net/ddm/trackimpj/N760802.3195207ADGRAVITY1/B31381321.389122654;dc_trk_aid=580511199;dc_trk_cid=208672140;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></script>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "133523",
+            "133549",
+            "133575",
+            "133601",
+            "133627",
+            "133653"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_prs-1_ES_ES_AWARENESS_PROS_REACH_2024_VERANO_DESTINO_PRAGA",
+        "landing": "https://www.civitatis.com/es/praga/",
+        "aws_path_1": "CIVITATIS/2024/06/destino/praga/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/praga/?aid=108&cmp=es_ES&cmpint=adg_es_PRAGA_728x90&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awareness&utm_term=es_ES_Awareness_PROS_Reach_2024_Verano_Destino_Praga&utm_content=PRAGA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_",
+        "impression_tag": "<script language='JavaScript1.1' src='https://ad.doubleclick.net/ddm/trackimpj/N760802.3195207ADGRAVITY1/B31381321.389122654;dc_trk_aid=580511199;dc_trk_cid=208672140;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></script>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "133524",
+            "133550",
+            "133576",
+            "133602",
+            "133628",
+            "133654"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_prs-1_ES_ES_AWARENESS_PROS_REACH_2024_VERANO_DESTINO_PLAYADELCARMEN",
+        "landing": "https://www.civitatis.com/es/playa-del-carmen/",
+        "aws_path_1": "CIVITATIS/2024/06/destino/playadelcarmen/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/playa-del-carmen/?aid=108&cmp=es_ES&cmpint=adg_es_PLAYADELCARMEN_728x90&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awareness&utm_term=es_ES_Awareness_PROS_Reach_2024_Verano_Destino_PlayadelCarmen&utm_content=PLAYADELCARMEN",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_",
+        "impression_tag": "<script language='JavaScript1.1' src='https://ad.doubleclick.net/ddm/trackimpj/N760802.3195207ADGRAVITY1/B31381321.389122654;dc_trk_aid=580511199;dc_trk_cid=208672140;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></script>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "133525",
+            "133551",
+            "133577",
+            "133603",
+            "133629",
+            "133655"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_prs-1_ES_ES_AWARENESS_PROS_REACH_2024_VERANO_DESTINO_OPORTO",
+        "landing": "https://www.civitatis.com/es/oporto/",
+        "aws_path_1": "CIVITATIS/2024/06/destino/oporto/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/oporto/?aid=108&cmp=es_ES&cmpint=adg_es_OPORTO_728x90&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awareness&utm_term=es_ES_Awareness_PROS_Reach_2024_Verano_Destino_Oporto&utm_content=OPORTO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_",
+        "impression_tag": "<script language='JavaScript1.1' src='https://ad.doubleclick.net/ddm/trackimpj/N760802.3195207ADGRAVITY1/B31381321.389122654;dc_trk_aid=580511199;dc_trk_cid=208672140;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></script>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "133526",
+            "133552",
+            "133578",
+            "133604",
+            "133630",
+            "133656"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_prs-1_ES_ES_AWARENESS_PROS_REACH_2024_VERANO_DESTINO_MEDELLIIN",
+        "landing": "https://www.civitatis.com/es/medellin/",
+        "aws_path_1": "CIVITATIS/2024/06/destino/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/medellin/?aid=108&cmp=es_ES&cmpint=adg_es_MEDELLIN_728x90&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awareness&utm_term=es_ES_Awareness_PROS_Reach_2024_Verano_Destino_Medelliin&utm_content=MEDELLIN",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_",
+        "impression_tag": "<script language='JavaScript1.1' src='https://ad.doubleclick.net/ddm/trackimpj/N760802.3195207ADGRAVITY1/B31381321.389122654;dc_trk_aid=580511199;dc_trk_cid=208672140;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></script>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "133527",
+            "133553",
+            "133579",
+            "133605",
+            "133631",
+            "133657"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_prs-1_ES_ES_AWARENESS_PROS_REACH_2024_VERANO_DESTINO_MARRAKECH",
+        "landing": "https://www.civitatis.com/es/marrakech/",
+        "aws_path_1": "CIVITATIS/2024/06/destino/marrakech/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/marrakech/?aid=108&cmp=es_ES&cmpint=adg_es_MARRAKECH_728x90&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awareness&utm_term=es_ES_Awareness_PROS_Reach_2024_Verano_Destino_Marrakech&utm_content=MARRAKECH",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_",
+        "impression_tag": "<script language='JavaScript1.1' src='https://ad.doubleclick.net/ddm/trackimpj/N760802.3195207ADGRAVITY1/B31381321.389122654;dc_trk_aid=580511199;dc_trk_cid=208672140;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></script>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "133528",
+            "133554",
+            "133580",
+            "133606",
+            "133632",
+            "133658"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_prs-1_ES_ES_AWARENESS_PROS_REACH_2024_VERANO_DESTINO_MADRID",
+        "landing": "https://www.civitatis.com/es/madrid/",
+        "aws_path_1": "CIVITATIS/2024/06/destino/madrid/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/madrid/?aid=108&cmp=es_ES&cmpint=adg_es_MADRID_728x90&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awareness&utm_term=es_ES_Awareness_PROS_Reach_2024_Verano_Destino_Madrid&utm_content=MADRID",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_",
+        "impression_tag": "<script language='JavaScript1.1' src='https://ad.doubleclick.net/ddm/trackimpj/N760802.3195207ADGRAVITY1/B31381321.389122654;dc_trk_aid=580511199;dc_trk_cid=208672140;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></script>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "133529",
+            "133555",
+            "133581",
+            "133607",
+            "133633",
+            "133659"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_prs-1_ES_ES_AWARENESS_PROS_REACH_2024_VERANO_DESTINO_MADEIRA",
+        "landing": "https://www.civitatis.com/es/isla-de-madeira/",
+        "aws_path_1": "CIVITATIS/2024/06/destino/madeira/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/isla-de-madeira/?aid=108&cmp=es_ES&cmpint=adg_es_MADEIRA_728x90&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awareness&utm_term=es_ES_Awareness_PROS_Reach_2024_Verano_Destino_Madeira&utm_content=MADEIRA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_",
+        "impression_tag": "<script language='JavaScript1.1' src='https://ad.doubleclick.net/ddm/trackimpj/N760802.3195207ADGRAVITY1/B31381321.389122654;dc_trk_aid=580511199;dc_trk_cid=208672140;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></script>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "133530",
+            "133556",
+            "133582",
+            "133608",
+            "133634",
+            "133660"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_prs-1_ES_ES_AWARENESS_PROS_REACH_2024_VERANO_DESTINO_LONDRES",
+        "landing": "https://www.civitatis.com/es/londres/",
+        "aws_path_1": "CIVITATIS/2024/06/destino/londres/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/londres/?aid=108&cmp=es_ES&cmpint=adg_es_LONDRES_728x90&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awareness&utm_term=es_ES_Awareness_PROS_Reach_2024_Verano_Destino_Londres&utm_content=LONDRES",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_",
+        "impression_tag": "<script language='JavaScript1.1' src='https://ad.doubleclick.net/ddm/trackimpj/N760802.3195207ADGRAVITY1/B31381321.389122654;dc_trk_aid=580511199;dc_trk_cid=208672140;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></script>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "133531",
+            "133557",
+            "133583",
+            "133609",
+            "133635",
+            "133661"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_prs-1_ES_ES_AWARENESS_PROS_REACH_2024_VERANO_DESTINO_LISBOA",
+        "landing": "https://www.civitatis.com/es/lisboa/",
+        "aws_path_1": "CIVITATIS/2024/06/destino/lisboa/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/lisboa/?aid=108&cmp=es_ES&cmpint=adg_es_LISBOA_728x90&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awareness&utm_term=es_ES_Awareness_PROS_Reach_2024_Verano_Destino_Lisboa&utm_content=LISBOA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_",
+        "impression_tag": "<script language='JavaScript1.1' src='https://ad.doubleclick.net/ddm/trackimpj/N760802.3195207ADGRAVITY1/B31381321.389122654;dc_trk_aid=580511199;dc_trk_cid=208672140;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></script>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "133532",
+            "133558",
+            "133584",
+            "133610",
+            "133636",
+            "133662"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_prs-1_ES_ES_AWARENESS_PROS_REACH_2024_VERANO_DESTINO_LAHABANA",
+        "landing": "https://www.civitatis.com/es/la-habana/",
+        "aws_path_1": "CIVITATIS/2024/06/destino/lahabana/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/la-habana/?aid=108&cmp=es_ES&cmpint=adg_es_LAHABANA_728x90&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awareness&utm_term=es_ES_Awareness_PROS_Reach_2024_Verano_Destino_LaHabana&utm_content=LAHABANA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_",
+        "impression_tag": "<script language='JavaScript1.1' src='https://ad.doubleclick.net/ddm/trackimpj/N760802.3195207ADGRAVITY1/B31381321.389122654;dc_trk_aid=580511199;dc_trk_cid=208672140;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></script>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "133533",
+            "133559",
+            "133585",
+            "133611",
+            "133637",
+            "133663"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_prs-1_ES_ES_AWARENESS_PROS_REACH_2024_VERANO_DESTINO_IBIZA",
+        "landing": "https://www.civitatis.com/es/ibiza/",
+        "aws_path_1": "CIVITATIS/2024/06/destino/ibiza/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/ibiza/?aid=108&cmp=es_ES&cmpint=adg_es_IBIZA_728x90&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awareness&utm_term=es_ES_Awareness_PROS_Reach_2024_Verano_Destino_Ibiza&utm_content=IBIZA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_",
+        "impression_tag": "<script language='JavaScript1.1' src='https://ad.doubleclick.net/ddm/trackimpj/N760802.3195207ADGRAVITY1/B31381321.389122654;dc_trk_aid=580511199;dc_trk_cid=208672140;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></script>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "133534",
+            "133560",
+            "133586",
+            "133612",
+            "133638",
+            "133664"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_prs-1_ES_ES_AWARENESS_PROS_REACH_2024_VERANO_DESTINO_FORMENTERA",
+        "landing": "https://www.civitatis.com/es/formentera/",
+        "aws_path_1": "CIVITATIS/2024/06/destino/formentera/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/formentera/?aid=108&cmp=es_ES&cmpint=adg_es_FORMENTERA_728x90&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awareness&utm_term=es_ES_Awareness_PROS_Reach_2024_Verano_Destino_Formentera&utm_content=FORMENTERA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_",
+        "impression_tag": "<script language='JavaScript1.1' src='https://ad.doubleclick.net/ddm/trackimpj/N760802.3195207ADGRAVITY1/B31381321.389122654;dc_trk_aid=580511199;dc_trk_cid=208672140;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></script>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "133535",
+            "133561",
+            "133587",
+            "133613",
+            "133639",
+            "133665"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_prs-1_ES_ES_AWARENESS_PROS_REACH_2024_VERANO_DESTINO_FLORENCIA",
+        "landing": "https://www.civitatis.com/es/florencia/",
+        "aws_path_1": "CIVITATIS/2024/06/destino/florencia/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/florencia/?aid=108&cmp=es_ES&cmpint=adg_es_FLORENCIA_728x90&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awareness&utm_term=es_ES_Awareness_PROS_Reach_2024_Verano_Destino_Florencia&utm_content=FLORENCIA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_",
+        "impression_tag": "<script language='JavaScript1.1' src='https://ad.doubleclick.net/ddm/trackimpj/N760802.3195207ADGRAVITY1/B31381321.389122654;dc_trk_aid=580511199;dc_trk_cid=208672140;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></script>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "133536",
+            "133562",
+            "133588",
+            "133614",
+            "133640",
+            "133666"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_prs-1_ES_ES_AWARENESS_PROS_REACH_2024_VERANO_DESTINO_ELCAIRO",
+        "landing": "https://www.civitatis.com/es/el-cairo/",
+        "aws_path_1": "CIVITATIS/2024/06/destino/elcairo/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/el-cairo/?aid=108&cmp=es_ES&cmpint=adg_es_ELCAIRO_728x90&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awareness&utm_term=es_ES_Awareness_PROS_Reach_2024_Verano_Destino_ElCairo&utm_content=ELCAIRO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_",
+        "impression_tag": "<script language='JavaScript1.1' src='https://ad.doubleclick.net/ddm/trackimpj/N760802.3195207ADGRAVITY1/B31381321.389122654;dc_trk_aid=580511199;dc_trk_cid=208672140;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></script>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "133537",
+            "133563",
+            "133589",
+            "133615",
+            "133641",
+            "133667"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_prs-1_ES_ES_AWARENESS_PROS_REACH_2024_VERANO_DESTINO_EDIMBURGO",
+        "landing": "https://www.civitatis.com/es/edimburgo/",
+        "aws_path_1": "CIVITATIS/2024/06/destino/edimburgo/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/edimburgo/?aid=108&cmp=es_ES&cmpint=adg_es_EDIMBURGO_728x90&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awareness&utm_term=es_ES_Awareness_PROS_Reach_2024_Verano_Destino_Edimburgo&utm_content=EDIMBURGO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_",
+        "impression_tag": "<script language='JavaScript1.1' src='https://ad.doubleclick.net/ddm/trackimpj/N760802.3195207ADGRAVITY1/B31381321.389122654;dc_trk_aid=580511199;dc_trk_cid=208672140;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></script>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "133538",
+            "133564",
+            "133590",
+            "133616",
+            "133642",
+            "133668"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_prs-1_ES_ES_AWARENESS_PROS_REACH_2024_VERANO_DESTINO_CRACOVIA",
+        "landing": "https://www.civitatis.com/es/cracovia/",
+        "aws_path_1": "CIVITATIS/2024/06/destino/cracovia/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/cracovia/?aid=108&cmp=es_ES&cmpint=adg_es_CRACOVIA_728x90&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awareness&utm_term=es_ES_Awareness_PROS_Reach_2024_Verano_Destino_Cracovia&utm_content=CRACOVIA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_",
+        "impression_tag": "<script language='JavaScript1.1' src='https://ad.doubleclick.net/ddm/trackimpj/N760802.3195207ADGRAVITY1/B31381321.389122654;dc_trk_aid=580511199;dc_trk_cid=208672140;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></script>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "133539",
+            "133565",
+            "133591",
+            "133617",
+            "133643",
+            "133669"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_prs-1_ES_ES_AWARENESS_PROS_REACH_2024_VERANO_DESTINO_CIUDADDEMEXICO",
+        "landing": "https://www.civitatis.com/es/ciudad-de-mexico/",
+        "aws_path_1": "CIVITATIS/2024/06/destino/ciudaddemexico/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/ciudad-de-mexico/?aid=108&cmp=es_ES&cmpint=adg_es_CIUDADDEMEXICO_728x90&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awareness&utm_term=es_ES_Awareness_PROS_Reach_2024_Verano_Destino_CiudaddeMexico&utm_content=CIUDADDEMEXICO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_",
+        "impression_tag": "<script language='JavaScript1.1' src='https://ad.doubleclick.net/ddm/trackimpj/N760802.3195207ADGRAVITY1/B31381321.389122654;dc_trk_aid=580511199;dc_trk_cid=208672140;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></script>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "133540",
+            "133566",
+            "133592",
+            "133618",
+            "133644",
+            "133670"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_prs-1_ES_ES_AWARENESS_PROS_REACH_2024_VERANO_DESTINO_CANCUN",
+        "landing": "https://www.civitatis.com/es/cancun/",
+        "aws_path_1": "CIVITATIS/2024/06/destino/cancun/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/cancun/?aid=108&cmp=es_ES&cmpint=adg_es_CANCUN_728x90&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awareness&utm_term=es_ES_Awareness_PROS_Reach_2024_Verano_Destino_Cancun&utm_content=CANCUN",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_",
+        "impression_tag": "<script language='JavaScript1.1' src='https://ad.doubleclick.net/ddm/trackimpj/N760802.3195207ADGRAVITY1/B31381321.389122654;dc_trk_aid=580511199;dc_trk_cid=208672140;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></script>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "133541",
+            "133567",
+            "133593",
+            "133619",
+            "133645",
+            "133671"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_prs-1_ES_ES_AWARENESS_PROS_REACH_2024_VERANO_DESTINO_BUENOSAIRES",
+        "landing": "https://www.civitatis.com/es/buenos-aires/",
+        "aws_path_1": "CIVITATIS/2024/06/destino/buenosaires/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/buenos-aires/?aid=108&cmp=es_ES&cmpint=adg_es_BUENOSAIRES_728x90&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awareness&utm_term=es_ES_Awareness_PROS_Reach_2024_Verano_Destino_BuenosAires&utm_content=BUENOSAIRES",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_",
+        "impression_tag": "<script language='JavaScript1.1' src='https://ad.doubleclick.net/ddm/trackimpj/N760802.3195207ADGRAVITY1/B31381321.389122654;dc_trk_aid=580511199;dc_trk_cid=208672140;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></script>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "133542",
+            "133568",
+            "133594",
+            "133620",
+            "133646",
+            "133672"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_prs-1_ES_ES_AWARENESS_PROS_REACH_2024_VERANO_DESTINO_BARCELONA",
+        "landing": "https://www.civitatis.com/es/barcelona/",
+        "aws_path_1": "CIVITATIS/2024/06/destino/barcelona/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/barcelona/?aid=108&cmp=es_ES&cmpint=adg_es_BARCELONA_728x90&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awareness&utm_term=es_ES_Awareness_PROS_Reach_2024_Verano_Destino_Barcelona&utm_content=BARCELONA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_",
+        "impression_tag": "<script language='JavaScript1.1' src='https://ad.doubleclick.net/ddm/trackimpj/N760802.3195207ADGRAVITY1/B31381321.389122654;dc_trk_aid=580511199;dc_trk_cid=208672140;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></script>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "133543",
+            "133569",
+            "133595",
+            "133621",
+            "133647",
+            "133673"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_prs-1_ES_ES_AWARENESS_PROS_REACH_2024_VERANO_DESTINO_BALI",
+        "landing": "https://www.civitatis.com/es/bali/",
+        "aws_path_1": "CIVITATIS/2024/06/destino/bali/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/bali/?aid=108&cmp=es_ES&cmpint=adg_es_BALI_728x90&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awareness&utm_term=es_ES_Awareness_PROS_Reach_2024_Verano_Destino_Bali&utm_content=BALI",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_",
+        "impression_tag": "<script language='JavaScript1.1' src='https://ad.doubleclick.net/ddm/trackimpj/N760802.3195207ADGRAVITY1/B31381321.389122654;dc_trk_aid=580511199;dc_trk_cid=208672140;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></script>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "133544",
+            "133570",
+            "133596",
+            "133622",
+            "133648",
+            "133674"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_prs-1_ES_ES_AWARENESS_PROS_REACH_2024_VERANO_DESTINO_AMSTERDAM",
+        "landing": "https://www.civitatis.com/es/amsterdam/",
+        "aws_path_1": "CIVITATIS/2024/06/destino/amsterdam/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/amsterdam/?aid=108&cmp=es_ES&cmpint=adg_es_AMSTERDAM_728x90&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awareness&utm_term=es_ES_Awareness_PROS_Reach_2024_Verano_Destino_Amsterdam&utm_content=AMSTERDAM",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_",
+        "impression_tag": "<script language='JavaScript1.1' src='https://ad.doubleclick.net/ddm/trackimpj/N760802.3195207ADGRAVITY1/B31381321.389122654;dc_trk_aid=580511199;dc_trk_cid=208672140;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></script>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60",
+            "300x600",
+            "300x250",
+            "160x600",
+            "120x600"
+        ],
+        "tcs": [
+            "133545",
+            "133571",
+            "133597",
+            "133623",
+            "133649",
+            "133675"
+        ],
+        "name": "civitatis-es_adg_SEASONALITY_dis_prs-1_ES_ES_AWARENESS_PROS_REACH_2024_VERANO_DESTINO_ALBANIA",
+        "landing": "https://www.civitatis.com/es/albania/",
+        "aws_path_1": "CIVITATIS/2024/06/destino/albania/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/albania/?aid=108&cmp=es_ES&cmpint=adg_es_ALBANIA_728x90&utm_source=adg&utm_medium=dis-prs-1&utm_campaign=awareness&utm_term=es_ES_Awareness_PROS_Reach_2024_Verano_Destino_Albania&utm_content=ALBANIA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_civitatis-es_np_",
+        "impression_tag": "<script language='JavaScript1.1' src='https://ad.doubleclick.net/ddm/trackimpj/N760802.3195207ADGRAVITY1/B31381321.389122654;dc_trk_aid=580511199;dc_trk_cid=208672140;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></script>"
+    }
+]

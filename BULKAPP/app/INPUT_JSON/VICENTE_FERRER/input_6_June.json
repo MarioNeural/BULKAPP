@@ -1,0 +1,202 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "tcs": [
+            "133389",
+            "133390",
+            "133391",
+            "133392",
+            "133393",
+            "133394"
+        ],
+        "name": "v-f-es_v1mp_GENERICA-SOCIO_dis_prs-1_V1-JUN24",
+        "landing": "https://www.fundacionvicenteferrer.org/es/donar",
+        "aws_path_1": "VICENTE_FERRER/2024/06/generica/socio/v1/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.fundacionvicenteferrer.org/es/donar?c=U00912900C09&o=DS&f=DS&utm_source=display&utm_medium=cpm&utm_campaign=generica-socio&utm_content=v1-jun24160x600",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_vicente-ferrer-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "tcs": [
+            "133395",
+            "133396",
+            "133397",
+            "133398",
+            "133399",
+            "133400"
+        ],
+        "name": "v-f-es_v1mp_GENERICA-SOCIO_dis_rtg-1_V1-JUN24",
+        "landing": "https://www.fundacionvicenteferrer.org/es/donar",
+        "aws_path_1": "VICENTE_FERRER/2024/06/generica/socio/v1/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.fundacionvicenteferrer.org/es/donar?c=U00912900C09&o=DS&f=DS&utm_source=display&utm_medium=cpm&utm_campaign=generica-socio&utm_content=v1-jun24160x600",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_vicente-ferrer-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "tcs": [
+            "133401",
+            "133402",
+            "133403",
+            "133404",
+            "133405",
+            "133406"
+        ],
+        "name": "v-f-es_v1mp_GENERICA-SOCIO_dis_prs-1_V2-JUN24",
+        "landing": "https://www.fundacionvicenteferrer.org/es/donar",
+        "aws_path_1": "VICENTE_FERRER/2024/06/generica/socio/v2/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.fundacionvicenteferrer.org/es/donar?c=U00912900C09&o=DS&f=DS&utm_source=display&utm_medium=cpm&utm_campaign=generica-socio&utm_content=v2-jun24160x600",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_vicente-ferrer-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "tcs": [
+            "133407",
+            "133408",
+            "133409",
+            "133410",
+            "133411",
+            "133412"
+        ],
+        "name": "v-f-es_v1mp_GENERICA-SOCIO_dis_rtg-1_V2-JUN24",
+        "landing": "https://www.fundacionvicenteferrer.org/es/donar",
+        "aws_path_1": "VICENTE_FERRER/2024/06/generica/socio/v2/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.fundacionvicenteferrer.org/es/donar?c=U00912900C09&o=DS&f=DS&utm_source=display&utm_medium=cpm&utm_campaign=generica-socio&utm_content=v2-jun24160x600",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_vicente-ferrer-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "tcs": [
+            "133413",
+            "133414",
+            "133415",
+            "133416",
+            "133417",
+            "133418"
+        ],
+        "name": "v-f-es_v1mp_GENERICA-DONA_dis_prs-1_V1-JUN24",
+        "landing": "https://www.fundacionvicenteferrer.org/es/donar",
+        "aws_path_1": "VICENTE_FERRER/2024/06/generica/dona/v1/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.fundacionvicenteferrer.org/es/donar?c=U00912900C10&o=DS&f=DS&utm_source=display&utm_medium=cpm&utm_campaign=generica-dona&utm_content=v1-jun24160x600",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_vicente-ferrer-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "tcs": [
+            "133419",
+            "133420",
+            "133421",
+            "133422",
+            "133423",
+            "133424"
+        ],
+        "name": "v-f-es_v1mp_GENERICA-DONA_dis_rtg-1_V1-JUN24",
+        "landing": "https://www.fundacionvicenteferrer.org/es/donar",
+        "aws_path_1": "VICENTE_FERRER/2024/06/generica/dona/v1/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.fundacionvicenteferrer.org/es/donar?c=U00912900C10&o=DS&f=DS&utm_source=display&utm_medium=cpm&utm_campaign=generica-dona&utm_content=v1-jun24160x600",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_vicente-ferrer-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "tcs": [
+            "133425",
+            "133426",
+            "133427",
+            "133428",
+            "133429",
+            "133430"
+        ],
+        "name": "v-f-es_v1mp_GENERICA-DONA_dis_prs-1_V2-JUN24",
+        "landing": "https://www.fundacionvicenteferrer.org/es/donar",
+        "aws_path_1": "VICENTE_FERRER/2024/06/generica/dona/v2/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.fundacionvicenteferrer.org/es/donar?c=U00912900C10&o=DS&f=DS&utm_source=display&utm_medium=cpm&utm_campaign=generica-dona&utm_content=v2-jun24160x600",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_vicente-ferrer-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "tcs": [
+            "133431",
+            "133432",
+            "133433",
+            "133434",
+            "133435",
+            "133436"
+        ],
+        "name": "v-f-es_v1mp_GENERICA-DONA_dis_rtg-1_V2-JUN24",
+        "landing": "https://www.fundacionvicenteferrer.org/es/donar",
+        "aws_path_1": "VICENTE_FERRER/2024/06/generica/dona/v2/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.fundacionvicenteferrer.org/es/donar?c=U00912900C10&o=DS&f=DS&utm_source=display&utm_medium=cpm&utm_campaign=generica-dona&utm_content=v2-jun24160x600",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_vicente-ferrer-es_np_"
+    }
+]

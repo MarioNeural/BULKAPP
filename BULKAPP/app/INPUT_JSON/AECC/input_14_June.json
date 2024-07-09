@@ -1,0 +1,24 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["134567", "134569"],
+        "name": "aecc-es_v1mp_AO-DONACION_dis-prem_prs-1_PRICE-SELECTOR",
+        "landing": "https://colabora.contraelcancer.es/dona",
+        "aws_path_1": "AECC/2024/06/nuevas_creas/selector1/",
+        "aws_path_2": "/index.html",
+        "link": "https://colabora.contraelcancer.es/dona?utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=ao-donacion",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_aecc-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["134573", "134575"],
+        "name": "aecc-es_v1mp_AO-SOCIOS_dis-prem_prs-1_PRICE-SELECTOR",
+        "landing": "https://colabora.contraelcancer.es/socios",
+        "aws_path_1": "AECC/2024/06/nuevas_creas/selector2/",
+        "aws_path_2": "/index.html",
+        "link": "https://colabora.contraelcancer.es/socios?utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=ao-socios",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_aecc-es_np_"
+    }
+]

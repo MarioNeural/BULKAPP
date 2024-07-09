@@ -1,0 +1,270 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "970x250"
+        ],
+        "tcs": [
+            "136429",
+            "136434"
+        ],
+        "name": "savoy-gb_v1mp_AO_dis-p20_prs-1_PREROLL-JUN24",
+        "landing": "https://www.savoysignature.com/en/",
+        "aws_path_1": "SAVOY_SIGNATURE/2024/06/preroll/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.savoysignature.com/en/?utm_source=v1mp&utm_medium=dis-p20-prs-1&utm_campaign=ao&utm_content=GB",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Savoy%20Signature.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "970x250"
+        ],
+        "tcs": [
+            "136439",
+            "136444"
+        ],
+        "name": "savoy-pt_v1mp_AO_dis-p20_prs-1_PREROLL-JUN24",
+        "landing": "https://www.savoysignature.com/pt/",
+        "aws_path_1": "SAVOY_SIGNATURE/2024/06/preroll/pt/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.savoysignature.com/pt/?utm_source=v1mp&utm_medium=dis-p20-prs-1&utm_campaign=ao&utm_content=PT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Savoy%20Signature.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "970x250"
+        ],
+        "tcs": [
+            "136449",
+            "136454"
+        ],
+        "name": "savoy-de_v1mp_AO_dis-p20_prs-1_PREROLL-JUN24",
+        "landing": "https://www.savoysignature.com/en/",
+        "aws_path_1": "SAVOY_SIGNATURE/2024/06/preroll/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.savoysignature.com/en/?utm_source=v1mp&utm_medium=dis-p20-prs-1&utm_campaign=ao&utm_content=DE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Savoy%20Signature.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "970x250"
+        ],
+        "tcs": [
+            "136459",
+            "136464"
+        ],
+        "name": "savoy-fr_v1mp_AO_dis-p20_prs-1_PREROLL-JUN24",
+        "landing": "https://www.savoysignature.com/en/",
+        "aws_path_1": "SAVOY_SIGNATURE/2024/06/preroll/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.savoysignature.com/en/?utm_source=v1mp&utm_medium=dis-p20-prs-1&utm_campaign=ao&utm_content=FR",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Savoy%20Signature.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "tcs": [
+            "136469",
+            "136470",
+            "136471",
+            "136472",
+            "136473",
+            "136474"
+        ],
+        "name": "savoy-gb_v1mp_AO_dis_prs-1_JUN24",
+        "landing": "https://www.savoysignature.com/en/",
+        "aws_path_1": "SAVOY_SIGNATURE/2024/06/display/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.savoysignature.com/en/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=GB",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Savoy%20Signature.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "tcs": [
+            "136475",
+            "136476",
+            "136477",
+            "136478",
+            "136479",
+            "136480"
+        ],
+        "name": "savoy-gb_v1mp_AO_dis_rtg-1_JUN24",
+        "landing": "https://www.savoysignature.com/en/",
+        "aws_path_1": "SAVOY_SIGNATURE/2024/06/display/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.savoysignature.com/en/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=GB",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Savoy%20Signature.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "tcs": [
+            "136481",
+            "136482",
+            "136483",
+            "136484",
+            "136485",
+            "136486"
+        ],
+        "name": "savoy-pt_v1mp_AO_dis_prs-1_JUN24",
+        "landing": "https://www.savoysignature.com/pt/",
+        "aws_path_1": "SAVOY_SIGNATURE/2024/06/display/pt/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.savoysignature.com/pt/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=PT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Savoy%20Signature.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "tcs": [
+            "136487",
+            "136488",
+            "136489",
+            "136490",
+            "136491",
+            "136492"
+        ],
+        "name": "savoy-pt_v1mp_AO_dis_rtg-1_JUN24",
+        "landing": "https://www.savoysignature.com/pt/",
+        "aws_path_1": "SAVOY_SIGNATURE/2024/06/display/pt/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.savoysignature.com/pt/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=PT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Savoy%20Signature.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "tcs": [
+            "136493",
+            "136494",
+            "136495",
+            "136496",
+            "136497",
+            "136498"
+        ],
+        "name": "savoy-de_v1mp_AO_dis_prs-1_JUN24",
+        "landing": "https://www.savoysignature.com/en/",
+        "aws_path_1": "SAVOY_SIGNATURE/2024/06/display/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.savoysignature.com/en/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=DE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Savoy%20Signature.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "tcs": [
+            "136499",
+            "136500",
+            "136501",
+            "136502",
+            "136503",
+            "136504"
+        ],
+        "name": "savoy-de_v1mp_AO_dis_rtg-1_JUN24",
+        "landing": "https://www.savoysignature.com/en/",
+        "aws_path_1": "SAVOY_SIGNATURE/2024/06/display/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.savoysignature.com/en/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=DE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Savoy%20Signature.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "tcs": [
+            "136505",
+            "136506",
+            "136507",
+            "136508",
+            "136509",
+            "136510"
+        ],
+        "name": "savoy-fr_v1mp_AO_dis_prs-1_JUN24",
+        "landing": "https://www.savoysignature.com/en/",
+        "aws_path_1": "SAVOY_SIGNATURE/2024/06/display/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.savoysignature.com/en/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=FR",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Savoy%20Signature.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "tcs": [
+            "136511",
+            "136512",
+            "136513",
+            "136514",
+            "136515",
+            "136516"
+        ],
+        "name": "savoy-fr_v1mp_AO_dis_rtg-1_JUN24",
+        "landing": "https://www.savoysignature.com/en/",
+        "aws_path_1": "SAVOY_SIGNATURE/2024/06/display/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.savoysignature.com/en/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=FR",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Savoy%20Signature.js?tc="
+    }
+]

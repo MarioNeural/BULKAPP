@@ -1,0 +1,13 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["728x90", "300x600", "970x250", "300x250", "160x600", "320x100"],
+        "tcs": ["130468", "130469", "130470", "130471", "130472", "130473"],
+        "name": "ocean-us_v1mp_AO_dis_prs-1_MEXICO_ADULTOS",
+        "landing": "https://www.oceanhotels.com/en",
+        "aws_path_1": "OCEAN_HOTELS/2024/04/display/mexico/adultos/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.oceanhotels.com/en?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_h10-hotels-es_np_"
+    }
+]
