@@ -1,0 +1,15 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "970x250"],
+        "tcs": ["139505", "139506", "139507", "139508", "139509"],
+        "name": "mibodega-cl_v1mp_AO_dis_prs-1_BBDD-TRAPENSES",
+        "landing": "https://www.mibodega.cl/",
+        "aws_path_1": "MI_BODEGA/2024/07/trapenses/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.mibodega.cl/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=mibodega&utm_term=BBDD-TRAPENSES",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Mega%20Centro.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

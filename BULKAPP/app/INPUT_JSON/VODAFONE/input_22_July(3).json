@@ -1,0 +1,106 @@
+[
+    {
+        "type": "link",
+        "sizes": [
+            "120x600"
+        ],
+        "tcs": [],
+        "name": "vodafone-es_imp_SUMMER24_dis_prs-1_SUMMER24",
+        "landing": "https://track.adform.net/C/?bn=75084613;gdpr=%%gdpr%%;gdpr_consent=${gdpr_consent_50}",
+        "aws_path_1": "VODAFONE/2024/07/summer/",
+        "aws_path_2": ".gif",
+        "url": "https://track.adform.net/C/?bn=75084613;gdpr=%%gdpr%%;gdpr_consent=${gdpr_consent_50}",
+        "impression_tag": "<img src='https://track.adform.net/adfserve/?bn=75084613;1x1inv=1;srctype=3;gdpr=%%gdpr%%;gdpr_consent=${gdpr_consent_50};ord=[timestamp]'  border='0' width='1' height='1'/>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "160x600"
+        ],
+        "tcs": [],
+        "name": "vodafone-es_imp_SUMMER24_dis_prs-1_SUMMER24",
+        "landing": "https://track.adform.net/C/?bn=75084614;gdpr=%%gdpr%%;gdpr_consent=${gdpr_consent_50}",
+        "aws_path_1": "VODAFONE/2024/07/summer/",
+        "aws_path_2": ".gif",
+        "url": "https://track.adform.net/C/?bn=75084614;gdpr=%%gdpr%%;gdpr_consent=${gdpr_consent_50}",
+        "impression_tag": "<img src='https://track.adform.net/adfserve/?bn=75084614;1x1inv=1;srctype=3;gdpr=%%gdpr%%;gdpr_consent=${gdpr_consent_50};ord=[timestamp]'  border='0' width='1' height='1'/>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x50"
+        ],
+        "tcs": [],
+        "name": "vodafone-es_imp_SUMMER24_dis_prs-1_SUMMER24",
+        "landing": "https://track.adform.net/C/?bn=75084619;gdpr=%%gdpr%%;gdpr_consent=${gdpr_consent_50}",
+        "aws_path_1": "VODAFONE/2024/07/summer/",
+        "aws_path_2": ".gif",
+        "url": "https://track.adform.net/C/?bn=75084619;gdpr=%%gdpr%%;gdpr_consent=${gdpr_consent_50}",
+        "impression_tag": "<img src='https://track.adform.net/adfserve/?bn=75084619;1x1inv=1;srctype=3;gdpr=%%gdpr%%;gdpr_consent=${gdpr_consent_50};ord=[timestamp]'  border='0' width='1' height='1'/>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x250"
+        ],
+        "tcs": [],
+        "name": "vodafone-es_imp_SUMMER24_dis_prs-1_SUMMER24",
+        "landing": "https://track.adform.net/C/?bn=75084615;gdpr=%%gdpr%%;gdpr_consent=${gdpr_consent_50}",
+        "aws_path_1": "VODAFONE/2024/07/summer/",
+        "aws_path_2": ".gif",
+        "url": "https://track.adform.net/C/?bn=75084615;gdpr=%%gdpr%%;gdpr_consent=${gdpr_consent_50}",
+        "impression_tag": "<img src='https://track.adform.net/adfserve/?bn=75084615;1x1inv=1;srctype=3;gdpr=%%gdpr%%;gdpr_consent=${gdpr_consent_50};ord=[timestamp]'  border='0' width='1' height='1'/>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x600"
+        ],
+        "tcs": [],
+        "name": "vodafone-es_imp_SUMMER24_dis_prs-1_SUMMER24",
+        "landing": "https://track.adform.net/C/?bn=75084616;gdpr=%%gdpr%%;gdpr_consent=${gdpr_consent_50}",
+        "aws_path_1": "VODAFONE/2024/07/summer/",
+        "aws_path_2": ".gif",
+        "url": "https://track.adform.net/C/?bn=75084616;gdpr=%%gdpr%%;gdpr_consent=${gdpr_consent_50}",
+        "impression_tag": "<img src='https://track.adform.net/adfserve/?bn=75084616;1x1inv=1;srctype=3;gdpr=%%gdpr%%;gdpr_consent=${gdpr_consent_50};ord=[timestamp]'  border='0' width='1' height='1'/>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100"
+        ],
+        "tcs": [],
+        "name": "vodafone-es_imp_SUMMER24_dis_prs-1_SUMMER24",
+        "landing": "https://track.adform.net/C/?bn=75084620;gdpr=%%gdpr%%;gdpr_consent=${gdpr_consent_50}",
+        "aws_path_1": "VODAFONE/2024/07/summer/",
+        "aws_path_2": ".gif",
+        "url": "https://track.adform.net/C/?bn=75084620;gdpr=%%gdpr%%;gdpr_consent=${gdpr_consent_50}",
+        "impression_tag": "<img src='https://track.adform.net/adfserve/?bn=75084620;1x1inv=1;srctype=3;gdpr=%%gdpr%%;gdpr_consent=${gdpr_consent_50};ord=[timestamp]'  border='0' width='1' height='1'/>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90"
+        ],
+        "tcs": [],
+        "name": "vodafone-es_imp_SUMMER24_dis_prs-1_SUMMER24",
+        "landing": "https://track.adform.net/C/?bn=75084617;gdpr=%%gdpr%%;gdpr_consent=${gdpr_consent_50}",
+        "aws_path_1": "VODAFONE/2024/07/summer/",
+        "aws_path_2": ".gif",
+        "url": "https://track.adform.net/C/?bn=75084617;gdpr=%%gdpr%%;gdpr_consent=${gdpr_consent_50}",
+        "impression_tag": "<img src='https://track.adform.net/adfserve/?bn=75084617;1x1inv=1;srctype=3;gdpr=%%gdpr%%;gdpr_consent=${gdpr_consent_50};ord=[timestamp]'  border='0' width='1' height='1'/>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "970x250"
+        ],
+        "tcs": [],
+        "name": "vodafone-es_imp_SUMMER24_dis_prs-1_SUMMER24",
+        "landing": "https://track.adform.net/C/?bn=75084618;gdpr=%%gdpr%%;gdpr_consent=${gdpr_consent_50}",
+        "aws_path_1": "VODAFONE/2024/07/summer/",
+        "aws_path_2": ".gif",
+        "url": "https://track.adform.net/C/?bn=75084618;gdpr=%%gdpr%%;gdpr_consent=${gdpr_consent_50}",
+        "impression_tag": "<img src='https://track.adform.net/adfserve/?bn=75084618;1x1inv=1;srctype=3;gdpr=%%gdpr%%;gdpr_consent=${gdpr_consent_50};ord=[timestamp]'  border='0' width='1' height='1'/>"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["139419", "139420"],
+        "name": "ok-mobility-es_v1mp_AO_dis-prem_prs-1_SCRATCHER-SUMMERSALE",
+        "landing": "https://okmobility.com/es/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/07/summersale/scratcher/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/es/rent/?promo=SUMMERSALE&utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=SUMMERSALE&utm_term=es",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ok%20Mobility.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["139421", "139422"],
+        "name": "ok-mobility-gb_v1mp_AO_dis-prem_prs-1_SCRATCHER-SUMMERSALE",
+        "landing": "https://okmobility.com/en/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/07/summersale/scratcher/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/en/rent/?promo=SUMMERSALE&utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=SUMMERSALE&utm_term=gb",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ok%20Mobility.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["139423", "139424", "139425", "139426", "139427", "139428"],
+        "name": "ok-mobility-es_v1mp_AO_dis_prs-1_SUMMERSALE",
+        "landing": "https://okmobility.com/es/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/07/summersale/standard/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/es/rent/?promo=SUMMERSALE&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=SUMMERSALE&utm_term=es",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ok%20Mobility.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["139429", "139430", "139431", "139432", "139433", "139434"],
+        "name": "ok-mobility-gb_v1mp_AO_dis_prs-1_SUMMERSALE",
+        "landing": "https://okmobility.com/en/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/07/summersale/standard/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/en/rent/?promo=SUMMERSALE&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=SUMMERSALE&utm_term=gb",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ok%20Mobility.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600"],
+        "tcs": ["139329", "139330"],
+        "name": "insotel-es_v1mp_PRIMA-PRESTIGE_dis-p20_prs-1_SUMMER",
+        "landing": "https://www.insotelhotelgroup.com/hoteles/menorca/insotel-punta-prima-prestige-suites-y-spa",
+        "aws_path_1": "INSOTEL/2024/07/punta_prima/preroll/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/hoteles/menorca/insotel-punta-prima-prestige-suites-y-spa?utm_source=v1mp&utm_medium=dis-p20-prs-1&utm_campaign=prima-prestige&utm_term=ESP",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600"],
+        "tcs": ["139331", "139332"],
+        "name": "insotel-it_v1mp_PRIMA-PRESTIGE_dis-p20_prs-1_SUMMER",
+        "landing": "https://www.insotelhotelgroup.com/it/hotels/menorca/insotel-punta-prima-prestige-suites-y-spa",
+        "aws_path_1": "INSOTEL/2024/07/punta_prima/preroll/it/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/it/hotels/menorca/insotel-punta-prima-prestige-suites-y-spa?utm_source=v1mp&utm_medium=dis-p20-prs-1&utm_campaign=prima-prestige&utm_term=IT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600"],
+        "tcs": ["139333", "139334"],
+        "name": "insotel-gb_v1mp_PRIMA-PRESTIGE_dis-p20_prs-1_SUMMER",
+        "landing": "https://www.insotelhotelgroup.com/en/hotels/menorca/insotel-punta-prima-prestige-suites-y-spa",
+        "aws_path_1": "INSOTEL/2024/07/punta_prima/preroll/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/en/hotels/menorca/insotel-punta-prima-prestige-suites-y-spa?utm_source=v1mp&utm_medium=dis-p20-prs-1&utm_campaign=prima-prestige&utm_term=gb",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600"],
+        "tcs": ["139335", "139336"],
+        "name": "insotel-fr_v1mp_PRIMA-PRESTIGE_dis-p20_prs-1_SUMMER",
+        "landing": "https://www.insotelhotelgroup.com/fr/hotels/menorca/insotel-punta-prima-prestige-suites-y-spa",
+        "aws_path_1": "INSOTEL/2024/07/punta_prima/preroll/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/fr/hotels/menorca/insotel-punta-prima-prestige-suites-y-spa?utm_source=v1mp&utm_medium=dis-p20-prs-1&utm_campaign=prima-prestige&utm_term=fr",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "320x100", "970x250", "728x90", "160x600"],
+        "tcs": ["139337", "139338", "139339", "139340", "139341", "139342"],
+        "name": "insotel-es_v1mp_PRIMA-PRESTIGE_dis_prs-1_SUMMER",
+        "landing": "https://www.insotelhotelgroup.com/hoteles/menorca/insotel-punta-prima-prestige-suites-y-spa",
+        "aws_path_1": "INSOTEL/2024/07/punta_prima/standard/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/hoteles/menorca/insotel-punta-prima-prestige-suites-y-spa?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=prima-prestige&utm_term=ESP",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "320x100", "970x250", "728x90", "160x600"],
+        "tcs": ["139343", "139344", "139345", "139346", "139347", "139348"],
+        "name": "insotel-it_v1mp_PRIMA-PRESTIGE_dis_prs-1_SUMMER",
+        "landing": "https://www.insotelhotelgroup.com/it/hotels/menorca/insotel-punta-prima-prestige-suites-y-spa",
+        "aws_path_1": "INSOTEL/2024/07/punta_prima/standard/it/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/it/hotels/menorca/insotel-punta-prima-prestige-suites-y-spa?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=prima-prestige&utm_term=IT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "320x100", "970x250", "728x90", "160x600"],
+        "tcs": ["139349", "139350", "139351", "139352", "139353", "139354"],
+        "name": "insotel-gb_v1mp_PRIMA-PRESTIGE_dis_prs-1_SUMMER",
+        "landing": "https://www.insotelhotelgroup.com/en/hotels/menorca/insotel-punta-prima-prestige-suites-y-spa",
+        "aws_path_1": "INSOTEL/2024/07/punta_prima/standard/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/en/hotels/menorca/insotel-punta-prima-prestige-suites-y-spa?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=prima-prestige&utm_term=gb",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "320x100", "970x250", "728x90", "160x600"],
+        "tcs": ["139355", "139356", "139357", "139358", "139359", "139360"],
+        "name": "insotel-fr_v1mp_PRIMA-PRESTIGE_dis_prs-1_SUMMER",
+        "landing": "https://www.insotelhotelgroup.com/fr/hotels/menorca/insotel-punta-prima-prestige-suites-y-spa",
+        "aws_path_1": "INSOTEL/2024/07/punta_prima/standard/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/fr/hotels/menorca/insotel-punta-prima-prestige-suites-y-spa?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=prima-prestige&utm_term=fr",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    }
+]

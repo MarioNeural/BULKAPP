@@ -1,0 +1,44 @@
+[
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "728x90"
+        ],
+        "tcs": [
+            "139521",
+            "139522",
+            "139523"
+        ],
+        "name": "petit-celler-es_imp_ALWAYS-ON_dis_prs-1_PLATOS-PREPARADOS-ES",
+        "landing": "https://www.ametllerorigen.com/es/platos-preparados",
+        "aws_path_1": "PETIT_CELLER/2024/07/platos_preparados/es/",
+        "aws_path_2": ".gif",
+        "url": "https://www.ametllerorigen.com/es/platos-preparados?utm_source=programatica&utm_medium=display&utm_campaign=always-on&utm_term=PLATOS-PREPARADOS-ES",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Excelsia.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "728x90"
+        ],
+        "tcs": [
+            "139524",
+            "139525",
+            "139526"
+        ],
+        "name": "petit-celler-es_imp_ALWAYS-ON_dis_prs-1_PLATOS-PREPARADOS-CAT",
+        "landing": "https://www.ametllerorigen.com/ca/plats-cuinats",
+        "aws_path_1": "PETIT_CELLER/2024/07/platos_preparados/cat/",
+        "aws_path_2": ".gif",
+        "url": "https://www.ametllerorigen.com/ca/plats-cuinats?utm_source=programatica&utm_medium=display&utm_campaign=always-on&utm_term=PLATOS-PREPARADOS-CAT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Excelsia.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

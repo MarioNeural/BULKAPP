@@ -1,0 +1,13 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600"],
+        "tcs": ["139146", "139151"],
+        "name": "vercine-es_adg_EL CONCURSO DE PIANO_dis-p20_prs-1_GEN",
+        "landing": "https://www.youtube.com/watch?v=IFDEKBm1qPw",
+        "aws_path_1": "ver_cine/2024/07/preroll/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.youtube.com/watch?v=IFDEKBm1qPw?utm_source=adg&utm_medium=dis-p20-prs-1&utm_campaign=el concurso de piano",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Braincell.js?tc="
+    }
+]

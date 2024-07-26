@@ -1,0 +1,70 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "138989",
+            "138993"
+        ],
+        "name": "savoy-gb_v1mp_AO_dis_prs-1_CARROUSSEL-PALACE-5",
+        "landing": "https://www.savoysignature.com/savoypalacehotel/en/",
+        "aws_path_1": "SAVOY_SIGNATURE/2024/07/5 estrellas/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.savoysignature.com/savoypalacehotel/en/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=GB&utm_content=carroussel-palace-5",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Savoy%20Signature.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "138997",
+            "139001"
+        ],
+        "name": "savoy-pt_v1mp_AO_dis_prs-1_CARROUSSEL-PALACE-5",
+        "landing": "https://www.savoysignature.com/savoypalacehotel/pt/",
+        "aws_path_1": "SAVOY_SIGNATURE/2024/07/5 estrellas/pt/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.savoysignature.com/savoypalacehotel/pt/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=PT&utm_content=carroussel-palace-5",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Savoy%20Signature.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "139005",
+            "139009"
+        ],
+        "name": "savoy-de_v1mp_AO_dis_prs-1_CARROUSSEL-PALACE-5",
+        "landing": "https://www.savoysignature.com/en/willkommen/",
+        "aws_path_1": "SAVOY_SIGNATURE/2024/07/5 estrellas/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.savoysignature.com/en/willkommen/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=DE&utm_content=carroussel-palace-5",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Savoy%20Signature.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "139013",
+            "139017"
+        ],
+        "name": "savoy-fr_v1mp_AO_dis_prs-1_CARROUSSEL-PALACE-5",
+        "landing": "https://www.savoysignature.com/en/reservations-directes/",
+        "aws_path_1": "SAVOY_SIGNATURE/2024/07/5 estrellas/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.savoysignature.com/en/reservations-directes/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=FR&utm_content=carroussel-palace-5",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Savoy%20Signature.js?tc="
+    }
+]

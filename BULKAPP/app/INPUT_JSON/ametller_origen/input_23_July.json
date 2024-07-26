@@ -1,0 +1,44 @@
+[
+    {
+        "type": "link",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "728x90"
+        ],
+        "tcs": [
+            "139527",
+            "139528",
+            "139529"
+        ],
+        "name": "ametller-origen-es_v1mp_AO-CATALUNA_dis_rtg-1_PLATOS-PREPARADOS-JUL24-ES",
+        "landing": "https://www.ametllerorigen.com/es/platos-preparados",
+        "aws_path_1": "ametller_origen/2024/07/platos_preparados/es/",
+        "aws_path_2": ".gif",
+        "url": "https://www.ametllerorigen.com/es/platos-preparados?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao-cataluna&utm_term=PLATOS-PREPARADOS-JUL24-ES",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ametller%20Origen.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "728x90"
+        ],
+        "tcs": [
+            "139530",
+            "139531",
+            "139532"
+        ],
+        "name": "ametller-origen-es_v1mp_AO-CATALUNA_dis_prs-1_PLATOS-PREPARADOS-JUL24-CAT",
+        "landing": "https://www.ametllerorigen.com/ca/plats-cuinats",
+        "aws_path_1": "ametller_origen/2024/07/platos_preparados/cat/",
+        "aws_path_2": ".gif",
+        "url": "https://www.ametllerorigen.com/ca/plats-cuinats?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-cataluna&utm_term=PLATOS-PREPARADOS-JUL24-CAT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ametller%20Origen.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "320x100", "970x250", "728x90", "160x600"],
+        "tcs": ["139382", "139383", "139384", "139385", "139386", "139387"],
+        "name": "insotel-gb_v1mp_CALA-MANDIA_dis_prs-1_SUMMER",
+        "landing": "https://www.insotelhotelgroup.com/en/hotels/mallorca/insotel-cala-mandia-resort-spa",
+        "aws_path_1": "INSOTEL/2024/07/cala_mandia/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/en/hotels/mallorca/insotel-cala-mandia-resort-spa?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=cala-mandia&utm_term=gb",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "320x100", "970x250", "728x90", "160x600"],
+        "tcs": ["139388", "139389", "139390", "139391", "139392", "139393"],
+        "name": "insotel-es_v1mp_CALA-MANDIA_dis_prs-1_SUMMER",
+        "landing": "https://www.insotelhotelgroup.com/hoteles/mallorca/insotel-cala-mandia-resort-spa",
+        "aws_path_1": "INSOTEL/2024/07/cala_mandia/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/hoteles/mallorca/insotel-cala-mandia-resort-spa?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=cala-mandia&utm_term=ESP",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "320x100", "970x250", "728x90", "160x600"],
+        "tcs": ["139394", "139395", "139396", "139397", "139398", "139399"],
+        "name": "insotel-de_v1mp_CALA-MANDIA_dis_prs-1_SUMMER",
+        "landing": "https://www.insotelhotelgroup.com/de/hotels/mallorca/insotel-cala-mandia-resort-spa",
+        "aws_path_1": "INSOTEL/2024/07/cala_mandia/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/de/hotels/mallorca/insotel-cala-mandia-resort-spa?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=cala-mandia&utm_term=DE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    }
+]

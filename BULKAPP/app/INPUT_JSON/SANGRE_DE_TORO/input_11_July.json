@@ -1,0 +1,15 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "320x100", "300x600", "970x250", "300x250"],
+        "tcs": ["139124", "139125", "139126", "139127", "139128"],
+        "name": "excelsia-es_imp_SANGRE-TORO-2024-EUROCOPA_dis_prs-1",
+        "landing": "https://www.petitceller.com/es/vino/sangre-toro",
+        "aws_path_1": "SANGRE_DE_TORO/2024/07/eurocopa/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.petitceller.com/es/vino/sangre-toro?utm_source=programmatic&utm_medium=cpm&utm_campaign=sangre-toro-2024&utm_term=EUROCOPA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Excelsia.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

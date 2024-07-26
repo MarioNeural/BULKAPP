@@ -6,6 +6,13 @@ import sys
 from io import StringIO
 import boto3
 from dotenv import load_dotenv
+import tkinter as tk
+from tkinter import messagebox
+
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
+from styles.styles import DARK_GREEN, LIGHT_GREEN, TEXT_BLACK, TEXT_WHITE, RED, BLUE, GRAY
+
+ancho_btn = 20
 
 advertiser_number_map = {
     'Educo': 143,
@@ -34,7 +41,7 @@ advertiser_number_map = {
     'Gilmar': 339,
     'Ametller Origen': 215,
     'Solvia': 109,
-    'Palmaia': 109,
+    'Palmaia': 123,
     'Vicente Ferrer': 210,
     'EU Business School': 283,
     'Civitatis': 245,
@@ -42,14 +49,16 @@ advertiser_number_map = {
     'Manos Unidas': 139,
     'Medplaya': 393,
     'Oasis Wild Life': 394,
+    'Zafiro Hoteles': 148,
+    'Inseryal': 401,
     # Agrega más anunciantes según sea necesario
 }
 
 def load_data():
     input_data = sys.stdin.read()
     df = pd.read_csv(StringIO(input_data), sep='\t')
-    df.columns = [col.lower() for col in df.columns] 
-    df = df[df['trackingcode'].notna() & (df['trackingcode'] != '')] 
+    df.columns = [col.lower() for col in df.columns]
+    df = df[df['trackingcode'].notna() & (df['trackingcode'] != '')]
     return df
 
 load_dotenv()
@@ -71,10 +80,13 @@ def load_taxonomy(advertiser):
     
     return pd.read_csv(StringIO(obj['Body'].read().decode('utf-8')), sep=';')
 
-def find_id_or_name(column, value, mapping_dicts, default=''):
+def find_id_or_name(column, value, mapping_dicts, missing_elements, default=''):
     """Busca el ID en el diccionario de mapeo, si no lo encuentra devuelve el nombre."""
     if pd.isna(value) or value == '':
         return default
+
+    if column in ['trackingcode', 'lineitem']:
+        return value
 
     name = str(value).lower()
     id_col = ''
@@ -82,16 +94,91 @@ def find_id_or_name(column, value, mapping_dicts, default=''):
     if column == 'strategy':
         id_col = mapping_dicts.get('strategy_name', {}).get(name, default)
     elif column == 'campaign':
-        id_col = mapping_dicts.get(column + '_name', {}).get(name, '')
+        id_col = mapping_dicts.get(column, {}).get(name, '')
         if not id_col:
-            id_col = mapping_dicts.get(column + '_name', {}).get('always on', default)
+            id_col = mapping_dicts.get(column + '_name', {}).get(name, default)
     else:
         id_col = mapping_dicts.get(column + '_name', {}).get(name, default)
 
-    if str(id_col).replace('.', '', 1).isdigit():
-        return str(int(float(id_col)))
-    else:
-        return id_col if id_col else name
+    if not id_col or id_col == default:
+        missing_elements.add((column, name))
+        return name  
+    
+    id_col = str(id_col)
+    return str(int(float(id_col))) if id_col.replace('.', '', 1).isdigit() else id_col
+
+def get_manual_inputs(missing_elements):
+    inputs = {}
+
+    def on_ok():
+        for element in missing_elements:
+            col, name = element
+            inputs[element] = input_vars[element].get()
+        root.quit()
+        root.destroy()
+
+    def copy_to_clipboard(value):
+        root.clipboard_clear()
+        root.clipboard_append(value)
+        root.update() 
+
+    root = tk.Tk()
+    root.title("IDs faltantes")
+    root.configure(bg=DARK_GREEN)
+
+    window_width = 400
+    max_window_height = 400
+    content_height = 200 + 90 * len(missing_elements) 
+    window_height = min(content_height, max_window_height)
+    pos_x = root.winfo_screenwidth() // 4 - window_width // 2
+    pos_y = root.winfo_screenheight() // 2 - window_height // 2
+
+    root.geometry(f"{window_width + 40}x{window_height}+{pos_x}+{pos_y}") 
+
+    container = tk.Frame(root, bg=DARK_GREEN)
+    container.pack(fill="both", expand=True)
+
+    canvas = tk.Canvas(container, bg=DARK_GREEN)
+    canvas.pack(side="left", fill="both", expand=True, padx=5, pady=5)
+
+    scrollbar = tk.Scrollbar(container, orient="vertical", command=canvas.yview, width=40)  
+    scrollbar.pack(side="right", fill="y")
+
+    canvas.configure(yscrollcommand=scrollbar.set)
+    canvas.bind("<Configure>", lambda e: canvas.configure(scrollregion=canvas.bbox("all")))
+
+    scrollable_frame = tk.Frame(canvas, bg=DARK_GREEN)
+    canvas.create_window((0, 0), window=scrollable_frame, anchor="nw")
+
+    label = tk.Label(scrollable_frame, text="Faltan los siguientes ids:", bg=DARK_GREEN, fg=TEXT_BLACK, wraplength=window_width - 60)
+    label.grid(row=0, column=0, padx=10, pady=10, sticky='ew')
+
+    input_vars = {}
+    row = 1
+    for col, name in missing_elements:
+        frame = tk.Frame(scrollable_frame, bg=DARK_GREEN)
+        frame.grid(row=row, column=0, padx=10, pady=5, sticky='ew')
+
+        label = tk.Label(frame, text=f"{col.capitalize()}: '{name}'", bg=DARK_GREEN, fg=TEXT_BLACK, wraplength=window_width - 160) 
+        label.pack(side="left", fill="x", expand=True)
+
+        copy_button = tk.Button(frame, text="Copiar", command=lambda value=name: copy_to_clipboard(value), bg="orange", fg=TEXT_WHITE, width=ancho_btn)
+        copy_button.pack(side="left", padx=5)
+
+        input_var = tk.StringVar()
+        input_entry = tk.Entry(scrollable_frame, textvariable=input_var, bg="white", fg=TEXT_BLACK)
+        input_entry.grid(row=row + 1, column=0, padx=10, pady=10, sticky='ew')
+
+        input_vars[(col, name)] = input_var
+        row += 2
+
+    ok_button = tk.Button(scrollable_frame, text="Aceptar", command=on_ok, bg=BLUE, fg=TEXT_WHITE, width=ancho_btn)
+    ok_button.grid(row=row, column=0, padx=10, pady=10, sticky='ew')
+
+    root.mainloop()
+
+    return inputs
+
 
 def main():
     data_df = load_data()
@@ -117,11 +204,9 @@ def main():
 
     crear_tcs_file_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data', 'CrearTcs.csv')
     
-    # Delete existing file if it exists
     if os.path.exists(crear_tcs_file_path):
         os.remove(crear_tcs_file_path)
     
-    # Define the columns for the new DataFrame
     new_columns = ["trackingcode_name", "awareness_type", "publisher", "publisher_id", "campaign", "campaign_id", "model", "model_id", "placement_id", "lineitem_id", "new_lineitem_name", "channel", "channel_id", "strategy", "strategy_id", "retargeting", "sem_type", "bulk_prospecting"]
     crear_tcs_df = pd.DataFrame(columns=new_columns)
 
@@ -130,21 +215,29 @@ def main():
             return lineitem[:-6]
         return lineitem
 
+    missing_elements = set()
     new_rows = []
     for index, row in data_df.iterrows():
+        if not row.get('trackingcode'): 
+            continue
+
         lineitem_cleaned = clean_lineitem_name(str(row.get('lineitem', '')).strip())
         
         new_row = {col: '' for col in crear_tcs_df.columns}
 
         new_row['trackingcode_name'] = str(row.get('trackingcode', '')).strip()
-        new_row['publisher_id'] = find_id_or_name('publisher', str(row.get('publisher', '')).strip(), mapping_dicts, str(row.get('publisher', '')).strip())
-        campaign_name = str(row.get('campaign name', '')).strip()
-        campaign_fallback = str(row.get('campaign', '')).strip()
-        new_row['campaign_id'] = find_id_or_name('campaign name', campaign_name, mapping_dicts, find_id_or_name('campaign', campaign_fallback, mapping_dicts, campaign_fallback))
-        new_row['lineitem_id'] = find_id_or_name('lineitem', lineitem_cleaned, mapping_dicts, lineitem_cleaned)
-        new_row['channel_id'] = find_id_or_name('channel', str(row.get('channel', '')).strip(), mapping_dicts, str(row.get('channel', '')).strip())
-        new_row['model_id'] = find_id_or_name('model', str(row.get('model', '')).strip(), mapping_dicts, str(row.get('model', '')).strip())
-        new_row['placement_id'] = find_id_or_name('placement id', str(row.get('placement id', '')).strip(), mapping_dicts, str(row.get('placement id', '')).strip())
+        new_row['publisher_id'] = find_id_or_name('publisher', str(row.get('publisher', '')).strip(), mapping_dicts, missing_elements, str(row.get('publisher', '')).strip())
+        
+        if 'campaign name' in data_df.columns:
+            campaign_value = str(row.get('campaign name', '')).strip()
+        else:
+            campaign_value = str(row.get('campaign', '')).strip()
+        new_row['campaign_id'] = find_id_or_name('campaign', campaign_value, mapping_dicts, missing_elements, campaign_value)
+        
+        new_row['lineitem_id'] = find_id_or_name('lineitem', lineitem_cleaned, mapping_dicts, missing_elements, lineitem_cleaned)
+        new_row['channel_id'] = find_id_or_name('channel', str(row.get('channel', '')).strip(), mapping_dicts, missing_elements, str(row.get('channel', '')).strip())
+        new_row['model_id'] = find_id_or_name('model', str(row.get('model', '')).strip(), mapping_dicts, missing_elements, str(row.get('model', '')).strip())
+        new_row['placement_id'] = find_id_or_name('placement id', str(row.get('placement id', '')).strip(), mapping_dicts, missing_elements, str(row.get('placement id', '')).strip())
 
         awareness_type = str(row.get('awareness type', '')).strip().lower()
         if awareness_type == "verdadero":
@@ -153,26 +246,31 @@ def main():
             new_row['awareness_type'] = ""
 
         strategy = str(row.get('subcampaign', row.get('strategy', ''))).strip().lower()
-        new_row['strategy_id'] = find_id_or_name('strategy', strategy, mapping_dicts)
+        new_row['strategy_id'] = find_id_or_name('strategy', strategy, mapping_dicts, missing_elements)
 
         new_rows.append(new_row)
 
     new_crear_tcs_df = pd.DataFrame(new_rows, columns=crear_tcs_df.columns)
 
+    if missing_elements:
+        manual_inputs = get_manual_inputs(missing_elements)
+        for (col, name), manual_id in manual_inputs.items():
+            new_crear_tcs_df.loc[new_crear_tcs_df[f"{col}_id"] == name, f"{col}_id"] = manual_id
+
     if 'new_lineitem_name' not in new_crear_tcs_df.columns:
         new_crear_tcs_df['new_lineitem_name'] = np.nan
 
     def move_if_contains_letters(item):
-        if any(c.isalpha() for c in item):
-            return item, np.nan 
+        item_str = str(item)
+        if any(c.isalpha() for c in item_str):
+            return item_str, np.nan 
         else:
-            return np.nan, item 
+            return np.nan, item_str 
 
     new_crear_tcs_df['new_lineitem_name'], new_crear_tcs_df['lineitem_id'] = zip(*new_crear_tcs_df['lineitem_id'].apply(move_if_contains_letters))
 
     new_crear_tcs_df.replace('', np.nan, inplace=True)
 
-    # Write the new data to the CSV file
     new_crear_tcs_df.to_csv(crear_tcs_file_path, index=False, sep=';')
 
     data_folder_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data')
@@ -182,6 +280,5 @@ if __name__ == "__main__":
     try:
         main()
     except Exception as e:
-        print(f"Error: {e}", file=sys.stderr)
+        messagebox.showerror("Error", f"Ha ocurrido un error: {e}")
         sys.exit(1)
-

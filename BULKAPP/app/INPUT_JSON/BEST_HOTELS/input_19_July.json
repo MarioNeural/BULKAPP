@@ -1,0 +1,52 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "tcs": [
+            "139407",
+            "139408",
+            "139409",
+            "139410",
+            "139411",
+            "139412"
+        ],
+        "name": "best-es_v1mp_AO-ES_dis_prs-1_LASTMINUTE-JULIO",
+        "landing": "https://www.besthotels.es/destinos-y-hoteles/puente-de-agosto.html",
+        "aws_path_1": "BEST_HOTELS/2024/07/last_minute/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.besthotels.es/destinos-y-hoteles/puente-de-agosto.html?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-es&utm_term=lastminute",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Best%20Hotels.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "tcs": [
+            "139413",
+            "139414",
+            "139415",
+            "139416",
+            "139417",
+            "139418"
+        ],
+        "name": "best-fr_v1mp_AO-FR_dis_prs-1_LASTMINUTE-JULIO",
+        "landing": "https://www.besthotels.es/fr/destinations-et-hotels/long-week-enddaout.html",
+        "aws_path_1": "BEST_HOTELS/2024/07/last_minute/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.besthotels.es/fr/destinations-et-hotels/long-week-enddaout.html?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-fr&utm_term=lastminute",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Best%20Hotels.js?tc="
+    }
+]

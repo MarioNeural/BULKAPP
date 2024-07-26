@@ -1,0 +1,56 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "970x250",
+            "728x90",
+            "160x600",
+            "320x100"
+        ],
+        "tcs": [
+            "139316",
+            "139317",
+            "139318",
+            "139319",
+            "139320",
+            "139321"
+        ],
+        "name": "oasis-wild-es_v1mp_VERANO_dis_prs-1_EN",
+        "landing": "https://tickets.oasiswildlifefuerteventura.com/en/",
+        "aws_path_1": "OASIS_WILDLIFE/2024/07/standard/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://tickets.oasiswildlifefuerteventura.com/en/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=verano",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Wildlife.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "970x250",
+            "728x90",
+            "160x600",
+            "320x100"
+        ],
+        "tcs": [
+            "139322",
+            "139323",
+            "139324",
+            "139325",
+            "139326",
+            "139327"
+        ],
+        "name": "oasis-wild-es_v1mp_VERANO_dis_prs-1_DE",
+        "landing": "https://tickets.oasiswildlifefuerteventura.com/de/",
+        "aws_path_1": "OASIS_WILDLIFE/2024/07/standard/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://tickets.oasiswildlifefuerteventura.com/de/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=verano",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Wildlife.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

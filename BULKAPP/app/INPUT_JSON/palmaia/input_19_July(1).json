@@ -1,0 +1,28 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "728x90", "970x250"],
+        "tcs": ["139436", "139437", "139438", "139439", "139440", "139441"],
+        "name": "palmaia-us_adg_AO_dis_prs-1_REVITALIZING",
+        "landing": "https://bookingengine.thehouseofaia.com/",
+        "aws_path_1": "palmaia/2024/07/revitalizing/",
+        "aws_path_2": "/index.html",
+        "link": "https://bookingengine.thehouseofaia.com/?utm_source=adg&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=REVITALIZING",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Sandos.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "728x90", "970x250"],
+        "tcs": ["139442", "139443", "139444", "139445", "139446", "139447"],
+        "name": "palmaia-us_adg_AO_dis_rtg-1_REVITALIZING",
+        "landing": "https://bookingengine.thehouseofaia.com/",
+        "aws_path_1": "palmaia/2024/07/revitalizing/",
+        "aws_path_2": "/index.html",
+        "link": "https://bookingengine.thehouseofaia.com/?utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=REVITALIZING",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Sandos.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

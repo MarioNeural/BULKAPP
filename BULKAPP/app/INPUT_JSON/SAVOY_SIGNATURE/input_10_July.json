@@ -1,0 +1,70 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "138965",
+            "138968"
+        ],
+        "name": "savoy-gb_v1mp_AO_dis_prs-1_CARROUSSEL-CALHETA-4",
+        "landing": "https://www.savoysignature.com/calhetabeachhotel/en/",
+        "aws_path_1": "SAVOY_SIGNATURE/2024/07/4 estrellas/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.savoysignature.com/calhetabeachhotel/en/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=EN&utm_content=carroussel-calheta-4",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Savoy%20Signature.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "138971",
+            "138974"
+        ],
+        "name": "savoy-pt_v1mp_AO_dis_prs-1_CARROUSSEL-CALHETA-4",
+        "landing": "https://www.savoysignature.com/calhetabeachhotel/pt/",
+        "aws_path_1": "SAVOY_SIGNATURE/2024/07/4 estrellas/pt/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.savoysignature.com/calhetabeachhotel/pt/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=PT&utm_content=carroussel-calheta-4",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Savoy%20Signature.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "138977",
+            "138980"
+        ],
+        "name": "savoy-de_v1mp_AO_dis_prs-1_CARROUSSEL-CALHETA-4",
+        "landing": "https://www.savoysignature.com/en/willkommen/",
+        "aws_path_1": "SAVOY_SIGNATURE/2024/07/4 estrellas/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.savoysignature.com/en/willkommen/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=DE&utm_content=carroussel-calheta-4",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Savoy%20Signature.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "138983",
+            "138986"
+        ],
+        "name": "savoy-fr_v1mp_AO_dis_prs-1_CARROUSSEL-CALHETA-4",
+        "landing": "https://www.savoysignature.com/en/reservations-directes/",
+        "aws_path_1": "SAVOY_SIGNATURE/2024/07/4 estrellas/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.savoysignature.com/en/reservations-directes/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=FR&utm_content=carroussel-calheta-4",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Savoy%20Signature.js?tc="
+    }
+]

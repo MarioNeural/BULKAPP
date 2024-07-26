@@ -1,0 +1,13 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "728x90", "970x250"],
+        "tcs": ["139118", "139119", "139120", "139121", "139122", "139123"],
+        "name": "best-pt_v1mp_AO_PT_dis_prs-1_JULIO",
+        "landing": "https://www.besthotels.es/en/destinations-and-hotels/best-costa-ballena.html",
+        "aws_path_1": "BEST_HOTELS/2024/07/ballena/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.besthotels.es/en/destinations-and-hotels/best-costa-ballena.html?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao_pt",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Best%20Hotels.js?tc="
+    }
+]

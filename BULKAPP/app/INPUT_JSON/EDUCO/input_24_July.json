@@ -1,0 +1,152 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "160x600",
+            "970x250",
+            "728x90"
+        ],
+        "tcs": [
+            "139718",
+            "139719",
+            "139720",
+            "139721",
+            "139722",
+            "139723"
+        ],
+        "name": "educo-es_v1mp_BECAS-COMEDOR_dis_prs-1_FASE4-V1",
+        "landing": "https://www.educo.org/landing/becascomedor",
+        "aws_path_1": "EDUCO/2024/07/becas_comedor_fase_4/v1/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.educo.org/landing/becascomedor?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=becas-comedor&utm_content=fase4-v1",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Educo.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "160x600",
+            "970x250",
+            "728x90"
+        ],
+        "tcs": [
+            "139724",
+            "139725",
+            "139726",
+            "139727",
+            "139728",
+            "139729"
+        ],
+        "name": "educo-es_v1mp_BECAS-COMEDOR_dis_rtg-1_FASE4-V1",
+        "landing": "https://www.educo.org/landing/becascomedor",
+        "aws_path_1": "EDUCO/2024/07/becas_comedor_fase_4/v1/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.educo.org/landing/becascomedor?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=becas-comedor&utm_content=fase4-v1",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Educo.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "160x600",
+            "970x250",
+            "728x90"
+        ],
+        "tcs": [
+            "139730",
+            "139731",
+            "139732",
+            "139733",
+            "139734",
+            "139735"
+        ],
+        "name": "educo-es_v1mp_BECAS-COMEDOR_dis_prs-1_FASE4-V2",
+        "landing": "https://www.educo.org/landing/becascomedor",
+        "aws_path_1": "EDUCO/2024/07/becas_comedor_fase_4/v2/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.educo.org/landing/becascomedor?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=becas-comedor&utm_content=fase4-v2",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Educo.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "160x600",
+            "970x250",
+            "728x90"
+        ],
+        "tcs": [
+            "139736",
+            "139737",
+            "139738",
+            "139739",
+            "139740",
+            "139741"
+        ],
+        "name": "educo-es_v1mp_BECAS-COMEDOR_dis_rtg-1_FASE4-V2",
+        "landing": "https://www.educo.org/landing/becascomedor",
+        "aws_path_1": "EDUCO/2024/07/becas_comedor_fase_4/v2/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.educo.org/landing/becascomedor?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=becas-comedor&utm_content=fase4-v2",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Educo.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "160x600",
+            "970x250",
+            "728x90"
+        ],
+        "tcs": [
+            "139742",
+            "139743",
+            "139744",
+            "139745",
+            "139746",
+            "139747"
+        ],
+        "name": "educo-es_v1mp_BECAS-COMEDOR_dis_prs-1_FASE4-V3",
+        "landing": "https://www.educo.org/landing/becascomedor",
+        "aws_path_1": "EDUCO/2024/07/becas_comedor_fase_4/v3/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.educo.org/landing/becascomedor?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=becas-comedor&utm_content=fase4-v3",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Educo.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "160x600",
+            "970x250",
+            "728x90"
+        ],
+        "tcs": [
+            "139748",
+            "139749",
+            "139750",
+            "139751",
+            "139752",
+            "139753"
+        ],
+        "name": "educo-es_v1mp_BECAS-COMEDOR_dis_rtg-1_FASE4-V3",
+        "landing": "https://www.educo.org/landing/becascomedor",
+        "aws_path_1": "EDUCO/2024/07/becas_comedor_fase_4/v3/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.educo.org/landing/becascomedor?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=becas-comedor&utm_content=fase4-v3",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Educo.js?tc="
+    }
+]

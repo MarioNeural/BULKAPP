@@ -1,0 +1,275 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "139573",
+            "139574",
+            "139575",
+            "139576",
+            "139577",
+            "139578"
+        ],
+        "name": "son-jaumell-es_v1mp_AO_dis_prs-1_LAST-SUMMER-24",
+        "landing": "https://www.hotelsonjaumell.com/es/",
+        "aws_path_1": "SON_JAUMELL/2024/07/summer/es/last/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsonjaumell.com/es/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "139579",
+            "139580",
+            "139581",
+            "139582",
+            "139583",
+            "139584"
+        ],
+        "name": "son-jaumell-es_v1mp_AO_dis_rtg-1_LAST-SUMMER-24",
+        "landing": "https://www.hotelsonjaumell.com/es/",
+        "aws_path_1": "SON_JAUMELL/2024/07/summer/es/last/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsonjaumell.com/es/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "139585",
+            "139586",
+            "139587",
+            "139588",
+            "139589",
+            "139590"
+        ],
+        "name": "son-jaumell-de_v1mp_AO_dis_prs-1_LAST-SUMMER-24",
+        "landing": "https://www.hotelsonjaumell.com/de/",
+        "aws_path_1": "SON_JAUMELL/2024/07/summer/de/last/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsonjaumell.com/de/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "139591",
+            "139592",
+            "139593",
+            "139594",
+            "139595",
+            "139596"
+        ],
+        "name": "son-jaumell-de_v1mp_AO_dis_rtg-1_LAST-SUMMER-24",
+        "landing": "https://www.hotelsonjaumell.com/de/",
+        "aws_path_1": "SON_JAUMELL/2024/07/summer/de/last/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsonjaumell.com/de/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "139597",
+            "139598",
+            "139599",
+            "139600",
+            "139601",
+            "139602"
+        ],
+        "name": "son-jaumell-row_v1mp_AO_dis_rtg-1_LAST-SUMMER-24",
+        "landing": "https://www.hotelsonjaumell.com/en/",
+        "aws_path_1": "SON_JAUMELL/2024/07/summer/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsonjaumell.com/en/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "139603",
+            "139604",
+            "139605",
+            "139606",
+            "139607",
+            "139608"
+        ],
+        "name": "son-jaumell-us_v1mp_AO_dis_rtg-1_LAST-SUMMER-24",
+        "landing": "https://www.hotelsonjaumell.com/en/",
+        "aws_path_1": "SON_JAUMELL/2024/07/summer/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsonjaumell.com/en/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "139609",
+            "139610",
+            "139611",
+            "139612",
+            "139613",
+            "139614"
+        ],
+        "name": "son-jaumell-gb_v1mp_AO_dis_prs-1_LAST-SUMMER-24",
+        "landing": "https://www.hotelsonjaumell.com/en/",
+        "aws_path_1": "SON_JAUMELL/2024/07/summer/gb/last/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsonjaumell.com/en/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "139615",
+            "139616",
+            "139617",
+            "139618",
+            "139619",
+            "139620"
+        ],
+        "name": "son-jaumell-gb_v1mp_AO_dis_rtg-1_LAST-SUMMER-24",
+        "landing": "https://www.hotelsonjaumell.com/en/",
+        "aws_path_1": "SON_JAUMELL/2024/07/summer/gb/last/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsonjaumell.com/en/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "139621",
+            "139622"
+        ],
+        "name": "son-jaumell-es_v1mp_AO_dis_prs-1_CARROUSEL-LSUMMER-24",
+        "landing": "https://www.hotelsonjaumell.com/es/",
+        "aws_path_1": "SON_JAUMELL/2024/07/summer/es/carrousel/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsonjaumell.com/es/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=CARROUSEL",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "139623",
+            "139624"
+        ],
+        "name": "son-jaumell-de_v1mp_AO_dis_prs-1_CARROUSEL-LSUMMER-24",
+        "landing": "https://www.hotelsonjaumell.com/de/",
+        "aws_path_1": "SON_JAUMELL/2024/07/summer/de/carrousel/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsonjaumell.com/de/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=CARROUSEL",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "139625",
+            "139626"
+        ],
+        "name": "son-jaumell-gb_v1mp_AO_dis_prs-1_CARROUSEL-LSUMMER-24",
+        "landing": "https://www.hotelsonjaumell.com/en/",
+        "aws_path_1": "SON_JAUMELL/2024/07/summer/gb/carrousel/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsonjaumell.com/en/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=CARROUSEL",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

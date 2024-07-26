@@ -1,0 +1,28 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["139136", "139137"],
+        "name": "excelsia-es_imp_SANGRE-TORO-2024-3D-EUROCOPA_dis-prem_prs-1",
+        "landing": "https://www.petitceller.com/es/vino/sangre-toro",
+        "aws_path_1": "SANGRE_DE_TORO/2024/05/3dcard/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.petitceller.com/es/vino/sangre-toro?utm_source=programmatic&utm_medium=cpm&utm_campaign=sangre-toro-2024&utm_term=3D-EUROCOPA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Excelsia.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": ["139138"],
+        "name": "excelsia-es_imp_SANGRE-TORO-2024-STORY-EUROCOPA_dis-prem_prs-1",
+        "landing": "https://www.petitceller.com/es/vino/sangre-toro",
+        "aws_path_1": "SANGRE_DE_TORO/2024/07/story/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.petitceller.com/es/vino/sangre-toro?utm_source=programmatic&utm_medium=cpm&utm_campaign=sangre-toro-2024&utm_term=STORY-EUROCOPA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Excelsia.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

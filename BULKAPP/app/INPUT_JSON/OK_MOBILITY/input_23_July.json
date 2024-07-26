@@ -1,0 +1,56 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "139549",
+            "139550",
+            "139551",
+            "139552",
+            "139553",
+            "139554"
+        ],
+        "name": "ok-mobility-es_adg_VENTA_dis-prem_prs-1_EMOVE-V2-JULIO",
+        "landing": "https://okmobility.com/es/comprar-coche/segunda-mano",
+        "aws_path_1": "OK_MOBILITY/2024/07/emove/v2/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/es/comprar-coche/segunda-mano?utm_source=adg&utm_medium=dis-prem-prs-1&utm_campaign=venta&utm_term=EMOVE-V2-JULIO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ok%20Mobility.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "tcs": [
+            "139561",
+            "139562",
+            "139563",
+            "139564",
+            "139565",
+            "139566"
+        ],
+        "name": "ok-mobility-es_adg_VENTA_dis-prem_prs-1_EMOVE-V3-JULIO",
+        "landing": "https://okmobility.com/es/comprar-coche/segunda-mano",
+        "aws_path_1": "OK_MOBILITY/2024/07/emove/v3/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/es/comprar-coche/segunda-mano?utm_source=adg&utm_medium=dis-prem-prs-1&utm_campaign=venta&utm_term=EMOVE-V3-JULIO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ok%20Mobility.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

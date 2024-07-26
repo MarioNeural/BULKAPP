@@ -1,0 +1,110 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "320x100",
+            "300x250",
+            "970x250",
+            "300x600",
+            "160x600",
+            "728x90"
+        ],
+        "tcs": [
+            "139693",
+            "139694",
+            "139695",
+            "139696",
+            "139697",
+            "139698"
+        ],
+        "name": "sandos-us_v1mp_ALWAYS-ON_dis_prs-1_SEMANA-SANDOS",
+        "landing": "https://www.sandos.com/sandos-week",
+        "aws_path_1": "SANDOS/2024/07/semana/us/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.sandos.com/sandos-week?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=always-on&utm_term=SEMANA-SANDOS",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Sandos.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "320x100",
+            "300x250",
+            "970x250",
+            "300x600",
+            "160x600",
+            "728x90"
+        ],
+        "tcs": [
+            "139699",
+            "139700",
+            "139701",
+            "139702",
+            "139703",
+            "139704"
+        ],
+        "name": "sandos-us_v1mp_ALWAYS-ON_dis_rtg-1_SEMANA-SANDOS",
+        "landing": "https://www.sandos.com/sandos-week",
+        "aws_path_1": "SANDOS/2024/07/semana/us/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.sandos.com/sandos-week?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=always-on&utm_term=SEMANA-SANDOS",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Sandos.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "320x100",
+            "300x250",
+            "970x250",
+            "300x600",
+            "160x600",
+            "728x90"
+        ],
+        "tcs": [
+            "139705",
+            "139706",
+            "139707",
+            "139708",
+            "139709",
+            "139710"
+        ],
+        "name": "sandos-mx_v1mp_ALWAYS-ON_dis_prs-1_SEMANA-SANDOS",
+        "landing": "https://www.sandos.com/es/semana-sandos",
+        "aws_path_1": "SANDOS/2024/07/semana/mx/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.sandos.com/es/semana-sandos?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=always-on&utm_term=SEMANA-SANDOS",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Sandos.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "320x100",
+            "300x250",
+            "970x250",
+            "300x600",
+            "160x600",
+            "728x90"
+        ],
+        "tcs": [
+            "139711",
+            "139712",
+            "139713",
+            "139714",
+            "139715",
+            "139716"
+        ],
+        "name": "sandos-mx_v1mp_ALWAYS-ON_dis_rtg-1_SEMANA-SANDOS",
+        "landing": "https://www.sandos.com/es/semana-sandos",
+        "aws_path_1": "SANDOS/2024/07/semana/mx/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.sandos.com/es/semana-sandos?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=always-on&utm_term=SEMANA-SANDOS",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Sandos.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

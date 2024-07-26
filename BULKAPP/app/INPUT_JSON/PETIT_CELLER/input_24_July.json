@@ -1,0 +1,15 @@
+[
+    {
+        "type": "link",
+        "sizes": ["970x250", "300x600", "300x250", "160x600", "320x50", "728x90"],
+        "tcs": ["139687", "139688", "139689", "139690", "139691", "139692"],
+        "name": "petit-celler-es_imp_ALWAYS-ON_dis_prs-1_ENVIOS-GRATIS-JUL24",
+        "landing": "https://www.petitceller.com/es",
+        "aws_path_1": "PETIT_CELLER/2024/07/gratis/",
+        "aws_path_2": ".jpg",
+        "url": "https://www.petitceller.com/es?utm_source=programatica&utm_medium=display&utm_campaign=always-on&utm_term=ENVIOS-GRATIS-JUL24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Excelsia.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

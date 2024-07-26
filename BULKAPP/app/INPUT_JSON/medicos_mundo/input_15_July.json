@@ -1,0 +1,24 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600"],
+        "tcs": ["139276", "139277"],
+        "name": "medicos-dm-es_v1mp_AYUDA-GAZA_dis-p20_prs-1_GEN",
+        "landing": "https://www.medicosdelmundo.org/donacion-ong/campana/ayuda-emergencia-gaza/",
+        "aws_path_1": "medicos_mundo/2024/07/preroll/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.medicosdelmundo.org/donacion-ong/campana/ayuda-emergencia-gaza/?utm_source=v1mp&utm_medium=dis-p20-prs-1&utm_campaign=ayuda-gaza&utm_term=gen",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Medicos%20del%20Mundo.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600"],
+        "tcs": ["139278", "139279"],
+        "name": "medicos-dm-es_v1mp_AYUDA-GAZA_dis-p20_rtg-1_GEN",
+        "landing": "https://www.medicosdelmundo.org/donacion-ong/campana/ayuda-emergencia-gaza/",
+        "aws_path_1": "medicos_mundo/2024/07/preroll/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.medicosdelmundo.org/donacion-ong/campana/ayuda-emergencia-gaza/?utm_source=v1mp&utm_medium=dis-p20-rtg-1&utm_campaign=ayuda-gaza&utm_term=gen",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Medicos%20del%20Mundo.js?tc="
+    }
+]

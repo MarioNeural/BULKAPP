@@ -1,0 +1,13 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "970x250"],
+        "tcs": [ ],
+        "name": "bmw-motorrad-es_imp_MOTORRAD_dis_prs-22_GEN",
+        "landing": "https://track.adform.net/C/?bn=74910063",
+        "aws_path_1": "BMW/2024/07/motorrad/",
+        "aws_path_2": "/index.html",
+        "link": "https://track.adform.net/C/?bn=74910063",
+        "impression_tag": "<img src='https://track.adform.net/adfserve/?bn=74910063;1x1inv=1;srctype=3;ord=[timestamp]' border='0' width='1' height='1'/>"
+    }
+]

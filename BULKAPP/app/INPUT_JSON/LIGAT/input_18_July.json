@@ -1,0 +1,107 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "970x250"
+        ],
+        "tcs": [
+            "139367",
+            "139368",
+            "139369"
+        ],
+        "name": "ligat-pt_v1mp_MOBILE_dis_rtg-22_L1-AW",
+        "landing": "https://ligat.pt/",
+        "aws_path_1": "LIGAT/2024/07/mobile/l1/",
+        "aws_path_2": "/index.html",
+        "link": "https://ligat.pt/?utm_source=v1mp&utm_medium=dis-rtg-22&utm_campaign=mobile&utm_term=L1-AW",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_LigaT.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "970x250"
+        ],
+        "tcs": [
+            "139370",
+            "139371",
+            "139372"
+        ],
+        "name": "ligat-pt_v1mp_MOBILE_dis_rtg-22_L2-AW",
+        "landing": "https://ligat.pt/",
+        "aws_path_1": "LIGAT/2024/07/mobile/l2/",
+        "aws_path_2": "/index.html",
+        "link": "https://ligat.pt/?utm_source=v1mp&utm_medium=dis-rtg-22&utm_campaign=mobile&utm_term=L2-AW",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_LigaT.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "970x250"
+        ],
+        "tcs": [
+            "139373",
+            "139374",
+            "139375"
+        ],
+        "name": "ligat-pt_v1mp_MOBILE_dis_rtg-22_L3-AW",
+        "landing": "https://ligat.pt/",
+        "aws_path_1": "LIGAT/2024/07/mobile/l3/",
+        "aws_path_2": "/index.html",
+        "link": "https://ligat.pt/?utm_source=v1mp&utm_medium=dis-rtg-22&utm_campaign=mobile&utm_term=L3-AW",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_LigaT.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "970x250"
+        ],
+        "tcs": [
+            "139376",
+            "139377",
+            "139378"
+        ],
+        "name": "ligat-pt_v1mp_MOBILE_dis_rtg-22_L4-AW",
+        "landing": "https://ligat.pt/",
+        "aws_path_1": "LIGAT/2024/07/mobile/l4/",
+        "aws_path_2": "/index.html",
+        "link": "https://ligat.pt/?utm_source=v1mp&utm_medium=dis-rtg-22&utm_campaign=mobile&utm_term=L4-AW",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_LigaT.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "970x250"
+        ],
+        "tcs": [
+            "139379",
+            "139380",
+            "139381"
+        ],
+        "name": "ligat-pt_v1mp_MOBILE_dis_rtg-22_L5-AW",
+        "landing": "https://ligat.pt/",
+        "aws_path_1": "LIGAT/2024/07/mobile/l5/",
+        "aws_path_2": "/index.html",
+        "link": "https://ligat.pt/?utm_source=v1mp&utm_medium=dis-rtg-22&utm_campaign=mobile&utm_term=L5-AW",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_LigaT.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

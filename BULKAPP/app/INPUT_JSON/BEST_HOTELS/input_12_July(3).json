@@ -1,0 +1,13 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": ["139140"],
+        "name": "best-fr_v1mp_AO-FR_dis_prs-1_CARRUSEL-JULIO-TERRAMARINA_300x600",
+        "landing": "https://www.besthotels.es/fr/costa-dorada.html",
+        "aws_path_1": "BEST_HOTELS/2024/07/carousel/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.besthotels.es/fr/costa-dorada.html?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-fr&utm_term=carrusel",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Best%20Hotels.js?tc="
+    }
+]
