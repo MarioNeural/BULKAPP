@@ -85,9 +85,6 @@ def find_id_or_name(column, value, mapping_dicts, missing_elements, default=''):
     if pd.isna(value) or value == '':
         return default
 
-    if column in ['trackingcode', 'lineitem']:
-        return value
-
     name = str(value).lower()
     id_col = ''
 
@@ -97,15 +94,21 @@ def find_id_or_name(column, value, mapping_dicts, missing_elements, default=''):
         id_col = mapping_dicts.get(column, {}).get(name, '')
         if not id_col:
             id_col = mapping_dicts.get(column + '_name', {}).get(name, default)
+    elif column == 'lineitem':
+        id_col = mapping_dicts.get('lineitem_name', {}).get(name, default)  # Asegúrate de usar 'lineitem_name'
+        if not id_col:
+            return name  # Devuelve el nombre tal cual si no se encuentra el ID
     else:
         id_col = mapping_dicts.get(column + '_name', {}).get(name, default)
 
     if not id_col or id_col == default:
-        missing_elements.add((column, name))
+        if column != 'lineitem':
+            missing_elements.add((column, name))
         return name  
-    
+
     id_col = str(id_col)
     return str(int(float(id_col))) if id_col.replace('.', '', 1).isdigit() else id_col
+
 
 def get_manual_inputs(missing_elements):
     inputs = {}
@@ -202,6 +205,9 @@ def main():
         id_col = taxonomy_df.columns[i+1]
         mapping_dicts[name_col] = dict(zip(taxonomy_df[name_col].astype(str).str.lower(), taxonomy_df[id_col]))
 
+    # Depuración: imprimir el mapeo de lineitem_name
+    print("Lineitem Name Mapping:", mapping_dicts.get('lineitem_name'))
+
     crear_tcs_file_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data', 'CrearTcs.csv')
     
     if os.path.exists(crear_tcs_file_path):
@@ -218,7 +224,7 @@ def main():
     missing_elements = set()
     new_rows = []
     for index, row in data_df.iterrows():
-        if not row.get('trackingcode'): 
+        if not row.get('trackingcode'):
             continue
 
         lineitem_cleaned = clean_lineitem_name(str(row.get('lineitem', '')).strip())
@@ -234,7 +240,14 @@ def main():
             campaign_value = str(row.get('campaign', '')).strip()
         new_row['campaign_id'] = find_id_or_name('campaign', campaign_value, mapping_dicts, missing_elements, campaign_value)
         
-        new_row['lineitem_id'] = find_id_or_name('lineitem', lineitem_cleaned, mapping_dicts, missing_elements, lineitem_cleaned)
+        lineitem_id = find_id_or_name('lineitem', lineitem_cleaned, mapping_dicts, set(), lineitem_cleaned)
+        print(f"Lineitem Cleaned: {lineitem_cleaned}, Lineitem ID: {lineitem_id}")  # Depuración
+        if lineitem_id == lineitem_cleaned or not lineitem_id.isdigit():
+            new_row['new_lineitem_name'] = lineitem_cleaned
+            new_row['lineitem_id'] = ''
+        else:
+            new_row['lineitem_id'] = lineitem_id
+        
         new_row['channel_id'] = find_id_or_name('channel', str(row.get('channel', '')).strip(), mapping_dicts, missing_elements, str(row.get('channel', '')).strip())
         new_row['model_id'] = find_id_or_name('model', str(row.get('model', '')).strip(), mapping_dicts, missing_elements, str(row.get('model', '')).strip())
         new_row['placement_id'] = find_id_or_name('placement id', str(row.get('placement id', '')).strip(), mapping_dicts, missing_elements, str(row.get('placement id', '')).strip())
@@ -257,19 +270,7 @@ def main():
         for (col, name), manual_id in manual_inputs.items():
             new_crear_tcs_df.loc[new_crear_tcs_df[f"{col}_id"] == name, f"{col}_id"] = manual_id
 
-    if 'new_lineitem_name' not in new_crear_tcs_df.columns:
-        new_crear_tcs_df['new_lineitem_name'] = np.nan
-
-    def move_if_contains_letters(item):
-        item_str = str(item)
-        if any(c.isalpha() for c in item_str):
-            return item_str, np.nan 
-        else:
-            return np.nan, item_str 
-
-    new_crear_tcs_df['new_lineitem_name'], new_crear_tcs_df['lineitem_id'] = zip(*new_crear_tcs_df['lineitem_id'].apply(move_if_contains_letters))
-
-    new_crear_tcs_df.replace('', np.nan, inplace=True)
+    new_crear_tcs_df = new_crear_tcs_df.applymap(lambda x: '' if pd.isna(x) or str(x).strip().lower() == 'nan' else x)
 
     new_crear_tcs_df.to_csv(crear_tcs_file_path, index=False, sep=';')
 
