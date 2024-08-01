@@ -1,0 +1,12 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600"],
+        "tcs": [],
+        "name": "preview",
+        "landing": "https://www.youtube.com/watch?v=bzLEzCmyOyE&t=1s",
+        "aws_path_1": "sr_gorsky/2024/08/preroll/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.youtube.com/watch?v=bzLEzCmyOyE&t=1s"
+    }
+]

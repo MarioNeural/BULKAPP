@@ -1,0 +1,15 @@
+[
+    {
+        "type": "link",
+        "sizes": ["970x250", "300x600", "300x250", "160x600", "320x50", "728x90"],
+        "tcs": ["140278", "140279", "140280", "140281", "140282", "140283"],
+        "name": "petit-celler-es_imp_ALWAYS-ON_dis_prs-1_BODEGAS-SANGARIDA-10",
+        "landing": "https://www.petitceller.com/es/vino/sangarida",
+        "aws_path_1": "PETIT_CELLER/2024/07/bodegas_sangarida/",
+        "aws_path_2": ".jpg",
+        "url": "https://www.petitceller.com/es/vino/sangarida?utm_source=programatica&utm_medium=display&utm_campaign=always-on&utm_term=BODEGAS-SANGARIDA-10",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Excelsia.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

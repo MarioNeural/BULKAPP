@@ -17,8 +17,8 @@ from functions.progress_bar_functions import ProgressBarHandler
 from functions.open import open_test_html, open_folder, open_json_with_vscode
 
 # ESTILOS
-from styles.styles import DARK_GREEN, LIGHT_GREEN, TEXT_BLACK, TEXT_WHITE, RED, BLUE, GRAY
-ancho_btn = 20
+from styles.styles import DARK_GREEN, LIGHT_GREEN, TEXT_BLACK, TEXT_WHITE, RED, BLUE, GRAY, ORANGE
+ancho_btn = 24
 
 FOLDER_PATH = os.path.join("app")
 
@@ -208,6 +208,7 @@ last_custom_value = ""
 
 def show_object_window(json_data, index=0):
     global object_frame, last_aws_path_2_selection, last_custom_value
+
     if 'object_frame' not in globals():
         object_frame = tk.Frame(app, bg=DARK_GREEN)
         object_frame.grid(row=3, column=0, columnspan=4, padx=10, pady=10, sticky='nsew')
@@ -215,26 +216,30 @@ def show_object_window(json_data, index=0):
     for widget in object_frame.winfo_children():
         widget.destroy()
 
-    obj_text = tk.Text(object_frame, height=13, width=70, bg=LIGHT_GREEN, fg=TEXT_BLACK)
+    obj_text = tk.Text(object_frame, height=7, width=70, bg=LIGHT_GREEN, fg=TEXT_BLACK)
     obj_text.grid(row=0, column=0, columnspan=3, padx=10, pady=10)
 
     formatted_json = one_line_arrays(json.dumps(json_data[index], indent=4))
     obj_text.insert(tk.END, formatted_json)
 
-    lbl_instruction = tk.Label(object_frame, text="Introduce ruta de AWS, ej: s3://adgravity/mundo_pacifico/2023/10/halloween/\nEsta parte es opcional, solo si no se ejecuta Auto AWS", bg=DARK_GREEN, fg=TEXT_BLACK)
+    lbl_instruction = tk.Label(object_frame, text="Introduce ruta de AWS, ej: s3://adgravity/mundo_pacifico/2023/10/halloween/", bg=DARK_GREEN, fg=TEXT_BLACK)
     lbl_instruction.grid(row=1, column=0, columnspan=3, padx=10, pady=10)
 
-    aws_path_1_entry_value = tk.Entry(object_frame, width=60, bg=LIGHT_GREEN, fg=TEXT_BLACK)
-    aws_path_1_entry_value.grid(row=2, column=0, columnspan=3, padx=10, pady=10)
+    options_iframe = ["Custom", ".html", "/index.html"]
+    options_link = ["Custom",".png", ".jpg", ".gif"]
 
-    options = ["Custom", ".html", "/index.html", ".png", ".jpg", ".gif"]
+    aws_path_2_combobox = ttk.Combobox(object_frame, state="readonly")
+    aws_path_2_combobox.grid(row=3, column=0, columnspan=3, padx=10, pady=5)
+    
+    if link_type.get() == "iframe":
+        aws_path_2_combobox['values'] = options_iframe
+    else:
+        aws_path_2_combobox['values'] = options_link
 
-    aws_path_2_combobox = ttk.Combobox(object_frame, values=options, state="readonly")
-    aws_path_2_combobox.grid(row=3, column=1, padx=10, pady=5)
     aws_path_2_combobox.set("Custom" if last_aws_path_2_selection == "" else last_aws_path_2_selection)
 
     custom_entry = tk.Entry(object_frame, width=20, bg=LIGHT_GREEN, fg=TEXT_BLACK)
-    custom_entry.grid(row=4, column=1, padx=10, pady=5)
+    custom_entry.grid(row=4, column=0, columnspan=3, padx=10, pady=5)
     custom_entry.grid_remove()
     custom_entry.insert(tk.END, last_custom_value)
 
@@ -244,14 +249,70 @@ def show_object_window(json_data, index=0):
         else:
             custom_entry.grid_remove()
 
-    show_custom_entry() 
+    show_custom_entry()
 
     aws_path_2_combobox.bind("<<ComboboxSelected>>", lambda event: show_custom_entry())
 
+    aws_path_1_entry_value = tk.Entry(object_frame, width=60, bg=LIGHT_GREEN, fg=TEXT_BLACK)
+    aws_path_1_entry_value.grid(row=5, column=1, columnspan=1, padx=10, pady=5)
+
     btn_next = tk.Button(object_frame, text="Continuar", command=lambda: process_current_object(json_data, index, aws_path_1_entry_value, aws_path_2_combobox, custom_entry), bg=BLUE, fg=TEXT_WHITE)
-    btn_next.grid(row=5, column=0, columnspan=3, padx=10, pady=10)
+    btn_next.grid(row=5, column=2, columnspan=2, padx=10, pady=5)
+
+    lbl_instruction = tk.Label(object_frame, text="Auto AWS", bg=DARK_GREEN, fg=TEXT_BLACK)
+    lbl_instruction.grid(row=6, column=0, columnspan=1)
+
+    aws_auto_entry = tk.Entry(object_frame, width=60, bg=LIGHT_GREEN, fg=TEXT_BLACK)
+    aws_auto_entry.grid(row=6, column=1, columnspan=1, padx=10, pady=5)
+
+    btn_apply_all = tk.Button(object_frame, text="Aplicar a todos", command=lambda: apply_to_all(json_data, aws_path_1_entry_value, aws_path_2_combobox, custom_entry, aws_auto_entry), bg=ORANGE, fg=TEXT_WHITE)
+    btn_apply_all.grid(row=6, column=2, columnspan=2, padx=10, pady=5)
 
     toggle_frame(object_frame)
+
+
+
+def execute_auto_aws(aws_path):
+    parts = aws_path.split('/', 3)
+    if len(parts) < 4:
+        messagebox.showerror("Error", "La ruta de AWS debe ser completa, incluyendo bucket y path.")
+        return
+
+    base_url = f"s3://{parts[2]}"
+    path = parts[3]
+
+    script_path = os.path.join("app", "AWS_AUTO", "aws_auto.py")
+    
+    try:
+        result = subprocess.run(["python", script_path, base_url, path], capture_output=True, text=True)
+        if result.returncode == 0:
+            messagebox.showinfo("Éxito", "Script ejecutado correctamente")
+        else:
+            messagebox.showerror("Error", f"Error al ejecutar el script: {result.stderr}")
+    except Exception as e:
+        messagebox.showerror("Error", str(e))
+
+
+def apply_to_all(json_data, aws_path_1_entry, aws_path_2_combobox, custom_entry, aws_auto_entry):
+    aws_path_1_entry_value = aws_path_1_entry.get()
+    aws_path_2_combobox_value = aws_path_2_combobox.get()
+    custom_entry_value = custom_entry.get()
+    aws_auto_value = aws_auto_entry.get()
+
+    for obj in json_data:
+        obj['aws_path_1'] = aws_path_1_entry_value.replace("s3://adgravity/", "")
+
+        if aws_path_2_combobox_value == "Custom":
+            obj['aws_path_2'] = custom_entry_value
+        else:
+            obj['aws_path_2'] = aws_path_2_combobox_value
+
+    save_json(json_data)
+    messagebox.showinfo("Completo", "Todos los objetos procesados y aplicados.")
+    toggle_frame(output_text)
+
+    if aws_auto_value:
+        execute_auto_aws(aws_auto_value)
 
 
 def process_current_object(json_data, index, aws_path_1_entry, aws_path_2_combobox, custom_entry):
@@ -299,7 +360,7 @@ def process_data(input_data):
 def clear_text_field(text_field):
     text_field.delete("1.0", tk.END)
 
-process_individual = tk.BooleanVar(value=False)  # Nuevo checkbox para procesar individualmente
+process_individual = tk.BooleanVar(value=False)
 
 def show_input_window():
     global input_frame, link_type, include_viewability, include_impression, process_individual
@@ -308,7 +369,7 @@ def show_input_window():
 
         link_type = tk.StringVar(value="")
         include_viewability = tk.BooleanVar(value=True)
-        include_impression = tk.BooleanVar(value=False)  # Añadir esta línea
+        include_impression = tk.BooleanVar(value=False)
         process_individual = tk.BooleanVar(value=False)
 
         def select_link_type(type):
@@ -330,16 +391,16 @@ def show_input_window():
         lbl_instruction.grid(row=1, column=0, columnspan=2, pady=10)
 
         chk_viewability = tk.Checkbutton(input_frame, text="Incluir viewability", variable=include_viewability, onvalue=True, offvalue=False, bg=DARK_GREEN, fg=TEXT_BLACK)
-        chk_viewability.grid(row=2, column=0, columnspan=2, pady=10)
+        chk_viewability.grid(row=2, column=0, columnspan=1, pady=10)
 
-        chk_impression = tk.Checkbutton(input_frame, text="Incluir impression", variable=include_impression, onvalue=True, offvalue=False, bg=DARK_GREEN, fg=TEXT_BLACK)  # Añadir esta línea
-        chk_impression.grid(row=3, column=0, columnspan=2, pady=10)
+        chk_impression = tk.Checkbutton(input_frame, text="Incluir impression", variable=include_impression, onvalue=True, offvalue=False, bg=DARK_GREEN, fg=TEXT_BLACK)
+        chk_impression.grid(row=2, column=0, columnspan=2, pady=10)
 
         chk_process_individual = tk.Checkbutton(input_frame, text="Procesar individualmente", variable=process_individual, onvalue=True, offvalue=False, bg=DARK_GREEN, fg=TEXT_BLACK)
-        chk_process_individual.grid(row=4, column=0, columnspan=2, pady=10)
+        chk_process_individual.grid(row=2, column=1, columnspan=2, pady=10)
 
         input_data = tk.Text(input_frame, height=8, width=70, bg=LIGHT_GREEN, fg=TEXT_BLACK)
-        input_data.grid(row=5, column=0, columnspan=2, pady=10, padx=10)
+        input_data.grid(row=5, column=0, columnspan=2, pady=15, padx=10)
 
         btn_process = tk.Button(input_frame, text="Continuar", command=lambda: process_data(input_data), bg=BLUE, fg=TEXT_WHITE)
         btn_process.grid(row=6, column=0, columnspan=2, pady=10)
@@ -349,9 +410,6 @@ def show_input_window():
 
     toggle_frame(input_frame)
 
-
-
-
 def ejecutar_script(script_name):
     global last_execution_time
     try:
@@ -359,7 +417,7 @@ def ejecutar_script(script_name):
         result = subprocess.run(["python", script_path], capture_output=True, text=True)
         output_text.insert(tk.END, result.stdout)
         output_text.see(tk.END)
-        timer_updater.set_last_execution_time(time.time())
+        # timer_updater.set_last_execution_time(time.time())
     except Exception as e:
         messagebox.showerror("Error", f"Error al ejecutar {script_name}: {e}")
 
@@ -393,7 +451,7 @@ def ejecutar_img_aws_bulk_thread():
         process.stdout.close()
         process.stderr.close()
 
-        timer_updater.set_last_execution_time(time.time())
+        # timer_updater.set_last_execution_time(time.time())
 
     except Exception as e:
         messagebox.showerror("Error", f"Error al ejecutar el script: {e}")
@@ -602,10 +660,10 @@ def execute_script(aws_path, popup):
 
 
 btn_show_input = tk.Button(frame, text="Introduce datos", command=show_input_window, bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)
-btn_show_input.grid(row=0, column=3, columnspan=4, padx=10)
+btn_show_input.grid(row=0, column=2, columnspan=4, padx=10)
 
 btn_show_auto_aws = tk.Button(frame, text="Auto AWS", command=lambda: show_aws_popup(), bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)
-btn_show_auto_aws.grid(row=1, column=3, columnspan=4, padx=10, pady=10)
+btn_show_auto_aws.grid(row=1, column=2, columnspan=4, padx=10, pady=10)
 
 input_frame = tk.Frame(app, bg=DARK_GREEN)
 create_tcs_frame = tk.Frame(app, bg=DARK_GREEN)
@@ -618,22 +676,23 @@ output_text = tk.Text(frame, wrap=tk.WORD, bg=LIGHT_GREEN, fg=TEXT_BLACK, width=
 output_text.grid(row=4, column=0, columnspan=4, pady=5, padx=10)
 
 btn_img_aws_bulk = tk.Button(frame, text="Ejecutar BULK", command=ejecutar_img_aws_bulk, bg=BLUE, fg=TEXT_WHITE, width=ancho_btn)
-btn_img_aws_bulk.grid(row=0, column=0, padx=50)
+btn_img_aws_bulk.grid(row=0, column=0, rowspan=2, pady=(0, 10), sticky='ns')
+
 
 btn_create_tcs = tk.Button(frame, text="Crear TCs", command=show_create_tcs_window, bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)
-btn_create_tcs.grid(row=0, column=2, padx=10)
+btn_create_tcs.grid(row=0, column=1, padx=10)
 
-time_label = tk.Label(frame, text="", bg=DARK_GREEN, fg=TEXT_BLACK, width=ancho_btn)
-time_label.grid(row=1, column=0)
+# time_label = tk.Label(frame, text="", bg=DARK_GREEN, fg=TEXT_BLACK, width=ancho_btn)
+# time_label.grid(row=1, column=0)
 
 open_folder_btn = tk.Button(frame, text="Carpeta de archivos", command=open_folder, bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)
-open_folder_btn.grid(row=1, column=2,  pady=10)
+open_folder_btn.grid(row=1, column=1)
 
 open_html_btn = tk.Button(frame, text="test.html", command=open_test_html, bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)
-open_html_btn.grid(row=3, column=0, pady=10)
+open_html_btn.grid(row=3, column=0)
 
 open_json_btn = tk.Button(frame, text="Abrir JSON", command=open_json_with_vscode, bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)
-open_json_btn.grid(row=2, column=3, columnspan=4, pady=10)
+open_json_btn.grid(row=2, column=2, columnspan=4)
 
 generar_csv_btn = tk.Button(frame, text="Generar CSV DV360", command=generar_csv, bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)
 generar_csv_btn.grid(row=2, column=0, padx=10)
@@ -641,10 +700,10 @@ generar_csv_btn.config(state=tk.DISABLED)
 
 btn_process_json = tk.Button(frame, text="JSON Civitatis", command=process_json, 
                              bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)
-btn_process_json.grid(row=3, column=3, columnspan=4, pady=10)
+btn_process_json.grid(row=3, column=2, columnspan=4, pady=10)
 
-timer_updater = TimerUpdater(app, time_label)
+# timer_updater = TimerUpdater(app, time_label)
 
-timer_updater.update_timer()
+# timer_updater.update_timer()
 
 app.mainloop()

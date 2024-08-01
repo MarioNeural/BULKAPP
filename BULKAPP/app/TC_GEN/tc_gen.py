@@ -10,7 +10,7 @@ import tkinter as tk
 from tkinter import messagebox
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
-from styles.styles import DARK_GREEN, LIGHT_GREEN, TEXT_BLACK, TEXT_WHITE, RED, BLUE, GRAY
+from styles.styles import DARK_GREEN, LIGHT_GREEN, TEXT_BLACK, TEXT_WHITE, RED, BLUE, GRAY, ORANGE
 
 ancho_btn = 20
 
@@ -51,8 +51,11 @@ advertiser_number_map = {
     'Oasis Wild Life': 394,
     'Zafiro Hoteles': 148,
     'Inseryal': 401,
+    'IESE': 402,
     # Agrega más anunciantes según sea necesario
 }
+
+standard_sizes = ["300x600", "160x600", "300x250", "320x100", "728x90", "970x250"]
 
 def load_data():
     input_data = sys.stdin.read()
@@ -165,7 +168,7 @@ def get_manual_inputs(missing_elements):
         label = tk.Label(frame, text=f"{col.capitalize()}: '{name}'", bg=DARK_GREEN, fg=TEXT_BLACK, wraplength=window_width - 160) 
         label.pack(side="left", fill="x", expand=True)
 
-        copy_button = tk.Button(frame, text="Copiar", command=lambda value=name: copy_to_clipboard(value), bg="orange", fg=TEXT_WHITE, width=ancho_btn)
+        copy_button = tk.Button(frame, text="Copiar", command=lambda value=name: copy_to_clipboard(value), bg=ORANGE, fg=TEXT_WHITE, width=ancho_btn)
         copy_button.pack(side="left", padx=5)
 
         input_var = tk.StringVar()
@@ -182,6 +185,13 @@ def get_manual_inputs(missing_elements):
 
     return inputs
 
+def check_sizes(df):
+    invalid_sizes = df[~df['size'].isin(standard_sizes)]['size'].unique()
+    if len(invalid_sizes) > 0:
+        root = tk.Tk()
+        root.withdraw()
+        messagebox.showwarning("Advertencia", f"Hay tamaños no incluidos en los estándares: {', '.join(invalid_sizes)}")
+        root.destroy()
 
 def main():
     data_df = load_data()
@@ -190,6 +200,9 @@ def main():
 
     if 'advertiser' not in data_df.columns:
         raise ValueError("The data must contain an 'advertiser' column.")
+    
+    if 'size' in data_df.columns:
+        check_sizes(data_df)
     
     first_advertiser = data_df['advertiser'].iloc[0]
 
