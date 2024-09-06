@@ -1,0 +1,824 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "tcs": [
+            "140807",
+            "140808",
+            "140809",
+            "140810",
+            "140811",
+            "140812"
+        ],
+        "name": "insotel-es_v1mp_FORMENTERA_dis_prs-1_LAST-MINUTE",
+        "landing": "https://www.insotelhotelgroup.com/hoteles/formentera/insotel-hotel-formentera-playa",
+        "aws_path_1": "INSOTEL/2024/08/last_minute_3/formentera/dis/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/hoteles/formentera/insotel-hotel-formentera-playa?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=formentera&utm_term=ESP",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "tcs": [
+            "140813",
+            "140814",
+            "140815",
+            "140816",
+            "140817",
+            "140818"
+        ],
+        "name": "insotel-it_v1mp_FORMENTERA_dis_prs-1_LAST-MINUTE",
+        "landing": "https://www.insotelhotelgroup.com/it/hotels/formentera/insotel-hotel-formentera-playa",
+        "aws_path_1": "INSOTEL/2024/08/last_minute_3/formentera/dis/it/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/it/hotels/formentera/insotel-hotel-formentera-playa?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=formentera&utm_term=IT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "tcs": [
+            "140819",
+            "140820",
+            "140821",
+            "140822",
+            "140823",
+            "140824"
+        ],
+        "name": "insotel-pt_v1mp_FORMENTERA_dis_prs-1_LAST-MINUTE",
+        "landing": "https://www.insotelhotelgroup.com/en/hotels/formentera/insotel-hotel-formentera-playa",
+        "aws_path_1": "INSOTEL/2024/08/last_minute_3/formentera/dis/pt/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/en/hotels/formentera/insotel-hotel-formentera-playa?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=formentera&utm_term=PT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "140825",
+            "140826"
+        ],
+        "name": "insotel-es_v1mp_FORMENTERA_dis-p20_prs-1_LAST-MINUTE",
+        "landing": "https://www.insotelhotelgroup.com/hoteles/formentera/insotel-hotel-formentera-playa",
+        "aws_path_1": "INSOTEL/2024/08/last_minute_3/formentera/p20/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/hoteles/formentera/insotel-hotel-formentera-playa?utm_source=v1mp&utm_medium=dis-p20-prs-1&utm_campaign=formentera&utm_term=ESP",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "140827",
+            "140828"
+        ],
+        "name": "insotel-it_v1mp_FORMENTERA_dis-p20_prs-1_LAST-MINUTE",
+        "landing": "https://www.insotelhotelgroup.com/it/hotels/formentera/insotel-hotel-formentera-playa",
+        "aws_path_1": "INSOTEL/2024/08/last_minute_3/formentera/p20/it/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/it/hotels/formentera/insotel-hotel-formentera-playa?utm_source=v1mp&utm_medium=dis-p20-prs-1&utm_campaign=formentera&utm_term=IT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "140829",
+            "140830"
+        ],
+        "name": "insotel-pt_v1mp_FORMENTERA_dis-p20_prs-1_LAST-MINUTE",
+        "landing": "https://www.insotelhotelgroup.com/en/hotels/formentera/insotel-hotel-formentera-playa",
+        "aws_path_1": "INSOTEL/2024/08/last_minute_3/formentera/p20/pt/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/en/hotels/formentera/insotel-hotel-formentera-playa?utm_source=v1mp&utm_medium=dis-p20-prs-1&utm_campaign=formentera&utm_term=PT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "140831",
+            "140832"
+        ],
+        "name": "insotel-es_v1mp_PRIMA-PRESTIGE_dis-p20_prs-1_LAST-MINUTE",
+        "landing": "https://www.insotelhotelgroup.com/hoteles/menorca/insotel-punta-prima-prestige-suites-y-spa",
+        "aws_path_1": "INSOTEL/2024/08/last_minute_3/prestige/p20/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/hoteles/menorca/insotel-punta-prima-prestige-suites-y-spa?utm_source=v1mp&utm_medium=dis-p20-prs-1&utm_campaign=prima-prestige&utm_term=ESP",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "140833",
+            "140834"
+        ],
+        "name": "insotel-gb_v1mp_PRIMA-PRESTIGE_dis-p20_prs-1_LAST-MINUTE",
+        "landing": "https://www.insotelhotelgroup.com/en/hotels/menorca/insotel-punta-prima-prestige-suites-y-spa",
+        "aws_path_1": "INSOTEL/2024/08/last_minute_3/prestige/p20/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/en/hotels/menorca/insotel-punta-prima-prestige-suites-y-spa?utm_source=v1mp&utm_medium=dis-p20-prs-1&utm_campaign=prima-prestige&utm_term=gb",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "tcs": [
+            "140835",
+            "140836",
+            "140837",
+            "140838",
+            "140839",
+            "140840"
+        ],
+        "name": "insotel-es_v1mp_PRIMA-PRESTIGE_dis_prs-1_LAST-MINUTE",
+        "landing": "https://www.insotelhotelgroup.com/hoteles/menorca/insotel-punta-prima-prestige-suites-y-spa",
+        "aws_path_1": "INSOTEL/2024/08/last_minute_3/prestige/dis/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/hoteles/menorca/insotel-punta-prima-prestige-suites-y-spa?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=prima-prestige&utm_term=ESP",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "tcs": [
+            "140841",
+            "140842",
+            "140843",
+            "140844",
+            "140845",
+            "140846"
+        ],
+        "name": "insotel-gb_v1mp_PRIMA-PRESTIGE_dis_prs-1_LAST-MINUTE",
+        "landing": "https://www.insotelhotelgroup.com/en/hotels/menorca/insotel-punta-prima-prestige-suites-y-spa",
+        "aws_path_1": "INSOTEL/2024/08/last_minute_3/prestige/dis/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/en/hotels/menorca/insotel-punta-prima-prestige-suites-y-spa?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=prima-prestige&utm_term=gb",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "140847",
+            "140848"
+        ],
+        "name": "insotel-es_v1mp_TARIDA-BEACH_dis-p20_prs-1_LAST-MINUTE",
+        "landing": "https://www.insotelhotelgroup.com/hoteles/ibiza/insotel-tarida-beach-resort",
+        "aws_path_1": "INSOTEL/2024/08/last_minute_3/tarida/p20/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/hoteles/ibiza/insotel-tarida-beach-resort?utm_source=v1mp&utm_medium=dis-p20-prs-1&utm_campaign=tarida-beach&utm_term=ESP",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "140849",
+            "140850"
+        ],
+        "name": "insotel-it_v1mp_TARIDA-BEACH_dis-p20_prs-1_LAST-MINUTE",
+        "landing": "https://www.insotelhotelgroup.com/it/hotels/ibiza/insotel-tarida-beach-resort",
+        "aws_path_1": "INSOTEL/2024/08/last_minute_3/tarida/p20/it/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/it/hotels/ibiza/insotel-tarida-beach-resort?utm_source=v1mp&utm_medium=dis-p20-prs-1&utm_campaign=tarida-beach&utm_term=IT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "140851",
+            "140852"
+        ],
+        "name": "insotel-gb_v1mp_TARIDA-BEACH_dis-p20_prs-1_LAST-MINUTE",
+        "landing": "https://www.insotelhotelgroup.com/en/hotels/ibiza/insotel-tarida-beach-resort",
+        "aws_path_1": "INSOTEL/2024/08/last_minute_3/tarida/p20/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/en/hotels/ibiza/insotel-tarida-beach-resort?utm_source=v1mp&utm_medium=dis-p20-prs-1&utm_campaign=tarida-beach&utm_term=gb",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "140853",
+            "140854"
+        ],
+        "name": "insotel-nl_v1mp_TARIDA-BEACH_dis-p20_prs-1_LAST-MINUTE",
+        "landing": "https://www.insotelhotelgroup.com/en/hotels/ibiza/insotel-tarida-beach-resort",
+        "aws_path_1": "INSOTEL/2024/08/last_minute_3/tarida/p20/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/en/hotels/ibiza/insotel-tarida-beach-resort?utm_source=v1mp&utm_medium=dis-p20-prs-1&utm_campaign=tarida-beach&utm_term=NL",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "tcs": [
+            "140855",
+            "140856",
+            "140857",
+            "140858",
+            "140859",
+            "140860"
+        ],
+        "name": "insotel-es_v1mp_TARIDA-BEACH_dis_prs-1_LAST-MINUTE",
+        "landing": "https://www.insotelhotelgroup.com/hoteles/ibiza/insotel-tarida-beach-resort",
+        "aws_path_1": "INSOTEL/2024/08/last_minute_3/tarida/dis/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/hoteles/ibiza/insotel-tarida-beach-resort?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=tarida-beach&utm_term=ESP",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "tcs": [
+            "140861",
+            "140862",
+            "140863",
+            "140864",
+            "140865",
+            "140866"
+        ],
+        "name": "insotel-it_v1mp_TARIDA-BEACH_dis_prs-1_LAST-MINUTE",
+        "landing": "https://www.insotelhotelgroup.com/it/hotels/ibiza/insotel-tarida-beach-resort",
+        "aws_path_1": "INSOTEL/2024/08/last_minute_3/tarida/dis/it/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/it/hotels/ibiza/insotel-tarida-beach-resort?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=tarida-beach&utm_term=IT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "tcs": [
+            "140867",
+            "140868",
+            "140869",
+            "140870",
+            "140871",
+            "140872"
+        ],
+        "name": "insotel-gb_v1mp_TARIDA-BEACH_dis_prs-1_LAST-MINUTE",
+        "landing": "https://www.insotelhotelgroup.com/en/hotels/ibiza/insotel-tarida-beach-resort",
+        "aws_path_1": "INSOTEL/2024/08/last_minute_3/tarida/dis/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/en/hotels/ibiza/insotel-tarida-beach-resort?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=tarida-beach&utm_term=gb",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "tcs": [
+            "140873",
+            "140874",
+            "140875",
+            "140876",
+            "140877",
+            "140878"
+        ],
+        "name": "insotel-nl_v1mp_TARIDA-BEACH_dis_prs-1_LAST-MINUTE",
+        "landing": "https://www.insotelhotelgroup.com/en/hotels/ibiza/insotel-tarida-beach-resort",
+        "aws_path_1": "INSOTEL/2024/08/last_minute_3/tarida/dis/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/en/hotels/ibiza/insotel-tarida-beach-resort?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=tarida-beach&utm_term=NL",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "tcs": [
+            "140879",
+            "140880",
+            "140881",
+            "140882",
+            "140883",
+            "140884"
+        ],
+        "name": "insotel-es_v1mp_FENICIA_dis_prs-1_LAST-MINUTE",
+        "landing": "https://www.insotelhotelgroup.com/hoteles/ibiza/insotel-fenicia-prestige-suites-spa",
+        "aws_path_1": "INSOTEL/2024/08/last_minute_3/fenicia/dis/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/hoteles/ibiza/insotel-fenicia-prestige-suites-spa?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=fenicia&utm_term=ESP",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "tcs": [
+            "140885",
+            "140886",
+            "140887",
+            "140888",
+            "140889",
+            "140890"
+        ],
+        "name": "insotel-gb_v1mp_FENICIA_dis_prs-1_LAST-MINUTE",
+        "landing": "https://www.insotelhotelgroup.com/en/hotels/ibiza/insotel-fenicia-prestige-suites-spa",
+        "aws_path_1": "INSOTEL/2024/08/last_minute_3/fenicia/dis/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/en/hotels/ibiza/insotel-fenicia-prestige-suites-spa?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=fenicia&utm_term=gb",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "tcs": [
+            "140891",
+            "140892",
+            "140893",
+            "140894",
+            "140895",
+            "140896"
+        ],
+        "name": "insotel-de_v1mp_FENICIA_dis_prs-1_LAST-MINUTE",
+        "landing": "https://www.insotelhotelgroup.com/de/hotels/ibiza/insotel-fenicia-prestige-suites-spa",
+        "aws_path_1": "INSOTEL/2024/08/last_minute_3/fenicia/dis/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/de/hotels/ibiza/insotel-fenicia-prestige-suites-spa?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=fenicia&utm_term=DE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "tcs": [
+            "140897",
+            "140898",
+            "140899",
+            "140900",
+            "140901",
+            "140902"
+        ],
+        "name": "insotel-nl_v1mp_FENICIA_dis_prs-1_LAST-MINUTE",
+        "landing": "https://www.insotelhotelgroup.com/en/hotels/ibiza/insotel-fenicia-prestige-suites-spa",
+        "aws_path_1": "INSOTEL/2024/08/last_minute_3/fenicia/dis/nl/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/en/hotels/ibiza/insotel-fenicia-prestige-suites-spa?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=fenicia&utm_term=NL",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "140903",
+            "140904"
+        ],
+        "name": "insotel-es_v1mp_FENICIA_dis-p20_prs-1_LAST-MINUTE",
+        "landing": "https://www.insotelhotelgroup.com/hoteles/ibiza/insotel-fenicia-prestige-suites-spa",
+        "aws_path_1": "INSOTEL/2024/08/last_minute_3/fenicia/p20/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/hoteles/ibiza/insotel-fenicia-prestige-suites-spa?utm_source=v1mp&utm_medium=dis-p20-prs-1&utm_campaign=fenicia&utm_term=ESP",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "140905",
+            "140906"
+        ],
+        "name": "insotel-gb_v1mp_FENICIA_dis-p20_prs-1_LAST-MINUTE",
+        "landing": "https://www.insotelhotelgroup.com/en/hotels/ibiza/insotel-fenicia-prestige-suites-spa",
+        "aws_path_1": "INSOTEL/2024/08/last_minute_3/fenicia/p20/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/en/hotels/ibiza/insotel-fenicia-prestige-suites-spa?utm_source=v1mp&utm_medium=dis-p20-prs-1&utm_campaign=fenicia&utm_term=gb",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "140907",
+            "140908"
+        ],
+        "name": "insotel-de_v1mp_FENICIA_dis-p20_prs-1_LAST-MINUTE",
+        "landing": "https://www.insotelhotelgroup.com/de/hotels/ibiza/insotel-fenicia-prestige-suites-spa",
+        "aws_path_1": "INSOTEL/2024/08/last_minute_3/fenicia/p20/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/de/hotels/ibiza/insotel-fenicia-prestige-suites-spa?utm_source=v1mp&utm_medium=dis-p20-prs-1&utm_campaign=fenicia&utm_term=DE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "140909",
+            "140910"
+        ],
+        "name": "insotel-nl_v1mp_FENICIA_dis-p20_prs-1_LAST-MINUTE",
+        "landing": "https://www.insotelhotelgroup.com/en/hotels/ibiza/insotel-fenicia-prestige-suites-spa",
+        "aws_path_1": "INSOTEL/2024/08/last_minute_3/fenicia/p20/nl/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/en/hotels/ibiza/insotel-fenicia-prestige-suites-spa?utm_source=v1mp&utm_medium=dis-p20-prs-1&utm_campaign=fenicia&utm_term=NL",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "tcs": [
+            "140911",
+            "140912",
+            "140913",
+            "140914",
+            "140915",
+            "140916"
+        ],
+        "name": "insotel-es_v1mp_CLUB-MARYLAND_dis_prs-1_LAST-MINUTE",
+        "landing": "https://www.insotelhotelgroup.com/hoteles/formentera/insotel-club-maryland",
+        "aws_path_1": "INSOTEL/2024/08/last_minute_3/maryland/dis/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/hoteles/formentera/insotel-club-maryland?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=club-maryland&utm_term=ESP",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "tcs": [
+            "140917",
+            "140918",
+            "140919",
+            "140920",
+            "140921",
+            "140922"
+        ],
+        "name": "insotel-it_v1mp_CLUB-MARYLAND_dis_prs-1_LAST-MINUTE",
+        "landing": "https://www.insotelhotelgroup.com/it/hotels/formentera/insotel-club-maryland",
+        "aws_path_1": "INSOTEL/2024/08/last_minute_3/maryland/dis/it/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/it/hotels/formentera/insotel-club-maryland?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=club-maryland&utm_term=IT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "tcs": [
+            "140923",
+            "140924",
+            "140925",
+            "140926",
+            "140927",
+            "140928"
+        ],
+        "name": "insotel-pt_v1mp_CLUB-MARYLAND_dis_prs-1_LAST-MINUTE",
+        "landing": "https://www.insotelhotelgroup.com/en/hotels/formentera/insotel-club-maryland",
+        "aws_path_1": "INSOTEL/2024/08/last_minute_3/maryland/dis/pt/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/en/hotels/formentera/insotel-club-maryland?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=club-maryland&utm_term=PT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "140929",
+            "140930"
+        ],
+        "name": "insotel-es_v1mp_CLUB-MARYLAND_dis-p20_prs-1_LAST-MINUTE",
+        "landing": "https://www.insotelhotelgroup.com/hoteles/formentera/insotel-club-maryland",
+        "aws_path_1": "INSOTEL/2024/08/last_minute_3/maryland/p20/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/hoteles/formentera/insotel-club-maryland?utm_source=v1mp&utm_medium=dis-p20-prs-1&utm_campaign=club-maryland&utm_term=ESP",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "140931",
+            "140932"
+        ],
+        "name": "insotel-it_v1mp_CLUB-MARYLAND_dis-p20_prs-1_LAST-MINUTE",
+        "landing": "https://www.insotelhotelgroup.com/it/hotels/formentera/insotel-club-maryland",
+        "aws_path_1": "INSOTEL/2024/08/last_minute_3/maryland/p20/it/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/it/hotels/formentera/insotel-club-maryland?utm_source=v1mp&utm_medium=dis-p20-prs-1&utm_campaign=club-maryland&utm_term=IT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "140933",
+            "140934"
+        ],
+        "name": "insotel-pt_v1mp_CLUB-MARYLAND_dis-p20_prs-1_LAST-MINUTE",
+        "landing": "https://www.insotelhotelgroup.com/en/hotels/formentera/insotel-club-maryland",
+        "aws_path_1": "INSOTEL/2024/08/last_minute_3/maryland/p20/pt/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/en/hotels/formentera/insotel-club-maryland?utm_source=v1mp&utm_medium=dis-p20-prs-1&utm_campaign=club-maryland&utm_term=PT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "tcs": [
+            "140935",
+            "140936",
+            "140937",
+            "140938",
+            "140939",
+            "140940"
+        ],
+        "name": "insotel-es_v1mp_PUNTA-PRIMA_dis_prs-1_LAST-MINUTE",
+        "landing": "https://www.insotelhotelgroup.com/hoteles/menorca/insotel-punta-prima-resort-spa",
+        "aws_path_1": "INSOTEL/2024/08/last_minute_3/punta/dis/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/hoteles/menorca/insotel-punta-prima-resort-spa?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=punta-prima&utm_term=esp",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "tcs": [
+            "140941",
+            "140942",
+            "140943",
+            "140944",
+            "140945",
+            "140946"
+        ],
+        "name": "insotel-gb_v1mp_PUNTA-PRIMA_dis_prs-1_LAST-MINUTE",
+        "landing": "https://www.insotelhotelgroup.com/en/hotels/menorca/insotel-punta-prima-resort-spa",
+        "aws_path_1": "INSOTEL/2024/08/last_minute_3/punta/dis/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/en/hotels/menorca/insotel-punta-prima-resort-spa?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=punta-prima&utm_term=gb",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "tcs": [
+            "140947",
+            "140948",
+            "140949",
+            "140950",
+            "140951",
+            "140952"
+        ],
+        "name": "insotel-fr_v1mp_PUNTA-PRIMA_dis_prs-1_LAST-MINUTE",
+        "landing": "https://www.insotelhotelgroup.com/fr/hotels/menorca/insotel-punta-prima-resort-spa",
+        "aws_path_1": "INSOTEL/2024/08/last_minute_3/punta/dis/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/fr/hotels/menorca/insotel-punta-prima-resort-spa?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=punta-prima&utm_term=fr",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "tcs": [
+            "140953",
+            "140954",
+            "140955",
+            "140956",
+            "140957",
+            "140958"
+        ],
+        "name": "insotel-gb_v1mp_CALA-MANDIA_dis_prs-1_LAST-MINUTE",
+        "landing": "https://www.insotelhotelgroup.com/en/hotels/mallorca/insotel-cala-mandia-resort-spa",
+        "aws_path_1": "INSOTEL/2024/08/last_minute_3/mandia/dis/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/en/hotels/mallorca/insotel-cala-mandia-resort-spa?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=cala-mandia&utm_term=gb",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "tcs": [
+            "140959",
+            "140960",
+            "140961",
+            "140962",
+            "140963",
+            "140964"
+        ],
+        "name": "insotel-es_v1mp_CALA-MANDIA_dis_prs-1_LAST-MINUTE",
+        "landing": "https://www.insotelhotelgroup.com/hoteles/mallorca/insotel-cala-mandia-resort-spa",
+        "aws_path_1": "INSOTEL/2024/08/last_minute_3/mandia/dis/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/hoteles/mallorca/insotel-cala-mandia-resort-spa?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=cala-mandia&utm_term=ESP",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "tcs": [
+            "140965",
+            "140966",
+            "140967",
+            "140968",
+            "140969",
+            "140970"
+        ],
+        "name": "insotel-de_v1mp_CALA-MANDIA_dis_prs-1_LAST-MINUTE",
+        "landing": "https://www.insotelhotelgroup.com/de/hotels/mallorca/insotel-cala-mandia-resort-spa",
+        "aws_path_1": "INSOTEL/2024/08/last_minute_3/mandia/dis/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/de/hotels/mallorca/insotel-cala-mandia-resort-spa?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=cala-mandia&utm_term=DE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc="
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "type": "link",
+        "sizes": ["970x250", "300x600", "300x250", "160x600", "320x50", "728x90"],
+        "tcs": ["141327", "141328", "141329", "141330", "141331", "141332"],
+        "name": "petit-celler-es_imp_ALWAYS-ON_dis_prs-1_JEAN-LEON-3055",
+        "landing": "https://www.petitceller.com/es/vino/jean-leon",
+        "aws_path_1": "PETIT_CELLER/2024/08/jean_leon/",
+        "aws_path_2": ".jpg",
+        "url": "https://www.petitceller.com/es/vino/jean-leon?utm_source=programatica&utm_medium=display&utm_campaign=always-on&utm_term=JEAN-LEON-3055",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Excelsia.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

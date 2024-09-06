@@ -1,0 +1,146 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "320x100",
+            "300x250",
+            "970x250",
+            "300x600",
+            "160x600"
+        ],
+        "tcs": [
+            "132358",
+            "132359",
+            "132360",
+            "132361",
+            "132362"
+        ],
+        "name": "sandos-mx_v1mp_ALWAYS-ON_dis_prs-1_FLASH-WEEKEND",
+        "landing": "https://www.sandos.com/es/sandos-weekend",
+        "aws_path_1": "SANDOS/2024/05/flash/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.sandos.com/es/sandos-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=always-on&utm_term=flash-weekend",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_sandos-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "320x100",
+            "300x250",
+            "970x250",
+            "300x600",
+            "160x600"
+        ],
+        "tcs": [
+            "132363",
+            "132364",
+            "132365",
+            "132366",
+            "132367"
+        ],
+        "name": "sandos-ar_v1mp_ALWAYS-ON_dis_prs-1_FLASH-WEEKEND",
+        "landing": "https://www.sandos.com/es/sandos-weekend",
+        "aws_path_1": "SANDOS/2024/05/flash/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.sandos.com/es/sandos-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=always-on&utm_term=flash-weekend",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_sandos-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "320x100",
+            "300x250",
+            "970x250",
+            "300x600",
+            "160x600"
+        ],
+        "tcs": [
+            "132368",
+            "132369",
+            "132370",
+            "132371",
+            "132372"
+        ],
+        "name": "sandos-us_v1mp_ALWAYS-ON_dis_prs-1_FLASH-WEEKEND",
+        "landing": "https://www.sandos.com/sandos-weekend",
+        "aws_path_1": "SANDOS/2024/05/flash/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.sandos.com/sandos-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=always-on&utm_term=flash-weekend",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_sandos-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "320x100",
+            "300x250",
+            "970x250",
+            "300x600",
+            "160x600"
+        ],
+        "tcs": [
+            "132373",
+            "132374",
+            "132375",
+            "132376",
+            "132377"
+        ],
+        "name": "sandos-mx_v1mp_ALWAYS-ON_dis_rtg-1_FLASH-WEEKEND",
+        "landing": "https://www.sandos.com/es/sandos-weekend",
+        "aws_path_1": "SANDOS/2024/05/flash/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.sandos.com/es/sandos-weekend?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=always-on&utm_term=flash-weekend",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_sandos-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "320x100",
+            "300x250",
+            "970x250",
+            "300x600",
+            "160x600"
+        ],
+        "tcs": [
+            "132378",
+            "132379",
+            "132380",
+            "132381",
+            "132382"
+        ],
+        "name": "sandos-ar_v1mp_ALWAYS-ON_dis_rtg-1_FLASH-WEEKEND",
+        "landing": "https://www.sandos.com/es/sandos-weekend",
+        "aws_path_1": "SANDOS/2024/05/flash/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.sandos.com/es/sandos-weekend?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=always-on&utm_term=flash-weekend",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_sandos-es_np_",
+        "add_utm_size": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "320x100",
+            "300x250",
+            "970x250",
+            "300x600",
+            "160x600"
+        ],
+        "tcs": [
+            "132383",
+            "132384",
+            "132385",
+            "132386",
+            "132387"
+        ],
+        "name": "sandos-us_v1mp_ALWAYS-ON_dis_rtg-1_FLASH-WEEKEND",
+        "landing": "https://www.sandos.com/sandos-weekend",
+        "aws_path_1": "SANDOS/2024/05/flash/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.sandos.com/sandos-weekend?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=always-on&utm_term=flash-weekend",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_sandos-es_np_",
+        "add_utm_size": "utm_content="
+    }
+]

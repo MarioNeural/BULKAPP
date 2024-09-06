@@ -1,0 +1,218 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "160x600",
+            "300x250",
+            "970x250",
+            "320x100",
+            "728x90"
+        ],
+        "tcs": [
+            "140750",
+            "140751",
+            "140752",
+            "140753",
+            "140754",
+            "140755"
+        ],
+        "name": "amresorts-gb_v1mp_DREAMS-MADEIRA_dis_prs-1_LANZAMIENTO",
+        "landing": "https://www.hyattinclusivecollection.com/en/resorts-hotels/dreams/portugal/madeira-resort-spa-marina/",
+        "aws_path_1": "AM_RESORTS/2024/08/lanzamiento/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hyattinclusivecollection.com/en/resorts-hotels/dreams/portugal/madeira-resort-spa-marina/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=DREAMS-MADEIRA&utm_term=LANZAMIENTO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "160x600",
+            "300x250",
+            "970x250",
+            "320x100",
+            "728x90"
+        ],
+        "tcs": [
+            "140756",
+            "140757",
+            "140758",
+            "140759",
+            "140760",
+            "140761"
+        ],
+        "name": "amresorts-gb_v1mp_DREAMS-MADEIRA_dis_rtg-1_LANZAMIENTO",
+        "landing": "https://www.hyattinclusivecollection.com/en/resorts-hotels/dreams/portugal/madeira-resort-spa-marina/",
+        "aws_path_1": "AM_RESORTS/2024/08/lanzamiento/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hyattinclusivecollection.com/en/resorts-hotels/dreams/portugal/madeira-resort-spa-marina/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=DREAMS-MADEIRA&utm_term=LANZAMIENTO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "160x600",
+            "300x250",
+            "970x250",
+            "320x100",
+            "728x90"
+        ],
+        "tcs": [
+            "140762",
+            "140763",
+            "140764",
+            "140765",
+            "140766",
+            "140767"
+        ],
+        "name": "amresorts-es_v1mp_DREAMS-MADEIRA_dis_prs-1_LANZAMIENTO",
+        "landing": "https://www.hyattinclusivecollection.com/es/resorts-y-hoteles/dreams/portugal/madeira-resort-spa-marina/",
+        "aws_path_1": "AM_RESORTS/2024/08/lanzamiento/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hyattinclusivecollection.com/es/resorts-y-hoteles/dreams/portugal/madeira-resort-spa-marina/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=DREAMS-MADEIRA&utm_term=LANZAMIENTO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "160x600",
+            "300x250",
+            "970x250",
+            "320x100",
+            "728x90"
+        ],
+        "tcs": [
+            "140768",
+            "140769",
+            "140770",
+            "140771",
+            "140772",
+            "140773"
+        ],
+        "name": "amresorts-es_v1mp_DREAMS-MADEIRA_dis_rtg-1_LANZAMIENTO",
+        "landing": "https://www.hyattinclusivecollection.com/es/resorts-y-hoteles/dreams/portugal/madeira-resort-spa-marina/",
+        "aws_path_1": "AM_RESORTS/2024/08/lanzamiento/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hyattinclusivecollection.com/es/resorts-y-hoteles/dreams/portugal/madeira-resort-spa-marina/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=DREAMS-MADEIRA&utm_term=LANZAMIENTO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "160x600",
+            "300x250",
+            "970x250",
+            "320x100",
+            "728x90"
+        ],
+        "tcs": [
+            "140774",
+            "140775",
+            "140776",
+            "140777",
+            "140778",
+            "140779"
+        ],
+        "name": "amresorts-de_v1mp_DREAMS-MADEIRA_dis_prs-1_LANZAMIENTO",
+        "landing": "https://www.hyattinclusivecollection.com/de/resorts-hotels/dreams/portugal/madeira-resort-spa-marina/",
+        "aws_path_1": "AM_RESORTS/2024/08/lanzamiento/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hyattinclusivecollection.com/de/resorts-hotels/dreams/portugal/madeira-resort-spa-marina/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=DREAMS-MADEIRA&utm_term=LANZAMIENTO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "160x600",
+            "300x250",
+            "970x250",
+            "320x100",
+            "728x90"
+        ],
+        "tcs": [
+            "140780",
+            "140781",
+            "140782",
+            "140783",
+            "140784",
+            "140785"
+        ],
+        "name": "amresorts-de_v1mp_DREAMS-MADEIRA_dis_rtg-1_LANZAMIENTO",
+        "landing": "https://www.hyattinclusivecollection.com/de/resorts-hotels/dreams/portugal/madeira-resort-spa-marina/",
+        "aws_path_1": "AM_RESORTS/2024/08/lanzamiento/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hyattinclusivecollection.com/de/resorts-hotels/dreams/portugal/madeira-resort-spa-marina/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=DREAMS-MADEIRA&utm_term=LANZAMIENTO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "160x600",
+            "300x250",
+            "970x250",
+            "320x100",
+            "728x90"
+        ],
+        "tcs": [
+            "140786",
+            "140787",
+            "140788",
+            "140789",
+            "140790",
+            "140791"
+        ],
+        "name": "amresorts-pt_v1mp_DREAMS-MADEIRA_dis_prs-1_LANZAMIENTO",
+        "landing": "https://www.dremp.hyattinclusivecollection.com/pt/",
+        "aws_path_1": "AM_RESORTS/2024/08/lanzamiento/pt/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.dremp.hyattinclusivecollection.com/pt/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=DREAMS-MADEIRA&utm_term=LANZAMIENTO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "160x600",
+            "300x250",
+            "970x250",
+            "320x100",
+            "728x90"
+        ],
+        "tcs": [
+            "140792",
+            "140793",
+            "140794",
+            "140795",
+            "140796",
+            "140797"
+        ],
+        "name": "amresorts-pt_v1mp_DREAMS-MADEIRA_dis_rtg-1_LANZAMIENTO",
+        "landing": "https://www.dremp.hyattinclusivecollection.com/pt/",
+        "aws_path_1": "AM_RESORTS/2024/08/lanzamiento/pt/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.dremp.hyattinclusivecollection.com/pt/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=DREAMS-MADEIRA&utm_term=LANZAMIENTO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

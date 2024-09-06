@@ -1,0 +1,466 @@
+[
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "tcs": [
+            "140979",
+            "140980",
+            "140981",
+            "140982",
+            "140983",
+            "140984",
+            "140985",
+            "140986"
+        ],
+        "name": "oasis-mx_v1mp_ULTIMAS-REBAJAS_dis_rtg-1_TSC",
+        "landing": "https://oasishoteles.com/es/ofertas-especiales",
+        "aws_path_1": "OASIS/2024/08/rebajas/tsc/mx/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/es/ofertas-especiales?utm_source=adgmedia&utm_medium=display&utm_campaign=ultimasrebajasverano&utm_term=retargeting-oferta-mex&utm_content=the-sens-cancun&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "tcs": [
+            "140987",
+            "140988",
+            "140989",
+            "140990",
+            "140991",
+            "140992",
+            "140993",
+            "140994"
+        ],
+        "name": "oasis-mx_v1mp_ULTIMAS-REBAJAS_dis_rtg-1_GOP",
+        "landing": "https://oasishoteles.com/es/ofertas-especiales",
+        "aws_path_1": "OASIS/2024/08/rebajas/gop/mx/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/es/ofertas-especiales?utm_source=adgmedia&utm_medium=display&utm_campaign=ultimasrebajasverano&utm_term=retargeting-oferta-mex&utm_content=grand-oasis-palm&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "tcs": [
+            "140995",
+            "140996",
+            "140997",
+            "140998",
+            "140999",
+            "141000",
+            "141001",
+            "141002"
+        ],
+        "name": "oasis-mx_v1mp_ULTIMAS-REBAJAS_dis_rtg-1_GOC",
+        "landing": "https://oasishoteles.com/es/ofertas-especiales",
+        "aws_path_1": "OASIS/2024/08/rebajas/goc/mx/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/es/ofertas-especiales?utm_source=adgmedia&utm_medium=display&utm_campaign=ultimasrebajasverano&utm_term=retargeting-oferta-mex&utm_content=grand-oasis-cancun&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "tcs": [
+            "141003",
+            "141004",
+            "141005",
+            "141006",
+            "141007",
+            "141008",
+            "141009",
+            "141010"
+        ],
+        "name": "oasis-mx_v1mp_ULTIMAS-REBAJAS_dis_prs-1_GOC",
+        "landing": "https://oasishoteles.com/es/ofertas-especiales",
+        "aws_path_1": "OASIS/2024/08/rebajas/goc/mx/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/es/ofertas-especiales?utm_source=adgmedia&utm_medium=display&utm_campaign=ultimasrebajasverano&utm_term=prospecting-oferta-mex&utm_content=grand-oasis-cancun&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "tcs": [
+            "141011",
+            "141012",
+            "141013",
+            "141014",
+            "141015",
+            "141016",
+            "141017",
+            "141018"
+        ],
+        "name": "oasis-mx_v1mp_ULTIMAS-REBAJAS_dis_rtg-1_TSTR",
+        "landing": "https://oasishoteles.com/es/ofertas-especiales",
+        "aws_path_1": "OASIS/2024/08/rebajas/tstr/mx/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/es/ofertas-especiales?utm_source=adgmedia&utm_medium=display&utm_campaign=ultimasrebajasverano&utm_term=retargeting-oferta-mex&utm_content=the-sens-tulum-riviera&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "tcs": [
+            "141019",
+            "141020",
+            "141021",
+            "141022",
+            "141023",
+            "141024",
+            "141025",
+            "141026"
+        ],
+        "name": "oasis-mx_v1mp_ULTIMAS-REBAJAS_dis_rtg-1_GOT",
+        "landing": "https://oasishoteles.com/es/ofertas-especiales",
+        "aws_path_1": "OASIS/2024/08/rebajas/got/mx/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/es/ofertas-especiales?utm_source=adgmedia&utm_medium=display&utm_campaign=ultimasrebajasverano&utm_term=retargeting-oferta-mex&utm_content=the-sens-tulum-riviera&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "tcs": [
+            "141027",
+            "141028",
+            "141029",
+            "141030",
+            "141031",
+            "141032",
+            "141033",
+            "141034"
+        ],
+        "name": "oasis-mx_v1mp_ULTIMAS-REBAJAS_dis_rtg-1_PYR",
+        "landing": "https://oasishoteles.com/es/ofertas-especiales",
+        "aws_path_1": "OASIS/2024/08/rebajas/pyr/mx/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/es/ofertas-especiales?utm_source=adgmedia&utm_medium=display&utm_campaign=ultimasrebajasverano&utm_term=retargeting-oferta-mex&utm_content=the-pyramid-cancun&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "tcs": [
+            "141035",
+            "141036",
+            "141037",
+            "141038",
+            "141039",
+            "141040",
+            "141041",
+            "141042"
+        ],
+        "name": "oasis-mx_v1mp_ULTIMAS-REBAJAS_dis_rtg-1_OH&R",
+        "landing": "https://oasishoteles.com/es/ofertas-especiales",
+        "aws_path_1": "OASIS/2024/08/rebajas/oh&r/mx/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/es/ofertas-especiales?utm_source=adgmedia&utm_medium=display&utm_campaign=ultimasrebajasverano&utm_term=retargeting-oferta-mex&utm_content=corporativo&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "tcs": [
+            "141043",
+            "141044",
+            "141045",
+            "141046",
+            "141047",
+            "141048",
+            "141049",
+            "141050"
+        ],
+        "name": "oasis-us_v1mp_ULTIMAS-REBAJAS_dis_rtg-1_TSC",
+        "landing": "https://oasishoteles.com/en/special-offers",
+        "aws_path_1": "OASIS/2024/08/rebajas/tsc/us/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/en/special-offers?utm_source=adgmedia&utm_medium=display&utm_campaign=ultimasrebajasverano&utm_term=retargeting-oferta-usa&utm_content=the-sens-cancun&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "tcs": [
+            "141051",
+            "141052",
+            "141053",
+            "141054",
+            "141055",
+            "141056",
+            "141057",
+            "141058"
+        ],
+        "name": "oasis-us_v1mp_ULTIMAS-REBAJAS_dis_rtg-1_GOP",
+        "landing": "https://oasishoteles.com/en/special-offers",
+        "aws_path_1": "OASIS/2024/08/rebajas/gop/us/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/en/special-offers?utm_source=adgmedia&utm_medium=display&utm_campaign=ultimasrebajasverano&utm_term=retargeting-oferta-usa&utm_content=grand-oasis-palm&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "tcs": [
+            "141059",
+            "141060",
+            "141061",
+            "141062",
+            "141063",
+            "141064",
+            "141065",
+            "141066"
+        ],
+        "name": "oasis-us_v1mp_ULTIMAS-REBAJAS_dis_rtg-1_GOC",
+        "landing": "https://oasishoteles.com/en/special-offers",
+        "aws_path_1": "OASIS/2024/08/rebajas/goc/us/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/en/special-offers?utm_source=adgmedia&utm_medium=display&utm_campaign=ultimasrebajasverano&utm_term=retargeting-oferta-usa&utm_content=grand-oasis-cancun&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "tcs": [
+            "141067",
+            "141068",
+            "141069",
+            "141070",
+            "141071",
+            "141072",
+            "141073",
+            "141074"
+        ],
+        "name": "oasis-us_v1mp_ULTIMAS-REBAJAS_dis_prs-1_GOC",
+        "landing": "https://oasishoteles.com/en/special-offers",
+        "aws_path_1": "OASIS/2024/08/rebajas/goc/us/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/en/special-offers?utm_source=adgmedia&utm_medium=display&utm_campaign=ultimasrebajasverano&utm_term=prospecting-oferta-usa&utm_content=grand-oasis-cancun&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "tcs": [
+            "141075",
+            "141076",
+            "141077",
+            "141078",
+            "141079",
+            "141080",
+            "141081",
+            "141082"
+        ],
+        "name": "oasis-us_v1mp_ULTIMAS-REBAJAS_dis_rtg-1_TSTR",
+        "landing": "https://oasishoteles.com/en/special-offers",
+        "aws_path_1": "OASIS/2024/08/rebajas/tstr/us/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/en/special-offers?utm_source=adgmedia&utm_medium=display&utm_campaign=ultimasrebajasverano&utm_term=retargeting-oferta-usa&utm_content=the-sens-tulum-riviera&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "tcs": [
+            "141083",
+            "141084",
+            "141085",
+            "141086",
+            "141087",
+            "141088",
+            "141089",
+            "141090"
+        ],
+        "name": "oasis-us_v1mp_ULTIMAS-REBAJAS_dis_rtg-1_GOT",
+        "landing": "https://oasishoteles.com/en/special-offers",
+        "aws_path_1": "OASIS/2024/08/rebajas/got/us/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/en/special-offers?utm_source=adgmedia&utm_medium=display&utm_campaign=ultimasrebajasverano&utm_term=retargeting-oferta-usa&utm_content=the-sens-tulum-riviera&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "tcs": [
+            "141091",
+            "141092",
+            "141093",
+            "141094",
+            "141095",
+            "141096",
+            "141097",
+            "141098"
+        ],
+        "name": "oasis-us_v1mp_ULTIMAS-REBAJAS_dis_rtg-1_PYR",
+        "landing": "https://oasishoteles.com/en/special-offers",
+        "aws_path_1": "OASIS/2024/08/rebajas/pyr/us/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/en/special-offers?utm_source=adgmedia&utm_medium=display&utm_campaign=ultimasrebajasverano&utm_term=retargeting-oferta-usa&utm_content=the-pyramid-cancun&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "tcs": [
+            "141099",
+            "141100",
+            "141101",
+            "141102",
+            "141103",
+            "141104",
+            "141105",
+            "141106"
+        ],
+        "name": "oasis-us_v1mp_ULTIMAS-REBAJAS_dis_rtg-1_OH&R",
+        "landing": "https://oasishoteles.com/en/special-offers",
+        "aws_path_1": "OASIS/2024/08/rebajas/oh&r/us/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/en/special-offers?utm_source=adgmedia&utm_medium=display&utm_campaign=ultimasrebajasverano&utm_term=retargeting-oferta-usa&utm_content=corporativo&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc="
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "type": "link",
+        "sizes": ["300x250", "300x600", "728x90", "320x100", "970x250"],
+        "name": "ametller-origen-es_v1mp_AO-CATALUNA_dis_prs-1_FLASHDAYS-SEPT-ES",
+        "landing": "https://www.ametllerorigen.com/es/",
+        "aws_path_1": "ametller_origen/2024/09/standard/es/",
+        "aws_path_2": ".jpg",
+        "url": "https://www.ametllerorigen.com/es/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-cataluna&utm_term=FLASHDAYS-SEPT-ES",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ametller%20Origen.js?tc=",
+        "tcs": ["143269", "143270", "143271", "143272", "143273"],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "link",
+        "sizes": ["300x250", "300x600", "728x90", "320x100", "970x250"],
+        "name": "ametller-origen-es_v1mp_AO-CATALUNA_dis_rtg-1_FLASHDAYS-SEPT-ES",
+        "landing": "https://www.ametllerorigen.com/es/",
+        "aws_path_1": "ametller_origen/2024/09/standard/es/",
+        "aws_path_2": ".jpg",
+        "url": "https://www.ametllerorigen.com/es/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao-cataluna&utm_term=FLASHDAYS-SEPT-ES",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ametller%20Origen.js?tc=",
+        "tcs": ["143274", "143275", "143276", "143277", "143278"],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "link",
+        "sizes": ["300x250", "300x600", "728x90", "320x100", "970x250"],
+        "name": "ametller-origen-es_v1mp_AO-CATALUNA_dis_prs-1_FLASHDAYS-SEPT-CAT",
+        "landing": "https://www.ametllerorigen.com/ca/",
+        "aws_path_1": "ametller_origen/2024/09/standard/ca/",
+        "aws_path_2": ".jpg",
+        "url": "https://www.ametllerorigen.com/ca/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-cataluna&utm_term=FLASHDAYS-SEPT-CAT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ametller%20Origen.js?tc=",
+        "tcs": ["143279", "143280", "143281", "143282", "143283"],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "link",
+        "sizes": ["300x250", "300x600", "728x90", "320x100", "970x250"],
+        "name": "ametller-origen-es_v1mp_AO-CATALUNA_dis_rtg-1_FLASHDAYS-SEPT-CAT",
+        "landing": "https://www.ametllerorigen.com/ca/",
+        "aws_path_1": "ametller_origen/2024/09/standard/ca/",
+        "aws_path_2": ".jpg",
+        "url": "https://www.ametllerorigen.com/ca/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao-cataluna&utm_term=FLASHDAYS-SEPT-CAT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ametller%20Origen.js?tc=",
+        "tcs": ["143284", "143285", "143286", "143287", "143288"],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

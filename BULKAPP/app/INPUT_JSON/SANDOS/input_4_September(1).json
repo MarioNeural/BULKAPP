@@ -1,0 +1,306 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "320x100",
+            "300x250",
+            "970x250",
+            "300x600",
+            "160x600",
+            "728x90"
+        ],
+        "name": "sandos-mx_v1mp_VIVA-MEXICO_dis_prs-1_VIVA-MEXICO",
+        "landing": "https://www.sandos.com/es/viva-mexico",
+        "aws_path_1": "SANDOS/2024/09/mexico/prs/standard/mx/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.sandos.com/es/viva-mexico?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=viva-mexico&utm_term=VIVA-MEXICO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Sandos.js?tc=",
+        "tcs": [
+            "143491",
+            "143492",
+            "143493",
+            "143494",
+            "143495",
+            "143496"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "320x100",
+            "300x250",
+            "970x250",
+            "300x600",
+            "160x600",
+            "728x90"
+        ],
+        "name": "sandos-mx_v1mp_VIVA-MEXICO_dis_rtg-1_CANCUN",
+        "landing": "https://www.sandos.com/es/viva-mexico",
+        "aws_path_1": "SANDOS/2024/09/mexico/rtg/cancun/mx/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.sandos.com/es/viva-mexico?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=viva-mexico&utm_term=CANCUN",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Sandos.js?tc=",
+        "tcs": [
+            "143497",
+            "143498",
+            "143499",
+            "143500",
+            "143501",
+            "143502"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "320x100",
+            "300x250",
+            "970x250",
+            "300x600",
+            "160x600",
+            "728x90"
+        ],
+        "name": "sandos-mx_v1mp_VIVA-MEXICO_dis_rtg-1_CARACOL",
+        "landing": "https://www.sandos.com/es/viva-mexico",
+        "aws_path_1": "SANDOS/2024/09/mexico/rtg/caracol/mx/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.sandos.com/es/viva-mexico?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=viva-mexico&utm_term=CARACOL",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Sandos.js?tc=",
+        "tcs": [
+            "143503",
+            "143504",
+            "143505",
+            "143506",
+            "143507",
+            "143508"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "320x100",
+            "300x250",
+            "970x250",
+            "300x600",
+            "160x600",
+            "728x90"
+        ],
+        "name": "sandos-mx_v1mp_VIVA-MEXICO_dis_rtg-1_FINISTERRA",
+        "landing": "https://www.sandos.com/es/viva-mexico",
+        "aws_path_1": "SANDOS/2024/09/mexico/rtg/finisterra/mx/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.sandos.com/es/viva-mexico?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=viva-mexico&utm_term=FINISTERRA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Sandos.js?tc=",
+        "tcs": [
+            "143509",
+            "143510",
+            "143511",
+            "143512",
+            "143513",
+            "143514"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "320x100",
+            "300x250",
+            "970x250",
+            "300x600",
+            "160x600",
+            "728x90"
+        ],
+        "name": "sandos-mx_v1mp_VIVA-MEXICO_dis_rtg-1_PLAYACAR",
+        "landing": "https://www.sandos.com/es/viva-mexico",
+        "aws_path_1": "SANDOS/2024/09/mexico/rtg/playcar/mx/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.sandos.com/es/viva-mexico?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=viva-mexico&utm_term=PLAYACAR",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Sandos.js?tc=",
+        "tcs": [
+            "143515",
+            "143516",
+            "143517",
+            "143518",
+            "143519",
+            "143520"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "320x100",
+            "300x250",
+            "970x250",
+            "300x600",
+            "160x600",
+            "728x90"
+        ],
+        "name": "sandos-us_v1mp_VIVA-MEXICO_dis_prs-1_VIVA-MEXICO",
+        "landing": "https://www.sandos.com/viva-mexico",
+        "aws_path_1": "SANDOS/2024/09/mexico/prs/standard/us/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.sandos.com/viva-mexico?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=viva-mexico&utm_term=VIVA-MEXICO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Sandos.js?tc=",
+        "tcs": [
+            "143521",
+            "143522",
+            "143523",
+            "143524",
+            "143525",
+            "143526"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "320x100",
+            "300x250",
+            "970x250",
+            "300x600",
+            "160x600",
+            "728x90"
+        ],
+        "name": "sandos-us_v1mp_VIVA-MEXICO_dis_rtg-1_CANCUN",
+        "landing": "https://www.sandos.com/viva-mexico",
+        "aws_path_1": "SANDOS/2024/09/mexico/rtg/cancun/us/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.sandos.com/viva-mexico?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=viva-mexico&utm_term=CANCUN",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Sandos.js?tc=",
+        "tcs": [
+            "143527",
+            "143528",
+            "143529",
+            "143530",
+            "143531",
+            "143532"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "320x100",
+            "300x250",
+            "970x250",
+            "300x600",
+            "160x600",
+            "728x90"
+        ],
+        "name": "sandos-us_v1mp_VIVA-MEXICO_dis_rtg-1_CARACOL",
+        "landing": "https://www.sandos.com/viva-mexico",
+        "aws_path_1": "SANDOS/2024/09/mexico/rtg/caracol/us/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.sandos.com/viva-mexico?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=viva-mexico&utm_term=CARACOL",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Sandos.js?tc=",
+        "tcs": [
+            "143533",
+            "143534",
+            "143535",
+            "143536",
+            "143537",
+            "143538"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "320x100",
+            "300x250",
+            "970x250",
+            "300x600",
+            "160x600",
+            "728x90"
+        ],
+        "name": "sandos-us_v1mp_VIVA-MEXICO_dis_rtg-1_FINISTERRA",
+        "landing": "https://www.sandos.com/viva-mexico",
+        "aws_path_1": "SANDOS/2024/09/mexico/rtg/finisterra/us/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.sandos.com/viva-mexico?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=viva-mexico&utm_term=FINISTERRA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Sandos.js?tc=",
+        "tcs": [
+            "143539",
+            "143540",
+            "143541",
+            "143542",
+            "143543",
+            "143544"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "320x100",
+            "300x250",
+            "970x250",
+            "300x600",
+            "160x600",
+            "728x90"
+        ],
+        "name": "sandos-us_v1mp_VIVA-MEXICO_dis_rtg-1_PLAYACAR",
+        "landing": "https://www.sandos.com/viva-mexico",
+        "aws_path_1": "SANDOS/2024/09/mexico/rtg/playcar/us/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.sandos.com/viva-mexico?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=viva-mexico&utm_term=PLAYACAR",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Sandos.js?tc=",
+        "tcs": [
+            "143545",
+            "143546",
+            "143547",
+            "143548",
+            "143549",
+            "143550"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600"
+        ],
+        "name": "sandos-mx_v1mp_VIVA-MEXICO_dis_prs-1_STORYBANNER",
+        "landing": "https://www.sandos.com/es/viva-mexico",
+        "aws_path_1": "SANDOS/2024/09/mexico/prs/storybanner/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.sandos.com/es/viva-mexico?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=viva-mexico",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Sandos.js?tc=",
+        "tcs": [
+            "143551"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600"
+        ],
+        "name": "sandos-us_v1mp_VIVA-MEXICO_dis_prs-1_STORYBANNER",
+        "landing": "https://www.sandos.com/viva-mexico",
+        "aws_path_1": "SANDOS/2024/09/mexico/prs/storybanner/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.sandos.com/viva-mexico?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=viva-mexico",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Sandos.js?tc=",
+        "tcs": [
+            "143552"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

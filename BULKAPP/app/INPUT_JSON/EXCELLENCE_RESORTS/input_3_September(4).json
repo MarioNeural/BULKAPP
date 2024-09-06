@@ -1,0 +1,98 @@
+[
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "728x90",
+            "160x600"
+        ],
+        "name": "excellence-resorts-us_adg_FINEST-PUNTA-CANA_dis_rtg-22_AGO-24",
+        "landing": "https://a2.adform.net/C/?bn=75275674",
+        "aws_path_1": "EXCELLENCE_RESORTS/2024/09/standard/finest/punta/",
+        "aws_path_2": ".gif",
+        "url": "https://a2.adform.net/C/?bn=75275674",
+        "tcs": [],
+        "impression_tag": "<img src=https://a2.adform.net/adfserve/?bn=75275674;1x1inv=1;srctype=3;ord=[timestamp] border='0' width='1' height='1'/>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "728x90",
+            "160x600"
+        ],
+        "name": "excellence-resorts-us_adg_FINEST-PLAYA-MUJERES_dis_rtg-22_AGO-24",
+        "landing": "https://a2.adform.net/C/?bn=75275675",
+        "aws_path_1": "EXCELLENCE_RESORTS/2024/09/standard/finest/mujeres/",
+        "aws_path_2": ".gif",
+        "url": "https://a2.adform.net/C/?bn=75275675",
+        "tcs": [],
+        "impression_tag": "<img src=https://a2.adform.net/adfserve/?bn=75275675;1x1inv=1;srctype=3;ord=[timestamp] border='0' width='1' height='1'/>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "728x90",
+            "160x600"
+        ],
+        "name": "excellence-resorts-us_adg_EXCELLENCE-PUNTA-CANA_dis_rtg-22_AGO-24",
+        "landing": "https://a2.adform.net/C/?bn=75275678",
+        "aws_path_1": "EXCELLENCE_RESORTS/2024/09/standard/excellence/punta/",
+        "aws_path_2": ".gif",
+        "url": "https://a2.adform.net/C/?bn=75275678",
+        "tcs": [],
+        "impression_tag": "<img src=https://a2.adform.net/adfserve/?bn=75275678;1x1inv=1;srctype=3;ord=[timestamp] border='0' width='1' height='1'/>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "728x90",
+            "160x600"
+        ],
+        "name": "excellence-resorts-us_adg_EXCELLENCE-JAMAICA_dis_rtg-22_AGO-24",
+        "landing": "https://a2.adform.net/C/?bn=75275679",
+        "aws_path_1": "EXCELLENCE_RESORTS/2024/09/standard/excellence/jamaica/",
+        "aws_path_2": ".gif",
+        "url": "https://a2.adform.net/C/?bn=75275679",
+        "tcs": [],
+        "impression_tag": "<img src=https://a2.adform.net/adfserve/?bn=75275679;1x1inv=1;srctype=3;ord=[timestamp] border='0' width='1' height='1'/>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "728x90",
+            "160x600"
+        ],
+        "name": "excellence-resorts-us_adg_BELOVED-PLAYA-MUJERES_dis_rtg-22_AGO-24",
+        "landing": "https://a2.adform.net/C/?bn=75275632",
+        "aws_path_1": "EXCELLENCE_RESORTS/2024/09/standard/beloved/",
+        "aws_path_2": ".gif",
+        "url": "https://a2.adform.net/C/?bn=75275632",
+        "tcs": [],
+        "impression_tag": "<img src=https://a2.adform.net/adfserve/?bn=75275632;1x1inv=1;srctype=3;ord=[timestamp] border='0' width='1' height='1'/>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "728x90",
+            "160x600"
+        ],
+        "name": "excellence-resorts-us_adg_EXCELLENCE-CANCUN_dis_rtg-22_AGO-24",
+        "landing": "https://a2.adform.net/C/?bn=75275690",
+        "aws_path_1": "EXCELLENCE_RESORTS/2024/09/standard/excellence/cancun/",
+        "aws_path_2": ".gif",
+        "url": "https://a2.adform.net/C/?bn=75275690",
+        "tcs": [],
+        "impression_tag": "<img src=https://a2.adform.net/adfserve/?bn=75275690;1x1inv=1;srctype=3;ord=[timestamp] border='0' width='1' height='1'/>"
+    }
+]

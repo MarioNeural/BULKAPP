@@ -1,0 +1,35 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600"],
+        "name": "aecc-es_v1mp_AO-ECOMMERCE_dis-prem_prs-1_CARROUSSEL-BODAS",
+        "landing": "https://tienda.contraelcancer.es/eventos/tipo-de-evento/bodas/",
+        "aws_path_1": "AECC/2024/09/bodas/carroussel/",
+        "aws_path_2": "/index.html",
+        "link": "https://tienda.contraelcancer.es/eventos/tipo-de-evento/bodas/?utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=ao-ecommerce&utm_content=carroussel-bodas",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_AECC.js?tc=",
+        "tcs": ["143883", "143884"]
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600"],
+        "name": "aecc-es_v1mp_AO-ECOMMERCE_dis_prs-1_BODAS-ORGANICO",
+        "landing": "https://tienda.contraelcancer.es/eventos/tipo-de-evento/bodas/",
+        "aws_path_1": "AECC/2024/09/bodas/organico/",
+        "aws_path_2": "/index.html",
+        "link": "https://tienda.contraelcancer.es/eventos/tipo-de-evento/bodas/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-ecommerce&utm_content=bodas-organico",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_AECC.js?tc=",
+        "tcs": ["143885", "143886"]
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600"],
+        "name": "aecc-es_v1mp_AO-ECOMMERCE_dis_rtg-1_BODAS-ORGANICO",
+        "landing": "https://tienda.contraelcancer.es/eventos/tipo-de-evento/bodas/",
+        "aws_path_1": "AECC/2024/09/bodas/organico/",
+        "aws_path_2": "/index.html",
+        "link": "https://tienda.contraelcancer.es/eventos/tipo-de-evento/bodas/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao-ecommerce&utm_content=bodas-organico",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_AECC.js?tc=",
+        "tcs": ["143887", "143888"]
+    }
+]

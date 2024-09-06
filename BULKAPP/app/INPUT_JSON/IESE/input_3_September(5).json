@@ -1,0 +1,110 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "320x100",
+            "970x250",
+            "160x600",
+            "728x90"
+        ],
+        "name": "iese-eu_v1mp_DEG-MIM-DEMAND-GEN-DISPLAY-GOOGLE-ONLINE-PAID-24-25-EN_dis_prs-1_DB-V1",
+        "landing": "https://formscloud.iese.edu/landings-mim/",
+        "aws_path_1": "IESE/2024/09/degree_online/",
+        "aws_path_2": "/index.html",
+        "link": "https://formscloud.iese.edu/landings-mim/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=deg-mim-demand-gen-display-google-online-paid-24-25-en&utm_term=db-v1",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_IESE%20Business%20School.js?tc=",
+        "tcs": [
+            "143236",
+            "143237",
+            "143238",
+            "143239",
+            "143240",
+            "143241"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "320x100",
+            "970x250",
+            "160x600",
+            "728x90"
+        ],
+        "name": "iese-eu_v1mp_DEG-MIM-DEMAND-GEN-DISPLAY-GOOGLE-ONLINE-PAID-24-25-EN_dis_rtg-1_DB-V1",
+        "landing": "https://formscloud.iese.edu/landings-mim/",
+        "aws_path_1": "IESE/2024/09/degree_online/",
+        "aws_path_2": "/index.html",
+        "link": "https://formscloud.iese.edu/landings-mim/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=deg-mim-demand-gen-display-google-online-paid-24-25-en&utm_term=db-v1",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_IESE%20Business%20School.js?tc=",
+        "tcs": [
+            "143242",
+            "143243",
+            "143244",
+            "143245",
+            "143246",
+            "143247"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "320x100",
+            "970x250",
+            "160x600",
+            "728x90"
+        ],
+        "name": "iese-eu_v1mp_DEG-MIM-DEMAND-GEN-DISPLAY-GOOGLE-ONLINE-PAID-24-25-EN_dis_prs-1_DB-V2",
+        "landing": "https://formscloud.iese.edu/landings-mim/",
+        "aws_path_1": "IESE/2024/09/degree_online/",
+        "aws_path_2": "/index.html",
+        "link": "https://formscloud.iese.edu/landings-mim/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=deg-mim-demand-gen-display-google-online-paid-24-25-en&utm_term=db-v2",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_IESE%20Business%20School.js?tc=",
+        "tcs": [
+            "143248",
+            "143249",
+            "143250",
+            "143251",
+            "143252",
+            "143253"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "320x100",
+            "970x250",
+            "160x600",
+            "728x90"
+        ],
+        "name": "iese-eu_v1mp_DEG-MIM-DEMAND-GEN-DISPLAY-GOOGLE-ONLINE-PAID-24-25-EN_dis_rtg-1_DB-V2",
+        "landing": "https://formscloud.iese.edu/landings-mim/",
+        "aws_path_1": "IESE/2024/09/degree_online/",
+        "aws_path_2": "/index.html",
+        "link": "https://formscloud.iese.edu/landings-mim/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=deg-mim-demand-gen-display-google-online-paid-24-25-en&utm_term=db-v2",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_IESE%20Business%20School.js?tc=",
+        "tcs": [
+            "143254",
+            "143255",
+            "143256",
+            "143257",
+            "143258",
+            "143259"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

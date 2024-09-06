@@ -52,6 +52,9 @@ advertiser_number_map = {
     'Zafiro Hoteles': 148,
     'Inseryal': 401,
     'IESE': 402,
+    'Hoteles Poseidón': 395,
+    'Megacentro': 362,
+    'H10': 34,
     # Agrega más anunciantes según sea necesario
 }
 
@@ -62,7 +65,9 @@ def load_data():
     df = pd.read_csv(StringIO(input_data), sep='\t')
     df.columns = [col.lower() for col in df.columns]
     df = df[df['trackingcode'].notna() & (df['trackingcode'] != '')]
+    df = df.applymap(lambda x: '' if pd.isna(x) else str(x))  
     return df
+
 
 load_dotenv()
 
@@ -84,7 +89,7 @@ def load_taxonomy(advertiser):
     return pd.read_csv(StringIO(obj['Body'].read().decode('utf-8')), sep=';')
 
 def find_id_or_name(column, value, mapping_dicts, missing_elements, default=''):
-    """Busca el ID en el diccionario de mapeo, si no lo encuentra devuelve el nombre."""
+    """Busca el ID en el diccionario de mapeo, si no lo encuentra devuelve el nombre o el valor predeterminado."""
     if pd.isna(value) or value == '':
         return default
 
@@ -93,21 +98,17 @@ def find_id_or_name(column, value, mapping_dicts, missing_elements, default=''):
 
     if column == 'strategy':
         id_col = mapping_dicts.get('strategy_name', {}).get(name, default)
-    elif column == 'campaign':
+    else:
         id_col = mapping_dicts.get(column, {}).get(name, '')
         if not id_col:
             id_col = mapping_dicts.get(column + '_name', {}).get(name, default)
-    elif column == 'lineitem':
-        id_col = mapping_dicts.get('lineitem_name', {}).get(name, default)  # Asegúrate de usar 'lineitem_name'
-        if not id_col:
-            return name  # Devuelve el nombre tal cual si no se encuentra el ID
-    else:
-        id_col = mapping_dicts.get(column + '_name', {}).get(name, default)
+        if not id_col:  # Si no se encuentra el ID, devolver el nombre sin agregar a missing_elements
+            return name  # Devolver el nombre de la campaña o lineitem para que se guarde en la columna correspondiente
 
     if not id_col or id_col == default:
-        if column != 'lineitem':
+        if column not in ['campaign', 'lineitem']:
             missing_elements.add((column, name))
-        return name  
+        return name
 
     id_col = str(id_col)
     return str(int(float(id_col))) if id_col.replace('.', '', 1).isdigit() else id_col
@@ -218,9 +219,6 @@ def main():
         id_col = taxonomy_df.columns[i+1]
         mapping_dicts[name_col] = dict(zip(taxonomy_df[name_col].astype(str).str.lower(), taxonomy_df[id_col]))
 
-    # Depuración: imprimir el mapeo de lineitem_name
-    print("Lineitem Name Mapping:", mapping_dicts.get('lineitem_name'))
-
     crear_tcs_file_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data', 'CrearTcs.csv')
     
     if os.path.exists(crear_tcs_file_path):
@@ -251,10 +249,18 @@ def main():
             campaign_value = str(row.get('campaign name', '')).strip()
         else:
             campaign_value = str(row.get('campaign', '')).strip()
-        new_row['campaign_id'] = find_id_or_name('campaign', campaign_value, mapping_dicts, missing_elements, campaign_value)
         
-        lineitem_id = find_id_or_name('lineitem', lineitem_cleaned, mapping_dicts, set(), lineitem_cleaned)
-        print(f"Lineitem Cleaned: {lineitem_cleaned}, Lineitem ID: {lineitem_id}")  # Depuración
+        campaign_id_or_name = find_id_or_name('campaign', campaign_value, mapping_dicts, missing_elements, campaign_value)
+        
+        # Aquí corregimos para que si no se encuentra el ID, el nombre se quede en `campaign` y `campaign_id` se mantenga vacío
+        if not campaign_id_or_name.isdigit():  # No se encontró un ID válido
+            new_row['campaign'] = campaign_id_or_name
+            new_row['campaign_id'] = ''
+        else:  # Si se encuentra el ID, se almacena en `campaign_id`
+            new_row['campaign'] = ''
+            new_row['campaign_id'] = campaign_id_or_name
+
+        lineitem_id = find_id_or_name('lineitem', lineitem_cleaned, mapping_dicts, missing_elements, lineitem_cleaned)
         if lineitem_id == lineitem_cleaned or not lineitem_id.isdigit():
             new_row['new_lineitem_name'] = lineitem_cleaned
             new_row['lineitem_id'] = ''
@@ -277,13 +283,16 @@ def main():
         new_rows.append(new_row)
 
     new_crear_tcs_df = pd.DataFrame(new_rows, columns=crear_tcs_df.columns)
+    new_crear_tcs_df = new_crear_tcs_df.applymap(lambda x: '' if pd.isna(x) or str(x).strip().lower() == 'nan' else str(x))
+
 
     if missing_elements:
         manual_inputs = get_manual_inputs(missing_elements)
         for (col, name), manual_id in manual_inputs.items():
-            new_crear_tcs_df.loc[new_crear_tcs_df[f"{col}_id"] == name, f"{col}_id"] = manual_id
+            new_crear_tcs_df.loc[new_crear_tcs_df[f"{col}_id"] == name, f"{col}_id"] = str(manual_id)
 
-    new_crear_tcs_df = new_crear_tcs_df.applymap(lambda x: '' if pd.isna(x) or str(x).strip().lower() == 'nan' else x)
+
+    new_crear_tcs_df = new_crear_tcs_df.applymap(lambda x: '' if pd.isna(x) or str(x).strip().lower() == 'nan' else str(x))
 
     new_crear_tcs_df.to_csv(crear_tcs_file_path, index=False, sep=';')
 

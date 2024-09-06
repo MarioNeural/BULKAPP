@@ -1,0 +1,458 @@
+[
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "name": "oasis-us_v1mp_VIVA-MEXICO_dis_prs-1_PERSONA-GOC",
+        "landing": "https://oasishoteles.com/en/special-offers",
+        "aws_path_1": "OASIS/2024/09/mexico/us/goc/persona/",
+        "aws_path_2": "/index.html",
+        "url": "https://oasishoteles.com/en/special-offers?utm_source=adgmedia&utm_medium=display&utm_campaign=independenciamexico&utm_term=prospecting-oferta-usa&utm_content=grand-oasis-cancun&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "143348",
+            "143349",
+            "143350",
+            "143351",
+            "143352",
+            "143353",
+            "143354",
+            "143355"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "name": "oasis-us_v1mp_VIVA-MEXICO_dis_rtg-1_PERSONA-GOC",
+        "landing": "https://oasishoteles.com/en/special-offers",
+        "aws_path_1": "OASIS/2024/09/mexico/us/goc/persona/",
+        "aws_path_2": "/index.html",
+        "url": "https://oasishoteles.com/en/special-offers?utm_source=adgmedia&utm_medium=display&utm_campaign=independenciamexico&utm_term=retargeting-oferta-usa&utm_content=grand-oasis-cancun&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "143356",
+            "143357",
+            "143358",
+            "143359",
+            "143360",
+            "143361",
+            "143362",
+            "143363"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "name": "oasis-us_v1mp_VIVA-MEXICO_dis_prs-1_PAREJA-GOC",
+        "landing": "https://oasishoteles.com/en/special-offers",
+        "aws_path_1": "OASIS/2024/09/mexico/us/goc/pareja/",
+        "aws_path_2": "/index.html",
+        "url": "https://oasishoteles.com/en/special-offers?utm_source=adgmedia&utm_medium=display&utm_campaign=independenciamexico&utm_term=prospecting-oferta-usa&utm_content=grand-oasis-cancun&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "143364",
+            "143365",
+            "143366",
+            "143367",
+            "143369",
+            "143370",
+            "143371"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "name": "oasis-us_v1mp_VIVA-MEXICO_dis_rtg-1_PAREJA-GOC",
+        "landing": "https://oasishoteles.com/en/special-offers",
+        "aws_path_1": "OASIS/2024/09/mexico/us/goc/pareja/",
+        "aws_path_2": "/index.html",
+        "url": "https://oasishoteles.com/en/special-offers?utm_source=adgmedia&utm_medium=display&utm_campaign=independenciamexico&utm_term=retargeting-oferta-usa&utm_content=grand-oasis-cancun&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "143372",
+            "143373",
+            "143374",
+            "143375",
+            "143377",
+            "143378",
+            "143379"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "name": "oasis-us_v1mp_VIVA-MEXICO_dis_prs-1_PERSONA-GOT",
+        "landing": "https://oasishoteles.com/en/special-offers",
+        "aws_path_1": "OASIS/2024/09/mexico/us/got/persona/",
+        "aws_path_2": "/index.html",
+        "url": "https://oasishoteles.com/en/special-offers?utm_source=adgmedia&utm_medium=display&utm_campaign=independenciamexico&utm_term=prospecting-oferta-usa&utm_content=grand-oasis-tulum-riviera&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "143380",
+            "143381",
+            "143382",
+            "143383",
+            "143384",
+            "143385",
+            "143386",
+            "143387"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "name": "oasis-us_v1mp_VIVA-MEXICO_dis_rtg-1_PERSONA-GOT",
+        "landing": "https://oasishoteles.com/en/special-offers",
+        "aws_path_1": "OASIS/2024/09/mexico/us/got/persona/",
+        "aws_path_2": "/index.html",
+        "url": "https://oasishoteles.com/en/special-offers?utm_source=adgmedia&utm_medium=display&utm_campaign=independenciamexico&utm_term=retargeting-oferta-usa&utm_content=grand-oasis-tulum-riviera&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "143388",
+            "143389",
+            "143390",
+            "143391",
+            "143392",
+            "143393",
+            "143394",
+            "143395"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "name": "oasis-us_v1mp_VIVA-MEXICO_dis_prs-1_PAREJA-GOT",
+        "landing": "https://oasishoteles.com/en/special-offers",
+        "aws_path_1": "OASIS/2024/09/mexico/us/got/pareja/",
+        "aws_path_2": "/index.html",
+        "url": "https://oasishoteles.com/en/special-offers?utm_source=adgmedia&utm_medium=display&utm_campaign=independenciamexico&utm_term=prospecting-oferta-usa&utm_content=grand-oasis-tulum-riviera&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "143396",
+            "143397",
+            "143398",
+            "143399",
+            "143400",
+            "143401",
+            "143402",
+            "143403"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "name": "oasis-us_v1mp_VIVA-MEXICO_dis_rtg-1_PAREJA-GOT",
+        "landing": "https://oasishoteles.com/en/special-offers",
+        "aws_path_1": "OASIS/2024/09/mexico/us/got/pareja/",
+        "aws_path_2": "/index.html",
+        "url": "https://oasishoteles.com/en/special-offers?utm_source=adgmedia&utm_medium=display&utm_campaign=independenciamexico&utm_term=retargeting-oferta-usa&utm_content=grand-oasis-tulum-riviera&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "143404",
+            "143405",
+            "143406",
+            "143407",
+            "143408",
+            "143409",
+            "143410",
+            "143411"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "name": "oasis-mx_v1mp_VIVA-MEXICO_dis_prs-1_PERSONA-GOC",
+        "landing": "https://oasishoteles.com/es/ofertas-especiales",
+        "aws_path_1": "OASIS/2024/09/mexico/mx/goc/persona/",
+        "aws_path_2": "/index.html",
+        "url": "https://oasishoteles.com/es/ofertas-especiales?utm_source=adgmedia&utm_medium=display&utm_campaign=independenciamexico&utm_term=prospecting-oferta-mex&utm_content=grand-oasis-cancun&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "143412",
+            "143413",
+            "143414",
+            "143415",
+            "143416",
+            "143417",
+            "143418",
+            "143419"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "name": "oasis-mx_v1mp_VIVA-MEXICO_dis_rtg-1_PERSONA-GOC",
+        "landing": "https://oasishoteles.com/es/ofertas-especiales",
+        "aws_path_1": "OASIS/2024/09/mexico/mx/goc/persona/",
+        "aws_path_2": "/index.html",
+        "url": "https://oasishoteles.com/es/ofertas-especiales?utm_source=adgmedia&utm_medium=display&utm_campaign=independenciamexico&utm_term=retargeting-oferta-mex&utm_content=grand-oasis-cancun&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "143420",
+            "143421",
+            "143422",
+            "143423",
+            "143424",
+            "143425",
+            "143426",
+            "143427"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "name": "oasis-mx_v1mp_VIVA-MEXICO_dis_prs-1_PAREJA-GOC",
+        "landing": "https://oasishoteles.com/es/ofertas-especiales",
+        "aws_path_1": "OASIS/2024/09/mexico/mx/goc/pareja/",
+        "aws_path_2": "/index.html",
+        "url": "https://oasishoteles.com/es/ofertas-especiales?utm_source=adgmedia&utm_medium=display&utm_campaign=independenciamexico&utm_term=prospecting-oferta-mex&utm_content=grand-oasis-cancun&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "143428",
+            "143429",
+            "143430",
+            "143431",
+            "143433",
+            "143434",
+            "143435"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "name": "oasis-mx_v1mp_VIVA-MEXICO_dis_rtg-1_PAREJA-GOC",
+        "landing": "https://oasishoteles.com/es/ofertas-especiales",
+        "aws_path_1": "OASIS/2024/09/mexico/mx/goc/pareja/",
+        "aws_path_2": "/index.html",
+        "url": "https://oasishoteles.com/es/ofertas-especiales?utm_source=adgmedia&utm_medium=display&utm_campaign=independenciamexico&utm_term=retargeting-oferta-mex&utm_content=grand-oasis-cancun&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "143436",
+            "143437",
+            "143438",
+            "143439",
+            "143441",
+            "143442",
+            "143443"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "name": "oasis-mx_v1mp_VIVA-MEXICO_dis_prs-1_PERSONA-GOT",
+        "landing": "https://oasishoteles.com/es/ofertas-especiales",
+        "aws_path_1": "OASIS/2024/09/mexico/mx/got/persona/",
+        "aws_path_2": "/index.html",
+        "url": "https://oasishoteles.com/es/ofertas-especiales?utm_source=adgmedia&utm_medium=display&utm_campaign=independenciamexico&utm_term=prospecting-oferta-mex&utm_content=grand-oasis-cancun&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "143444",
+            "143445",
+            "143446",
+            "143447",
+            "143448",
+            "143449",
+            "143450",
+            "143451"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "name": "oasis-mx_v1mp_VIVA-MEXICO_dis_rtg-1_PERSONA-GOT",
+        "landing": "https://oasishoteles.com/es/ofertas-especiales",
+        "aws_path_1": "OASIS/2024/09/mexico/mx/got/persona/",
+        "aws_path_2": "/index.html",
+        "url": "https://oasishoteles.com/es/ofertas-especiales?utm_source=adgmedia&utm_medium=display&utm_campaign=independenciamexico&utm_term=retargeting-oferta-mex&utm_content=grand-oasis-cancun&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "143452",
+            "143453",
+            "143454",
+            "143455",
+            "143456",
+            "143457",
+            "143458",
+            "143459"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "name": "oasis-mx_v1mp_VIVA-MEXICO_dis_prs-1_PAREJA-GOT",
+        "landing": "https://oasishoteles.com/es/ofertas-especiales",
+        "aws_path_1": "OASIS/2024/09/mexico/mx/got/pareja/",
+        "aws_path_2": "/index.html",
+        "url": "https://oasishoteles.com/es/ofertas-especiales?utm_source=adgmedia&utm_medium=display&utm_campaign=independenciamexico&utm_term=prospecting-oferta-mex&utm_content=grand-oasis-cancun&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "143460",
+            "143461",
+            "143462",
+            "143463",
+            "143464",
+            "143465",
+            "143466",
+            "143467"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "name": "oasis-mx_v1mp_VIVA-MEXICO_dis_rtg-1_PAREJA-GOT",
+        "landing": "https://oasishoteles.com/es/ofertas-especiales",
+        "aws_path_1": "OASIS/2024/09/mexico/mx/got/pareja/",
+        "aws_path_2": "/index.html",
+        "url": "https://oasishoteles.com/es/ofertas-especiales?utm_source=adgmedia&utm_medium=display&utm_campaign=independenciamexico&utm_term=retargeting-oferta-mex&utm_content=grand-oasis-cancun&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "143468",
+            "143469",
+            "143470",
+            "143471",
+            "143472",
+            "143473",
+            "143474",
+            "143475"
+        ]
+    }
+]

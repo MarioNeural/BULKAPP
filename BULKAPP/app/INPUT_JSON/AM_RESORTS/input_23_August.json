@@ -1,0 +1,724 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "141591",
+            "141592"
+        ],
+        "name": "amresorts-gb_v1mp_AO-ZOETRY_dis_prs-1_WAW_SEPTIEMBRE_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/08/waw/premium/zoetry/countdown/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-zoetry&utm_term=WAW_Septiembre_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "141593",
+            "141594"
+        ],
+        "name": "amresorts-gb_v1mp_AO-ALUA_dis_prs-1_WAW_SEPTIEMBRE_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/08/waw/premium/alua/countdown/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-alua&utm_term=WAW_Septiembre_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "141595",
+            "141596"
+        ],
+        "name": "amresorts-gb_v1mp_AO-DREAMS_dis_prs-1_WAW_SEPTIEMBRE_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/08/waw/premium/dreams/countdown/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-dreams&utm_term=WAW_Septiembre_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "141597",
+            "141598"
+        ],
+        "name": "amresorts-gb_v1mp_AO-SECRETS_dis_prs-1_WAW_SEPTIEMBRE_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/08/waw/premium/secrets/countdown/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-secrets&utm_term=WAW_Septiembre_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "141599",
+            "141600"
+        ],
+        "name": "amresorts-de_v1mp_AO-ZOETRY_dis_prs-1_WAW_SEPTIEMBRE_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/de-de/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/08/waw/premium/zoetry/countdown/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/de-de/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-zoetry&utm_term=WAW_Septiembre_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "141601",
+            "141602"
+        ],
+        "name": "amresorts-de_v1mp_AO-ALUA_dis_prs-1_WAW_SEPTIEMBRE_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/de-de/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/08/waw/premium/alua/countdown/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/de-de/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-alua&utm_term=WAW_Septiembre_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "141603",
+            "141604"
+        ],
+        "name": "amresorts-de_v1mp_AO-DREAMS_dis_prs-1_WAW_SEPTIEMBRE_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/de-de/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/08/waw/premium/dreams/countdown/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/de-de/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-dreams&utm_term=WAW_Septiembre_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "141605",
+            "141606"
+        ],
+        "name": "amresorts-de_v1mp_AO-SECRETS_dis_prs-1_WAW_SEPTIEMBRE_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/de-de/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/08/waw/premium/secrets/countdown/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/de-de/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-secrets&utm_term=WAW_Septiembre_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "141607",
+            "141608"
+        ],
+        "name": "amresorts-fr_v1mp_AO-ALUA_dis_prs-1_WAW_SEPTIEMBRE_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/fr-fr/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/08/waw/premium/alua/countdown/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/fr-fr/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-alua&utm_term=WAW_Septiembre_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "141609",
+            "141610"
+        ],
+        "name": "amresorts-fr_v1mp_AO-DREAMS_dis_prs-1_WAW_SEPTIEMBRE_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/fr-fr/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/08/waw/premium/dreams/countdown/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/fr-fr/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-dreams&utm_term=WAW_Septiembre_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "141611",
+            "141612"
+        ],
+        "name": "amresorts-fr_v1mp_AO-SECRETS_dis_prs-1_WAW_SEPTIEMBRE_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/fr-fr/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/08/waw/premium/secrets/countdown/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/fr-fr/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-secrets&utm_term=WAW_Septiembre_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "141613",
+            "141614"
+        ],
+        "name": "amresorts-es_v1mp_AO-SECRETS_dis_prs-1_WAW_SEPTIEMBRE_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/es-es/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/08/waw/premium/secrets/countdown/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/es-es/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-secrets&utm_term=WAW_Septiembre_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "141615",
+            "141616"
+        ],
+        "name": "amresorts-es_v1mp_AO-ALUA_dis_prs-1_WAW_SEPTIEMBRE_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/es-es/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/08/waw/premium/alua/countdown/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/es-es/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-alua&utm_term=WAW_Septiembre_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "141617",
+            "141618"
+        ],
+        "name": "amresorts-es_v1mp_AO-DREAMS_dis_prs-1_WAW_SEPTIEMBRE_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/es-es/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/08/waw/premium/dreams/countdown/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/es-es/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-dreams&utm_term=WAW_Septiembre_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "141619",
+            "141620"
+        ],
+        "name": "amresorts-es_v1mp_AO-ZOETRY_dis_prs-1_WAW_SEPTIEMBRE_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/es-es/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/08/waw/premium/zoetry/countdown/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/es-es/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-zoetry&utm_term=WAW_Septiembre_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "141621",
+            "141622"
+        ],
+        "name": "amresorts-pt_v1mp_DREAMS-MADEIRA_dis_prs-1_WAW_SEPTIEMBRE_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend-pt",
+        "aws_path_1": "AM_RESORTS/2024/08/waw/premium/madeira/countdown/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend-pt?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=DREAMS-MADEIRA&utm_term=WAW_Septiembre_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "141623",
+            "141624"
+        ],
+        "name": "amresorts-de_v1mp_DREAMS-MADEIRA_dis_prs-1_WAW_SEPTIEMBRE_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/de-de/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/08/waw/premium/madeira/countdown/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/de-de/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=DREAMS-MADEIRA&utm_term=WAW_Septiembre_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "141625",
+            "141626"
+        ],
+        "name": "amresorts-es_v1mp_DREAMS-MADEIRA_dis_prs-1_WAW_SEPTIEMBRE_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/es-es/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/08/waw/premium/madeira/countdown/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/es-es/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=DREAMS-MADEIRA&utm_term=WAW_Septiembre_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "141627",
+            "141628"
+        ],
+        "name": "amresorts-gb_v1mp_DREAMS-MADEIRA_dis_prs-1_WAW_SEPTIEMBRE_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/08/waw/premium/madeira/countdown/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=DREAMS-MADEIRA&utm_term=WAW_Septiembre_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "141629",
+            "141630"
+        ],
+        "name": "amresorts-gb_v1mp_AO-ZOETRY_dis_prs-1_WAW_SEPTIEMBRE_SCRATCHER",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/08/waw/premium/zoetry/scratcher/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-zoetry&utm_term=WAW_Septiembre_Scratcher",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "141631",
+            "141632"
+        ],
+        "name": "amresorts-gb_v1mp_AO-ALUA_dis_prs-1_WAW_SEPTIEMBRE_SCRATCHER",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/08/waw/premium/alua/scratcher/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-alua&utm_term=WAW_Septiembre_Scratcher",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "141633",
+            "141634"
+        ],
+        "name": "amresorts-gb_v1mp_AO-DREAMS_dis_prs-1_WAW_SEPTIEMBRE_SCRATCHER",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/08/waw/premium/dreams/scratcher/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-dreams&utm_term=WAW_Septiembre_Scratcher",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "141635",
+            "141636"
+        ],
+        "name": "amresorts-gb_v1mp_AO-SECRETS_dis_prs-1_WAW_SEPTIEMBRE_SCRATCHER",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/08/waw/premium/secrets/scratcher/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-secrets&utm_term=WAW_Septiembre_Scratcher",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "141637",
+            "141638"
+        ],
+        "name": "amresorts-de_v1mp_AO-ZOETRY_dis_prs-1_WAW_SEPTIEMBRE_SCRATCHER",
+        "landing": "https://resorts.hyattinclusivecollection.com/de-de/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/08/waw/premium/zoetry/scratcher/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/de-de/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-zoetry&utm_term=WAW_Septiembre_Scratcher",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "141639",
+            "141640"
+        ],
+        "name": "amresorts-de_v1mp_AO-ALUA_dis_prs-1_WAW_SEPTIEMBRE_SCRATCHER",
+        "landing": "https://resorts.hyattinclusivecollection.com/de-de/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/08/waw/premium/alua/scratcher/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/de-de/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-alua&utm_term=WAW_Septiembre_Scratcher",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "141641",
+            "141642"
+        ],
+        "name": "amresorts-de_v1mp_AO-DREAMS_dis_prs-1_WAW_SEPTIEMBRE_SCRATCHER",
+        "landing": "https://resorts.hyattinclusivecollection.com/de-de/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/08/waw/premium/dreams/scratcher/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/de-de/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-dreams&utm_term=WAW_Septiembre_Scratcher",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "141643",
+            "141644"
+        ],
+        "name": "amresorts-de_v1mp_AO-SECRETS_dis_prs-1_WAW_SEPTIEMBRE_SCRATCHER",
+        "landing": "https://resorts.hyattinclusivecollection.com/de-de/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/08/waw/premium/secrets/scratcher/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/de-de/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-secrets&utm_term=WAW_Septiembre_Scratcher",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "141645",
+            "141646"
+        ],
+        "name": "amresorts-fr_v1mp_AO-ALUA_dis_prs-1_WAW_SEPTIEMBRE_SCRATCHER",
+        "landing": "https://resorts.hyattinclusivecollection.com/fr-fr/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/08/waw/premium/alua/scratcher/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/fr-fr/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-alua&utm_term=WAW_Septiembre_Scratcher",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "141647",
+            "141648"
+        ],
+        "name": "amresorts-fr_v1mp_AO-DREAMS_dis_prs-1_WAW_SEPTIEMBRE_SCRATCHER",
+        "landing": "https://resorts.hyattinclusivecollection.com/fr-fr/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/08/waw/premium/dreams/scratcher/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/fr-fr/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-dreams&utm_term=WAW_Septiembre_Scratcher",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "141649",
+            "141650"
+        ],
+        "name": "amresorts-fr_v1mp_AO-SECRETS_dis_prs-1_WAW_SEPTIEMBRE_SCRATCHER",
+        "landing": "https://resorts.hyattinclusivecollection.com/fr-fr/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/08/waw/premium/secrets/scratcher/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/fr-fr/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-secrets&utm_term=WAW_Septiembre_Scratcher",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "141651",
+            "141652"
+        ],
+        "name": "amresorts-es_v1mp_AO-ZOETRY_dis_prs-1_WAW_SEPTIEMBRE_SCRATCHER",
+        "landing": "https://resorts.hyattinclusivecollection.com/es-es/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/08/waw/premium/zoetry/scratcher/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/es-es/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-zoetry&utm_term=WAW_Septiembre_Scratcher",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "141653",
+            "141654"
+        ],
+        "name": "amresorts-es_v1mp_AO-DREAMS_dis_prs-1_WAW_SEPTIEMBRE_SCRATCHER",
+        "landing": "https://resorts.hyattinclusivecollection.com/es-es/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/08/waw/premium/dreams/scratcher/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/es-es/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-dreams&utm_term=WAW_Septiembre_Scratcher",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "141655",
+            "141656"
+        ],
+        "name": "amresorts-es_v1mp_AO-ALUA_dis_prs-1_WAW_SEPTIEMBRE_SCRATCHER",
+        "landing": "https://resorts.hyattinclusivecollection.com/es-es/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/08/waw/premium/alua/scratcher/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/es-es/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-alua&utm_term=WAW_Septiembre_Scratcher",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "141657",
+            "141658"
+        ],
+        "name": "amresorts-es_v1mp_AO-SECRETS_dis_prs-1_WAW_SEPTIEMBRE_SCRATCHER",
+        "landing": "https://resorts.hyattinclusivecollection.com/es-es/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/08/waw/premium/secrets/scratcher/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/es-es/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-secrets&utm_term=WAW_Septiembre_Scratcher",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "141659",
+            "141660"
+        ],
+        "name": "amresorts-es_v1mp_DREAMS-MADEIRA_dis_prs-1_WAW_SEPTIEMBRE_SCRATCHER",
+        "landing": "https://resorts.hyattinclusivecollection.com/es-es/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/08/waw/premium/madeira/scratcher/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/es-es/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=DREAMS-MADEIRA&utm_term=WAW_Septiembre_Scratcher",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "141661",
+            "141662"
+        ],
+        "name": "amresorts-gb_v1mp_DREAMS-MADEIRA_dis_prs-1_WAW_SEPTIEMBRE_SCRATCHER",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/08/waw/premium/madeira/scratcher/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=DREAMS-MADEIRA&utm_term=WAW_Septiembre_Scratcher",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "141663",
+            "141664"
+        ],
+        "name": "amresorts-de_v1mp_DREAMS-MADEIRA_dis_prs-1_WAW_SEPTIEMBRE_SCRATCHER",
+        "landing": "https://resorts.hyattinclusivecollection.com/de-de/what-a-weekend",
+        "aws_path_1": "AM_RESORTS/2024/08/waw/premium/madeira/scratcher/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/de-de/what-a-weekend?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=DREAMS-MADEIRA&utm_term=WAW_Septiembre_Scratcher",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "tcs": [
+            "141665",
+            "141666"
+        ],
+        "name": "amresorts-pt_v1mp_DREAMS-MADEIRA_dis_prs-1_WAW_SEPTIEMBRE_SCRATCHER",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend-pt",
+        "aws_path_1": "AM_RESORTS/2024/08/waw/premium/madeira/scratcher/pt/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/en-uk/what-a-weekend-pt?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=DREAMS-MADEIRA&utm_term=WAW_Septiembre_Scratcher",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

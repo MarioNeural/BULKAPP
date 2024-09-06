@@ -1,0 +1,29 @@
+[
+    {
+        "type": "link",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "300x250",
+            "160x600",
+            "320x50",
+            "728x90"
+        ],
+        "tcs": [
+            "141109",
+            "141110",
+            "141111",
+            "141112",
+            "141113",
+            "141114"
+        ],
+        "name": "petit-celler-es_imp_ALWAYS-ON_dis_prs-1_MARIMAR-ESTATE-10",
+        "landing": "https://www.petitceller.com/es/vino/marimar-estate",
+        "aws_path_1": "PETIT_CELLER/2024/08/marimar/",
+        "aws_path_2": ".jpg",
+        "url": "https://www.petitceller.com/es/vino/marimar-estate?utm_source=programatica&utm_medium=display&utm_campaign=always-on&utm_term=MARIMAR-ESTATE-10",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Excelsia.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

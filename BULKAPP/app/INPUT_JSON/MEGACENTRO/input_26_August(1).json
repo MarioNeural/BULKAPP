@@ -1,0 +1,28 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["142087", "142088", "142089", "142090", "142091", "142092"],
+        "name": "megacentro-cl_v1mp_AO_dis_prs-1_SEP-24",
+        "landing": "https://www.megacentro.cl/",
+        "aws_path_1": "MEGACENTRO/2024/08/ao/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.megacentro.cl/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=SEP-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Mega%20Centro.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["142093", "142094", "142095", "142096", "142097", "142098"],
+        "name": "megacentro-cl_v1mp_AO_dis_rtg-1_SEP-24",
+        "landing": "https://www.megacentro.cl/",
+        "aws_path_1": "MEGACENTRO/2024/08/ao/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.megacentro.cl/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=SEP-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Mega%20Centro.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

@@ -1,0 +1,216 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "160x600",
+            "300x250",
+            "970x250",
+            "320x100",
+            "728x90"
+        ],
+        "tcs": [
+            "141263",
+            "141264",
+            "141265",
+            "141266",
+            "141267",
+            "141268"
+        ],
+        "name": "amresorts-gb_v1mp_DREAMS-MADEIRA_dis_prs-1_OFERTA-APERTURA",
+        "landing": "https://www.hyattinclusivecollection.com/en/resorts-hotels/dreams/portugal/madeira-resort-spa-marina/",
+        "aws_path_1": "AM_RESORTS/2024/08/apertura/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hyattinclusivecollection.com/en/resorts-hotels/dreams/portugal/madeira-resort-spa-marina/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=DREAMS-MADEIRA&utm_term=OFERTA-APERTURA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "160x600",
+            "300x250",
+            "970x250",
+            "320x100",
+            "728x90"
+        ],
+        "tcs": [
+            "141269",
+            "141270",
+            "141271",
+            "141272",
+            "141273",
+            "141274"
+        ],
+        "name": "amresorts-gb_v1mp_DREAMS-MADEIRA_dis_rtg-1_OFERTA-APERTURA",
+        "landing": "https://www.hyattinclusivecollection.com/en/resorts-hotels/dreams/portugal/madeira-resort-spa-marina/",
+        "aws_path_1": "AM_RESORTS/2024/08/apertura/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hyattinclusivecollection.com/en/resorts-hotels/dreams/portugal/madeira-resort-spa-marina/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=DREAMS-MADEIRA&utm_term=OFERTA-APERTURA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "160x600",
+            "300x250",
+            "970x250",
+            "320x100",
+            "728x90"
+        ],
+        "tcs": [
+            "141275",
+            "141276",
+            "141277",
+            "141278",
+            "141279",
+            "141280"
+        ],
+        "name": "amresorts-es_v1mp_DREAMS-MADEIRA_dis_prs-1_OFERTA-APERTURA",
+        "landing": "https://www.hyattinclusivecollection.com/es/resorts-y-hoteles/dreams/portugal/madeira-resort-spa-marina/",
+        "aws_path_1": "AM_RESORTS/2024/08/apertura/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hyattinclusivecollection.com/es/resorts-y-hoteles/dreams/portugal/madeira-resort-spa-marina/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=DREAMS-MADEIRA&utm_term=OFERTA-APERTURA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "160x600",
+            "300x250",
+            "970x250",
+            "320x100",
+            "728x90"
+        ],
+        "tcs": [
+            "141281",
+            "141282",
+            "141283",
+            "141284",
+            "141285",
+            "141286"
+        ],
+        "name": "amresorts-es_v1mp_DREAMS-MADEIRA_dis_rtg-1_OFERTA-APERTURA",
+        "landing": "https://www.hyattinclusivecollection.com/es/resorts-y-hoteles/dreams/portugal/madeira-resort-spa-marina/",
+        "aws_path_1": "AM_RESORTS/2024/08/apertura/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hyattinclusivecollection.com/es/resorts-y-hoteles/dreams/portugal/madeira-resort-spa-marina/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=DREAMS-MADEIRA&utm_term=OFERTA-APERTURA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "160x600",
+            "300x250",
+            "970x250",
+            "320x100",
+            "728x90"
+        ],
+        "tcs": [
+            "141287",
+            "141288",
+            "141289",
+            "141290",
+            "141291",
+            "141292"
+        ],
+        "name": "amresorts-de_v1mp_DREAMS-MADEIRA_dis_prs-1_OFERTA-APERTURA",
+        "landing": "https://www.hyattinclusivecollection.com/de/resorts-hotels/dreams/portugal/madeira-resort-spa-marina/",
+        "aws_path_1": "AM_RESORTS/2024/08/apertura/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hyattinclusivecollection.com/de/resorts-hotels/dreams/portugal/madeira-resort-spa-marina/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=DREAMS-MADEIRA&utm_term=OFERTA-APERTURA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "160x600",
+            "300x250",
+            "970x250",
+            "320x100",
+            "728x90"
+        ],
+        "tcs": [
+            "141293",
+            "141294",
+            "141295",
+            "141296",
+            "141297",
+            "141298"
+        ],
+        "name": "amresorts-de_v1mp_DREAMS-MADEIRA_dis_rtg-1_OFERTA-APERTURA",
+        "landing": "https://www.hyattinclusivecollection.com/de/resorts-hotels/dreams/portugal/madeira-resort-spa-marina/",
+        "aws_path_1": "AM_RESORTS/2024/08/apertura/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hyattinclusivecollection.com/de/resorts-hotels/dreams/portugal/madeira-resort-spa-marina/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=DREAMS-MADEIRA&utm_term=OFERTA-APERTURA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "160x600",
+            "300x250",
+            "970x250",
+            "320x100",
+            "728x90"
+        ],
+        "tcs": [
+            "141299",
+            "141300",
+            "141301",
+            "141302",
+            "141303",
+            "141304"
+        ],
+        "name": "amresorts-pt_v1mp_DREAMS-MADEIRA_dis_prs-1_OFERTA-APERTURA",
+        "landing": "https://www.dremp.hyattinclusivecollection.com/pt/",
+        "aws_path_1": "AM_RESORTS/2024/08/apertura/pt/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.dremp.hyattinclusivecollection.com/pt/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=DREAMS-MADEIRA&utm_term=OFERTA-APERTURA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "160x600",
+            "300x250",
+            "970x250",
+            "320x100",
+            "728x90"
+        ],
+        "tcs": [
+            "141305",
+            "141306",
+            "141307",
+            "141308",
+            "141309",
+            "141310"
+        ],
+        "name": "amresorts-pt_v1mp_DREAMS-MADEIRA_dis_rtg-1_OFERTA-APERTURA",
+        "landing": "https://www.dremp.hyattinclusivecollection.com/pt/",
+        "aws_path_1": "AM_RESORTS/2024/08/apertura/pt/",
+        "aws_path_2": "/index.html",
+        "link": "#REF!",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc="
+    }
+]

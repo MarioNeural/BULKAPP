@@ -1,0 +1,153 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "name": "insotel-es_v1mp_TARIDA-BEACH_dis_prs-1_SEPTIEMBRE",
+        "landing": "https://www.insotelhotelgroup.com/hoteles/ibiza/insotel-tarida-beach-resort",
+        "aws_path_1": "INSOTEL/2024/09/tarida/display/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/hoteles/ibiza/insotel-tarida-beach-resort?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=tarida-beach&utm_term=ESP",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc=",
+        "tcs": [
+            "143737",
+            "143738",
+            "143739",
+            "143740",
+            "143741",
+            "143742"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "name": "insotel-it_v1mp_TARIDA-BEACH_dis_prs-1_SEPTIEMBRE",
+        "landing": "https://www.insotelhotelgroup.com/it/hotels/ibiza/insotel-tarida-beach-resort",
+        "aws_path_1": "INSOTEL/2024/09/tarida/display/it/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/it/hotels/ibiza/insotel-tarida-beach-resort?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=tarida-beach&utm_term=IT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc=",
+        "tcs": [
+            "143743",
+            "143744",
+            "143745",
+            "143746",
+            "143747",
+            "143748"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "name": "insotel-gb_v1mp_TARIDA-BEACH_dis_prs-1_SEPTIEMBRE",
+        "landing": "https://www.insotelhotelgroup.com/en/hotels/ibiza/insotel-tarida-beach-resort",
+        "aws_path_1": "INSOTEL/2024/09/tarida/display/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/en/hotels/ibiza/insotel-tarida-beach-resort?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=tarida-beach&utm_term=gb",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc=",
+        "tcs": [
+            "143749",
+            "143750",
+            "143751",
+            "143752",
+            "143753",
+            "143754"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "name": "insotel-nl_v1mp_TARIDA-BEACH_dis_prs-1_SEPTIEMBRE",
+        "landing": "https://www.insotelhotelgroup.com/en/hotels/ibiza/insotel-tarida-beach-resort",
+        "aws_path_1": "INSOTEL/2024/09/tarida/display/nl/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/en/hotels/ibiza/insotel-tarida-beach-resort?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=tarida-beach&utm_term=NL",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc=",
+        "tcs": [
+            "143755",
+            "143756",
+            "143757",
+            "143758",
+            "143759",
+            "143760"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "name": "insotel-es_v1mp_TARIDA-BEACH_dis-p20_prs-1_SEPTIEMBRE",
+        "landing": "https://www.insotelhotelgroup.com/hoteles/ibiza/insotel-tarida-beach-resort",
+        "aws_path_1": "INSOTEL/2024/09/tarida/preroll/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/hoteles/ibiza/insotel-tarida-beach-resort?utm_source=v1mp&utm_medium=dis-p20-prs-1&utm_campaign=tarida-beach&utm_term=ESP",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc=",
+        "tcs": [
+            "143761",
+            "143762"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "name": "insotel-it_v1mp_TARIDA-BEACH_dis-p20_prs-1_SEPTIEMBRE",
+        "landing": "https://www.insotelhotelgroup.com/it/hotels/ibiza/insotel-tarida-beach-resort",
+        "aws_path_1": "INSOTEL/2024/09/tarida/preroll/it/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/it/hotels/ibiza/insotel-tarida-beach-resort?utm_source=v1mp&utm_medium=dis-p20-prs-1&utm_campaign=tarida-beach&utm_term=IT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc=",
+        "tcs": [
+            "143763",
+            "143764"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "name": "insotel-gb_v1mp_TARIDA-BEACH_dis-p20_prs-1_SEPTIEMBRE",
+        "landing": "https://www.insotelhotelgroup.com/en/hotels/ibiza/insotel-tarida-beach-resort",
+        "aws_path_1": "INSOTEL/2024/09/tarida/preroll/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/en/hotels/ibiza/insotel-tarida-beach-resort?utm_source=v1mp&utm_medium=dis-p20-prs-1&utm_campaign=tarida-beach&utm_term=gb",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc=",
+        "tcs": [
+            "143765",
+            "143766"
+        ]
+    }
+]

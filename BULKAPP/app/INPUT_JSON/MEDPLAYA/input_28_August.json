@@ -1,0 +1,110 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "160x600",
+            "970x250",
+            "728x90"
+        ],
+        "tcs": [
+            "142305",
+            "142306",
+            "142307",
+            "142308",
+            "142309",
+            "142310"
+        ],
+        "name": "medplaya-es_v1mp_AO-ES_dis_prs-1_LAST-MINUTE",
+        "landing": "https://www.medplaya.es/",
+        "aws_path_1": "MEDPLAYA/2024/08/last_minute/prs/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.medplaya.es/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-es&utm_term=last-minute",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Medplaya.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "160x600",
+            "970x250",
+            "728x90"
+        ],
+        "tcs": [
+            "142311",
+            "142312",
+            "142313",
+            "142314",
+            "142315",
+            "142316"
+        ],
+        "name": "medplaya-es_v1mp_AO-ES_dis_rtg-1_LAST-MINUTE",
+        "landing": "https://www.medplaya.es/",
+        "aws_path_1": "MEDPLAYA/2024/08/last_minute/rtg/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.medplaya.es/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao-es&utm_term=last-minute",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Medplaya.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "160x600",
+            "970x250",
+            "728x90"
+        ],
+        "tcs": [
+            "142317",
+            "142318",
+            "142319",
+            "142320",
+            "142321",
+            "142322"
+        ],
+        "name": "medplaya-fr_v1mp_AO-FR_dis_prs-1_LAST-MINUTE",
+        "landing": "https://www.medplaya.fr/",
+        "aws_path_1": "MEDPLAYA/2024/08/last_minute/prs/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.medplaya.fr/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-fr&utm_term=last-minute",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Medplaya.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "160x600",
+            "970x250",
+            "728x90"
+        ],
+        "tcs": [
+            "142323",
+            "142324",
+            "142325",
+            "142326",
+            "142327",
+            "142328"
+        ],
+        "name": "medplaya-fr_v1mp_AO-FR_dis_rtg-1_LAST-MINUTE",
+        "landing": "https://www.medplaya.fr/",
+        "aws_path_1": "MEDPLAYA/2024/08/last_minute/rtg/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.medplaya.fr/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao-fr&utm_term=last-minute",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Medplaya.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

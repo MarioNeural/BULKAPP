@@ -1,0 +1,13 @@
+[
+    {
+        "type": "link",
+        "sizes": ["300x600", "300x250", "160x600", "970x250", "320x50", "728x90"],
+        "name": "iberia-express-es_imp_AO-RESERVAS_dis_prs-1_EXPRESS-DAYS-24",
+        "landing": "https://www.iberiaexpress.com/",
+        "aws_path_1": "iberia/2024/08/express_days/",
+        "aws_path_2": ".gif",
+        "url": "https://www.iberiaexpress.com/?utm_source=imp&utm_medium=dis-prs-1&utm_campaign=ao-reservas&utm_content=EXPRESS-DAYS-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Iberia%20Express.js?tc=",
+        "tcs": ["142584", "142585", "142586", "142587", "142588", "142589"]
+    }
+]

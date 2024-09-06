@@ -1,0 +1,110 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "tcs": [
+            "139648",
+            "139649",
+            "139650",
+            "139651",
+            "139652",
+            "139653"
+        ],
+        "name": "inseryal-es_adg_AO_dis_prs-1_LANZAMIENTO-GENERAL",
+        "landing": "https://inseryal.es/",
+        "aws_path_1": "INSERYAL/2024/07/lanzamiento/es/general/prs/",
+        "aws_path_2": "/index.html",
+        "link": "https://inseryal.es/?utm_source=adg&utm_medium=dis-prs-1&utm_campaign=es&utm_term=LANZAMIENTO-GENERAL",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Inseryal.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "tcs": [
+            "139654",
+            "139655",
+            "139656",
+            "139657",
+            "139658",
+            "139659"
+        ],
+        "name": "inseryal-es_adg_AO_dis_rtg-1_LANZAMIENTO-GENERAL",
+        "landing": "https://inseryal.es/",
+        "aws_path_1": "INSERYAL/2024/07/lanzamiento/es/general/rtg/",
+        "aws_path_2": "/index.html",
+        "link": "https://inseryal.es/?utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=es&utm_term=LANZAMIENTO-GENERAL",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Inseryal.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "tcs": [
+            "139660",
+            "139661",
+            "139662",
+            "139663",
+            "139664",
+            "139665"
+        ],
+        "name": "inseryal-pl_adg_AO_dis_prs-1_LANZAMIENTO",
+        "landing": "https://inseryal.com/pl/",
+        "aws_path_1": "INSERYAL/2024/07/lanzamiento/pl/prs/",
+        "aws_path_2": "/index.html",
+        "link": "https://inseryal.com/pl/?utm_source=adg&utm_medium=dis-prs-1&utm_campaign=pl&utm_term=LANZAMIENTO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Inseryal.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "tcs": [
+            "139666",
+            "139667",
+            "139668",
+            "139669",
+            "139670",
+            "139671"
+        ],
+        "name": "inseryal-pl_adg_AO_dis_rtg-1_LANZAMIENTO",
+        "landing": "https://inseryal.com/pl/",
+        "aws_path_1": "INSERYAL/2024/07/lanzamiento/pl/rtg/",
+        "aws_path_2": "/index.html",
+        "link": "https://inseryal.com/pl/?utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=pl&utm_term=LANZAMIENTO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Inseryal.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

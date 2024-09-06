@@ -1,0 +1,15 @@
+[
+    {
+        "type": "link",
+        "sizes": ["970x250", "300x600", "300x250", "160x600", "320x50", "728x90"],
+        "tcs": ["141257", "141258", "141259", "141260", "141261", "141262"],
+        "name": "petit-celler-es_imp_ALWAYS-ON_dis_prs-1_ENVIO-GRATIS-AGOSTO24",
+        "landing": "https://www.petitceller.com/es/ofertas",
+        "aws_path_1": "PETIT_CELLER/2024/08/envio_gratis/",
+        "aws_path_2": ".jpg",
+        "url": "https://www.petitceller.com/es/ofertas?utm_source=programatica&utm_medium=display&utm_campaign=always-on&utm_term=ENVIO-GRATIS-AGOSTO24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Excelsia.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

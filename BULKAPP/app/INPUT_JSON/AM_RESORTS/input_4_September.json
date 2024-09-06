@@ -1,0 +1,542 @@
+[
+    {
+        "type": "link",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "name": "amresorts-eu_v1mp_AO-ZOETRY_dis_prs-1_LAST-SUMMER-DAYS",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/keep-summer-mode-on",
+        "aws_path_1": "AM_RESORTS/2024/08/last_summer_days/zoetry/eu/",
+        "aws_path_2": "/index.html",
+        "url": "https://resorts.hyattinclusivecollection.com/en-uk/keep-summer-mode-on?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-zoetry&utm_term=LAST-SUMMER-DAYS",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "142623",
+            "142624",
+            "142625",
+            "142626",
+            "142627",
+            "142628"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "name": "amresorts-eu_v1mp_AO-ALUA_dis_prs-1_LAST-SUMMER-DAYS",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/keep-summer-mode-on",
+        "aws_path_1": "AM_RESORTS/2024/08/last_summer_days/alua/eu/",
+        "aws_path_2": "/index.html",
+        "url": "https://resorts.hyattinclusivecollection.com/en-uk/keep-summer-mode-on?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-alua&utm_term=LAST-SUMMER-DAYS",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "142629",
+            "142630",
+            "142631",
+            "142632",
+            "142633",
+            "142634"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "name": "amresorts-eu_v1mp_AO-DREAMS_dis_prs-1_LAST-SUMMER-DAYS",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/keep-summer-mode-on",
+        "aws_path_1": "AM_RESORTS/2024/08/last_summer_days/dreams/eu/",
+        "aws_path_2": "/index.html",
+        "url": "https://resorts.hyattinclusivecollection.com/en-uk/keep-summer-mode-on?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-dreams&utm_term=LAST-SUMMER-DAYS",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "142635",
+            "142636",
+            "142637",
+            "142638",
+            "142639",
+            "142640"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "name": "amresorts-eu_v1mp_AO-SECRETS_dis_prs-1_LAST-SUMMER-DAYS",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/keep-summer-mode-on",
+        "aws_path_1": "AM_RESORTS/2024/08/last_summer_days/secrets/eu/",
+        "aws_path_2": "/index.html",
+        "url": "https://resorts.hyattinclusivecollection.com/en-uk/keep-summer-mode-on?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-secrets&utm_term=LAST-SUMMER-DAYS",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "142641",
+            "142642",
+            "142643",
+            "142644",
+            "142645",
+            "142646"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "name": "amresorts-es_v1mp_AO-ZOETRY_dis_prs-1_LAST-SUMMER-DAYS",
+        "landing": "https://resorts.hyattinclusivecollection.com/es-es/manten-el-modo-verano-on",
+        "aws_path_1": "AM_RESORTS/2024/08/last_summer_days/zoetry/es/",
+        "aws_path_2": "/index.html",
+        "url": "https://resorts.hyattinclusivecollection.com/es-es/manten-el-modo-verano-on?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-zoetry&utm_term=LAST-SUMMER-DAYS",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "142647",
+            "142648",
+            "142649",
+            "142650",
+            "142651",
+            "142652"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "name": "amresorts-es_v1mp_AO-ALUA_dis_prs-1_LAST-SUMMER-DAYS",
+        "landing": "https://resorts.hyattinclusivecollection.com/es-es/manten-el-modo-verano-on",
+        "aws_path_1": "AM_RESORTS/2024/08/last_summer_days/alua/es/",
+        "aws_path_2": "/index.html",
+        "url": "https://resorts.hyattinclusivecollection.com/es-es/manten-el-modo-verano-on?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-alua&utm_term=LAST-SUMMER-DAYS",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "142653",
+            "142654",
+            "142655",
+            "142656",
+            "142657",
+            "142658"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "name": "amresorts-es_v1mp_AO-DREAMS_dis_prs-1_LAST-SUMMER-DAYS",
+        "landing": "https://resorts.hyattinclusivecollection.com/es-es/manten-el-modo-verano-on",
+        "aws_path_1": "AM_RESORTS/2024/08/last_summer_days/dreams/es/",
+        "aws_path_2": "/index.html",
+        "url": "https://resorts.hyattinclusivecollection.com/es-es/manten-el-modo-verano-on?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-dreams&utm_term=LAST-SUMMER-DAYS",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "142659",
+            "142660",
+            "142661",
+            "142662",
+            "142663",
+            "142664"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "name": "amresorts-es_v1mp_AO-SECRETS_dis_prs-1_LAST-SUMMER-DAYS",
+        "landing": "https://resorts.hyattinclusivecollection.com/es-es/manten-el-modo-verano-on",
+        "aws_path_1": "AM_RESORTS/2024/08/last_summer_days/secrets/es/",
+        "aws_path_2": "/index.html",
+        "url": "https://resorts.hyattinclusivecollection.com/es-es/manten-el-modo-verano-on?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-secrets&utm_term=LAST-SUMMER-DAYS",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "142665",
+            "142666",
+            "142667",
+            "142668",
+            "142669",
+            "142670"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "name": "amresorts-gb_v1mp_AO-ZOETRY_dis_prs-1_LAST-SUMMER-DAYS",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/keep-summer-mode-on",
+        "aws_path_1": "AM_RESORTS/2024/08/last_summer_days/zoetry/gb/",
+        "aws_path_2": "/index.html",
+        "url": "https://resorts.hyattinclusivecollection.com/en-uk/keep-summer-mode-on?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-zoetry&utm_term=LAST-SUMMER-DAYS",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "142671",
+            "142672",
+            "142673",
+            "142674",
+            "142675",
+            "142676"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "name": "amresorts-gb_v1mp_AO-ALUA_dis_prs-1_LAST-SUMMER-DAYS",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/keep-summer-mode-on",
+        "aws_path_1": "AM_RESORTS/2024/08/last_summer_days/alua/gb/",
+        "aws_path_2": "/index.html",
+        "url": "https://resorts.hyattinclusivecollection.com/en-uk/keep-summer-mode-on?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-alua&utm_term=LAST-SUMMER-DAYS",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "142677",
+            "142678",
+            "142679",
+            "142680",
+            "142681",
+            "142682"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "name": "amresorts-gb_v1mp_AO-DREAMS_dis_prs-1_LAST-SUMMER-DAYS",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/keep-summer-mode-on",
+        "aws_path_1": "AM_RESORTS/2024/08/last_summer_days/dreams/gb/",
+        "aws_path_2": "/index.html",
+        "url": "https://resorts.hyattinclusivecollection.com/en-uk/keep-summer-mode-on?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-dreams&utm_term=LAST-SUMMER-DAYS",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "142683",
+            "142684",
+            "142685",
+            "142686",
+            "142687",
+            "142688"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "name": "amresorts-gb_v1mp_AO-SECRETS_dis_prs-1_LAST-SUMMER-DAYS",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/keep-summer-mode-on",
+        "aws_path_1": "AM_RESORTS/2024/08/last_summer_days/secrets/gb/",
+        "aws_path_2": "/index.html",
+        "url": "https://resorts.hyattinclusivecollection.com/en-uk/keep-summer-mode-on?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-secrets&utm_term=LAST-SUMMER-DAYS",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "142689",
+            "142690",
+            "142691",
+            "142692",
+            "142693",
+            "142694"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "name": "amresorts-de_v1mp_AO-ZOETRY_dis_prs-1_LAST-SUMMER-DAYS",
+        "landing": "https://resorts.hyattinclusivecollection.com/de-de/halte-den-sommermodus-an",
+        "aws_path_1": "AM_RESORTS/2024/08/last_summer_days/zoetry/de/",
+        "aws_path_2": "/index.html",
+        "url": "https://resorts.hyattinclusivecollection.com/de-de/halte-den-sommermodus-an?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-zoetry&utm_term=LAST-SUMMER-DAYS",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "142695",
+            "142696",
+            "142697",
+            "142698",
+            "142699",
+            "142700"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "name": "amresorts-de_v1mp_AO-ALUA_dis_prs-1_LAST-SUMMER-DAYS",
+        "landing": "https://resorts.hyattinclusivecollection.com/de-de/halte-den-sommermodus-an",
+        "aws_path_1": "AM_RESORTS/2024/08/last_summer_days/alua/de/",
+        "aws_path_2": "/index.html",
+        "url": "https://resorts.hyattinclusivecollection.com/de-de/halte-den-sommermodus-an?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-alua&utm_term=LAST-SUMMER-DAYS",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "142701",
+            "142702",
+            "142703",
+            "142704",
+            "142705",
+            "142706"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "name": "amresorts-de_v1mp_AO-DREAMS_dis_prs-1_LAST-SUMMER-DAYS",
+        "landing": "https://resorts.hyattinclusivecollection.com/de-de/halte-den-sommermodus-an",
+        "aws_path_1": "AM_RESORTS/2024/08/last_summer_days/dreams/de/",
+        "aws_path_2": "/index.html",
+        "url": "https://resorts.hyattinclusivecollection.com/de-de/halte-den-sommermodus-an?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-dreams&utm_term=LAST-SUMMER-DAYS",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "142707",
+            "142708",
+            "142709",
+            "142710",
+            "142711",
+            "142712"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "name": "amresorts-de_v1mp_AO-SECRETS_dis_prs-1_LAST-SUMMER-DAYS",
+        "landing": "https://resorts.hyattinclusivecollection.com/de-de/halte-den-sommermodus-an",
+        "aws_path_1": "AM_RESORTS/2024/08/last_summer_days/secrets/de/",
+        "aws_path_2": "/index.html",
+        "url": "https://resorts.hyattinclusivecollection.com/de-de/halte-den-sommermodus-an?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-secrets&utm_term=LAST-SUMMER-DAYS",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "142713",
+            "142714",
+            "142715",
+            "142716",
+            "142717",
+            "142718"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "name": "amresorts-fr_v1mp_AO-ALUA_dis_prs-1_LAST-SUMMER-DAYS",
+        "landing": "https://resorts.hyattinclusivecollection.com/fr-fr/gardez-le-mode-ete-active",
+        "aws_path_1": "AM_RESORTS/2024/08/last_summer_days/alua/fr/",
+        "aws_path_2": "/index.html",
+        "url": "https://resorts.hyattinclusivecollection.com/fr-fr/gardez-le-mode-ete-active?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-alua&utm_term=LAST-SUMMER-DAYS",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "142719",
+            "142720",
+            "142721",
+            "142722",
+            "142723",
+            "142724"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "name": "amresorts-fr_v1mp_AO-DREAMS_dis_prs-1_LAST-SUMMER-DAYS",
+        "landing": "https://resorts.hyattinclusivecollection.com/fr-fr/gardez-le-mode-ete-active",
+        "aws_path_1": "AM_RESORTS/2024/08/last_summer_days/dreams/fr/",
+        "aws_path_2": "/index.html",
+        "url": "https://resorts.hyattinclusivecollection.com/fr-fr/gardez-le-mode-ete-active?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-dreams&utm_term=LAST-SUMMER-DAYS",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "142725",
+            "142726",
+            "142727",
+            "142728",
+            "142729",
+            "142730"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "name": "amresorts-fr_v1mp_AO-SECRETS_dis_prs-1_LAST-SUMMER-DAYS",
+        "landing": "https://resorts.hyattinclusivecollection.com/fr-fr/gardez-le-mode-ete-active",
+        "aws_path_1": "AM_RESORTS/2024/08/last_summer_days/secrets/fr/",
+        "aws_path_2": "/index.html",
+        "url": "https://resorts.hyattinclusivecollection.com/fr-fr/gardez-le-mode-ete-active?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-secrets&utm_term=LAST-SUMMER-DAYS",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "142731",
+            "142732",
+            "142733",
+            "142734",
+            "142735",
+            "142736"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "name": "amresorts-fr_v1mp_AO-ZOETRY_dis_prs-1_LAST-SUMMER-DAYS",
+        "landing": "https://resorts.hyattinclusivecollection.com/fr-fr/gardez-le-mode-ete-active",
+        "aws_path_1": "AM_RESORTS/2024/08/last_summer_days/zoetry/fr/",
+        "aws_path_2": "/index.html",
+        "url": "https://resorts.hyattinclusivecollection.com/fr-fr/gardez-le-mode-ete-active?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-zoetry&utm_term=LAST-SUMMER-DAYS",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "142737",
+            "142738",
+            "142739",
+            "142740",
+            "142741",
+            "142742"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

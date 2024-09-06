@@ -1,0 +1,13 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["970x250"],
+        "tcs": ["130515"],
+        "name": "ocean-us_v1mp_AO_dis-p20_rtg-1_JAMAICA",
+        "landing": "https://www.oceanhotels.com/en",
+        "aws_path_1": "OCEAN_HOTELS/2024/04/preroll_jamaica/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.oceanhotels.com/en?utm_source=v1mp&utm_medium=dis-p20-rtg-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_h10-hotels-es_np_"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": [ ],
+        "name": "excellence-resorts-us_adg_BOOKING-BANNER_dis-prem_prs-1_BB-EXCELLENCE",
+        "landing": "https://a2.adform.net/C/?bn=75298946;cpdir=https://booking.finestresorts.com/en/bookcore/availability/${hotel}/${entrada}/${salida}/",
+        "aws_path_1": "EXCELLENCE_RESORTS/2024/08/booking_banner/excellence/",
+        "aws_path_2": "/index.html",
+        "link": "https://a2.adform.net/C/?bn=75298946;cpdir=https://booking.finestresorts.com/en/bookcore/availability/${hotel}/${entrada}/${salida}/?utm_source=adgravity&utm_medium=display&utm_campaign=test_tec_us&utm_content=adgravity_test_tec_us_prs_display_richmedia_bookingbanner_inm_caribbean_na_2408&utm_campaign_id=adgravity_test_tec_us_prs_display_richmedia_bookingbanner_inm_caribbean_na_2408"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": [ ],
+        "name": "excellence-resorts-us_adg_BOOKING-BANNER_dis-prem_prs-1_BB-FINEST",
+        "landing": "https://a2.adform.net/C/?bn=75298946;cpdir=https://booking.finestresorts.com/en/bookcore/availability/${hotel}/${entrada}/${salida}/",
+        "aws_path_1": "EXCELLENCE_RESORTS/2024/08/booking_banner/finest/",
+        "aws_path_2": "/index.html",
+        "link": "https://a2.adform.net/C/?bn=75298946;cpdir=https://booking.finestresorts.com/en/bookcore/availability/${hotel}/${entrada}/${salida}//utm_source=adgravity&utm_medium=display&utm_campaign=test_tec_us&utm_content=adgravity_test_tec_us_prs_display_richmedia_bookingbanner_inm_caribbean_na_2408&utm_campaign_id=adgravity_test_tec_us_prs_display_richmedia_bookingbanner_inm_caribbean_na_2408"
+    }
+]

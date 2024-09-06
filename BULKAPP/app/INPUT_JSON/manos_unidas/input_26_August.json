@@ -1,0 +1,41 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["142060", "142061", "142062", "142063", "142064", "142065"],
+        "name": "manos-unidas-es_v1mp_EFECTO-HUMANO-SOCIO_dis_prs-1_SEPT24",
+        "landing": "https://efectoserhumano.manosunidas.org/",
+        "aws_path_1": "manos_unidas/2024/08/efecto_humano/",
+        "aws_path_2": "/index.html",
+        "link": "https://efectoserhumano.manosunidas.org/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=efecto-humano-socio&utm_term=45559",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Manos%20Unidas.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["142066", "142067", "142068", "142069", "142070", "142071"],
+        "name": "manos-unidas-es_v1mp_EFECTO-HUMANO-SOCIO_dis_rtg-1_SEPT24",
+        "landing": "https://colabora.manosunidas.org/Home?target=0&origin=767&popUp=%2fTPV%2fDonar",
+        "aws_path_1": "manos_unidas/2024/08/efecto_humano/",
+        "aws_path_2": "/index.html",
+        "link": "https://colabora.manosunidas.org/Home?target=0&origin=767&popUp=%2fTPV%2fDonar?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=efecto-humano-socio&utm_term=45559",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Manos%20Unidas.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": ["142072"],
+        "name": "manos-unidas-es_v1mp_EFECTO-HUMANO-SOCIO_dis_prs-1_3D-SEP24",
+        "landing": "https://efectoserhumano.manosunidas.org/",
+        "aws_path_1": "manos_unidas/2024/08/3dcard_2/",
+        "aws_path_2": "/index.html",
+        "link": "https://efectoserhumano.manosunidas.org/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=efecto-humano-socio&utm_term=3D-sep24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Manos%20Unidas.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

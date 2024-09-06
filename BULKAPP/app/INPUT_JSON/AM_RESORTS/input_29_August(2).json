@@ -1,0 +1,56 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "name": "amresorts-es_v1mp_ALUA-SOUL-COSTA-ADEJE_dis_prs-1_PRE-OPENING",
+        "landing": "https://www.hyattinclusivecollection.com/es/resorts-y-hoteles/alua-hotels/tenerife/aluasoul-costa-adeje/",
+        "aws_path_1": "AM_RESORTS/2024/08/last_summer_days/pre_opening/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hyattinclusivecollection.com/es/resorts-y-hoteles/alua-hotels/tenerife/aluasoul-costa-adeje/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ALUA-SOUL-COSTA-ADEJE&utm_term=PRE-OPENING",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "142743",
+            "142744",
+            "142745",
+            "142746",
+            "142747",
+            "142748"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "name": "amresorts-gb_v1mp_ALUA-SOUL-COSTA-ADEJE_dis_prs-1_PRE-OPENING",
+        "landing": "https://www.hyattinclusivecollection.com/en/resorts-hotels/alua-hotels/tenerife/aluasoul-costa-adeje/",
+        "aws_path_1": "AM_RESORTS/2024/08/last_summer_days/pre_opening/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hyattinclusivecollection.com/en/resorts-hotels/alua-hotels/tenerife/aluasoul-costa-adeje/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ALUA-SOUL-COSTA-ADEJE&utm_term=PRE-OPENING",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "142749",
+            "142750",
+            "142751",
+            "142752",
+            "142753",
+            "142754"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

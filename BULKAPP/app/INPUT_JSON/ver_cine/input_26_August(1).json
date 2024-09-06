@@ -1,0 +1,12 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "300x600"],
+        "tcs": [],
+        "name": "vercine-es_adg_BONNARD_dis-p20_prs-1_GEN",
+        "landing": "https://www.youtube.com/watch?v=1qoJPW-VDls",
+        "aws_path_1": "ver_cine/2024/08/preroll/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.youtube.com/watch?v=1qoJPW-VDls"
+    }
+]

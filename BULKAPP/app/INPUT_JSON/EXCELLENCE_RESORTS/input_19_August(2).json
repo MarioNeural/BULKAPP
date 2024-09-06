@@ -1,0 +1,28 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": [
+            ""
+        ],
+        "name": "excellence-resorts-us_adg_BOOKING-BANNER_dis-prem_rtg-1_BB-EXCELLENCE",
+        "landing": "https://a2.adform.net/adfserve/?bn=75298946;1x1inv=1;srctype=3;ord=[timestamp]",
+        "aws_path_1": "EXCELLENCE_RESORTS/2024/08/booking_banner/excellence/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.excellenceresorts.com/?utm_source=adgravity&utm_medium=display&utm_campaign=test_tec_us&utm_content=adgravity_test_tec_us_prs_display_richmedia_bookingbanner_inm_caribbean_na_2408&utm_campaign_id=adgravity_test_tec_us_prs_display_richmedia_bookingbanner_inm_caribbean_na_2408?utm_source=adg&utm_medium=dis-prem-rtg-1&utm_campaign=booking-banner&utm_term=EXCELLENCE",
+        "impression_tag": "<img src=https://a2.adform.net/adfserve/?bn=75298946;1x1inv=1;srctype=3;ord=[timestamp] border='0' width='1' height='1'/>"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": [
+            ""
+        ],
+        "name": "excellence-resorts-us_adg_BOOKING-BANNER_dis-prem_rtg-1_BB-FINEST",
+        "landing": "https://a2.adform.net/adfserve/?bn=75298946;1x1inv=1;srctype=3;ord=[timestamp]",
+        "aws_path_1": "EXCELLENCE_RESORTS/2024/08/booking_banner/finest/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.excellenceresorts.com/?utm_source=adgravity&utm_medium=display&utm_campaign=test_tec_us&utm_content=adgravity_test_tec_us_prs_display_richmedia_bookingbanner_inm_caribbean_na_2408&utm_campaign_id=adgravity_test_tec_us_prs_display_richmedia_bookingbanner_inm_caribbean_na_2408?utm_source=adg&utm_medium=dis-prem-rtg-1&utm_campaign=booking-banner&utm_term=FINEST",
+        "impression_tag": "<img src=https://a2.adform.net/adfserve/?bn=75298946;1x1inv=1;srctype=3;ord=[timestamp] border='0' width='1' height='1'/>"
+    }
+]

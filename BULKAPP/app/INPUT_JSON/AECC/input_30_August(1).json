@@ -1,0 +1,36 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "name": "aecc-es_v1mp_AO-ECOMMERCE_dis_prs-1_CARROUSSEL-REBAJAS",
+        "landing": "https://tienda.contraelcancer.es/descuentos",
+        "aws_path_1": "AECC/2024/08/carousel/rebajas/",
+        "aws_path_2": "/index.html",
+        "link": "https://tienda.contraelcancer.es/descuentos?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-ecommerce&utm_content=carrousel-rebajas",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_AECC.js?tc=",
+        "tcs": [
+            "143011",
+            "143012"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "name": "aecc-es_v1mp_AO-ECOMMERCE_dis_prs-1_CARROUSEL-VERANO",
+        "landing": "https://tienda.contraelcancer.es/eventos",
+        "aws_path_1": "AECC/2024/08/carousel/verano/",
+        "aws_path_2": "/index.html",
+        "link": "https://tienda.contraelcancer.es/eventos?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-ecommerce&utm_content=carrousel-verano",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_AECC.js?tc=",
+        "tcs": [
+            "143013",
+            "143014"
+        ]
+    }
+]

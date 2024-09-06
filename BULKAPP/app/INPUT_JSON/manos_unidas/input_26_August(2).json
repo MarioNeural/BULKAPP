@@ -1,0 +1,28 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["142220", "142221", "142222", "142223", "142224", "142225"],
+        "name": "manos-unidas-es_v1mp_TESTAMENTO-SOLIDARIO_dis_prs-1_TESTAMENTO-SOLIDARIO",
+        "landing": "https://www.manosunidas.org/testamento-solidario-herencias-legados-ong",
+        "aws_path_1": "manos_unidas/2024/08/testamento/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.manosunidas.org/testamento-solidario-herencias-legados-ong?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=testamento-solidario&utm_term=TESTAMENTO-SOLIDARIO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Manos%20Unidas.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "tcs": ["142226", "142227", "142228", "142229", "142230", "142231"],
+        "name": "manos-unidas-es_v1mp_TESTAMENTO-SOLIDARIO_dis_rtg-1_TESTAMENTO-SOLIDARIO",
+        "landing": "https://tpv.manosunidas.org/Landing/1/Herencias-y-legados",
+        "aws_path_1": "manos_unidas/2024/08/testamento/",
+        "aws_path_2": "/index.html",
+        "link": "https://tpv.manosunidas.org/Landing/1/Herencias-y-legados?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=testamento-solidario&utm_term=TESTAMENTO-SOLIDARIO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Manos%20Unidas.js?tc=",
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

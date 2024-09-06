@@ -1,0 +1,178 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "728x90", "970x250"],
+        "tcs": ["120240", "120241", "120242", "120243", "120244", "120245"],
+        "name": "gilmar-es_v1mp_COSTA-DEL-SOL_dis_prs-1_EXTRANJEROS",
+        "landing": "https://www.gilmar.es/en/costa-del-sol-mk/",
+        "aws_path_1": "GILMAR/2024/1/costa_del_sol/extranjeros/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.gilmar.es/en/costa-del-sol-mk/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=costa-del-sol",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_gilmar-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "728x90", "970x250"],
+        "tcs": ["120246", "120247", "120248", "120249", "120250", "120251"],
+        "name": "gilmar-es_v1mp_COSTA-DEL-SOL_dis_rtg-1_EXTRANJEROS-ES",
+        "landing": "https://www.gilmar.es/en/costa-del-sol-mk/",
+        "aws_path_1": "GILMAR/2024/1/costa_del_sol/extranjeros_es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.gilmar.es/en/costa-del-sol-mk/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=costa-del-sol&utm_term=ex-es",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_gilmar-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "728x90", "970x250"],
+        "tcs": ["120252", "120253", "120254", "120255", "120256", "120257"],
+        "name": "gilmar-es_v1mp_COSTA-DEL-SOL_dis_rtg-1_ESPANOLES",
+        "landing": "https://www.gilmar.es/costa-del-sol-mk/",
+        "aws_path_1": "GILMAR/2024/1/costa_del_sol/espana/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.gilmar.es/costa-del-sol-mk/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=costa-del-sol&utm_term=es",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_gilmar-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "728x90", "970x250"],
+        "tcs": ["120258", "120259", "120260", "120261", "120262", "120263"],
+        "name": "gilmar-es_v1mp_COSTA-DEL-SOL_dis_rtg-1_EXTRANJEROS-EU",
+        "landing": "https://www.gilmar.es/en/costa-del-sol-mk/",
+        "aws_path_1": "GILMAR/2024/1/costa_del_sol/extranjeros_eu/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.gilmar.es/en/costa-del-sol-mk/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=costa-del-sol&utm_term=ex-eu",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_gilmar-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["133217", "133218"],
+        "name": "gilmar-es_v1mp_COSTA-DEL-SOL_dis-prem_prs-1_ESPANOLES1",
+        "landing": "https://www.gilmar.es/costa-del-sol-mk/",
+        "aws_path_1": "GILMAR/2024/06/chat-options/es/1_vivienda/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.gilmar.es/costa-del-sol-mk/?utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=costa-del-sol&utm_term=es",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_gilmar-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["133219", "133220"],
+        "name": "gilmar-es_v1mp_COSTA-DEL-SOL_dis-prem_rtg-1_ESPANOLES1",
+        "landing": "https://www.gilmar.es/costa-del-sol-mk/",
+        "aws_path_1": "GILMAR/2024/06/chat-options/es/1_vivienda/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.gilmar.es/costa-del-sol-mk/?utm_source=v1mp&utm_medium=dis-prem-rtg-1&utm_campaign=costa-del-sol&utm_term=es",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_gilmar-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["133221", "133222"],
+        "name": "gilmar-es_v1mp_COSTA-DEL-SOL_dis-prem_prs-1_EXTRANJEROS-EU1",
+        "landing": "https://www.gilmar.es/en/costa-del-sol-mk/",
+        "aws_path_1": "GILMAR/2024/06/chat-options/en/1_vivienda/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.gilmar.es/en/costa-del-sol-mk/?utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=costa-del-sol&utm_term=ex-eu",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_gilmar-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["133223", "133224"],
+        "name": "gilmar-es_v1mp_COSTA-DEL-SOL_dis-prem_rtg-1_EXTRANJEROS-EU1",
+        "landing": "https://www.gilmar.es/en/costa-del-sol-mk/",
+        "aws_path_1": "GILMAR/2024/06/chat-options/en/1_vivienda/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.gilmar.es/en/costa-del-sol-mk/?utm_source=v1mp&utm_medium=dis-prem-rtg-1&utm_campaign=costa-del-sol&utm_term=ex-eu",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_gilmar-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["133225", "133226"],
+        "name": "gilmar-es_v1mp_COSTA-DEL-SOL_dis-prem_prs-1_ESPANOLES2",
+        "landing": "https://www.gilmar.es/costa-del-sol-mk/",
+        "aws_path_1": "GILMAR/2024/06/chat-options/es/2_vivienda/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.gilmar.es/costa-del-sol-mk/?utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=costa-del-sol",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_gilmar-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["133227", "133228"],
+        "name": "gilmar-es_v1mp_COSTA-DEL-SOL_dis-prem_rtg-1_ESPANOLES2",
+        "landing": "https://www.gilmar.es/costa-del-sol-mk/",
+        "aws_path_1": "GILMAR/2024/06/chat-options/es/2_vivienda/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.gilmar.es/costa-del-sol-mk/?utm_source=v1mp&utm_medium=dis-prem-rtg-1&utm_campaign=costa-del-sol",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_gilmar-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["133229", "133230"],
+        "name": "gilmar-es_v1mp_COSTA-DEL-SOL_dis-prem_prs-1_EXTRANJEROS-EU2",
+        "landing": "https://www.gilmar.es/en/costa-del-sol-mk/",
+        "aws_path_1": "GILMAR/2024/06/chat-options/en/2_vivienda/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.gilmar.es/en/costa-del-sol-mk/?utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=costa-del-sol",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_gilmar-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["133231", "133232"],
+        "name": "gilmar-es_v1mp_COSTA-DEL-SOL_dis-prem_rtg-1_EXTRANJEROS-EU2",
+        "landing": "https://www.gilmar.es/en/costa-del-sol-mk/",
+        "aws_path_1": "GILMAR/2024/06/chat-options/en/2_vivienda/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.gilmar.es/en/costa-del-sol-mk/?utm_source=v1mp&utm_medium=dis-prem-rtg-1&utm_campaign=costa-del-sol",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_gilmar-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["133233", "133234"],
+        "name": "gilmar-es_v1mp_COSTA-DEL-SOL_dis-prem_prs-1_ESPANOLES3",
+        "landing": "https://www.gilmar.es/costa-del-sol-mk/",
+        "aws_path_1": "GILMAR/2024/06/chat-options/es/tipo_vivienda/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.gilmar.es/costa-del-sol-mk/?utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=costa-del-sol",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_gilmar-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["133235", "133236"],
+        "name": "gilmar-es_v1mp_COSTA-DEL-SOL_dis-prem_rtg-1_ESPANOLES3",
+        "landing": "https://www.gilmar.es/costa-del-sol-mk/",
+        "aws_path_1": "GILMAR/2024/06/chat-options/es/tipo_vivienda/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.gilmar.es/costa-del-sol-mk/?utm_source=v1mp&utm_medium=dis-prem-rtg-1&utm_campaign=costa-del-sol",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_gilmar-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["133237", "133238"],
+        "name": "gilmar-es_v1mp_COSTA-DEL-SOL_dis-prem_prs-1_EXTRANJEROS-EU3",
+        "landing": "https://www.gilmar.es/en/costa-del-sol-mk/",
+        "aws_path_1": "GILMAR/2024/06/chat-options/en/tipo_vivienda/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.gilmar.es/en/costa-del-sol-mk/?utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=costa-del-sol",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_gilmar-es_np_"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["133239", "133240"],
+        "name": "gilmar-es_v1mp_COSTA-DEL-SOL_dis-prem_rtg-1_EXTRANJEROS-EU3",
+        "landing": "https://www.gilmar.es/en/costa-del-sol-mk/",
+        "aws_path_1": "GILMAR/2024/06/chat-options/en/tipo_vivienda/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.gilmar.es/en/costa-del-sol-mk/?utm_source=v1mp&utm_medium=dis-prem-rtg-1&utm_campaign=costa-del-sol",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_gilmar-es_np_"
+    }
+]

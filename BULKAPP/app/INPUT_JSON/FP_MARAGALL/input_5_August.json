@@ -1,0 +1,47 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90"
+        ],
+        "tcs": [ ],
+        "name": "fp-maragall-es_adg_SOCIOS_dis_rtg-1_IDENTIDAD-LUIS-LP",
+        "landing": "https://fpmaragall.org/identidad/",
+        "aws_path_1": "FP_MARAGALL/2024/08/luis/",
+        "aws_path_2": "/index.html",
+        "link": "https://fpmaragall.org/identidad/?utm_source=display&utm_medium=banner&utm_campaign=socios&utm_term=ES&utm_content=IDENTIDAD-LUIS-LP"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90"
+        ],
+        "tcs": [ ],
+        "name": "fp-maragall-es_adg_SOCIOS_dis_rtg-1_IDENTIDAD-MARTA-LP",
+        "landing": "https://fpmaragall.org/identidad/",
+        "aws_path_1": "FP_MARAGALL/2024/08/marta/",
+        "aws_path_2": "/index.html",
+        "link": "https://fpmaragall.org/identidad/?utm_source=display&utm_medium=banner&utm_campaign=socios&utm_term=ES&utm_content=IDENTIDAD-MARTA-LP"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90"
+        ],
+        "tcs": [ ],
+        "name": "fp-maragall-es_adg_SOCIOS_dis_rtg-1_IDENTIDAD-JUAN-LP",
+        "landing": "https://fpmaragall.org/identidad/",
+        "aws_path_1": "FP_MARAGALL/2024/08/juan/",
+        "aws_path_2": "/index.html",
+        "link": "https://fpmaragall.org/identidad/?utm_source=display&utm_medium=banner&utm_campaign=socios&utm_term=ES&utm_content=IDENTIDAD-JUAN-LP"
+    }
+]

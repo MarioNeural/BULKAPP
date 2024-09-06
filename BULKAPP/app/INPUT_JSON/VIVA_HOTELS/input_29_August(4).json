@@ -1,0 +1,602 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-es_v1mp_AO_dis_prs-1_SEPTEMBER24-SUITES",
+        "landing": "https://www.hotelsviva.com/es/adults-only-hotel-suites/",
+        "aws_path_1": "VIVA_HOTELS/2024/08/sept/suites/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/es/adults-only-hotel-suites/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=september24-suites",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "142755",
+            "142756",
+            "142757",
+            "142758",
+            "142759",
+            "142760"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-es_v1mp_AO_dis_rtg-1_SEPTEMBER24-SUITES",
+        "landing": "https://www.hotelsviva.com/es/adults-only-hotel-suites/",
+        "aws_path_1": "VIVA_HOTELS/2024/08/sept/suites/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/es/adults-only-hotel-suites/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=september24-suites",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "142761",
+            "142762",
+            "142763",
+            "142764",
+            "142765",
+            "142766"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-ch_v1mp_AO_dis_prs-1_SEPTEMBER24-SUITES",
+        "landing": "https://www.hotelsviva.com/de/adults-only-hotel-suites/",
+        "aws_path_1": "VIVA_HOTELS/2024/08/sept/suites/ch/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/adults-only-hotel-suites/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=september24-suites",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "142767",
+            "142768",
+            "142769",
+            "142770",
+            "142771",
+            "142772"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-ch_v1mp_AO_dis_rtg-1_SEPTEMBER24-SUITES",
+        "landing": "https://www.hotelsviva.com/de/adults-only-hotel-suites/",
+        "aws_path_1": "VIVA_HOTELS/2024/08/sept/suites/ch/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/adults-only-hotel-suites/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=september24-suites",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "142773",
+            "142774",
+            "142775",
+            "142776",
+            "142777",
+            "142778"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-de_v1mp_AO_dis_prs-1_SEPTEMBER24-SUITES",
+        "landing": "https://www.hotelsviva.com/de/adults-only-hotel-suites/",
+        "aws_path_1": "VIVA_HOTELS/2024/08/sept/suites/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/adults-only-hotel-suites/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=september24-suites",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "142779",
+            "142780",
+            "142781",
+            "142782",
+            "142783",
+            "142784"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-de_v1mp_AO_dis_rtg-1_SEPTEMBER24-SUITES",
+        "landing": "https://www.hotelsviva.com/de/adults-only-hotel-suites/",
+        "aws_path_1": "VIVA_HOTELS/2024/08/sept/suites/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/adults-only-hotel-suites/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=september24-suites",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "142785",
+            "142786",
+            "142787",
+            "142788",
+            "142789",
+            "142790"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-fr_v1mp_AO_dis_prs-1_SEPTEMBER24-SUITES",
+        "landing": "https://www.hotelsviva.com/en/adults-only-hotel-suites/",
+        "aws_path_1": "VIVA_HOTELS/2024/08/sept/suites/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/adults-only-hotel-suites/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=september24-suites",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "142791",
+            "142792",
+            "142793",
+            "142794",
+            "142795",
+            "142796"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-fr_v1mp_AO_dis_rtg-1_SEPTEMBER24-SUITES",
+        "landing": "https://www.hotelsviva.com/en/adults-only-hotel-suites/",
+        "aws_path_1": "VIVA_HOTELS/2024/08/sept/suites/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/adults-only-hotel-suites/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=september24-suites",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "142797",
+            "142798",
+            "142799",
+            "142800",
+            "142801",
+            "142802"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-row_v1mp_AO_dis_prs-1_SEPTEMBER24-SUITES",
+        "landing": "https://www.hotelsviva.com/en/adults-only-hotel-suites/",
+        "aws_path_1": "VIVA_HOTELS/2024/08/sept/suites/row/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/adults-only-hotel-suites/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=september24-suites",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "142803",
+            "142804",
+            "142805",
+            "142806",
+            "142807",
+            "142808"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-row_v1mp_AO_dis_rtg-1_SEPTEMBER24-SUITES",
+        "landing": "https://www.hotelsviva.com/en/adults-only-hotel-suites/",
+        "aws_path_1": "VIVA_HOTELS/2024/08/sept/suites/row/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/adults-only-hotel-suites/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=september24-suites",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "142809",
+            "142810",
+            "142811",
+            "142812",
+            "142813",
+            "142814"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-gb_v1mp_AO_dis_prs-1_SEPTEMBER24-SUITES",
+        "landing": "https://www.hotelsviva.com/en/adults-only-hotel-suites/",
+        "aws_path_1": "VIVA_HOTELS/2024/08/sept/suites/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/adults-only-hotel-suites/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=september24-suites",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "142815",
+            "142816",
+            "142817",
+            "142818",
+            "142819",
+            "142820"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-gb_v1mp_AO_dis_rtg-1_SEPTEMBER24-SUITES",
+        "landing": "https://www.hotelsviva.com/en/adults-only-hotel-suites/",
+        "aws_path_1": "VIVA_HOTELS/2024/08/sept/suites/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/adults-only-hotel-suites/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=september24-suites",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "142821",
+            "142822",
+            "142823",
+            "142824",
+            "142825",
+            "142826"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-es_v1mp_AO_dis_prs-1_SEPTEMBER24-GOLF",
+        "landing": "https://www.hotelsviva.com/es/adults-only-hotel-viva-golf/",
+        "aws_path_1": "VIVA_HOTELS/2024/08/sept/golf/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/es/adults-only-hotel-viva-golf/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=september24-golf",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "142827",
+            "142828",
+            "142829",
+            "142830",
+            "142831",
+            "142832"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-es_v1mp_AO_dis_rtg-1_SEPTEMBER24-GOLF",
+        "landing": "https://www.hotelsviva.com/es/adults-only-hotel-viva-golf/",
+        "aws_path_1": "VIVA_HOTELS/2024/08/sept/golf/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/es/adults-only-hotel-viva-golf/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=september24-golf",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "142833",
+            "142834",
+            "142835",
+            "142836",
+            "142837",
+            "142838"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-ch_v1mp_AO_dis_prs-1_SEPTEMBER24-GOLF",
+        "landing": "https://www.hotelsviva.com/de/adults-only-hotel-viva-golf/",
+        "aws_path_1": "VIVA_HOTELS/2024/08/sept/golf/ch/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/adults-only-hotel-viva-golf/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=september24-golf",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "142839",
+            "142840",
+            "142841",
+            "142842",
+            "142843",
+            "142844"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-ch_v1mp_AO_dis_rtg-1_SEPTEMBER24-GOLF",
+        "landing": "https://www.hotelsviva.com/de/adults-only-hotel-viva-golf/",
+        "aws_path_1": "VIVA_HOTELS/2024/08/sept/golf/ch/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/adults-only-hotel-viva-golf/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=september24-golf",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "142845",
+            "142846",
+            "142847",
+            "142848",
+            "142849",
+            "142850"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-de_v1mp_AO_dis_prs-1_SEPTEMBER24-GOLF",
+        "landing": "https://www.hotelsviva.com/de/adults-only-hotel-viva-golf/",
+        "aws_path_1": "VIVA_HOTELS/2024/08/sept/golf/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/adults-only-hotel-viva-golf/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=september24-golf",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "142851",
+            "142852",
+            "142853",
+            "142854",
+            "142855",
+            "142856"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-de_v1mp_AO_dis_rtg-1_SEPTEMBER24-GOLF",
+        "landing": "https://www.hotelsviva.com/de/adults-only-hotel-viva-golf/",
+        "aws_path_1": "VIVA_HOTELS/2024/08/sept/golf/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/adults-only-hotel-viva-golf/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=september24-golf",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "142857",
+            "142858",
+            "142859",
+            "142860",
+            "142861",
+            "142862"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-fr_v1mp_AO_dis_prs-1_SEPTEMBER24-GOLF",
+        "landing": "https://www.hotelsviva.com/en/adults-only-hotel-viva-golf/",
+        "aws_path_1": "VIVA_HOTELS/2024/08/sept/golf/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/adults-only-hotel-viva-golf/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=september24-golf",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "142863",
+            "142864",
+            "142865",
+            "142866",
+            "142867",
+            "142868"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-fr_v1mp_AO_dis_rtg-1_SEPTEMBER24-GOLF",
+        "landing": "https://www.hotelsviva.com/en/adults-only-hotel-viva-golf/",
+        "aws_path_1": "VIVA_HOTELS/2024/08/sept/golf/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/adults-only-hotel-viva-golf/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=september24-golf",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "142869",
+            "142870",
+            "142871",
+            "142872",
+            "142873",
+            "142874"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-row_v1mp_AO_dis_prs-1_SEPTEMBER24-GOLF",
+        "landing": "https://www.hotelsviva.com/en/adults-only-hotel-viva-golf/",
+        "aws_path_1": "VIVA_HOTELS/2024/08/sept/golf/row/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/adults-only-hotel-viva-golf/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=september24-golf",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "142875",
+            "142876",
+            "142877",
+            "142878",
+            "142879",
+            "142880"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-row_v1mp_AO_dis_rtg-1_SEPTEMBER24-GOLF",
+        "landing": "https://www.hotelsviva.com/en/adults-only-hotel-viva-golf/",
+        "aws_path_1": "VIVA_HOTELS/2024/08/sept/golf/row/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/adults-only-hotel-viva-golf/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=september24-golf",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "142881",
+            "142882",
+            "142883",
+            "142884",
+            "142885",
+            "142886"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-gb_v1mp_AO_dis_prs-1_SEPTEMBER24-GOLF",
+        "landing": "https://www.hotelsviva.com/en/adults-only-hotel-viva-golf/",
+        "aws_path_1": "VIVA_HOTELS/2024/08/sept/golf/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/adults-only-hotel-viva-golf/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=september24-golf",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "142887",
+            "142888",
+            "142889",
+            "142890",
+            "142891",
+            "142892"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-gb_v1mp_AO_dis_rtg-1_SEPTEMBER24-GOLF",
+        "landing": "https://www.hotelsviva.com/en/adults-only-hotel-viva-golf/",
+        "aws_path_1": "VIVA_HOTELS/2024/08/sept/golf/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/adults-only-hotel-viva-golf/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_content=september24-golf",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "142893",
+            "142894",
+            "142895",
+            "142896",
+            "142897",
+            "142898"
+        ]
+    }
+]

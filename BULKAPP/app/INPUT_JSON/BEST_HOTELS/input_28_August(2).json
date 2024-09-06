@@ -1,0 +1,77 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "name": "best-es_v1mp_AO-ES_dis_prs-1_LAST-DAYS-ANDORRA",
+        "landing": "https://www.besthotels.es/andorra.html",
+        "aws_path_1": "BEST_HOTELS/2024/08/last_days/andorra/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.besthotels.es/andorra.html?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-es&utm_content=andorra",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Best%20Hotels.js?tc=",
+        "tcs": [
+            "142418",
+            "142419",
+            "142420",
+            "142421",
+            "142422",
+            "142423"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "name": "best-es_v1mp_AO-ES_dis_prs-1_LAST-DAYS-COSTA-LUZ",
+        "landing": "https://www.besthotels.es/costa-de-la-luz.html",
+        "aws_path_1": "BEST_HOTELS/2024/08/last_days/costa/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.besthotels.es/costa-de-la-luz.html?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-es&utm_content=costa-luz",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Best%20Hotels.js?tc=",
+        "tcs": [
+            "142424",
+            "142425",
+            "142426",
+            "142427",
+            "142428",
+            "142429"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "name": "best-fr_v1mp_AO-FR_dis_prs-1_LAST-DAYS-ANDORRA",
+        "landing": "https://www.besthotels.es/fr/andorre.html",
+        "aws_path_1": "BEST_HOTELS/2024/08/last_days/andorra/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.besthotels.es/fr/andorre.html?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-fr&utm_content=andorra",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Best%20Hotels.js?tc=",
+        "tcs": [
+            "142430",
+            "142431",
+            "142432",
+            "142433",
+            "142434",
+            "142435"
+        ]
+    }
+]

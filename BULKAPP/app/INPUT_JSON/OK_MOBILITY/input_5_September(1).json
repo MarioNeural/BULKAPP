@@ -1,0 +1,278 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "970x250"
+        ],
+        "name": "ok-mobility-de_v1mp_AO_dis-prem_prs-1_SCRATCHER-BACKTOSCHOOL",
+        "landing": "https://okmobility.com/de/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/09/backtoschool/de/scratcher/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/de/rent/?promo=BTS&utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=BACKTOSCHOOL&utm_term=de",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ok%20Mobility.js?tc=",
+        "tcs": [
+            "143653",
+            "143654"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "970x250"
+        ],
+        "name": "ok-mobility-es_v1mp_AO_dis-prem_prs-1_SCRATCHER-BACKTOSCHOOL",
+        "landing": "https://okmobility.com/es/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/09/backtoschool/es/scratcher/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/es/rent/?promo=BTS&utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=BACKTOSCHOOL&utm_term=es",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ok%20Mobility.js?tc=",
+        "tcs": [
+            "143655",
+            "143656"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "970x250"
+        ],
+        "name": "ok-mobility-fr_v1mp_AO_dis-prem_prs-1_SCRATCHER-BACKTOSCHOOL",
+        "landing": "https://okmobility.com/fr/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/09/backtoschool/fr/scratcher/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/fr/rent/?promo=BTS&utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=BACKTOSCHOOL&utm_term=fr",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ok%20Mobility.js?tc=",
+        "tcs": [
+            "143657",
+            "143658"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "970x250"
+        ],
+        "name": "ok-mobility-gb_v1mp_AO_dis-prem_prs-1_SCRATCHER-BACKTOSCHOOL",
+        "landing": "https://okmobility.com/en/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/09/backtoschool/gb/scratcher/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/en/rent/?promo=BTS&utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=BACKTOSCHOOL&utm_term=gb",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ok%20Mobility.js?tc=",
+        "tcs": [
+            "143659",
+            "143660"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "970x250"
+        ],
+        "name": "ok-mobility-it_v1mp_AO_dis-prem_prs-1_SCRATCHER-BACKTOSCHOOL",
+        "landing": "https://okmobility.com/it/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/09/backtoschool/it/scratcher/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/it/rent/?promo=BTS&utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=BACKTOSCHOOL&utm_term=it",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ok%20Mobility.js?tc=",
+        "tcs": [
+            "143661",
+            "143662"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "970x250"
+        ],
+        "name": "ok-mobility-pt_v1mp_AO_dis-prem_prs-1_SCRATCHER-BACKTOSCHOOL",
+        "landing": "https://okmobility.com/pt/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/09/backtoschool/pt/scratcher/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/pt/rent/?promo=BTS&utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=BACKTOSCHOOL&utm_term=pt",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ok%20Mobility.js?tc=",
+        "tcs": [
+            "143663",
+            "143664"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "ok-mobility-pt_v1mp_AO_dis_prs-1_BACKTOSCHOOL",
+        "landing": "https://okmobility.com/pt/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/09/backtoschool/pt/display/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/pt/rent/?promo=BTS&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=BACKTOSCHOOL&utm_term=pt",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ok%20Mobility.js?tc=",
+        "tcs": [
+            "143701",
+            "143702",
+            "143703",
+            "143704",
+            "143705",
+            "143706"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "ok-mobility-it_v1mp_AO_dis_prs-1_BACKTOSCHOOL",
+        "landing": "https://okmobility.com/it/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/09/backtoschool/it/display/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/it/rent/?promo=BTS&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=BACKTOSCHOOL&utm_term=it",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ok%20Mobility.js?tc=",
+        "tcs": [
+            "143707",
+            "143708",
+            "143709",
+            "143710",
+            "143711",
+            "143712"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "ok-mobility-fr_v1mp_AO_dis_prs-1_BACKTOSCHOOL",
+        "landing": "https://okmobility.com/fr/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/09/backtoschool/fr/display/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/fr/rent/?promo=BTS&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=BACKTOSCHOOL&utm_term=fr",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ok%20Mobility.js?tc=",
+        "tcs": [
+            "143713",
+            "143714",
+            "143715",
+            "143716",
+            "143717",
+            "143718"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "ok-mobility-es_v1mp_AO_dis_prs-1_BACKTOSCHOOL",
+        "landing": "https://okmobility.com/es/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/09/backtoschool/es/display/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/es/rent/?promo=BTS&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=BACKTOSCHOOL&utm_term=es",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ok%20Mobility.js?tc=",
+        "tcs": [
+            "143719",
+            "143720",
+            "143721",
+            "143722",
+            "143723",
+            "143724"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "ok-mobility-gb_v1mp_AO_dis_prs-1_BACKTOSCHOOL",
+        "landing": "https://okmobility.com/en/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/09/backtoschool/gb/display/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/en/rent/?promo=BTS&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=BACKTOSCHOOL&utm_term=gb",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ok%20Mobility.js?tc=",
+        "tcs": [
+            "143725",
+            "143726",
+            "143727",
+            "143728",
+            "143729",
+            "143730"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "ok-mobility-de_v1mp_AO_dis_prs-1_BACKTOSCHOOL",
+        "landing": "https://okmobility.com/de/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/09/backtoschool/de/display/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/de/rent/?promo=BTS&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=BACKTOSCHOOL&utm_term=de",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ok%20Mobility.js?tc=",
+        "tcs": [
+            "143731",
+            "143732",
+            "143733",
+            "143734",
+            "143735",
+            "143736"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "tcs": ["141116", "141117"],
+        "name": "wonders-es_v1mp_NUEVA-COLECCION_dis-p20_prs-1_REBAJAS-FASE3",
+        "landing": "https://wonders.com/ES/es/rebajas",
+        "aws_path_1": "WONDERS/2024/08/preroll/",
+        "aws_path_2": "/index.html",
+        "link": "https://wonders.com/ES/es/rebajas?utm_source=v1mp&utm_medium=dis-p20-prs-1&utm_campaign=nueva-coleccion&utm_content=REBAJAS-FASE3",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Wonders.js?tc="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "970x250", "728x90", "320x100"],
+        "tcs": ["141118", "141119", "141120", "141121", "141122", "141123"],
+        "name": "wonders-es_v1mp_NUEVA-COLECCION_dis_prs-1_REBAJAS-FASE3",
+        "landing": "https://wonders.com/ES/es/rebajas",
+        "aws_path_1": "WONDERS/2024/08/dis/",
+        "aws_path_2": "/index.html",
+        "link": "https://wonders.com/ES/es/rebajas?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=nueva-coleccion&utm_content=REBAJAS-FASE3",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Wonders.js?tc="
+    }
+]

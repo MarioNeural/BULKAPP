@@ -1,0 +1,35 @@
+[
+    {
+        "type": "link",
+        "sizes": ["320x100", "300x250", "160x600", "970x250", "728x90"],
+        "tcs": ["141228", "141229", "141230", "141231", "141232"],
+        "name": "iberia-express-es_imp_AO-RESERVAS-CAN_dis_prs-1_FREQ-12",
+        "landing": "https://www.iberiaexpress.com/",
+        "aws_path_1": "iberia/2024/08/freq/12/",
+        "aws_path_2": ".gif",
+        "url": "https://www.iberiaexpress.com/?utm_source=imp&utm_medium=dis-prs-1&utm_campaign=ao-reservas-can&utm_content=FREQ-12",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Iberia%20Express.js?tc="
+    },
+    {
+        "type": "link",
+        "sizes": ["320x100", "300x250", "160x600", "970x250", "728x90"],
+        "tcs": ["141233", "141234", "141235", "141236", "141237"],
+        "name": "iberia-express-es_imp_AO-RESERVAS-CAN_dis_prs-1_FREQ-10",
+        "landing": "https://www.iberiaexpress.com/",
+        "aws_path_1": "iberia/2024/08/freq/10/",
+        "aws_path_2": ".gif",
+        "url": "https://www.iberiaexpress.com/?utm_source=imp&utm_medium=dis-prs-1&utm_campaign=ao-reservas-can&utm_content=FREQ-10",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Iberia%20Express.js?tc="
+    },
+    {
+        "type": "link",
+        "sizes": ["320x100", "300x250", "160x600", "970x250", "728x90"],
+        "tcs": ["141238", "141239", "141240", "141241", "141242"],
+        "name": "iberia-express-es_imp_AO-RESERVAS-CAN_dis_prs-1_FREQ-4",
+        "landing": "https://www.iberiaexpress.com/",
+        "aws_path_1": "iberia/2024/08/freq/4/",
+        "aws_path_2": ".gif",
+        "url": "https://www.iberiaexpress.com/?utm_source=imp&utm_medium=dis-prs-1&utm_campaign=ao-reservas-can&utm_content=FREQ-4",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Iberia%20Express.js?tc="
+    }
+]

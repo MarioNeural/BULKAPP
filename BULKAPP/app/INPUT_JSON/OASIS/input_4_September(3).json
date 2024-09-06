@@ -1,0 +1,138 @@
+[
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "120x600"
+        ],
+        "name": "oasis-us_v1mp_MEAN-GIRLD_dis_prs-1_SKYS",
+        "landing": "https://oasishoteles.com/en/mean-girls",
+        "aws_path_1": "OASIS/2024/09/mean/skys/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/en/mean-girls?utm_source=adgmedia&utm_medium=display&utm_campaign=Meangirld&utm_term=prospecting-oferta-usa&utm_content=grand-oasis-cancun&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "143308",
+            "143309"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "120x600"
+        ],
+        "name": "oasis-us_v1mp_MEAN-GIRLD_dis_rtg-1_SKYS",
+        "landing": "https://oasishoteles.com/en/mean-girls",
+        "aws_path_1": "OASIS/2024/09/mean/skys/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/en/mean-girls?utm_source=adgmedia&utm_medium=display&utm_campaign=Meangirld&utm_term=retargeting-oferta-usa&utm_content=grand-oasis-cancun&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "143310",
+            "143311"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "320x250"
+        ],
+        "name": "oasis-us_v1mp_MEAN-GIRLD_dis_prs-1_MOVIL",
+        "landing": "https://oasishoteles.com/en/mean-girls",
+        "aws_path_1": "OASIS/2024/09/mean/movil/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/en/mean-girls?utm_source=adgmedia&utm_medium=display&utm_campaign=Meangirld&utm_term=prospecting-oferta-usa&utm_content=grand-oasis-cancun&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "143336",
+            "143337"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "320x250"
+        ],
+        "name": "oasis-us_v1mp_MEAN-GIRLD_dis_rtg-1_MOVIL",
+        "landing": "https://oasishoteles.com/en/mean-girls",
+        "aws_path_1": "OASIS/2024/09/mean/movil/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/en/mean-girls?utm_source=adgmedia&utm_medium=display&utm_campaign=Meangirld&utm_term=retargeting-oferta-usa&utm_content=grand-oasis-cancun&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "143338",
+            "143339"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60"
+        ],
+        "name": "oasis-us_v1mp_MEAN-GIRLD_dis_prs-1_LEADER",
+        "landing": "https://oasishoteles.com/en/mean-girls",
+        "aws_path_1": "OASIS/2024/09/mean/leader/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/en/mean-girls?utm_source=adgmedia&utm_medium=display&utm_campaign=Meangirld&utm_term=prospecting-oferta-usa&utm_content=grand-oasis-cancun&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "143340",
+            "143341"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "468x60"
+        ],
+        "name": "oasis-us_v1mp_MEAN-GIRLD_dis_rtg-1_LEADER",
+        "landing": "https://oasishoteles.com/en/mean-girls",
+        "aws_path_1": "OASIS/2024/09/mean/leader/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/en/mean-girls?utm_source=adgmedia&utm_medium=display&utm_campaign=Meangirld&utm_term=retargeting-oferta-usa&utm_content=grand-oasis-cancun&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "143342",
+            "143343"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x250",
+            "250x250"
+        ],
+        "name": "oasis-us_v1mp_MEAN-GIRLD_dis_prs-1_CUA-REC",
+        "landing": "https://oasishoteles.com/en/mean-girls",
+        "aws_path_1": "OASIS/2024/09/mean/cua/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/en/mean-girls?utm_source=adgmedia&utm_medium=display&utm_campaign=Meangirld&utm_term=prospecting-oferta-usa&utm_content=grand-oasis-cancun&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "143344",
+            "143345"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x250",
+            "250x250"
+        ],
+        "name": "oasis-us_v1mp_MEAN-GIRLD_dis_rtg-1_CUA-REC",
+        "landing": "https://oasishoteles.com/en/mean-girls",
+        "aws_path_1": "OASIS/2024/09/mean/cua/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/en/mean-girls?utm_source=adgmedia&utm_medium=display&utm_campaign=Meangirld&utm_term=retargeting-oferta-usa&utm_content=grand-oasis-cancun&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "143346",
+            "143347"
+        ]
+    }
+]

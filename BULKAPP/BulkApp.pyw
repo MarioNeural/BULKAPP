@@ -124,22 +124,25 @@ def generate_object(sizes, tcs, line, key, landing, link, name_index, headers):
     link = re.sub(r'&tc_alt.*$', '', link)
     viewability = ""
     impression_tag = ""
-    if include_viewability.get():
+    
+    include_viewability_flag = include_viewability.get()
+    include_impression_flag = include_impression.get()
+
+    if include_viewability_flag:
         script_match = re.search(r'<script.*?src="([^"]+)', line)
         if script_match:
             viewability_url = script_match.group(1)
             viewability = re.sub(r'\d{6}.*$', '', viewability_url)
-
-    if include_impression.get() and "Impression" in headers:
+    
+    if include_impression_flag and "Impression" in headers:
         impression_index = headers.index("Impression")
         if impression_index < len(values):
             impression_tag = values[impression_index].replace('"', "'")
-
+    
     if link_type.get() == "iframe":
         result_obj = {
             "type": "iframe",
             "sizes": sizes,
-            "tcs": tcs,
             "name": key,
             "landing": landing,
             "aws_path_1": aws_path_1,
@@ -150,7 +153,6 @@ def generate_object(sizes, tcs, line, key, landing, link, name_index, headers):
         result_obj = {
             "type": "link",
             "sizes": sizes,
-            "tcs": tcs,
             "name": key,
             "landing": landing,
             "aws_path_1": aws_path_1,
@@ -158,10 +160,15 @@ def generate_object(sizes, tcs, line, key, landing, link, name_index, headers):
             "url": link
         }
 
-    if include_viewability.get():
+    if include_viewability_flag:
         result_obj["viewability"] = viewability
+    else:
+        # Si no se incluye la viewability, no incluimos los TCs
+        tcs = []
 
-    if include_impression.get():
+    result_obj["tcs"] = tcs
+    
+    if include_impression_flag:
         result_obj["impression_tag"] = impression_tag
 
     if add_utm_size:
