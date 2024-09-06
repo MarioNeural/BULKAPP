@@ -37,10 +37,15 @@ def open_json_with_vscode():
 
 def check_http_status(url):
     try:
-        response = requests.get(url)
-        return response.status_code == 200  # Verificar si el estado HTTP es 200 OK
-    except requests.exceptions.RequestException:
+        response = requests.get(url, timeout=10)  # Añadir un timeout
+        return response.status_code == 200  # Retornar True si la respuesta es 200 OK
+    except requests.exceptions.Timeout:
+        print(f"Timeout al intentar acceder a {url}")
         return False
+    except requests.exceptions.RequestException as e:
+        print(f"Error al intentar acceder a {url}: {e}")
+        return False
+
 
 def get_base_url(url):
     # Filtramos la URL eliminando los parámetros que empiezan con 'utm_'
@@ -95,8 +100,8 @@ def perform_checks(tag, index, csv_file_name):
     bucket_url_match = re.search(r'<script[^>]+src=["\'](https?://[^"\']*bucket[^"\']*|//[^"\']*bucket[^"\']*)["\']', tag)
     if bucket_url_match:
         bucket_url = bucket_url_match.group(1)
-        if bucket_url.startswith("//"):
-            bucket_url = "https:" + bucket_url
+    if bucket_url.startswith("//"):
+        bucket_url = f"https:{bucket_url}"
         print(f"Bucket URL extraída: {bucket_url}")
         check_report['bucket_checked'] = True
     else:
