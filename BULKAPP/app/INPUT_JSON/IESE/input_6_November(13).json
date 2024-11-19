@@ -1,0 +1,13 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "name": "iese-lam_v1mp_BRAND-LATAM-AWARENESS-ADULT-DISPLAY-VIDEO-ONLINE-PAID-24-25_vid_prs-1_PREROLL",
+        "landing": "https://www.iese.edu/es/programas-semipresenciales-online/",
+        "aws_path_1": "IESE/2024/11/preroll_2/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.iese.edu/es/programas-semipresenciales-online/?utm_source=display&utm_medium=video&utm_campaign=701Qu00000FvNyi&utm_content=preroll",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_IESE%20Business%20School.js?tc=",
+        "tcs": ["150075", "150076"]
+    }
+]

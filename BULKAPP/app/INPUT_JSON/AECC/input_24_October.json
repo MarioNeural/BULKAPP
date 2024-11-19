@@ -1,0 +1,15 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "160x600"],
+        "name": "aecc-es_v1mp_ECOMMERCE-MAMA-2024_dis_rtg-1_PUSH-PRODUCTOS",
+        "landing": "https://tienda.contraelcancer.es/campanas/campana-mama/",
+        "aws_path_1": "AECC/2024/10/push_products/",
+        "aws_path_2": "/index.html",
+        "link": "https://tienda.contraelcancer.es/campanas/campana-mama/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ecommerce-mama-2024",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_AECC.js?tc=",
+        "tcs": ["149336", "149337", "149338"],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

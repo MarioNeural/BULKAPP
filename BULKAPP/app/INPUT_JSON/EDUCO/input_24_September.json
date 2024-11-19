@@ -1,0 +1,13 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "name": "educo-es_v1mp_BECAS-COMEDOR_dis-p20_prs-1_VUELTA-COLE",
+        "landing": "https://www.educo.org/landing/becascomedor",
+        "aws_path_1": "EDUCO/2024/09/preroll/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.educo.org/landing/becascomedor?utm_source=banner_v1&utm_medium=display-premium&utm_campaign=becas-comedor_2024",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Educo.js?tc=",
+        "tcs": ["145008", "145013"]
+    }
+]

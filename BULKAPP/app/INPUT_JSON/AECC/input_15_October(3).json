@@ -1,0 +1,28 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "name": "aecc-es_v1mp_AW-MAMA-2024_dis-prem_prs-1_PREROLL-ROSA",
+        "landing": "https://colabora.contraelcancer.es/campanas/mama-2024",
+        "aws_path_1": "AECC/2024/10/preroll_rosa/",
+        "aws_path_2": "/index.html",
+        "link": "https://colabora.contraelcancer.es/campanas/mama-2024?utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=aw-mama-2024",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_AECC.js?tc=",
+        "tcs": ["148131"],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "name": "aecc-es_v1mp_AW-MAMA-2024_dis-prem_prs-1_PREROLL-BLANCO",
+        "landing": "https://colabora.contraelcancer.es/campanas/mama-2024",
+        "aws_path_1": "AECC/2024/10/preroll_blanco/",
+        "aws_path_2": "/index.html",
+        "link": "https://colabora.contraelcancer.es/campanas/mama-2024?utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=aw-mama-2024",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_AECC.js?tc=",
+        "tcs": ["148136"],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "728x90", "970x250", "320x100"],
+        "name": "fp-maragall-es_adg_TANGIBILIZACION_dis_prs-1_TANGIBILIZACION-IDENTIDAD",
+        "landing": "https://recursos.fpmaragall.org/hazte-socio",
+        "aws_path_1": "FP_MARAGALL/2024/09/tangibilizacion/",
+        "aws_path_2": "/index.html",
+        "link": "https://recursos.fpmaragall.org/hazte-socio?utm_source=display&utm_medium=banner&utm_campaign=integrada24&utm_term=TANGIBILIZACION-IDENTIDAD",
+        "tcs": [],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

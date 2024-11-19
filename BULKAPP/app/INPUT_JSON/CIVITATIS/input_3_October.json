@@ -1,0 +1,302 @@
+[
+    {
+        "type": "link",
+        "sizes": [
+            "160x600",
+            "468x60",
+            "300x600",
+            "728x90",
+            "300x250",
+            "120x600"
+        ],
+        "name": "civitatis-es_adg_AO_dis_rtg-1_ES_ES_RTG_PURCHASE_2024_OTONOFASE2_DISPLAY_ACTIVIDAD_EDIMBURGO",
+        "landing": "https://www.civitatis.com/es/edimburgo/excursion-lago-ness-inverness/",
+        "aws_path_1": "CIVITATIS/2024/10/otono1/edimburgo/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/edimburgo/excursion-lago-ness-inverness/?aid=108&cmp=es_ES&cmpint=adg_es_EDIMBURGO_160x600&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=es_ES_RTG_Purchase_2024_Otonofase2_Display_Actividad_Edimburgo&utm_content=EDIMBURGO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Civitatis.js?tc=",
+        "tcs": [
+            "146076",
+            "146077",
+            "146078",
+            "146079",
+            "146080",
+            "146081"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "160x600",
+            "468x60",
+            "300x600",
+            "728x90",
+            "300x250",
+            "120x600"
+        ],
+        "name": "civitatis-es_adg_AO_dis_rtg-1_ES_ES_RTG_PURCHASE_2024_OTONOFASE2_DISPLAY_ACTIVIDAD_PRAGA",
+        "landing": "https://www.civitatis.com/es/praga/visita-guiada-castillo-praga/",
+        "aws_path_1": "CIVITATIS/2024/10/otono1/praga/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/praga/visita-guiada-castillo-praga/?aid=108&cmp=es_ES&cmpint=adg_es_PRAGA_160x600&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=es_ES_RTG_Purchase_2024_Otonofase2_Display_Actividad_Praga&utm_content=PRAGA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Civitatis.js?tc=",
+        "tcs": [
+            "146082",
+            "146083",
+            "146084",
+            "146085",
+            "146086",
+            "146087"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "160x600",
+            "468x60",
+            "300x600",
+            "728x90",
+            "300x250",
+            "120x600"
+        ],
+        "name": "civitatis-es_adg_AO_dis_rtg-1_ES_ES_RTG_PURCHASE_2024_OTONOFASE2_DISPLAY_ACTIVIDAD_BERLIN",
+        "landing": "https://www.civitatis.com/es/berlin/visita-guiada-berlin/",
+        "aws_path_1": "CIVITATIS/2024/10/otono1/berlin/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/berlin/visita-guiada-berlin/?aid=108&cmp=es_ES&cmpint=adg_es_BERLIN_160x600&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=es_ES_RTG_Purchase_2024_Otonofase2_Display_Actividad_Berlin&utm_content=BERLIN",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Civitatis.js?tc=",
+        "tcs": [
+            "146088",
+            "146089",
+            "146090",
+            "146091",
+            "146092",
+            "146093"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "160x600",
+            "468x60",
+            "300x600",
+            "728x90",
+            "300x250",
+            "120x600"
+        ],
+        "name": "civitatis-es_adg_AO_dis_rtg-1_ES_ES_RTG_PURCHASE_2024_OTONOFASE2_DISPLAY_ACTIVIDAD_VENECIA",
+        "landing": "https://www.civitatis.com/es/venecia/paseo-gondola-venecia/",
+        "aws_path_1": "CIVITATIS/2024/10/otono1/venecia/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/venecia/paseo-gondola-venecia/?aid=108&cmp=es_ES&cmpint=adg_es_VENECIA_160x600&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=es_ES_RTG_Purchase_2024_Otonofase2_Display_Actividad_Venecia&utm_content=VENECIA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Civitatis.js?tc=",
+        "tcs": [
+            "146094",
+            "146095",
+            "146096",
+            "146097",
+            "146098",
+            "146099"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "160x600",
+            "468x60",
+            "300x600",
+            "728x90",
+            "300x250",
+            "120x600"
+        ],
+        "name": "civitatis-es_adg_AO_dis_rtg-1_ES_ES_RTG_PURCHASE_2024_OTONOFASE2_DISPLAY_ACTIVIDAD_NIZA",
+        "landing": "https://www.civitatis.com/es/niza/excursion-costa-azul/",
+        "aws_path_1": "CIVITATIS/2024/10/otono1/niza/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/niza/excursion-costa-azul/?aid=108&cmp=es_ES&cmpint=adg_es_NIZA_160x600&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=es_ES_RTG_Purchase_2024_Otonofase2_Display_Actividad_Niza&utm_content=NIZA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Civitatis.js?tc=",
+        "tcs": [
+            "146100",
+            "146101",
+            "146102",
+            "146103",
+            "146104",
+            "146105"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "160x600",
+            "468x60",
+            "300x600",
+            "728x90",
+            "300x250",
+            "120x600"
+        ],
+        "name": "civitatis-es_adg_AO_dis_rtg-1_ES_ES_RTG_PURCHASE_2024_OTONOFASE2_DISPLAY_ACTIVIDAD_ALSACIA",
+        "landing": "https://www.civitatis.com/es/estrasburgo/alsacia-castillo-haut-koenigsbourg/",
+        "aws_path_1": "CIVITATIS/2024/10/otono1/alsacia/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/estrasburgo/alsacia-castillo-haut-koenigsbourg/?aid=108&cmp=es_ES&cmpint=adg_es_ALSACIA_160x600&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=es_ES_RTG_Purchase_2024_Otonofase2_Display_Actividad_Alsacia&utm_content=ALSACIA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Civitatis.js?tc=",
+        "tcs": [
+            "146106",
+            "146107",
+            "146108",
+            "146109",
+            "146110",
+            "146111"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "160x600",
+            "468x60",
+            "300x600",
+            "728x90",
+            "300x250",
+            "120x600"
+        ],
+        "name": "civitatis-es_adg_AO_dis_rtg-1_ES_ES_RTG_PURCHASE_2024_OTONOFASE2_DISPLAY_ACTIVIDAD_COPENHAGUE",
+        "landing": "https://www.civitatis.com/es/copenhague/paseo-barco-canales-copenhague/",
+        "aws_path_1": "CIVITATIS/2024/10/otono1/copenhague/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/copenhague/paseo-barco-canales-copenhague/?aid=108&cmp=es_ES&cmpint=adg_es_COPHENAGUE_160x600&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=es_ES_RTG_Purchase_2024_Otonofase2_Display_Actividad_Copenhague&utm_content=COPHENAGUE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Civitatis.js?tc=",
+        "tcs": [
+            "146112",
+            "146113",
+            "146114",
+            "146115",
+            "146116",
+            "146117"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "160x600",
+            "468x60",
+            "300x600",
+            "728x90",
+            "300x250",
+            "120x600"
+        ],
+        "name": "civitatis-es_adg_AO_dis_rtg-1_ES_ES_RTG_PURCHASE_2024_OTONOFASE2_DISPLAY_ACTIVIDAD_PARIS",
+        "landing": "https://www.civitatis.com/es/paris/paseo-barco-sena/",
+        "aws_path_1": "CIVITATIS/2024/10/otono1/paris/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/paris/paseo-barco-sena/?aid=108&cmp=es_ES&cmpint=adg_es_PARIS_160x600&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=es_ES_RTG_Purchase_2024_Otonofase2_Display_Actividad_Paris&utm_content=PARIS",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Civitatis.js?tc=",
+        "tcs": [
+            "146118",
+            "146119",
+            "146120",
+            "146121",
+            "146122",
+            "146123"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "160x600",
+            "468x60",
+            "300x600",
+            "728x90",
+            "300x250",
+            "120x600"
+        ],
+        "name": "civitatis-es_adg_AO_dis_rtg-1_ES_ES_RTG_PURCHASE_2024_OTONOFASE2_DISPLAY_ACTIVIDAD_TOURMERCADILLOSALSACIA",
+        "landing": "https://www.civitatis.com/es/colmar/tour-navidad-alsacia",
+        "aws_path_1": "CIVITATIS/2024/10/otono1/tourmercadillosalsacia/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/colmar/tour-navidad-alsacia?aid=108&cmp=es_ES&cmpint=adg_es_MERCADILLOS-ALSACIA_160x600&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=es_ES_RTG_Purchase_2024_OtonoFase2_Display_Actividad_TourMercadillosAlsacia&utm_content=MERCADILLOS-ALSACIA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Civitatis.js?tc=",
+        "tcs": [
+            "146124",
+            "146125",
+            "146126",
+            "146127",
+            "146128",
+            "146129"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "160x600",
+            "468x60",
+            "300x600",
+            "728x90",
+            "300x250",
+            "120x600"
+        ],
+        "name": "civitatis-es_adg_AO_dis_rtg-1_ES_ES_RTG_PURCHASE_2024_OTONOFASE2_DISPLAY_ACTIVIDAD_MISTERIOSYLEYENDASVIENA",
+        "landing": "https://www.civitatis.com/es/viena/tour-misterios-leyendas-viena/",
+        "aws_path_1": "CIVITATIS/2024/10/otono1/misteriosyleyendasviena/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/viena/tour-misterios-leyendas-viena/?aid=108&cmp=es_ES&cmpint=adg_es_VIENA_160x600&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=es_ES_RTG_Purchase_2024_OtonoFase2_Display_Actividad_MisteriosyLeyendasViena&utm_content=VIENA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Civitatis.js?tc=",
+        "tcs": [
+            "146130",
+            "146131",
+            "146132",
+            "146133",
+            "146134",
+            "146135"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "160x600",
+            "468x60",
+            "300x600",
+            "728x90",
+            "300x250",
+            "120x600"
+        ],
+        "name": "civitatis-es_adg_AO_dis_rtg-1_ES_ES_RTG_PURCHASE_2024_OTONOFASE2_DISPLAY_ACTIVIDAD_MISTERIOSYLEYENDASMADRID",
+        "landing": "https://www.civitatis.com/es/madrid/tour-misterios-leyendas-madrid/",
+        "aws_path_1": "CIVITATIS/2024/10/otono1/misteriosyleyendasmadrid/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/madrid/tour-misterios-leyendas-madrid/?aid=108&cmp=es_ES&cmpint=adg_es_MADRID_160x600&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=es_ES_RTG_Purchase_2024_OtonoFase2_Display_Actividad_MisteriosyLeyendasMadrid&utm_content=MADRID",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Civitatis.js?tc=",
+        "tcs": [
+            "146136",
+            "146137",
+            "146138",
+            "146139",
+            "146140",
+            "146141"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "160x600",
+            "468x60",
+            "300x600",
+            "728x90",
+            "300x250",
+            "120x600"
+        ],
+        "name": "civitatis-es_adg_AO_dis_rtg-1_ES_ES_RTG_PURCHASE_2024_OTONOFASE2_DISPLAY_ACTIVIDAD_MISTERIOSYLEYENDASPRAGA",
+        "landing": "https://www.civitatis.com/es/praga/tour-misterios-leyendas-praga/",
+        "aws_path_1": "CIVITATIS/2024/10/otono1/misteriosyleyendaspraga/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/es/praga/tour-misterios-leyendas-praga/?aid=108&cmp=es_ES&cmpint=adg_es_PRAGA_160x600&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=es_ES_RTG_Purchase_2024_OtonoFase2_Display_Actividad_MisteriosyLeyendasPraga&utm_content=PRAGA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Civitatis.js?tc=",
+        "tcs": [
+            "146142",
+            "146143",
+            "146144",
+            "146145",
+            "146146",
+            "146147"
+        ]
+    }
+]

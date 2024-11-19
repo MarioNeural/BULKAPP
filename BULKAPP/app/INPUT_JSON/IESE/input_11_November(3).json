@@ -1,0 +1,15 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "name": "iese-es_v1mp_NEP-EMBA-SOUTHEUROPE_CONSIDERATION_DISPLAYVIDEO_ONLINE_PAID_24-25_vid_prs-1_RI-PREROLL",
+        "landing": "https://formscloud.iese.edu/landings-emba-solicita-entrevista",
+        "aws_path_1": "IESE/2024/11/preroll_4/",
+        "aws_path_2": "/index.html",
+        "link": "https://formscloud.iese.edu/landings-emba-solicita-entrevista?utm_source=display&utm_medium=video&utm_campaign=701Qu00000H84Zi&utm_term=RI",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_IESE%20Business%20School.js?tc=",
+        "tcs": ["150465", "150466"],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

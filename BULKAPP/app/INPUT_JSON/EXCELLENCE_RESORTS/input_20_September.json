@@ -1,0 +1,28 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["970x250"],
+        "name": "excellence-resorts-us_adg_FINEST-AWARENESS_dis-3d_prs-22_3D",
+        "landing": "https://a2.adform.net/adfserve/?bn=74735896;1x1inv=1;srctype=3;ord=[timestamp]",
+        "aws_path_1": "EXCELLENCE_RESORTS/2024/06/3dcard_finest/",
+        "aws_path_2": "/index.html",
+        "link": "https://a2.adform.net/C/?bn=74735896",
+        "viewability": "",
+        "tcs": [
+            ""
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250"],
+        "name": "excellence-resorts-us_adg_AWARENESS_dis-3d_prs-22_3D",
+        "landing": "https://a2.adform.net/adfserve/?bn=74735885;1x1inv=1;srctype=3;ord=[timestamp]",
+        "aws_path_1": "EXCELLENCE_RESORTS/2024/06/3dcard_excellence/",
+        "aws_path_2": "/index.html",
+        "link": "https://a2.adform.net/C/?bn=74735885",
+        "viewability": "",
+        "tcs": [
+            ""
+        ]
+    }
+]

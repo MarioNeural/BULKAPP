@@ -1,0 +1,20 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "name": "preview",
+        "landing": "https://www.insotelhotelgroup.com/de",
+        "aws_path_1": "VIVA_HOTELS/2024/06/dco/",
+        "aws_path_2": ".html",
+        "link": "https://www.insotelhotelgroup.com/",
+        "viewability": "",
+        "tcs": []
+    }
+]

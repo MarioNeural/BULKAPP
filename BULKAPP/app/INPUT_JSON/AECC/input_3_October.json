@@ -1,0 +1,24 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "name": "aecc-es_v1mp_DONA-MAMA-2024_dis_rtg-1_PANUELO",
+        "landing": "https://colabora.contraelcancer.es/campanas/mama-2024",
+        "aws_path_1": "AECC/2024/10/panuelo/",
+        "aws_path_2": "/index.html",
+        "link": "https://colabora.contraelcancer.es/campanas/mama-2024?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=dona-mama-2024&utm_content=panuelo",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_AECC.js?tc=",
+        "tcs": ["145850", "145851", "145852", "145853", "145854", "145855"]
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "name": "aecc-es_v1mp_DONA-MAMA-2024_dis_rtg-1_INVESTIGACION",
+        "landing": "https://colabora.contraelcancer.es/campanas/mama-2024",
+        "aws_path_1": "AECC/2024/10/investigacion/",
+        "aws_path_2": "/index.html",
+        "link": "https://colabora.contraelcancer.es/campanas/mama-2024?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=dona-mama-2024&utm_content=investigacion",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_AECC.js?tc=",
+        "tcs": ["145856", "145857", "145858", "145859", "145860", "145861"]
+    }
+]

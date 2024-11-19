@@ -1,0 +1,13 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "320x100", "970x250", "160x600"],
+        "name": "campus-tr-es_imp_AO_dis_prs-1_GENERICO",
+        "landing": "https://cemp.es/landing/branding/?utm_source=impulsion&utm_medium=display&utm_campaign=cemp_marca_es_imp_prospecting&MLL=10612",
+        "aws_path_1": "CEMP/2024/10/generico/",
+        "aws_path_2": "/index.html",
+        "link": "https://cemp.es/landing/branding/?utm_source=impulsion&utm_medium=display&utm_campaign=cemp_marca_es_imp_prospecting&MLL=10612",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_CEMP.js?tc=",
+        "tcs": ["149022", "149023", "149024", "149025", "149026"]
+    }
+]

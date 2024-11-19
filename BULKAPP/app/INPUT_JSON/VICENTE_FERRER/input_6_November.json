@@ -1,0 +1,202 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250"
+        ],
+        "name": "v-f-es_v1mp_GENERICA-SOCIO_dis_prs-3_IGUALDAD",
+        "landing": "https://www.fundacionvicenteferrer.org/es/donar",
+        "aws_path_1": "VICENTE_FERRER/2024/11/generica/igualdad/prs/socio/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.fundacionvicenteferrer.org/es/donar?c=U00912900C09&o=DS&f=DS&utm_source=display&utm_medium=cpm&utm_campaign=generica-socio&utm_term=igualdad",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Vicente%20Ferrer.js?tc=",
+        "tcs": [
+            "149791",
+            "149792",
+            "149793",
+            "149794",
+            "149795"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250"
+        ],
+        "name": "v-f-es_v1mp_GENERICA-DONA_dis_prs-3_IGUALDAD",
+        "landing": "https://www.fundacionvicenteferrer.org/es/donar",
+        "aws_path_1": "VICENTE_FERRER/2024/11/generica/igualdad/prs/dona/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.fundacionvicenteferrer.org/es/donar?c=U00912900C10&o=DS&f=DS&utm_source=display&utm_medium=cpm&utm_campaign=generica-dona&utm_term=igualdad",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Vicente%20Ferrer.js?tc=",
+        "tcs": [
+            "149796",
+            "149797",
+            "149798",
+            "149799",
+            "149800"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250"
+        ],
+        "name": "v-f-es_v1mp_GENERICA-SOCIO_dis_prs-3_INFANCIA",
+        "landing": "https://www.fundacionvicenteferrer.org/es/donar",
+        "aws_path_1": "VICENTE_FERRER/2024/11/generica/infancia/prs/socio/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.fundacionvicenteferrer.org/es/donar?c=U00912900C09&o=DS&f=DS&utm_source=display&utm_medium=cpm&utm_campaign=generica-socio&utm_term=igualdad",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Vicente%20Ferrer.js?tc=",
+        "tcs": [
+            "149801",
+            "149802",
+            "149803",
+            "149804",
+            "149805"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250"
+        ],
+        "name": "v-f-es_v1mp_GENERICA-DONA_dis_prs-3_INFANCIA",
+        "landing": "https://www.fundacionvicenteferrer.org/es/donar",
+        "aws_path_1": "VICENTE_FERRER/2024/11/generica/infancia/prs/dona/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.fundacionvicenteferrer.org/es/donar?c=U00912900C10&o=DS&f=DS&utm_source=display&utm_medium=cpm&utm_campaign=generica-dona&utm_term=igualdad",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Vicente%20Ferrer.js?tc=",
+        "tcs": [
+            "149806",
+            "149807",
+            "149808",
+            "149809",
+            "149810"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250"
+        ],
+        "name": "v-f-es_v1mp_GENERICA-SOCIO_dis_rtg-3_IGUALDAD",
+        "landing": "https://www.fundacionvicenteferrer.org/es/donar",
+        "aws_path_1": "VICENTE_FERRER/2024/11/generica/igualdad/rtg/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.fundacionvicenteferrer.org/es/donar?c=U00912900C09&o=DS&f=DS&utm_source=display&utm_medium=cpm&utm_campaign=generica-socio&utm_term=igualdad",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Vicente%20Ferrer.js?tc=",
+        "tcs": [
+            "149811",
+            "149812",
+            "149813",
+            "149814",
+            "149815"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250"
+        ],
+        "name": "v-f-es_v1mp_GENERICA-DONA_dis_rtg-3_INFANCIA",
+        "landing": "https://www.fundacionvicenteferrer.org/es/donar",
+        "aws_path_1": "VICENTE_FERRER/2024/11/generica/infancia/rtg/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.fundacionvicenteferrer.org/es/donar?c=U00912900C10&o=DS&f=DS&utm_source=display&utm_medium=cpm&utm_campaign=generica-dona&utm_term=igualdad",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Vicente%20Ferrer.js?tc=",
+        "tcs": [
+            "149816",
+            "149817",
+            "149818",
+            "149819",
+            "149820"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250"
+        ],
+        "name": "v-f-es_v1mp_GENERICA-SOCIO_dis_rtg-3_INFANCIA",
+        "landing": "https://www.fundacionvicenteferrer.org/es/donar",
+        "aws_path_1": "VICENTE_FERRER/2024/11/generica/infancia/rtg/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.fundacionvicenteferrer.org/es/donar?c=U00912900C09&o=DS&f=DS&utm_source=display&utm_medium=cpm&utm_campaign=generica-socio&utm_term=igualdad",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Vicente%20Ferrer.js?tc=",
+        "tcs": [
+            "149821",
+            "149822",
+            "149823",
+            "149824",
+            "149825"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250"
+        ],
+        "name": "v-f-es_v1mp_GENERICA-DONA_dis_rtg-3_IGUALDAD",
+        "landing": "https://www.fundacionvicenteferrer.org/es/donar",
+        "aws_path_1": "VICENTE_FERRER/2024/11/generica/igualdad/rtg/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.fundacionvicenteferrer.org/es/donar?c=U00912900C10&o=DS&f=DS&utm_source=display&utm_medium=cpm&utm_campaign=generica-dona&utm_term=igualdad",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Vicente%20Ferrer.js?tc=",
+        "tcs": [
+            "149826",
+            "149827",
+            "149828",
+            "149829",
+            "149830"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "320x100", "160x600", "970x250", "728x90"],
+        "name": "medplaya-es_v1mp_AO-ES_dis_prs-1_HALLOWEEN",
+        "landing": "https://www.medplaya.es/",
+        "aws_path_1": "MEDPLAYA/2024/10/halloween/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.medplaya.es/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-es&utm_term=halloween",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Medplaya.js?tc=",
+        "tcs": ["149339", "149340", "149341", "149342", "149343", "149344"],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "320x100", "160x600", "970x250", "728x90"],
+        "name": "medplaya-es_v1mp_AO-ES_dis_rtg-1_HALLOWEEN",
+        "landing": "https://www.medplaya.es/",
+        "aws_path_1": "MEDPLAYA/2024/10/halloween/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.medplaya.es/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao-es&utm_term=halloween",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Medplaya.js?tc=",
+        "tcs": ["149345", "149346", "149347", "149348", "149349", "149350"],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

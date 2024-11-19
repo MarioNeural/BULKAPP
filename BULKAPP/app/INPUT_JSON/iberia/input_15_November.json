@@ -1,0 +1,35 @@
+[
+    {
+        "type": "link",
+        "sizes": ["320x100", "300x250", "160x600", "970x250", "728x90"],
+        "name": "iberia-express-es_imp_AO-RESERVAS-CAN_dis_prs-1_CALIDAD-ROJO-FREQ-12",
+        "landing": "https://www.iberiaexpress.com/",
+        "aws_path_1": "iberia/2024/11/calidad_rojo/freq_12/",
+        "aws_path_2": ".gif",
+        "url": "https://www.iberiaexpress.com/?utm_source=imp&utm_medium=dis-prs-1&utm_campaign=ao-reservas-can&utm_content=CALIDAD-ROJO-FREQ-12",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Iberia%20Express.js?tc=",
+        "tcs": ["150781", "150782", "150783", "150784", "150785"]
+    },
+    {
+        "type": "link",
+        "sizes": ["320x100", "300x250", "160x600", "970x250", "728x90"],
+        "name": "iberia-express-es_imp_AO-RESERVAS-CAN_dis_prs-1_CALIDAD-ROJO-FREQ-10",
+        "landing": "https://www.iberiaexpress.com/",
+        "aws_path_1": "iberia/2024/11/calidad_rojo/freq_10/",
+        "aws_path_2": ".gif",
+        "url": "https://www.iberiaexpress.com/?utm_source=imp&utm_medium=dis-prs-1&utm_campaign=ao-reservas-can&utm_content=CALIDAD-ROJO-FREQ-10",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Iberia%20Express.js?tc=",
+        "tcs": ["150786", "150787", "150788", "150789", "150790"]
+    },
+    {
+        "type": "link",
+        "sizes": ["320x100", "300x250", "160x600", "970x250", "728x90"],
+        "name": "iberia-express-es_imp_AO-RESERVAS-CAN_dis_prs-1_CALIDAD-ROJO-FREQ-4",
+        "landing": "https://www.iberiaexpress.com/",
+        "aws_path_1": "iberia/2024/11/calidad_rojo/freq_4/",
+        "aws_path_2": ".gif",
+        "url": "https://www.iberiaexpress.com/?utm_source=imp&utm_medium=dis-prs-1&utm_campaign=ao-reservas-can&utm_content=CALIDAD-ROJO-FREQ-4",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Iberia%20Express.js?tc=",
+        "tcs": ["150791", "150792", "150793", "150794", "150795"]
+    }
+]

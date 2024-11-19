@@ -1,0 +1,50 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600"
+        ],
+        "name": "3D",
+        "landing": "https://www.telepizza.es/ofertas",
+        "aws_path_1": "telepizza/2024/11/3dcard_1/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.telepizza.es/ofertas",
+        "tcs": []
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600"
+        ],
+        "name": "3D",
+        "landing": "https://www.telepizza.es/ofertas",
+        "aws_path_1": "telepizza/2024/11/3dcard_2/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.telepizza.es/ofertas",
+        "tcs": []
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600"
+        ],
+        "name": "STORY",
+        "landing": "https://www.telepizza.es/ofertas",
+        "aws_path_1": "telepizza/2024/11/story/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.telepizza.es/ofertas",
+        "tcs": []
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600"
+        ],
+        "name": "SLIDER",
+        "landing": "https://www.telepizza.es/ofertas",
+        "aws_path_1": "telepizza/2024/11/slider/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.telepizza.es/ofertas",
+        "tcs": []
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "name": "iese-lam_v1mp_VAMOS-PDD-FLEX-LATAM-AWARENESS-DISPLAYPREMIUM-24-25_dis_prs-1_FLIPCARD-DB",
+        "landing": "https://formscloud.iese.edu/landings-pdd-flex-3/",
+        "aws_path_1": "IESE/2024/10/3dcard/",
+        "aws_path_2": "/index.html",
+        "link": "https://formscloud.iese.edu/landings-pdd-flex-3/?utm_source=display&utm_medium=premium&utm_campaign=701Qu00000GxjmJ&utm_content=flipcard-db",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_IESE%20Business%20School.js?tc=",
+        "tcs": ["149737"]
+    }
+]

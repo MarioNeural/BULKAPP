@@ -1,0 +1,28 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "320x100", "728x90", "970x250"],
+        "name": "medicos-dm-es_v1mp_ALWAYS-ON_dis_prs-1_BOMBARDEO-DIS",
+        "landing": "https://www.medicosdelmundo.org/donacion-ong/campana/ayuda-emergencia-gaza/",
+        "aws_path_1": "medicos_mundo/2024/10/bombardeo/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.medicosdelmundo.org/donacion-ong/campana/ayuda-emergencia-gaza/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=always-on&utm_term=bombardeo-dis",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Medicos%20del%20Mundo.js?tc=",
+        "tcs": ["148114", "148115", "148116", "148117"],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "320x100", "728x90", "970x250"],
+        "name": "medicos-dm-es_v1mp_ALWAYS-ON_dis_rtg-1_BOMBARDEO-DIS",
+        "landing": "https://www.medicosdelmundo.org/donacion-ong/campana/ayuda-emergencia-gaza/",
+        "aws_path_1": "medicos_mundo/2024/10/bombardeo/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.medicosdelmundo.org/donacion-ong/campana/ayuda-emergencia-gaza/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=always-on&utm_term=bombardeo-dis",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Medicos%20del%20Mundo.js?tc=",
+        "tcs": ["148118", "148119", "148120", "148121"],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

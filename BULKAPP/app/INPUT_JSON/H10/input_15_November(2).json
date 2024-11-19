@@ -1,0 +1,35 @@
+[
+    {
+        "type": "link",
+        "sizes": ["728x90", "320x100", "300x600", "300x250", "160x600"],
+        "name": "h10-gb_v1mp_AO_dis_prs-1_BLACKDAYS",
+        "landing": "https://www.h10hotels.com/en",
+        "aws_path_1": "H10/2024/11/banners/en/",
+        "aws_path_2": ".gif",
+        "url": "https://www.h10hotels.com/en?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=BLACKDAYS&utm_term=gb",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_H10-Hotels.js?tc=",
+        "tcs": [ "150907", "150908", "150909", "150910", "150911"]
+    },
+    {
+        "type": "link",
+        "sizes": ["728x90", "320x100", "300x600", "300x250", "160x600"],
+        "name": "h10-ie_v1mp_AO_dis_prs-1_BLACKDAYS",
+        "landing": "https://www.h10hotels.com/en",
+        "aws_path_1": "H10/2024/11/banners/en/",
+        "aws_path_2": ".gif",
+        "url": "https://www.h10hotels.com/en?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=BLACKDAYS&utm_term=ie",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_H10-Hotels.js?tc=",
+        "tcs": [ "150913", "150914", "150915", "150916", "150917"]
+    },
+    {
+        "type": "link",
+        "sizes": ["728x90", "320x100", "300x600", "300x250", "160x600"],
+        "name": "h10-es_v1mp_AO_dis_prs-1_BLACKDAYS",
+        "landing": "https://www.h10hotels.com/es",
+        "aws_path_1": "H10/2024/11/banners/es/",
+        "aws_path_2": ".gif",
+        "url": "https://www.h10hotels.com/es?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=BLACKDAYS&utm_term=ES",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_H10-Hotels.js?tc=",
+        "tcs": [ "150919", "150920", "150921", "150922", "150923"]
+    }
+]

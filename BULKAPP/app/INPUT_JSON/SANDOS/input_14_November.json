@@ -1,0 +1,164 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "320x100",
+            "300x250",
+            "970x250",
+            "300x600",
+            "160x600",
+            "728x90"
+        ],
+        "name": "sandos-mx_v1mp_ALWAYS-ON_dis_prs-1_BUENFIN-GENERICO",
+        "landing": "https://www.sandos.com/es/ofertas-especiales",
+        "aws_path_1": "SANDOS/2024/11/buenfin/generico/mx/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.sandos.com/es/ofertas-especiales?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=always-on&utm_term=BUENFIN-GENERICO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Sandos.js?tc=",
+        "tcs": [
+            "150604",
+            "150605",
+            "150606",
+            "150607",
+            "150608",
+            "150609"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "320x100",
+            "300x250",
+            "970x250",
+            "300x600",
+            "160x600",
+            "728x90"
+        ],
+        "name": "sandos-mx_v1mp_ALWAYS-ON_dis_rtg-1_BUENFIN-CANCUN",
+        "landing": "https://www.sandos.com/es/ofertas-especiales",
+        "aws_path_1": "SANDOS/2024/11/buenfin/cancun/mx/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.sandos.com/es/ofertas-especiales?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=always-on&utm_term=BUENFIN-CANCUN",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Sandos.js?tc=",
+        "tcs": [
+            "150610",
+            "150611",
+            "150612",
+            "150613",
+            "150614",
+            "150615"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "320x100",
+            "300x250",
+            "970x250",
+            "300x600",
+            "160x600",
+            "728x90"
+        ],
+        "name": "sandos-mx_v1mp_ALWAYS-ON_dis_rtg-1_BUENFIN-CARACOL",
+        "landing": "https://www.sandos.com/es/ofertas-especiales",
+        "aws_path_1": "SANDOS/2024/11/buenfin/caracol/mx/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.sandos.com/es/ofertas-especiales?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=always-on&utm_term=BUENFIN-CARACOL",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Sandos.js?tc=",
+        "tcs": [
+            "150616",
+            "150617",
+            "150618",
+            "150619",
+            "150620",
+            "150621"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "320x100",
+            "300x250",
+            "970x250",
+            "300x600",
+            "160x600",
+            "728x90"
+        ],
+        "name": "sandos-mx_v1mp_ALWAYS-ON_dis_rtg-1_BUENFIN-FINISTERRA",
+        "landing": "https://www.sandos.com/es/ofertas-especiales",
+        "aws_path_1": "SANDOS/2024/11/buenfin/finisterra/mx/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.sandos.com/es/ofertas-especiales?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=always-on&utm_term=BUENFIN-FINISTERRA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Sandos.js?tc=",
+        "tcs": [
+            "150622",
+            "150623",
+            "150624",
+            "150625",
+            "150626",
+            "150627"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "320x100",
+            "300x250",
+            "970x250",
+            "300x600",
+            "160x600",
+            "728x90"
+        ],
+        "name": "sandos-mx_v1mp_ALWAYS-ON_dis_rtg-1_BUENFIN-PLAYACAR",
+        "landing": "https://www.sandos.com/es/ofertas-especiales",
+        "aws_path_1": "SANDOS/2024/11/buenfin/playacar/mx/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.sandos.com/es/ofertas-especiales?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=always-on&utm_term=BUENFIN-PLAYACAR",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Sandos.js?tc=",
+        "tcs": [
+            "150628",
+            "150629",
+            "150630",
+            "150631",
+            "150632",
+            "150633"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "320x100",
+            "300x250",
+            "970x250",
+            "300x600",
+            "160x600",
+            "728x90"
+        ],
+        "name": "sandos-mx_v1mp_ALWAYS-ON_dis_rtg-1_BUENFIN-GENERICO",
+        "landing": "https://www.sandos.com/es/ofertas-especiales",
+        "aws_path_1": "SANDOS/2024/11/buenfin/generico/mx/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.sandos.com/es/ofertas-especiales?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=always-on&utm_term=BUENFIN-GENERICO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Sandos.js?tc=",
+        "tcs": [
+            "150634",
+            "150635",
+            "150636",
+            "150637",
+            "150638",
+            "150639"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

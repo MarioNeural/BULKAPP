@@ -1,0 +1,13 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "970x250", "320x100", "728x90"],
+        "name": "iese-us_v1mp_VAMOS-PDD-FLEX-MIAMI-CONVERSION-DISPLAYRETARGETING-24-25_dis_rtg-1_GEN",
+        "landing": "https://formscloud.iese.edu/landings-pdd-flex-2/",
+        "aws_path_1": "IESE/2024/11/flexible/",
+        "aws_path_2": "/index.html",
+        "link": "https://formscloud.iese.edu/landings-pdd-flex-2/?utm_source=display&utm_medium=rtg&utm_campaign=701Qu00000GxlT8&utm_content=miami",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_IESE%20Business%20School.js?tc=",
+        "tcs": ["149757", "149758", "149759", "149760", "149761", "149762"]
+    }
+]

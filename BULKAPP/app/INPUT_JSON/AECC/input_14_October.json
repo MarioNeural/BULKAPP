@@ -1,0 +1,46 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["320x100", "300x600", "300x250", "160x600"],
+        "name": "aecc-es_v1mp_DONA-MAMA-2024_dis_rtg-1_V1",
+        "landing": "https://colabora.contraelcancer.es/campanas/mama-2024",
+        "aws_path_1": "AECC/2024/10/mama/v1/",
+        "aws_path_2": "/index.html",
+        "link": "https://colabora.contraelcancer.es/campanas/mama-2024?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=dona-mama-2024&utm_content=v1",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_AECC.js?tc=",
+        "tcs": ["147636", "147637", "147638", "147639"]
+    },
+    {
+        "type": "iframe",
+        "sizes": ["320x100", "300x600", "300x250", "160x600"],
+        "name": "aecc-es_v1mp_DONA-MAMA-2024_dis_rtg-1_V2",
+        "landing": "https://colabora.contraelcancer.es/campanas/mama-2024",
+        "aws_path_1": "AECC/2024/10/mama/v2/",
+        "aws_path_2": "/index.html",
+        "link": "https://colabora.contraelcancer.es/campanas/mama-2024?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=dona-mama-2024&utm_content=v2",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_AECC.js?tc=",
+        "tcs": ["147640", "147641", "147642", "147643"]
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "name": "aecc-es_v1mp_AW-MAMA-2024_dis-prem_prs-1_WP-1",
+        "landing": "https://colabora.contraelcancer.es/campanas/mama-2024",
+        "aws_path_1": "AECC/2024/10/mama/prem/v1/",
+        "aws_path_2": "/index.html",
+        "link": "https://colabora.contraelcancer.es/campanas/mama-2024?utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=aw-mama-2024",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_AECC.js?tc=",
+        "tcs": ["147645"]
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "name": "aecc-es_v1mp_AW-MAMA-2024_dis-prem_prs-1_WP-2",
+        "landing": "https://colabora.contraelcancer.es/campanas/mama-2024",
+        "aws_path_1": "AECC/2024/10/mama/prem/v2/",
+        "aws_path_2": "/index.html",
+        "link": "https://colabora.contraelcancer.es/campanas/mama-2024?utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=aw-mama-2024",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_AECC.js?tc=",
+        "tcs": ["147646"]
+    }
+]

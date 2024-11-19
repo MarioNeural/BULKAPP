@@ -1,0 +1,48 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "160x600"
+        ],
+        "name": "culmia-es_v1mp_VIRERE_dis_prs-1_VIRERE",
+        "landing": "https://culmiavirere.com/?ciega=1&utm_medium=cpcdisplay&utm_source=programatica&utm_campaign=display_campana_v1mp_virere&utm_content=display",
+        "aws_path_1": "CULMIA/2024/10/standard/virere/",
+        "aws_path_2": "/index.html",
+        "link": "https://culmiavirere.com/?ciega=1&utm_medium=cpcdisplay&utm_source=programatica&utm_campaign=display_campana_v1mp_virere&utm_content=display",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Culmia%20Inmobiliaria.js?tc=",
+        "tcs": [
+            "149482",
+            "149483",
+            "149484",
+            "149485",
+            "149486"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "160x600"
+        ],
+        "name": "culmia-es_v1mp_VIRERE_dis_rtg-1_VIRERE",
+        "landing": "https://culmiavirere.com/?ciega=1&utm_medium=cpcdisplay&utm_source=programatica&utm_campaign=display_campana_v1mp_virere&utm_content=display",
+        "aws_path_1": "CULMIA/2024/10/standard/virere/",
+        "aws_path_2": "/index.html",
+        "link": "https://culmiavirere.com/?ciega=1&utm_medium=cpcdisplay&utm_source=programatica&utm_campaign=display_campana_v1mp_virere&utm_content=display",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Culmia%20Inmobiliaria.js?tc=",
+        "tcs": [
+            "149487",
+            "149488",
+            "149489",
+            "149490",
+            "149491"
+        ]
+    }
+]

@@ -1,0 +1,363 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "name": "amresorts-gb_v1mp_AO-ZOETRY_dis_prs-1_BF-24_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/black-friday",
+        "aws_path_1": "AM_RESORTS/2024/11/countdown/zoetry/gb/",
+        "aws_path_2": ".html",
+        "link": "https://resorts.hyattinclusivecollection.com/en-uk/black-friday?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-zoetry&utm_term=BF-24_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "151478",
+            "151479"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "name": "amresorts-gb_v1mp_AO-ALUA_dis_prs-1_BF-24_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/black-friday",
+        "aws_path_1": "AM_RESORTS/2024/11/countdown/alua/gb/",
+        "aws_path_2": ".html",
+        "link": "https://resorts.hyattinclusivecollection.com/en-uk/black-friday?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-alua&utm_term=BF-24_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "151480",
+            "151481"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "name": "amresorts-gb_v1mp_AO-DREAMS_dis_prs-1_BF-24_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/black-friday",
+        "aws_path_1": "AM_RESORTS/2024/11/countdown/dreams/gb/",
+        "aws_path_2": ".html",
+        "link": "https://resorts.hyattinclusivecollection.com/en-uk/black-friday?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-dreams&utm_term=BF-24_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "151482",
+            "151483"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "name": "amresorts-gb_v1mp_AO-SECRETS_dis_prs-1_BF-24_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/black-friday",
+        "aws_path_1": "AM_RESORTS/2024/11/countdown/secrets/gb/",
+        "aws_path_2": ".html",
+        "link": "https://resorts.hyattinclusivecollection.com/en-uk/black-friday?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-secrets&utm_term=BF-24_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "151484",
+            "151485"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "name": "amresorts-de_v1mp_AO-ZOETRY_dis_prs-1_BF-24_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/de-de/black-friday",
+        "aws_path_1": "AM_RESORTS/2024/11/countdown/zoetry/de/",
+        "aws_path_2": ".html",
+        "link": "https://resorts.hyattinclusivecollection.com/de-de/black-friday?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-zoetry&utm_term=BF-24_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "151486",
+            "151487"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "name": "amresorts-de_v1mp_AO-ALUA_dis_prs-1_BF-24_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/de-de/black-friday",
+        "aws_path_1": "AM_RESORTS/2024/11/countdown/alua/de/",
+        "aws_path_2": ".html",
+        "link": "https://resorts.hyattinclusivecollection.com/de-de/black-friday?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-alua&utm_term=BF-24_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "151488",
+            "151489"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "name": "amresorts-de_v1mp_AO-DREAMS_dis_prs-1_BF-24_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/de-de/black-friday",
+        "aws_path_1": "AM_RESORTS/2024/11/countdown/dreams/de/",
+        "aws_path_2": ".html",
+        "link": "https://resorts.hyattinclusivecollection.com/de-de/black-friday?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-dreams&utm_term=BF-24_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "151490",
+            "151491"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "name": "amresorts-de_v1mp_AO-SECRETS_dis_prs-1_BF-24_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/de-de/black-friday",
+        "aws_path_1": "AM_RESORTS/2024/11/countdown/secrets/de/",
+        "aws_path_2": ".html",
+        "link": "https://resorts.hyattinclusivecollection.com/de-de/black-friday?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-secrets&utm_term=BF-24_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "151492",
+            "151493"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "name": "amresorts-fr_v1mp_AO-ALUA_dis_prs-1_BF-24_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/fr-fr/black-friday",
+        "aws_path_1": "AM_RESORTS/2024/11/countdown/alua/fr/",
+        "aws_path_2": ".html",
+        "link": "https://resorts.hyattinclusivecollection.com/fr-fr/black-friday?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-alua&utm_term=BF-24_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "151494",
+            "151495"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "name": "amresorts-fr_v1mp_AO-DREAMS_dis_prs-1_BF-24_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/fr-fr/black-friday",
+        "aws_path_1": "AM_RESORTS/2024/11/countdown/dreams/fr/",
+        "aws_path_2": ".html",
+        "link": "https://resorts.hyattinclusivecollection.com/fr-fr/black-friday?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-dreams&utm_term=BF-24_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "151496",
+            "151497"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "name": "amresorts-fr_v1mp_AO-SECRETS_dis_prs-1_BF-24_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/fr-fr/black-friday",
+        "aws_path_1": "AM_RESORTS/2024/11/countdown/secrets/fr/",
+        "aws_path_2": ".html",
+        "link": "https://resorts.hyattinclusivecollection.com/fr-fr/black-friday?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-secrets&utm_term=BF-24_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "151498",
+            "151499"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "name": "amresorts-es_v1mp_AO-SECRETS_dis_prs-1_BF-24_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/es-es/black-friday",
+        "aws_path_1": "AM_RESORTS/2024/11/countdown/secrets/es/",
+        "aws_path_2": ".html",
+        "link": "https://resorts.hyattinclusivecollection.com/es-es/black-friday?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-secrets&utm_term=BF-24_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "151500",
+            "151501"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "name": "amresorts-es_v1mp_AO-ALUA_dis_prs-1_BF-24_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/es-es/black-friday",
+        "aws_path_1": "AM_RESORTS/2024/11/countdown/alua/es/",
+        "aws_path_2": ".html",
+        "link": "https://resorts.hyattinclusivecollection.com/es-es/black-friday?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-alua&utm_term=BF-24_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "151502",
+            "151503"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "name": "amresorts-es_v1mp_AO-DREAMS_dis_prs-1_BF-24_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/es-es/black-friday",
+        "aws_path_1": "AM_RESORTS/2024/11/countdown/dreams/es/",
+        "aws_path_2": ".html",
+        "link": "https://resorts.hyattinclusivecollection.com/es-es/black-friday?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-dreams&utm_term=BF-24_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "151504",
+            "151505"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "name": "amresorts-es_v1mp_AO-ZOETRY_dis_prs-1_BF-24_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/es-es/black-friday",
+        "aws_path_1": "AM_RESORTS/2024/11/countdown/zoetry/es/",
+        "aws_path_2": ".html",
+        "link": "https://resorts.hyattinclusivecollection.com/es-es/black-friday?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=AO-zoetry&utm_term=BF-24_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "151506",
+            "151507"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "name": "amresorts-pt_v1mp_DREAMS-MADEIRA_dis_prs-1_BF-24_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/black-friday-pt",
+        "aws_path_1": "AM_RESORTS/2024/11/countdown/madeira/pt/",
+        "aws_path_2": ".html",
+        "link": "https://resorts.hyattinclusivecollection.com/en-uk/black-friday-pt?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=DREAMS-MADEIRA&utm_term=BF-24_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "151508",
+            "151509"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "name": "amresorts-de_v1mp_DREAMS-MADEIRA_dis_prs-1_BF-24_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/de-de/black-friday",
+        "aws_path_1": "AM_RESORTS/2024/11/countdown/madeira/de/",
+        "aws_path_2": ".html",
+        "link": "https://resorts.hyattinclusivecollection.com/de-de/black-friday?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=DREAMS-MADEIRA&utm_term=BF-24_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "151510",
+            "151511"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "name": "amresorts-es_v1mp_DREAMS-MADEIRA_dis_prs-1_BF-24_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/es-es/black-friday",
+        "aws_path_1": "AM_RESORTS/2024/11/countdown/madeira/es/",
+        "aws_path_2": ".html",
+        "link": "https://resorts.hyattinclusivecollection.com/es-es/black-friday?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=DREAMS-MADEIRA&utm_term=BF-24_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "151512",
+            "151513"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "name": "amresorts-gb_v1mp_DREAMS-MADEIRA_dis_prs-1_BF-24_COUNTDOWN",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/black-friday",
+        "aws_path_1": "AM_RESORTS/2024/11/countdown/madeira/gb/",
+        "aws_path_2": ".html",
+        "link": "https://resorts.hyattinclusivecollection.com/en-uk/black-friday?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=DREAMS-MADEIRA&utm_term=BF-24_Countdown",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "151514",
+            "151515"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

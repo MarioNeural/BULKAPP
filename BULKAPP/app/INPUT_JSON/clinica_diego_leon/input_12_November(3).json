@@ -1,0 +1,102 @@
+[
+    {
+        "type": "link",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "728x90", "970x250"],
+        "name": "clinicas-ddl-es_adg_MADRID_dis_prs-1_NOV",
+        "landing": "https://www.clinicasdiegodeleon.com/ofertas/bf-2024/index-adg.php",
+        "aws_path_1": "clinica_diego_leon/2024/11/display/",
+        "aws_path_2": ".jpg",
+        "url": "https://www.clinicasdiegodeleon.com/ofertas/bf-2024/index-adg.php?utm_source=adg&utm_medium=dis-prs-1&utm_campaign=madrid&utm_term=45620",
+        "tcs": []
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "name": "clinicas-ddl-es_adg_SLIDER_dis-sld_prs-1_MANCHAS-LASER",
+        "landing": "https://www.clinicasdiegodeleon.com/ofertas/bf-2024/index-adg.php",
+        "aws_path_1": "clinica_diego_leon/2024/11/slider/300x600/manchas_laser/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.clinicasdiegodeleon.com/ofertas/bf-2024/index-adg.php?utm_source=adg&utm_medium=dis-sld-prs-1&utm_campaign=slider&utm_term=Manchas-Laser",
+        "tcs": []
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "name": "clinicas-ddl-es_adg_SLIDER_dis-sld_prs-1_AUMENTO-PECHO",
+        "landing": "https://www.clinicasdiegodeleon.com/ofertas/bf-2024/index-adg.php",
+        "aws_path_1": "clinica_diego_leon/2024/11/slider/300x600/aumento_pecho/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.clinicasdiegodeleon.com/ofertas/bf-2024/index-adg.php?utm_source=adg&utm_medium=dis-sld-prs-1&utm_campaign=slider&utm_term=Aumento-Pecho",
+        "tcs": []
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "name": "clinicas-ddl-es_adg_SLIDER_dis-sld_prs-1_BLEFAROPLSTIA",
+        "landing": "https://www.clinicasdiegodeleon.com/ofertas/bf-2024/index-adg.php",
+        "aws_path_1": "clinica_diego_leon/2024/11/slider/300x600/blefaroplastia/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.clinicasdiegodeleon.com/ofertas/bf-2024/index-adg.php?utm_source=adg&utm_medium=dis-sld-prs-1&utm_campaign=slider&utm_term=Blefaroplstia",
+        "tcs": []
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "name": "clinicas-ddl-es_adg_SLIDER_dis-sld_prs-1_ARRUGAS",
+        "landing": "https://www.clinicasdiegodeleon.com/ofertas/bf-2024/index-adg.php",
+        "aws_path_1": "clinica_diego_leon/2024/11/slider/300x600/bye_bye_arrugas/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.clinicasdiegodeleon.com/ofertas/bf-2024/index-adg.php?utm_source=adg&utm_medium=dis-sld-prs-1&utm_campaign=slider&utm_term=Arrugas",
+        "tcs": []
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "name": "clinicas-ddl-es_adg_SLIDER_dis-sld_prs-1_LABIOS",
+        "landing": "https://www.clinicasdiegodeleon.com/ofertas/bf-2024/index-adg.php",
+        "aws_path_1": "clinica_diego_leon/2024/11/slider/300x600/labios/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.clinicasdiegodeleon.com/ofertas/bf-2024/index-adg.php?utm_source=adg&utm_medium=dis-sld-prs-1&utm_campaign=slider&utm_term=Labios",
+        "tcs": []
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "name": "clinicas-ddl-es_adg_SLIDER_dis-sld_prs-1_OBESIDAD",
+        "landing": "https://www.clinicasdiegodeleon.com/ofertas/bf-2024/index-adg.php",
+        "aws_path_1": "clinica_diego_leon/2024/11/slider/300x600/obesidad/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.clinicasdiegodeleon.com/ofertas/bf-2024/index-adg.php?utm_source=adg&utm_medium=dis-sld-prs-1&utm_campaign=slider&utm_term=Obesidad",
+        "tcs": []
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "name": "clinicas-ddl-es_adg_SLIDER_dis-sld_prs-1_OTOPLASTIA",
+        "landing": "https://www.clinicasdiegodeleon.com/ofertas/bf-2024/index-adg.php",
+        "aws_path_1": "clinica_diego_leon/2024/11/slider/300x600/otoplastia/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.clinicasdiegodeleon.com/ofertas/bf-2024/index-adg.php?utm_source=adg&utm_medium=dis-sld-prs-1&utm_campaign=slider&utm_term=Otoplastia",
+        "tcs": []
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "name": "clinicas-ddl-es_adg_SLIDER_dis-sld_prs-1_REMODELACION",
+        "landing": "https://www.clinicasdiegodeleon.com/ofertas/bf-2024/index-adg.php",
+        "aws_path_1": "clinica_diego_leon/2024/11/slider/300x600/remodelacion_corporal/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.clinicasdiegodeleon.com/ofertas/bf-2024/index-adg.php?utm_source=adg&utm_medium=dis-sld-prs-1&utm_campaign=slider&utm_term=Remodelacion",
+        "tcs": []
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "name": "clinicas-ddl-es_adg_SLIDER_dis-sld_prs-1_RINOPLASTIA",
+        "landing": "https://www.clinicasdiegodeleon.com/ofertas/bf-2024/index-adg.php",
+        "aws_path_1": "clinica_diego_leon/2024/11/slider/300x600/rinoplastia/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.clinicasdiegodeleon.com/ofertas/bf-2024/index-adg.php?utm_source=adg&utm_medium=dis-sld-prs-1&utm_campaign=slider&utm_term=Rinoplastia",
+        "tcs": []
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "type": "link",
+        "sizes": ["300x600", "320x100", "160x600", "970x250", "300x250", "728x90", "320x50", "120x600"],
+        "name": "iberia-express-es_imp_AO-RESERVAS_dis_prs-1_GENERICA-NOVIEMBRE",
+        "landing": "https://www.iberiaexpress.com/",
+        "aws_path_1": "iberia/2024/11/generica/",
+        "aws_path_2": ".gif",
+        "url": "",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Iberia%20Express.js?tc=",
+        "tcs": ["149767", "149768", "149769", "149770", "149771", "149772", "149773", "149774"]
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "970x250", "320x100", "728x90"],
+        "name": "iese-lam_v1mp_VAMOS-PDD-FLEX-LATAM-CONVERSION-DISPLAYRETARGETING-24-25_dis_rtg-1_GEN",
+        "landing": "https://formscloud.iese.edu/landings-pdd-flex-2/",
+        "aws_path_1": "IESE/2024/11/flexible/",
+        "aws_path_2": "/index.html",
+        "link": "https://formscloud.iese.edu/landings-pdd-flex-2/?utm_source=display&utm_medium=rtg&utm_campaign=701Qu00000GxebN",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_IESE%20Business%20School.js?tc=",
+        "tcs": ["149751", "149752", "149753", "149754", "149755", "149756"]
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "300x250", "970x250"],
+        "name": "aecc-es_v1mp_AW-MAMA-2024_dis-prem_prs-1_SUMATORIO",
+        "landing": "https://colabora.contraelcancer.es/campanas/mama-2024",
+        "aws_path_1": "AECC/2024/10/countup/",
+        "aws_path_2": "/index.html",
+        "link": "https://colabora.contraelcancer.es/campanas/mama-2024?utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=aw-mama-2024",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_AECC.js?tc=",
+        "tcs": ["148105", "148106", "148107"]
+    }
+]

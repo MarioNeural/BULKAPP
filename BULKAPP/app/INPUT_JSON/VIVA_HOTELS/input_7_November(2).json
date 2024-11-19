@@ -1,0 +1,98 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600", "970x250"
+        ],
+        "name": "PREROLL",
+        "landing": "https://www.hotelsviva.com/es/",
+        "aws_path_1": "VIVA_HOTELS/2024/05/adultos_familia/preroll_adults_es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/es/",
+        "tcs": []
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600"
+        ],
+        "name": "3D",
+        "landing": "https://www.excellenceresorts.com/",
+        "aws_path_1": "EXCELLENCE_RESORTS/2024/06/3dcard_excellence/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.excellenceresorts.com/",
+        "tcs": []
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250"
+        ],
+        "name": "3D",
+        "landing": "https://www.sandos.com/",
+        "aws_path_1": "SANDOS/2023/10/hot_travel/flipCard3d/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.sandos.com/",
+        "tcs": []
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600"
+        ],
+        "name": "SLIDER",
+        "landing": "https://www.bintercanarias.com/es",
+        "aws_path_1": "BINTER/2023/09/canarias/slider/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.bintercanarias.com/es",
+        "tcs": []
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600", "970x250"
+        ],
+        "name": "SCRATCHER",
+        "landing": "https://tienda.contraelcancer.es/campanas/campana-mama/",
+        "aws_path_1": "AECC/2024/10/scratcher/",
+        "aws_path_2": "/index.html",
+        "link": "https://tienda.contraelcancer.es/campanas/campana-mama/",
+        "tcs": []
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600"
+        ],
+        "name": "CARROUSEL",
+        "landing": "https://www.excellenceresorts.com/",
+        "aws_path_1": "EXCELLENCE_RESORTS/2024/06/carousel/finest/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.excellenceresorts.com/",
+        "tcs": []
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600", "970x250"
+        ],
+        "name": "CUBO",
+        "landing": "https://eacnur.org/es/hazte-socio-acnur",
+        "aws_path_1": "ACNUR/2023/04/marca_premium/cube3d/",
+        "aws_path_2": "/index.html",
+        "link": "https://eacnur.org/es/hazte-socio-acnur",
+        "tcs": []
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600", "970x250"
+        ],
+        "name": "COUNTDOWN",
+        "landing": "https://www.hyattinclusivecollection.com/",
+        "aws_path_1": "PROPUESTAS/2024/DIS/countdown/",
+        "aws_path_2": ".html",
+        "link": "https://www.hyattinclusivecollection.com/",
+        "tcs": []
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "728x90", "970x250"],
+        "name": "medicos-dm-es_v1mp_EMERGENCIA-LIBANO_dis_prs-1_OCT24",
+        "landing": "https://www.medicosdelmundo.org/donacion-ong/campana/emergencia-ayuda-libano/",
+        "aws_path_1": "medicos_mundo/2024/10/libano/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.medicosdelmundo.org/donacion-ong/campana/emergencia-ayuda-libano/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=emergencia-libano&utm_term=45589",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Medicos%20del%20Mundo.js?tc=",
+        "tcs": ["146416", "146417", "146418", "146419", "146420", "146421"],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "728x90", "970x250"],
+        "name": "medicos-dm-es_v1mp_EMERGENCIA-LIBANO_dis_rtg-1_OCT24",
+        "landing": "https://www.medicosdelmundo.org/donacion-ong/campana/emergencia-ayuda-libano/",
+        "aws_path_1": "medicos_mundo/2024/10/libano/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.medicosdelmundo.org/donacion-ong/campana/emergencia-ayuda-libano/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=emergencia-libano&utm_term=45589",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Medicos%20del%20Mundo.js?tc=",
+        "tcs": ["146422", "146423", "146424", "146425", "146426", "146427"],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

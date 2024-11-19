@@ -1,0 +1,154 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "name": "why-tenerife-mx__OCT-24_dis_prs-1_CARNAVAL",
+        "landing": "https://www.whytenerife.com/",
+        "aws_path_1": "WHY_TENERIFE/2024/10/display/carnaval/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.whytenerife.com/?&utm_medium=dis-prs-1&utm_campaign=oct-24&utm_term=carnaval",
+        "tcs": [],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "name": "why-tenerife-mx__OCT-24_dis_rtg-1_CARNAVAL",
+        "landing": "https://www.whytenerife.com/",
+        "aws_path_1": "WHY_TENERIFE/2024/10/display/carnaval/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.whytenerife.com/?&utm_medium=dis-rtg-1&utm_campaign=oct-24&utm_term=carnaval",
+        "tcs": [],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "name": "why-tenerife-mx__OCT-24_dis_prs-1_LIFESTYLE",
+        "landing": "https://www.whytenerife.com/",
+        "aws_path_1": "WHY_TENERIFE/2024/10/display/lifestyle/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.whytenerife.com/?&utm_medium=dis-prs-1&utm_campaign=oct-24&utm_term=lifestyle",
+        "tcs": [],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "name": "why-tenerife-mx__OCT-24_dis_rtg-1_LIFESTYLE",
+        "landing": "https://www.whytenerife.com/",
+        "aws_path_1": "WHY_TENERIFE/2024/10/display/lifestyle/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.whytenerife.com/?&utm_medium=dis-rtg-1&utm_campaign=oct-24&utm_term=lifestyle",
+        "tcs": [],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "name": "why-tenerife-co__OCT-24_dis_prs-1_CARNAVAL",
+        "landing": "https://www.whytenerife.com/",
+        "aws_path_1": "WHY_TENERIFE/2024/10/display/carnaval/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.whytenerife.com/?&utm_medium=dis-prs-1&utm_campaign=oct-24&utm_term=carnaval",
+        "tcs": [],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "name": "why-tenerife-co__OCT-24_dis_rtg-1_CARNAVAL",
+        "landing": "https://www.whytenerife.com/",
+        "aws_path_1": "WHY_TENERIFE/2024/10/display/carnaval/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.whytenerife.com/?&utm_medium=dis-rtg-1&utm_campaign=oct-24&utm_term=carnaval",
+        "tcs": [],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "name": "why-tenerife-co__OCT-24_dis_prs-1_LIFESTYLE",
+        "landing": "https://www.whytenerife.com/",
+        "aws_path_1": "WHY_TENERIFE/2024/10/display/lifestyle/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.whytenerife.com/?&utm_medium=dis-prs-1&utm_campaign=oct-24&utm_term=lifestyle",
+        "tcs": [],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "name": "why-tenerife-co__OCT-24_dis_rtg-1_LIFESTYLE",
+        "landing": "https://www.whytenerife.com/",
+        "aws_path_1": "WHY_TENERIFE/2024/10/display/lifestyle/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.whytenerife.com/?&utm_medium=dis-rtg-1&utm_campaign=oct-24&utm_term=lifestyle",
+        "tcs": [],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

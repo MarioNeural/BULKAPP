@@ -1,0 +1,70 @@
+[
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "728x90",
+            "160x600",
+            "970x250"
+        ],
+        "name": "excellence-resorts-ca_adg_EXCELLENCE-CANCUN_dis_prs-3_ONTARIO",
+        "landing": "https://a2.adform.net/adfserve/?bn=77689547;1x1inv=1;srctype=3;ord=[timestamp]",
+        "aws_path_1": "EXCELLENCE_RESORTS/2024/11/ontario/",
+        "aws_path_2": ".gif",
+        "url": "https://a2.adform.net/C/?bn=77689547",
+        "tcs": [],
+        "impression_tag": "<img src=https://a2.adform.net/adfserve/?bn=77689547;1x1inv=1;srctype=3;ord=[timestamp] border='0' width='1' height='1'/>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "728x90",
+            "160x600",
+            "970x250"
+        ],
+        "name": "excellence-resorts-ca_adg_EXCELLENCE-JAMAICA_dis_prs-3_ONTARIO",
+        "landing": "https://a2.adform.net/adfserve/?bn=77689566;1x1inv=1;srctype=3;ord=[timestamp]",
+        "aws_path_1": "EXCELLENCE_RESORTS/2024/11/ontario/",
+        "aws_path_2": ".gif",
+        "url": "https://a2.adform.net/C/?bn=77689566",
+        "tcs": [],
+        "impression_tag": "<img src=https://a2.adform.net/adfserve/?bn=77689566;1x1inv=1;srctype=3;ord=[timestamp] border='0' width='1' height='1'/>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "728x90",
+            "160x600",
+            "970x250"
+        ],
+        "name": "excellence-resorts-ca_adg_EXCELLENCE-CANCUN_dis_rtg-3_ONTARIO",
+        "landing": "https://a2.adform.net/adfserve/?bn=77689547;1x1inv=1;srctype=3;ord=[timestamp]",
+        "aws_path_1": "EXCELLENCE_RESORTS/2024/11/ontario/",
+        "aws_path_2": ".gif",
+        "url": "https://a2.adform.net/C/?bn=77689547",
+        "tcs": [],
+        "impression_tag": "<img src=https://a2.adform.net/adfserve/?bn=77689547;1x1inv=1;srctype=3;ord=[timestamp] border='0' width='1' height='1'/>"
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "728x90",
+            "160x600",
+            "970x250"
+        ],
+        "name": "excellence-resorts-ca_adg_EXCELLENCE-JAMAICA_dis_rtg-3_ONTARIO",
+        "landing": "https://a2.adform.net/adfserve/?bn=77689566;1x1inv=1;srctype=3;ord=[timestamp]",
+        "aws_path_1": "EXCELLENCE_RESORTS/2024/11/ontario/",
+        "aws_path_2": ".gif",
+        "url": "https://a2.adform.net/C/?bn=77689566",
+        "tcs": [],
+        "impression_tag": "<img src=https://a2.adform.net/adfserve/?bn=77689566;1x1inv=1;srctype=3;ord=[timestamp] border='0' width='1' height='1'/>"
+    }
+]

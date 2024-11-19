@@ -1,0 +1,13 @@
+[
+    {
+        "type": "link",
+        "sizes": ["320x100"],
+        "name": "iberia-express-es_imp_AO-RESERVAS_dis_prs-1_HALLOWEEN24",
+        "landing": "https://www.iberiaexpress.com/",
+        "aws_path_1": "iberia/2024/10/halloween/",
+        "aws_path_2": ".gif",
+        "url": "https://www.iberiaexpress.com/?utm_source=imp&utm_medium=dis-prs-1&utm_campaign=ao-reservas&utm_content=HALLOWEEN24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Iberia%20Express.js?tc=",
+        "tcs": ["148552"]
+    }
+]

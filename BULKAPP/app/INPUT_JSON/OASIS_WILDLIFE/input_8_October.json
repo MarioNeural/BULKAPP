@@ -1,0 +1,28 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "name": "oasis-wild-es_v1mp_AO-UK_dis-prem_prs-1_EN",
+        "landing": "https://tickets.oasiswildlifefuerteventura.com/en/",
+        "aws_path_1": "OASIS_WILDLIFE/2024/07/3dcard/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://tickets.oasiswildlifefuerteventura.com/en/?utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=ao-uk",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Wildlife.js?tc=",
+        "tcs": ["146975"],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "name": "oasis-wild-es_v1mp_AO-DE_dis-prem_prs-1_DE",
+        "landing": "https://tickets.oasiswildlifefuerteventura.com/de/",
+        "aws_path_1": "OASIS_WILDLIFE/2024/10/3dcard/",
+        "aws_path_2": "/index.html",
+        "link": "https://tickets.oasiswildlifefuerteventura.com/de/?utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=ao-de",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Wildlife.js?tc=",
+        "tcs": ["146976"],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

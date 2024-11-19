@@ -13,7 +13,7 @@ from selenium.webdriver.chrome.options import Options
 
 
 FOLDER_PATH = os.path.join("app")
-CSV_FILE_NAMES = ['360_ENC_file.csv', '360_file.csv']
+CSV_FILE_NAMES = ['360_file.csv']
 
 verified_urls = {}
 errors = []
@@ -60,18 +60,18 @@ def extract_link_url(tag, csv_file_name):
         match = re.search(r'<a\s+href="\$\{CLICK_URL\}([^"]+)"', tag)
         if match:
             extracted_url = match.group(1)
-            print(f"URL extraída para 360_file.csv: {extracted_url}")
+            print(f"URL extraída para: {extracted_url}")
             return extracted_url
         else:
-            print("No se pudo extraer la URL del 360_file.csv")
+            print("No se pudo extraer la URL")
     else:
         link_url_match = re.search(r'src="[^"]*?&link=([^"&]+)', tag)
         if link_url_match:
             extracted_url = link_url_match.group(1)
-            print(f"URL extraída para 360_ENC_file.csv: {extracted_url}")
+            print(f"URL extraída: {extracted_url}")
             return extracted_url
         else:
-            print("No se pudo extraer la URL del 360_ENC_file.csv")
+            print("No se pudo extraer la URL de la impresión")
     return None
 
 def perform_checks(tag, index, csv_file_name):
@@ -168,7 +168,7 @@ def perform_checks(tag, index, csv_file_name):
 
 def find_csv_file():
     for file_name in CSV_FILE_NAMES:
-        csv_path = os.path.join(FOLDER_PATH, 'COMPARTIR', file_name)
+        csv_path = os.path.join(FOLDER_PATH, file_name)
         if os.path.exists(csv_path):
             return csv_path, file_name
     return None, None
@@ -182,7 +182,7 @@ def analyze_csv():
     try:
         csv_file_path, csv_file_name = find_csv_file()
         if csv_file_path is None:
-            messagebox.showerror("Error", "No se encontró ningún archivo CSV válido en la carpeta 'COMPARTIR'.")
+            messagebox.showerror("Error", "No se encontró ningún archivo CSV válido en la carpeta.")
             return
 
         df = pd.read_csv(csv_file_path)
@@ -220,7 +220,7 @@ def analyze_csv():
             print("Todas las filas verificadas están OK.")
 
     except FileNotFoundError:
-        messagebox.showerror("Error", "No se encontró el archivo CSV en la carpeta 'COMPARTIR'.")
+        messagebox.showerror("Error", "No se encontró el archivo CSV en la carpeta.")
     except Exception as e:
         messagebox.showerror("Error", f"Ocurrió un error al analizar el CSV: {e}")
 

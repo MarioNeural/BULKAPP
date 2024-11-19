@@ -1,0 +1,47 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90"
+        ],
+        "name": "fp-maragall-es_adg_SOCIOS_dis_rtg-3_IDENTIDAD-LUIS-SOC",
+        "landing": "https://recursos.fpmaragall.org/hazte-socio",
+        "aws_path_1": "FP_MARAGALL/2024/11/identidad/luis/",
+        "aws_path_2": "/index.html",
+        "link": "https://recursos.fpmaragall.org/hazte-socio?utm_source=display&utm_medium=banner&utm_campaign=socios&utm_term=ES-Z&utm_content=IDENTIDAD-LUIS-SOC",
+        "tcs": []
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90"
+        ],
+        "name": "fp-maragall-es_adg_SOCIOS_dis_rtg-3_IDENTIDAD-MARTA-SOC",
+        "landing": "https://recursos.fpmaragall.org/hazte-socio",
+        "aws_path_1": "FP_MARAGALL/2024/11/identidad/marta/",
+        "aws_path_2": "/index.html",
+        "link": "https://recursos.fpmaragall.org/hazte-socio?utm_source=display&utm_medium=banner&utm_campaign=socios&utm_term=ES-Z&utm_content=IDENTIDAD-MARTA-SOC",
+        "tcs": []
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90"
+        ],
+        "name": "fp-maragall-es_adg_SOCIOS_dis_rtg-3_IDENTIDAD-JUAN-SOC",
+        "landing": "https://recursos.fpmaragall.org/hazte-socio",
+        "aws_path_1": "FP_MARAGALL/2024/11/identidad/juan/",
+        "aws_path_2": "/index.html",
+        "link": "https://recursos.fpmaragall.org/hazte-socio?utm_source=display&utm_medium=banner&utm_campaign=socios&utm_term=ES-Z&utm_content=IDENTIDAD-JUAN-SOC",
+        "tcs": []
+    }
+]

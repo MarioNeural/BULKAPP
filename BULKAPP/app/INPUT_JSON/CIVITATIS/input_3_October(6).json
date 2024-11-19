@@ -1,0 +1,208 @@
+[
+    {
+        "type": "link",
+        "sizes": [
+            "160x600",
+            "468x60",
+            "300x600",
+            "728x90",
+            "300x250",
+            "120x600"
+        ],
+        "name": "civitatis-br_adg_AO_dis_rtg-1_PT_BR_RTG_PURCHASE_2024_OTONOFASE2_ACTIVIDAD_TANGOPORTENO",
+        "landing": "https://www.civitatis.com/br/buenos-aires/espetaculo-tango-porteno/",
+        "aws_path_1": "CIVITATIS/2024/10/otono3/tangoporteno/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/br/buenos-aires/espetaculo-tango-porteno/?aid=108&cmp=pt_BR&cmpint=adg_br_TANGO_160x600&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=pt_BR_RTG_Purchase_2024_OtonoFase2_Actividad_TangoPorteno&utm_content=TANGO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Civitatis.js?tc=",
+        "impression_tag": "<SCRIPT language='JavaScript1.1' SRC='https://ad.doubleclick.net/ddm/trackimpj/N760802.3195207ADGRAVITY1/B31380406.389093354;dc_trk_aid=580581862;dc_trk_cid=208034410;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></SCRIPT>",
+        "tcs": [
+            "146184",
+            "146185",
+            "146186",
+            "146187",
+            "146188",
+            "146189"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "160x600",
+            "468x60",
+            "300x600",
+            "728x90",
+            "300x250",
+            "120x600"
+        ],
+        "name": "civitatis-br_adg_AO_dis_rtg-1_PT_BR_RTG_PURCHASE_2024_OTONOFASE2_ACTIVIDAD_SUMMIT",
+        "landing": "https://www.civitatis.com/br/nova-york/ingresso-summit-one-vanderbilt/",
+        "aws_path_1": "CIVITATIS/2024/10/otono3/summit/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/br/nova-york/ingresso-summit-one-vanderbilt/?aid=108&cmp=pt_BR&cmpint=adg_br_SUMMIT_160x600&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=pt_BR_RTG_Purchase_2024_OtonoFase2_Actividad_Summit&utm_content=SUMMIT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Civitatis.js?tc=",
+        "impression_tag": "<SCRIPT language='JavaScript1.1' SRC='https://ad.doubleclick.net/ddm/trackimpj/N760802.3195207ADGRAVITY1/B31380406.389093354;dc_trk_aid=580581862;dc_trk_cid=208034410;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></SCRIPT>",
+        "tcs": [
+            "146190",
+            "146191",
+            "146192",
+            "146193",
+            "146194",
+            "146195"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "160x600",
+            "468x60",
+            "300x600",
+            "728x90",
+            "300x250",
+            "120x600"
+        ],
+        "name": "civitatis-br_adg_AO_dis_rtg-1_PT_BR_RTG_PURCHASE_2024_OTONOFASE2_ACTIVIDAD_DISNEYLAND",
+        "landing": "https://www.civitatis.com/br/disneyland-paris/ingresso-disneyland-paris/",
+        "aws_path_1": "CIVITATIS/2024/10/otono3/disneyland/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/br/disneyland-paris/ingresso-disneyland-paris/?aid=108&cmp=pt_BR&cmpint=adg_br_DISNEY_160x600&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=pt_BR_RTG_Purchase_2024_OtonoFase2_Actividad_Disneyland&utm_content=DISNEY",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Civitatis.js?tc=",
+        "impression_tag": "<SCRIPT language='JavaScript1.1' SRC='https://ad.doubleclick.net/ddm/trackimpj/N760802.3195207ADGRAVITY1/B31380406.389093354;dc_trk_aid=580581862;dc_trk_cid=208034410;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></SCRIPT>",
+        "tcs": [
+            "146196",
+            "146197",
+            "146198",
+            "146199",
+            "146200",
+            "146201"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "160x600",
+            "468x60",
+            "300x600",
+            "728x90",
+            "300x250"
+        ],
+        "name": "civitatis-br_adg_AO_dis_rtg-1_PT_BR_RTG_PURCHASE_2024_OTONOFASE2_ACTIVIDAD_MUSEOSVATICANOS",
+        "landing": "https://www.civitatis.com/br/roma/visita-guiada-vaticano/",
+        "aws_path_1": "CIVITATIS/2024/10/otono3/museosvaticanos/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/br/roma/visita-guiada-vaticano/?aid=108&cmp=pt_BR&cmpint=adg_br_VATICANO_160x600&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=pt_BR_RTG_Purchase_2024_OtonoFase2_Actividad_MuseosVaticanos&utm_content=VATICANO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Civitatis.js?tc=",
+        "impression_tag": "<SCRIPT language='JavaScript1.1' SRC='https://ad.doubleclick.net/ddm/trackimpj/N760802.3195207ADGRAVITY1/B31380406.389093354;dc_trk_aid=580581862;dc_trk_cid=208034410;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></SCRIPT>",
+        "tcs": [
+            "146202",
+            "146203",
+            "146204",
+            "146205",
+            "146206"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "160x600",
+            "468x60",
+            "300x600",
+            "728x90",
+            "300x250",
+            "120x600"
+        ],
+        "name": "civitatis-br_adg_AO_dis_rtg-1_PT_BR_RTG_PURCHASE_2024_OTONOFASE2_ACTIVIDAD_FATIMAYNAZARE",
+        "landing": "https://www.civitatis.com/br/lisboa/excursao-obidos-fatima/",
+        "aws_path_1": "CIVITATIS/2024/10/otono3/fatimaynazare/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/br/lisboa/excursao-obidos-fatima/?aid=108&cmp=pt_BR&cmpint=adg_br_NAZARE_160x600&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=pt_BR_RTG_Purchase_2024_OtonoFase2_Actividad_FatimayNazare&utm_content=NAZARE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Civitatis.js?tc=",
+        "impression_tag": "<SCRIPT language='JavaScript1.1' SRC='https://ad.doubleclick.net/ddm/trackimpj/N760802.3195207ADGRAVITY1/B31380406.389093354;dc_trk_aid=580581862;dc_trk_cid=208034410;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></SCRIPT>",
+        "tcs": [
+            "146208",
+            "146209",
+            "146210",
+            "146211",
+            "146212",
+            "146213"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "160x600",
+            "468x60",
+            "300x600",
+            "728x90",
+            "300x250",
+            "120x600"
+        ],
+        "name": "civitatis-br_adg_AO_dis_rtg-1_PT_BR_RTG_PURCHASE_2024_OTONOFASE2_ACTIVIDAD_ARRAIALDOCABO",
+        "landing": "https://www.civitatis.com/br/rio-de-janeiro/excursao-arraial-cabo/",
+        "aws_path_1": "CIVITATIS/2024/10/otono3/arraialdocabo/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/br/rio-de-janeiro/excursao-arraial-cabo/?aid=108&cmp=pt_BR&cmpint=adg_br_ARRAIAL_160x600&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=pt_BR_RTG_Purchase_2024_OtonoFase2_Actividad_ArraialdoCabo&utm_content=ARRAIAL",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Civitatis.js?tc=",
+        "impression_tag": "<SCRIPT language='JavaScript1.1' SRC='https://ad.doubleclick.net/ddm/trackimpj/N760802.3195207ADGRAVITY1/B31380406.389093354;dc_trk_aid=580581862;dc_trk_cid=208034410;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></SCRIPT>",
+        "tcs": [
+            "146214",
+            "146215",
+            "146216",
+            "146217",
+            "146218",
+            "146219"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "160x600",
+            "468x60",
+            "300x600",
+            "728x90",
+            "300x250",
+            "120x600"
+        ],
+        "name": "civitatis-br_adg_AO_dis_rtg-1_PT_BR_RTG_PURCHASE_2024_OTONOFASE2_ACTIVIDAD_LONDONEYE",
+        "landing": "https://www.civitatis.com/br/londres/ingressos-london-eye/",
+        "aws_path_1": "CIVITATIS/2024/10/otono3/londoneye/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/br/londres/ingressos-london-eye/?aid=108&cmp=pt_BR&cmpint=adg_br_LONDON-EYE_160x600&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=pt_BR_RTG_Purchase_2024_OtonoFase2_Actividad_LondonEye&utm_content=LONDON-EYE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Civitatis.js?tc=",
+        "impression_tag": "<SCRIPT language='JavaScript1.1' SRC='https://ad.doubleclick.net/ddm/trackimpj/N760802.3195207ADGRAVITY1/B31380406.389093354;dc_trk_aid=580581862;dc_trk_cid=208034410;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></SCRIPT>",
+        "tcs": [
+            "146220",
+            "146221",
+            "146222",
+            "146223",
+            "146224",
+            "146225"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "160x600",
+            "468x60",
+            "300x600",
+            "728x90",
+            "300x250",
+            "120x600"
+        ],
+        "name": "civitatis-br_adg_AO_dis_rtg-1_PT_BR_RTG_PURCHASE_2024_OTONOFASE2_ACTIVIDAD_CAJONDELMAIPO",
+        "landing": "https://www.civitatis.com/br/santiago/tour-cajon-maipo-embalse-yeso/",
+        "aws_path_1": "CIVITATIS/2024/10/otono3/cajondelmaipo/",
+        "aws_path_2": ".gif",
+        "url": "https://www.civitatis.com/br/santiago/tour-cajon-maipo-embalse-yeso/?aid=108&cmp=pt_BR&cmpint=adg_br_MAIPO_160x600&utm_source=adg&utm_medium=dis-rtg-1&utm_campaign=conversion&utm_term=pt_BR_RTG_Purchase_2024_OtonoFase2_Actividad_CajondelMaipo&utm_content=MAIPO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Civitatis.js?tc=",
+        "impression_tag": "<SCRIPT language='JavaScript1.1' SRC='https://ad.doubleclick.net/ddm/trackimpj/N760802.3195207ADGRAVITY1/B31380406.389093354;dc_trk_aid=580581862;dc_trk_cid=208034410;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></SCRIPT>",
+        "tcs": [
+            "146226",
+            "146227",
+            "146228",
+            "146229",
+            "146230",
+            "146231"
+        ]
+    }
+]

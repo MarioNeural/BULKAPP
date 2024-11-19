@@ -1,0 +1,22 @@
+[
+    {
+        "type": "link",
+        "sizes": ["728x90", "320x100", "300x250", "160x600"],
+        "name": "boite-es_adg_DALIA Y EL LIBRO ROJO_dis-alg_prs-1_DALIA Y EL LIBRO ROJO",
+        "landing": "https://www.youtube.com/watch?v=mBlPg3sx06M",
+        "aws_path_1": "Boite_Publicidad/2024/10/el_libro_rojo/es/",
+        "aws_path_2": ".gif",
+        "url": "https://www.youtube.com/watch?v=mBlPg3sx06M",
+        "tcs": []
+    },
+    {
+        "type": "link",
+        "sizes": ["728x90", "320x100", "300x600", "300x250", "160x600"],
+        "name": "boite-es_adg_DALIA Y EL LIBRO ROJO-CAT_dis-alg_prs-1_DALIA Y EL LIBRO ROJO-CAT",
+        "landing": "https://www.youtube.com/watch?v=mBlPg3sx06M",
+        "aws_path_1": "Boite_Publicidad/2024/10/el_libro_rojo/cat/",
+        "aws_path_2": ".gif",
+        "url": "https://www.youtube.com/watch?v=mBlPg3sx06M",
+        "tcs": []
+    }
+]

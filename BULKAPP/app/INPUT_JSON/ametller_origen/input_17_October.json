@@ -1,0 +1,86 @@
+[
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "728x90",
+            "300x250"
+        ],
+        "name": "ametller-origen-es_v1mp_LOTS-ESTALVI-OCT_dis_prs-1_ESTALVI-OCT24-CAT",
+        "landing": "https://www.ametllerorigen.com/ca/com-estalviar-en-la-compra-lots",
+        "aws_path_1": "ametller_origen/2024/10/lots/cat/",
+        "aws_path_2": ".jpg",
+        "url": "https://www.ametllerorigen.com/ca/com-estalviar-en-la-compra-lots?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=lots-estalvi-oct&utm_term=ESTALVI-OCT24-CAT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ametller%20Origen.js?tc=",
+        "tcs": [
+            "148472",
+            "148473",
+            "148474"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "728x90",
+            "300x250"
+        ],
+        "name": "ametller-origen-es_v1mp_LOTS-ESTALVI-OCT_dis_rtg-1_ESTALVI-OCT24-CAT",
+        "landing": "https://www.ametllerorigen.com/ca/com-estalviar-en-la-compra-lots",
+        "aws_path_1": "ametller_origen/2024/10/lots/cat/",
+        "aws_path_2": ".jpg",
+        "url": "https://www.ametllerorigen.com/ca/com-estalviar-en-la-compra-lots?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=lots-estalvi-oct&utm_term=ESTALVI-OCT24-CAT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ametller%20Origen.js?tc=",
+        "tcs": [
+            "148475",
+            "148476",
+            "148477"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "728x90",
+            "300x250"
+        ],
+        "name": "ametller-origen-es_v1mp_LOTS-ESTALVI-OCT_dis_prs-1_ESTALVI-OCT24-ESP",
+        "landing": "https://www.ametllerorigen.com/es/como-ahorrar-en-la-compra-lotes",
+        "aws_path_1": "ametller_origen/2024/10/lots/esp/",
+        "aws_path_2": ".jpg",
+        "url": "https://www.ametllerorigen.com/es/como-ahorrar-en-la-compra-lotes?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=lots-estalvi-oct&utm_term=ESTALVI-OCT24-ESP",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ametller%20Origen.js?tc=",
+        "tcs": [
+            "148478",
+            "148479",
+            "148480"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "728x90",
+            "300x250"
+        ],
+        "name": "ametller-origen-es_v1mp_LOTS-ESTALVI-OCT_dis_rtg-1_ESTALVI-OCT24-ESP",
+        "landing": "https://www.ametllerorigen.com/es/como-ahorrar-en-la-compra-lotes",
+        "aws_path_1": "ametller_origen/2024/10/lots/esp/",
+        "aws_path_2": ".jpg",
+        "url": "https://www.ametllerorigen.com/es/como-ahorrar-en-la-compra-lotes?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=lots-estalvi-oct&utm_term=ESTALVI-OCT24-ESP",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ametller%20Origen.js?tc=",
+        "tcs": [
+            "148481",
+            "148482",
+            "148483"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "name": "aecc-es_v1mp_AO-DONACION_dis_prs-1_TABACO",
+        "landing": "https://colabora.contraelcancer.es/dona",
+        "aws_path_1": "AECC/2024/11/tabaco/",
+        "aws_path_2": "/index.html",
+        "link": "https://colabora.contraelcancer.es/dona?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-donacion&utm_content=tabaco",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_AECC.js?tc=",
+        "tcs": ["150767", "150768", "150769", "150770", "150771", "150772"]
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "name": "aecc-es_v1mp_AO-DONACION_dis_rtg-1_TABACO",
+        "landing": "https://colabora.contraelcancer.es/dona",
+        "aws_path_1": "AECC/2024/11/tabaco/",
+        "aws_path_2": "/index.html",
+        "link": "https://colabora.contraelcancer.es/dona?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao-donacion&utm_content=tabaco",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_AECC.js?tc=",
+        "tcs": ["150773", "150774", "150775", "150776", "150777", "150778"]
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "name": "aecc-es_v1mp_AO-DONACION_dis-prem_prs-1_TABACO-SLIDER",
+        "landing": "https://colabora.contraelcancer.es/dona",
+        "aws_path_1": "AECC/2024/11/spliter/",
+        "aws_path_2": "/index.html",
+        "link": "https://colabora.contraelcancer.es/dona?utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=ao-donacion&utm_content=tabaco-slider",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_AECC.js?tc=",
+        "tcs": ["150779"]
+    }
+]

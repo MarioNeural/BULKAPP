@@ -1,0 +1,111 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": [],
+        "name": "DIS_INT_PT_fnc-ao_Traffic_PROS_lpa-oct24",
+        "landing": "https://www.bintercanarias.com/es",
+        "aws_path_1": "BINTER/2024/10/lpa_oct24/",
+        "aws_path_2": "/index.html",
+        "link": "https://ad.doubleclick.net/ddm/trackclk/N1300917.5140426ADFORM0/B32842956.407453690;dc_trk_aid=599346143;dc_trk_cid=224750768;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+        "impression_tag": "<SCRIPT language='JavaScript1.1' SRC='https://ad.doubleclick.net/ddm/trackimpj/N1300917.5140426ADFORM0/B32842956.407453690;dc_trk_aid=599346143;dc_trk_cid=224750768;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></SCRIPT>"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x250"],
+        "tcs": [],
+        "name": "DIS_INT_PT_fnc-ao_Traffic_PROS_lpa-oct24",
+        "landing": "https://www.bintercanarias.com/es",
+        "aws_path_1": "BINTER/2024/10/lpa_oct24/",
+        "aws_path_2": "/index.html",
+        "link": "https://ad.doubleclick.net/ddm/trackclk/N1300917.5140426ADFORM0/B32842956.407453693;dc_trk_aid=599346146;dc_trk_cid=224750771;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+        "impression_tag": "<SCRIPT language='JavaScript1.1' SRC='https://ad.doubleclick.net/ddm/trackimpj/N1300917.5140426ADFORM0/B32842956.407453693;dc_trk_aid=599346146;dc_trk_cid=224750771;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></SCRIPT>"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["320x100"],
+        "tcs": [],
+        "name": "DIS_INT_PT_fnc-ao_Traffic_PROS_lpa-oct24",
+        "landing": "https://www.bintercanarias.com/es",
+        "aws_path_1": "BINTER/2024/10/lpa_oct24/",
+        "aws_path_2": "/index.html",
+        "link": "https://ad.doubleclick.net/ddm/trackclk/N1300917.5140426ADFORM0/B32842956.407453696;dc_trk_aid=599346149;dc_trk_cid=224750774;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+        "impression_tag": "<SCRIPT language='JavaScript1.1' SRC='https://ad.doubleclick.net/ddm/trackimpj/N1300917.5140426ADFORM0/B32842956.407453696;dc_trk_aid=599346149;dc_trk_cid=224750774;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></SCRIPT>"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250"],
+        "tcs": [],
+        "name": "DIS_INT_PT_fnc-ao_Traffic_PROS_lpa-oct24",
+        "landing": "https://www.bintercanarias.com/es",
+        "aws_path_1": "BINTER/2024/10/lpa_oct24/",
+        "aws_path_2": "/index.html",
+        "link": "https://ad.doubleclick.net/ddm/trackclk/N1300917.5140426ADFORM0/B32842956.407453699;dc_trk_aid=599346152;dc_trk_cid=224750777;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+        "impression_tag": "<SCRIPT language='JavaScript1.1' SRC='https://ad.doubleclick.net/ddm/trackimpj/N1300917.5140426ADFORM0/B32842956.407453699;dc_trk_aid=599346152;dc_trk_cid=224750777;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></SCRIPT>"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["728x90"],
+        "tcs": [],
+        "name": "DIS_INT_PT_fnc-ao_Traffic_PROS_lpa-oct24",
+        "landing": "https://www.bintercanarias.com/es",
+        "aws_path_1": "BINTER/2024/10/lpa_oct24/",
+        "aws_path_2": "/index.html",
+        "link": "https://ad.doubleclick.net/ddm/trackclk/N1300917.5140426ADFORM0/B32842956.407453702;dc_trk_aid=599346155;dc_trk_cid=224750780;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+        "impression_tag": "<SCRIPT language='JavaScript1.1' SRC='https://ad.doubleclick.net/ddm/trackimpj/N1300917.5140426ADFORM0/B32842956.407453702;dc_trk_aid=599346155;dc_trk_cid=224750780;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></SCRIPT>"
+    },  {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "tcs": [],
+        "name": "DIS_INT_PT_fnc-ao_Traffic_RMK_lpa-oct24",
+        "landing": "https://www.bintercanarias.com/es",
+        "aws_path_1": "BINTER/2024/10/lpa_oct24/",
+        "aws_path_2": "/index.html",
+        "link": "https://ad.doubleclick.net/ddm/trackclk/N1300917.5140426ADFORM0/B32842956.407453705;dc_trk_aid=599346158;dc_trk_cid=224750783;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+        "impression_tag": "<SCRIPT language='JavaScript1.1' SRC='https://ad.doubleclick.net/ddm/trackimpj/N1300917.5140426ADFORM0/B32842956.407453705;dc_trk_aid=599346158;dc_trk_cid=224750783;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></SCRIPT>"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x250"],
+        "tcs": [],
+        "name": "DIS_INT_PT_fnc-ao_Traffic_RMK_lpa-oct24",
+        "landing": "https://www.bintercanarias.com/es",
+        "aws_path_1": "BINTER/2024/10/lpa_oct24/",
+        "aws_path_2": "/index.html",
+        "link": "https://ad.doubleclick.net/ddm/trackclk/N1300917.5140426ADFORM0/B32842956.407453708;dc_trk_aid=599346161;dc_trk_cid=224750786;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+        "impression_tag": "<SCRIPT language='JavaScript1.1' SRC='https://ad.doubleclick.net/ddm/trackimpj/N1300917.5140426ADFORM0/B32842956.407453708;dc_trk_aid=599346161;dc_trk_cid=224750786;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></SCRIPT>"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["320x100"],
+        "tcs": [],
+        "name": "DIS_INT_PT_fnc-ao_Traffic_RMK_lpa-oct24",
+        "landing": "https://www.bintercanarias.com/es",
+        "aws_path_1": "BINTER/2024/10/lpa_oct24/",
+        "aws_path_2": "/index.html",
+        "link": "https://ad.doubleclick.net/ddm/trackclk/N1300917.5140426ADFORM0/B32842956.407453711;dc_trk_aid=599346164;dc_trk_cid=224750789;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+        "impression_tag": "<SCRIPT language='JavaScript1.1' SRC='https://ad.doubleclick.net/ddm/trackimpj/N1300917.5140426ADFORM0/B32842956.407453711;dc_trk_aid=599346164;dc_trk_cid=224750789;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></SCRIPT>"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250"],
+        "tcs": [],
+        "name": "DIS_INT_PT_fnc-ao_Traffic_RMK_lpa-oct24",
+        "landing": "https://www.bintercanarias.com/es",
+        "aws_path_1": "BINTER/2024/10/lpa_oct24/",
+        "aws_path_2": "/index.html",
+        "link": "https://ad.doubleclick.net/ddm/trackclk/N1300917.5140426ADFORM0/B32842956.407453714;dc_trk_aid=599346167;dc_trk_cid=224750792;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+        "impression_tag": "<SCRIPT language='JavaScript1.1' SRC='https://ad.doubleclick.net/ddm/trackimpj/N1300917.5140426ADFORM0/B32842956.407453714;dc_trk_aid=599346167;dc_trk_cid=224750792;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></SCRIPT>"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["728x90"],
+        "tcs": [],
+        "name": "DIS_INT_PT_fnc-ao_Traffic_RMK_lpa-oct24",
+        "landing": "https://www.bintercanarias.com/es",
+        "aws_path_1": "BINTER/2024/10/lpa_oct24/",
+        "aws_path_2": "/index.html",
+        "link": "https://ad.doubleclick.net/ddm/trackclk/N1300917.5140426ADFORM0/B32842956.407453717;dc_trk_aid=599346170;dc_trk_cid=224750795;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+        "impression_tag": "<SCRIPT language='JavaScript1.1' SRC='https://ad.doubleclick.net/ddm/trackimpj/N1300917.5140426ADFORM0/B32842956.407453717;dc_trk_aid=599346170;dc_trk_cid=224750795;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></SCRIPT>"
+    }
+]

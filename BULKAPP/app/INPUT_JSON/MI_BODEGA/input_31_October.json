@@ -1,0 +1,164 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "name": "mibodega-cl_v1mp_AO_dis_prs-1_V1-NOVIEMBRE",
+        "landing": "https://www.mibodega.cl/",
+        "aws_path_1": "MI_BODEGA/2024/10/nov/v1/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.mibodega.cl/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=mibodega&utm_term=V1-NOVIEMBRE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Mega%20Centro.js?tc=",
+        "tcs": [
+            "149582",
+            "149583",
+            "149584",
+            "149585",
+            "149586",
+            "149587"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "name": "mibodega-cl_v1mp_AO_dis_rtg-1_V1-NOVIEMBRE",
+        "landing": "https://www.mibodega.cl/",
+        "aws_path_1": "MI_BODEGA/2024/10/nov/v1/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.mibodega.cl/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=mibodega&utm_term=V1-NOVIEMBRE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Mega%20Centro.js?tc=",
+        "tcs": [
+            "149588",
+            "149589",
+            "149590",
+            "149591",
+            "149592",
+            "149593"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "name": "mibodega-cl_v1mp_AO_dis_prs-1_V2-NOVIEMBRE",
+        "landing": "https://www.mibodega.cl/",
+        "aws_path_1": "MI_BODEGA/2024/10/nov/v2/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.mibodega.cl/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=mibodega&utm_term=V2-NOVIEMBRE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Mega%20Centro.js?tc=",
+        "tcs": [
+            "149594",
+            "149595",
+            "149596",
+            "149597",
+            "149598",
+            "149599"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "name": "mibodega-cl_v1mp_AO_dis_rtg-1_V2-NOVIEMBRE",
+        "landing": "https://www.mibodega.cl/",
+        "aws_path_1": "MI_BODEGA/2024/10/nov/v2/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.mibodega.cl/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=mibodega&utm_term=V2-NOVIEMBRE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Mega%20Centro.js?tc=",
+        "tcs": [
+            "149600",
+            "149601",
+            "149602",
+            "149603",
+            "149604",
+            "149605"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "name": "mibodega-cl_v1mp_AO_dis_prs-1_V3-NOVIEMBRE",
+        "landing": "https://www.mibodega.cl/",
+        "aws_path_1": "MI_BODEGA/2024/10/nov/v3/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.mibodega.cl/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=mibodega&utm_term=V3-NOVIEMBRE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Mega%20Centro.js?tc=",
+        "tcs": [
+            "149606",
+            "149607",
+            "149608",
+            "149609",
+            "149610",
+            "149611"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "name": "mibodega-cl_v1mp_AO_dis_rtg-1_V3-NOVIEMBRE",
+        "landing": "https://www.mibodega.cl/",
+        "aws_path_1": "MI_BODEGA/2024/10/nov/v3/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.mibodega.cl/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=mibodega&utm_term=V3-NOVIEMBRE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Mega%20Centro.js?tc=",
+        "tcs": [
+            "149612",
+            "149613",
+            "149614",
+            "149615",
+            "149616",
+            "149617"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "728x90",
+            "300x600",
+            "970x250",
+            "300x250",
+            "160x600",
+            "320x100"
+        ],
+        "name": "ocean-us_v1mp_AO_dis_prs-1_MX-ADULTOS-3",
+        "landing": "https://www.oceanhotels.com/en/offers",
+        "aws_path_1": "OCEAN_HOTELS/2024/10/mx/adultos/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.oceanhotels.com/en/offers?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_H10-Hotels.js?tc=",
+        "tcs": [
+            "148235",
+            "148236",
+            "148237",
+            "148238",
+            "148239",
+            "148240"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "728x90",
+            "300x600",
+            "970x250",
+            "300x250",
+            "160x600",
+            "320x100"
+        ],
+        "name": "ocean-us_v1mp_AO_dis_prs-1_MX-FAMILAS-3",
+        "landing": "https://www.oceanhotels.com/en/offers",
+        "aws_path_1": "OCEAN_HOTELS/2024/10/mx/familias/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.oceanhotels.com/en/offers?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_H10-Hotels.js?tc=",
+        "tcs": [
+            "148241",
+            "148242",
+            "148243",
+            "148244",
+            "148245",
+            "148246"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "728x90",
+            "300x600",
+            "970x250",
+            "300x250",
+            "160x600",
+            "320x100"
+        ],
+        "name": "ocean-us_v1mp_AO_dis_prs-1_RD-FAMILIAS-3",
+        "landing": "https://www.oceanhotels.com/en/offers",
+        "aws_path_1": "OCEAN_HOTELS/2024/10/rd/familias/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.oceanhotels.com/en/offers?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_H10-Hotels.js?tc=",
+        "tcs": [
+            "148247",
+            "148248",
+            "148249",
+            "148250",
+            "148251",
+            "148252"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "728x90",
+            "300x600",
+            "970x250",
+            "300x250",
+            "160x600",
+            "320x100"
+        ],
+        "name": "ocean-us_v1mp_AO_dis_prs-1_RD-ADULTOS-3",
+        "landing": "https://www.oceanhotels.com/en/offers",
+        "aws_path_1": "OCEAN_HOTELS/2024/10/rd/adultos/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.oceanhotels.com/en/offers?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_H10-Hotels.js?tc=",
+        "tcs": [
+            "148253",
+            "148254",
+            "148255",
+            "148256",
+            "148257",
+            "148258"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "728x90",
+            "300x600",
+            "970x250",
+            "300x250",
+            "160x600",
+            "320x100"
+        ],
+        "name": "ocean-us_v1mp_AO_dis_prs-1_JAMAICA-ADULTOS-3",
+        "landing": "https://www.oceanhotels.com/en/offers",
+        "aws_path_1": "OCEAN_HOTELS/2024/10/jamaica/adultos/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.oceanhotels.com/en/offers?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_H10-Hotels.js?tc=",
+        "tcs": [
+            "148259",
+            "148260",
+            "148261",
+            "148262",
+            "148263",
+            "148264"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "728x90",
+            "300x600",
+            "970x250",
+            "300x250",
+            "160x600",
+            "320x100"
+        ],
+        "name": "ocean-us_v1mp_AO_dis_prs-1_JAMAICA-FAMILIAS-3",
+        "landing": "https://www.oceanhotels.com/en/offers",
+        "aws_path_1": "OCEAN_HOTELS/2024/10/jamaica/familias/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.oceanhotels.com/en/offers?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_H10-Hotels.js?tc=",
+        "tcs": [
+            "148265",
+            "148266",
+            "148267",
+            "148268",
+            "148269",
+            "148270"
+        ]
+    }
+]

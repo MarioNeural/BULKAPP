@@ -1,0 +1,302 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "name": "insotel-de_v1mp_AO_dis_prs-1_BLACKFRIDAY",
+        "landing": "https://www.insotelhotelgroup.com/de",
+        "aws_path_1": "INSOTEL/2024/11/bf/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/de?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=de",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc=",
+        "tcs": [
+            "151967",
+            "151968",
+            "151969",
+            "151970",
+            "151971",
+            "151972"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "name": "insotel-de_v1mp_AO_dis_rtg-1_BLACKFRIDAY",
+        "landing": "https://www.insotelhotelgroup.com/de",
+        "aws_path_1": "INSOTEL/2024/11/bf/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/de?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=de",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc=",
+        "tcs": [
+            "151973",
+            "151974",
+            "151975",
+            "151976",
+            "151977",
+            "151978"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "name": "insotel-es_v1mp_AO_dis_prs-1_BLACKFRIDAY",
+        "landing": "https://www.insotelhotelgroup.com/",
+        "aws_path_1": "INSOTEL/2024/11/bf/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=es",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc=",
+        "tcs": [
+            "151979",
+            "151980",
+            "151981",
+            "151982",
+            "151983",
+            "151984"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "name": "insotel-es_v1mp_AO_dis_rtg-1_BLACKFRIDAY",
+        "landing": "https://www.insotelhotelgroup.com/",
+        "aws_path_1": "INSOTEL/2024/11/bf/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=es",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc=",
+        "tcs": [
+            "151985",
+            "151986",
+            "151987",
+            "151988",
+            "151989",
+            "151990"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "name": "insotel-gb_v1mp_AO_dis_prs-1_BLACKFRIDAY",
+        "landing": "https://www.insotelhotelgroup.com/en",
+        "aws_path_1": "INSOTEL/2024/11/bf/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/en?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=gb",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc=",
+        "tcs": [
+            "151991",
+            "151992",
+            "151993",
+            "151994",
+            "151995",
+            "151996"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "name": "insotel-gb_v1mp_AO_dis_rtg-1_BLACKFRIDAY",
+        "landing": "https://www.insotelhotelgroup.com/en",
+        "aws_path_1": "INSOTEL/2024/11/bf/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/en?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=gb",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc=",
+        "tcs": [
+            "151997",
+            "151998",
+            "151999",
+            "152000",
+            "152001",
+            "152002"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "name": "insotel-row_v1mp_AO_dis_prs-1_BLACKFRIDAY",
+        "landing": "https://www.insotelhotelgroup.com/en",
+        "aws_path_1": "INSOTEL/2024/11/bf/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/en?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=row",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc=",
+        "tcs": [
+            "152003",
+            "152004",
+            "152005",
+            "152006",
+            "152007",
+            "152008"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "name": "insotel-row_v1mp_AO_dis_rtg-1_BLACKFRIDAY",
+        "landing": "https://www.insotelhotelgroup.com/en",
+        "aws_path_1": "INSOTEL/2024/11/bf/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/en?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=row",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc=",
+        "tcs": [
+            "152009",
+            "152010",
+            "152011",
+            "152012",
+            "152013",
+            "152014"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "name": "insotel-pt_v1mp_AO_dis_prs-1_BLACKFRIDAY",
+        "landing": "https://www.insotelhotelgroup.com/en",
+        "aws_path_1": "INSOTEL/2024/11/bf/pt/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/en?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=pt",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc=",
+        "tcs": [
+            "152015",
+            "152016",
+            "152017",
+            "152018",
+            "152019",
+            "152020"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "name": "insotel-pt_v1mp_AO_dis_rtg-1_BLACKFRIDAY",
+        "landing": "https://www.insotelhotelgroup.com/en",
+        "aws_path_1": "INSOTEL/2024/11/bf/pt/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/en?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=pt",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc=",
+        "tcs": [
+            "152021",
+            "152022",
+            "152023",
+            "152024",
+            "152025",
+            "152026"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "name": "insotel-it_v1mp_AO_dis_prs-1_BLACKFRIDAY",
+        "landing": "https://www.insotelhotelgroup.com/it",
+        "aws_path_1": "INSOTEL/2024/11/bf/it/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/it?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=it",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc=",
+        "tcs": [
+            "152027",
+            "152028",
+            "152029",
+            "152030",
+            "152031",
+            "152032"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "name": "insotel-it_v1mp_AO_dis_rtg-1_BLACKFRIDAY",
+        "landing": "https://www.insotelhotelgroup.com/it",
+        "aws_path_1": "INSOTEL/2024/11/bf/it/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/it?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=it",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc=",
+        "tcs": [
+            "152033",
+            "152034",
+            "152035",
+            "152036",
+            "152037",
+            "152038"
+        ]
+    }
+]

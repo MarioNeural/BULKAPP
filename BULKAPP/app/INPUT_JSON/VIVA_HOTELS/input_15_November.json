@@ -1,0 +1,1377 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-es_v1mp_AO_dis_prs-1_BLACK-FRIDAY-COUPLES",
+        "landing": "https://www.hotelsviva.com/es/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/couples/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/es/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=es&utm_content=BLACK-FRIDAY-COUPLES",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "150953",
+            "150954",
+            "150955",
+            "150956",
+            "150957",
+            "150958"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-es_v1mp_AO_dis_rtg-1_BLACK-FRIDAY-COUPLES",
+        "landing": "https://www.hotelsviva.com/es/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/couples/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/es/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=es&utm_content=BLACK-FRIDAY-COUPLES",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "150959",
+            "150960",
+            "150961",
+            "150962",
+            "150963",
+            "150964"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-ch_v1mp_AO_dis_prs-1_BLACK-FRIDAY-COUPLES",
+        "landing": "https://www.hotelsviva.com/de/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/couples/ch/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=ch&utm_content=BLACK-FRIDAY-COUPLES",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "150965",
+            "150966",
+            "150967",
+            "150968",
+            "150969",
+            "150970"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-ch_v1mp_AO_dis_rtg-1_BLACK-FRIDAY-COUPLES",
+        "landing": "https://www.hotelsviva.com/de/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/couples/ch/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=ch&utm_content=BLACK-FRIDAY-COUPLES",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "150971",
+            "150972",
+            "150973",
+            "150974",
+            "150975",
+            "150976"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-de_v1mp_AO_dis_prs-1_BLACK-FRIDAY-COUPLES",
+        "landing": "https://www.hotelsviva.com/de/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/couples/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=de&utm_content=BLACK-FRIDAY-COUPLES",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "150977",
+            "150978",
+            "150979",
+            "150980",
+            "150981",
+            "150982"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-de_v1mp_AO_dis_rtg-1_BLACK-FRIDAY-COUPLES",
+        "landing": "https://www.hotelsviva.com/de/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/couples/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=de&utm_content=BLACK-FRIDAY-COUPLES",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "150983",
+            "150984",
+            "150985",
+            "150986",
+            "150987",
+            "150988"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-fr_v1mp_AO_dis_prs-1_BLACK-FRIDAY-COUPLES",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/couples/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=fr&utm_content=BLACK-FRIDAY-COUPLES",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "150989",
+            "150990",
+            "150991",
+            "150992",
+            "150993",
+            "150994"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-fr_v1mp_AO_dis_rtg-1_BLACK-FRIDAY-COUPLES",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/couples/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=fr&utm_content=BLACK-FRIDAY-COUPLES",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "150995",
+            "150996",
+            "150997",
+            "150998",
+            "150999",
+            "151000"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-row_v1mp_AO_dis_rtg-1_BLACK-FRIDAY-COUPLES",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/couples/row/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=row&utm_content=BLACK-FRIDAY-COUPLES",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151001",
+            "151002",
+            "151003",
+            "151004",
+            "151005",
+            "151006"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-gb_v1mp_AO_dis_prs-1_BLACK-FRIDAY-COUPLES",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/couples/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=gb&utm_content=BLACK-FRIDAY-COUPLES",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151007",
+            "151008",
+            "151009",
+            "151010",
+            "151011",
+            "151012"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-gb_v1mp_AO_dis_rtg-1_BLACK-FRIDAY-COUPLES",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/couples/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=gb&utm_content=BLACK-FRIDAY-COUPLES",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151013",
+            "151014",
+            "151015",
+            "151016",
+            "151017",
+            "151018"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-es_v1mp_AO_dis_prs-1_BLACK-FRIDAY-FAMILY",
+        "landing": "https://www.hotelsviva.com/es/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/family/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/es/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=es&utm_content=BLACK-FRIDAY-FAMILY",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151019",
+            "151020",
+            "151021",
+            "151022",
+            "151023",
+            "151024"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-es_v1mp_AO_dis_rtg-1_BLACK-FRIDAY-FAMILY",
+        "landing": "https://www.hotelsviva.com/es/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/family/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/es/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=es&utm_content=BLACK-FRIDAY-FAMILY",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151025",
+            "151026",
+            "151027",
+            "151028",
+            "151029",
+            "151030"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-ch_v1mp_AO_dis_prs-1_BLACK-FRIDAY-FAMILY",
+        "landing": "https://www.hotelsviva.com/de/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/family/ch/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=ch&utm_content=BLACK-FRIDAY-FAMILY",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151031",
+            "151032",
+            "151033",
+            "151034",
+            "151035",
+            "151036"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-ch_v1mp_AO_dis_rtg-1_BLACK-FRIDAY-FAMILY",
+        "landing": "https://www.hotelsviva.com/de/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/family/ch/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=ch&utm_content=BLACK-FRIDAY-FAMILY",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151037",
+            "151038",
+            "151039",
+            "151040",
+            "151041",
+            "151042"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-de_v1mp_AO_dis_prs-1_BLACK-FRIDAY-FAMILY",
+        "landing": "https://www.hotelsviva.com/de/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/family/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=de&utm_content=BLACK-FRIDAY-FAMILY",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151043",
+            "151044",
+            "151045",
+            "151046",
+            "151047",
+            "151048"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-de_v1mp_AO_dis_rtg-1_BLACK-FRIDAY-FAMILY",
+        "landing": "https://www.hotelsviva.com/de/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/family/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=de&utm_content=BLACK-FRIDAY-FAMILY",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151049",
+            "151050",
+            "151051",
+            "151052",
+            "151053",
+            "151054"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-fr_v1mp_AO_dis_prs-1_BLACK-FRIDAY-FAMILY",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/family/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=fr&utm_content=BLACK-FRIDAY-FAMILY",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151055",
+            "151056",
+            "151057",
+            "151058",
+            "151059",
+            "151060"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-fr_v1mp_AO_dis_rtg-1_BLACK-FRIDAY-FAMILY",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/family/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=fr&utm_content=BLACK-FRIDAY-FAMILY",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151061",
+            "151062",
+            "151063",
+            "151064",
+            "151065",
+            "151066"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-row_v1mp_AO_dis_rtg-1_BLACK-FRIDAY-FAMILY",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/family/row/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=row&utm_content=BLACK-FRIDAY-FAMILY",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151067",
+            "151068",
+            "151069",
+            "151070",
+            "151071",
+            "151072"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-gb_v1mp_AO_dis_prs-1_BLACK-FRIDAY-FAMILY",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/family/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=gb&utm_content=BLACK-FRIDAY-FAMILY",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151073",
+            "151074",
+            "151075",
+            "151076",
+            "151077",
+            "151078"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-gb_v1mp_AO_dis_rtg-1_BLACK-FRIDAY-FAMILY",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/family/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=gb&utm_content=BLACK-FRIDAY-FAMILY",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151079",
+            "151080",
+            "151081",
+            "151082",
+            "151083",
+            "151084"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-es_v1mp_AO_dis_prs-1_BLACK-FRIDAY-SINGLES",
+        "landing": "https://www.hotelsviva.com/es/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/singles/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/es/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=es&utm_content=BLACK-FRIDAY-SINGLES",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151085",
+            "151086",
+            "151087",
+            "151088",
+            "151089",
+            "151090"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-es_v1mp_AO_dis_rtg-1_BLACK-FRIDAY-SINGLES",
+        "landing": "https://www.hotelsviva.com/es/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/singles/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/es/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=es&utm_content=BLACK-FRIDAY-SINGLES",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151091",
+            "151092",
+            "151093",
+            "151094",
+            "151095",
+            "151096"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-ch_v1mp_AO_dis_prs-1_BLACK-FRIDAY-SINGLES",
+        "landing": "https://www.hotelsviva.com/de/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/singles/ch/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=ch&utm_content=BLACK-FRIDAY-SINGLES",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151097",
+            "151098",
+            "151099",
+            "151100",
+            "151101",
+            "151102"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-ch_v1mp_AO_dis_rtg-1_BLACK-FRIDAY-SINGLES",
+        "landing": "https://www.hotelsviva.com/de/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/singles/ch/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=ch&utm_content=BLACK-FRIDAY-SINGLES",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151103",
+            "151104",
+            "151105",
+            "151106",
+            "151107",
+            "151108"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-de_v1mp_AO_dis_prs-1_BLACK-FRIDAY-SINGLES",
+        "landing": "https://www.hotelsviva.com/de/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/singles/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=de&utm_content=BLACK-FRIDAY-SINGLES",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151109",
+            "151110",
+            "151111",
+            "151112",
+            "151113",
+            "151114"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-de_v1mp_AO_dis_rtg-1_BLACK-FRIDAY-SINGLES",
+        "landing": "https://www.hotelsviva.com/de/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/singles/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=de&utm_content=BLACK-FRIDAY-SINGLES",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151115",
+            "151116",
+            "151117",
+            "151118",
+            "151119",
+            "151120"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-fr_v1mp_AO_dis_prs-1_BLACK-FRIDAY-SINGLES",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/singles/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=fr&utm_content=BLACK-FRIDAY-SINGLES",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151121",
+            "151122",
+            "151123",
+            "151124",
+            "151125",
+            "151126"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-fr_v1mp_AO_dis_rtg-1_BLACK-FRIDAY-SINGLES",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/singles/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=fr&utm_content=BLACK-FRIDAY-SINGLES",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151127",
+            "151128",
+            "151129",
+            "151130",
+            "151131",
+            "151132"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-row_v1mp_AO_dis_rtg-1_BLACK-FRIDAY-SINGLES",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/singles/row/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=row&utm_content=BLACK-FRIDAY-SINGLES",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151133",
+            "151134",
+            "151135",
+            "151136",
+            "151137",
+            "151138"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-gb_v1mp_AO_dis_prs-1_BLACK-FRIDAY-SINGLES",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/singles/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=gb&utm_content=BLACK-FRIDAY-SINGLES",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151139",
+            "151140",
+            "151141",
+            "151142",
+            "151143",
+            "151144"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-gb_v1mp_AO_dis_rtg-1_BLACK-FRIDAY-SINGLES",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/singles/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=gb&utm_content=BLACK-FRIDAY-SINGLES",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151145",
+            "151146",
+            "151147",
+            "151148",
+            "151149",
+            "151150"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-es_v1mp_AO_dis_prs-1_BLACK-FRIDAY-SPORT",
+        "landing": "https://www.hotelsviva.com/es/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/sport/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/es/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=es&utm_content=BLACK-FRIDAY-SPORT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151151",
+            "151152",
+            "151153",
+            "151154",
+            "151155",
+            "151156"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-es_v1mp_AO_dis_rtg-1_BLACK-FRIDAY-SPORT",
+        "landing": "https://www.hotelsviva.com/es/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/sport/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/es/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=es&utm_content=BLACK-FRIDAY-SPORT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151157",
+            "151158",
+            "151159",
+            "151160",
+            "151161",
+            "151162"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-ch_v1mp_AO_dis_prs-1_BLACK-FRIDAY-SPORT",
+        "landing": "https://www.hotelsviva.com/de/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/sport/ch/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=ch&utm_content=BLACK-FRIDAY-SPORT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151163",
+            "151164",
+            "151165",
+            "151166",
+            "151167",
+            "151168"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-ch_v1mp_AO_dis_rtg-1_BLACK-FRIDAY-SPORT",
+        "landing": "https://www.hotelsviva.com/de/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/sport/ch/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=ch&utm_content=BLACK-FRIDAY-SPORT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151169",
+            "151170",
+            "151171",
+            "151172",
+            "151173",
+            "151174"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-de_v1mp_AO_dis_prs-1_BLACK-FRIDAY-SPORT",
+        "landing": "https://www.hotelsviva.com/de/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/sport/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=de&utm_content=BLACK-FRIDAY-SPORT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151175",
+            "151176",
+            "151177",
+            "151178",
+            "151179",
+            "151180"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-de_v1mp_AO_dis_rtg-1_BLACK-FRIDAY-SPORT",
+        "landing": "https://www.hotelsviva.com/de/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/sport/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=de&utm_content=BLACK-FRIDAY-SPORT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151181",
+            "151182",
+            "151183",
+            "151184",
+            "151185",
+            "151186"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-fr_v1mp_AO_dis_prs-1_BLACK-FRIDAY-SPORT",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/sport/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=fr&utm_content=BLACK-FRIDAY-SPORT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151187",
+            "151188",
+            "151189",
+            "151190",
+            "151191",
+            "151192"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-fr_v1mp_AO_dis_rtg-1_BLACK-FRIDAY-SPORT",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/sport/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=fr&utm_content=BLACK-FRIDAY-SPORT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151193",
+            "151194",
+            "151195",
+            "151196",
+            "151197",
+            "151198"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-row_v1mp_AO_dis_rtg-1_BLACK-FRIDAY-SPORT",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/sport/row/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=row&utm_content=BLACK-FRIDAY-SPORT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151199",
+            "151200",
+            "151201",
+            "151202",
+            "151203",
+            "151204"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-gb_v1mp_AO_dis_prs-1_BLACK-FRIDAY-SPORT",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/sport/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=gb&utm_content=BLACK-FRIDAY-SPORT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151205",
+            "151206",
+            "151207",
+            "151208",
+            "151209",
+            "151210"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-gb_v1mp_AO_dis_rtg-1_BLACK-FRIDAY-SPORT",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/sport/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=gb&utm_content=BLACK-FRIDAY-SPORT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151211",
+            "151212",
+            "151213",
+            "151214",
+            "151215",
+            "151216"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-es_v1mp_AO_dis_prs-1_BLACK-FRIDAY-UPGRADE",
+        "landing": "https://www.hotelsviva.com/es/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/upgrade/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/es/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=es&utm_content=BLACK-FRIDAY-UPGRADE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151217",
+            "151218",
+            "151219",
+            "151220",
+            "151221",
+            "151222"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-es_v1mp_AO_dis_rtg-1_BLACK-FRIDAY-UPGRADE",
+        "landing": "https://www.hotelsviva.com/es/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/upgrade/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/es/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=es&utm_content=BLACK-FRIDAY-UPGRADE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151223",
+            "151224",
+            "151225",
+            "151226",
+            "151227",
+            "151228"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-ch_v1mp_AO_dis_prs-1_BLACK-FRIDAY-UPGRADE",
+        "landing": "https://www.hotelsviva.com/de/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/upgrade/ch/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=ch&utm_content=BLACK-FRIDAY-UPGRADE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151229",
+            "151230",
+            "151231",
+            "151232",
+            "151233",
+            "151234"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-ch_v1mp_AO_dis_rtg-1_BLACK-FRIDAY-UPGRADE",
+        "landing": "https://www.hotelsviva.com/de/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/upgrade/ch/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=ch&utm_content=BLACK-FRIDAY-UPGRADE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151235",
+            "151236",
+            "151237",
+            "151238",
+            "151239",
+            "151240"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-de_v1mp_AO_dis_prs-1_BLACK-FRIDAY-UPGRADE",
+        "landing": "https://www.hotelsviva.com/de/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/upgrade/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=de&utm_content=BLACK-FRIDAY-UPGRADE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151241",
+            "151242",
+            "151243",
+            "151244",
+            "151245",
+            "151246"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-de_v1mp_AO_dis_rtg-1_BLACK-FRIDAY-UPGRADE",
+        "landing": "https://www.hotelsviva.com/de/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/upgrade/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=de&utm_content=BLACK-FRIDAY-UPGRADE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151247",
+            "151248",
+            "151249",
+            "151250",
+            "151251",
+            "151252"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-fr_v1mp_AO_dis_prs-1_BLACK-FRIDAY-UPGRADE",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/upgrade/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=fr&utm_content=BLACK-FRIDAY-UPGRADE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151253",
+            "151254",
+            "151255",
+            "151256",
+            "151257",
+            "151258"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-fr_v1mp_AO_dis_rtg-1_BLACK-FRIDAY-UPGRADE",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/upgrade/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=fr&utm_content=BLACK-FRIDAY-UPGRADE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151259",
+            "151260",
+            "151261",
+            "151262",
+            "151263",
+            "151264"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-row_v1mp_AO_dis_rtg-1_BLACK-FRIDAY-UPGRADE",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/upgrade/row/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=row&utm_content=BLACK-FRIDAY-UPGRADE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151265",
+            "151266",
+            "151267",
+            "151268",
+            "151269",
+            "151270"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-gb_v1mp_AO_dis_prs-1_BLACK-FRIDAY-UPGRADE",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/upgrade/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=gb&utm_content=BLACK-FRIDAY-UPGRADE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151271",
+            "151272",
+            "151273",
+            "151274",
+            "151275",
+            "151276"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "viva-gb_v1mp_AO_dis_rtg-1_BLACK-FRIDAY-UPGRADE",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/11/black_friday/upgrade/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=gb&utm_content=BLACK-FRIDAY-UPGRADE",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "151277",
+            "151278",
+            "151279",
+            "151280",
+            "151281",
+            "151282"
+        ]
+    }
+]

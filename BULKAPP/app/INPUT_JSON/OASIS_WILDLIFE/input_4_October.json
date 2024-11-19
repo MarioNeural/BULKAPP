@@ -1,0 +1,41 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "970x250", "728x90", "160x600", "320x100"],
+        "name": "oasis-wild-es_v1mp_AO-ES_dis_rtg-1_ES",
+        "landing": "https://tickets.oasiswildlifefuerteventura.com/",
+        "aws_path_1": "OASIS_WILDLIFE/2024/07/verano/",
+        "aws_path_2": "/index.html",
+        "link": "https://tickets.oasiswildlifefuerteventura.com/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao-es",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Wildlife.js?tc=",
+        "tcs": ["146398", "146399", "146400", "146401", "146402", "146403"],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "970x250", "728x90", "160x600", "320x100"],
+        "name": "oasis-wild-es_v1mp_AO-DE_dis_prs-1_DE",
+        "landing": "https://tickets.oasiswildlifefuerteventura.com/",
+        "aws_path_1": "OASIS_WILDLIFE/2024/07/standard/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://tickets.oasiswildlifefuerteventura.com/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-de",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Wildlife.js?tc=",
+        "tcs": ["146404", "146405", "146406", "146407", "146408", "146409"],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "970x250", "728x90", "160x600", "320x100"],
+        "name": "oasis-wild-es_v1mp_AO-UK_dis_prs-1_EN",
+        "landing": "https://tickets.oasiswildlifefuerteventura.com/en/",
+        "aws_path_1": "OASIS_WILDLIFE/2024/07/standard/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://tickets.oasiswildlifefuerteventura.com/en/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-uk",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Wildlife.js?tc=",
+        "tcs": ["146410", "146411", "146412", "146413", "146414", "146415"],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

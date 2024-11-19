@@ -1,0 +1,28 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "name": "manos-unidas-es_v1mp_SCAPE-ROOM_dis_prs-1_GAME",
+        "landing": "https://escaperoom.manosunidas.org/intro/",
+        "aws_path_1": "manos_unidas/2024/10/efecto_ser/",
+        "aws_path_2": "/index.html",
+        "link": "https://escaperoom.manosunidas.org/intro/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=scape-room&utm_term=GAME",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Manos%20Unidas.js?tc=",
+        "tcs": ["148530", "148531", "148532", "148533", "148534", "148535"],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "name": "manos-unidas-es_v1mp_SCAPE-ROOM_dis_rtg-1_GAME",
+        "landing": "https://escaperoom.manosunidas.org/intro/",
+        "aws_path_1": "manos_unidas/2024/10/efecto_ser/",
+        "aws_path_2": "/index.html",
+        "link": "https://escaperoom.manosunidas.org/intro/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=scape-room&utm_term=GAME",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Manos%20Unidas.js?tc=",
+        "tcs": ["148536", "148537", "148538", "148539", "148540", "148541"],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "name": "iese-lam_v1mp_VAMOS-PDD-FLEX-LATAM-CONSIDERATION-DISPLAYVIDEO-24-25_vid_prs-1_PREROLL-1",
+        "landing": "https://formscloud.iese.edu/landings-pdd-flex-2/",
+        "aws_path_1": "IESE/2024/10/preroll_1/",
+        "aws_path_2": "/index.html",
+        "link": "https://formscloud.iese.edu/landings-pdd-flex-2/?utm_source=display&utm_medium=video&utm_campaign=701Qu00000Gxkk4&utm_content=preroll-1",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_IESE%20Business%20School.js?tc=",
+        "tcs": ["149745", "149746"]
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "name": "iese-lam_v1mp_VAMOS-PDD-FLEX-LATAM-CONSIDERATION-DISPLAYVIDEO-24-25_vid_prs-1_PREROLL-2",
+        "landing": "https://formscloud.iese.edu/landings-pdd-flex-2/",
+        "aws_path_1": "IESE/2024/10/preroll_2/",
+        "aws_path_2": "/index.html",
+        "link": "https://formscloud.iese.edu/landings-pdd-flex-2/?utm_source=display&utm_medium=video&utm_campaign=701Qu00000Gxkk4&utm_content=preroll-2",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_IESE%20Business%20School.js?tc=",
+        "tcs": ["149747", "149748"]
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "name": "iese-lam_v1mp_VAMOS-PDD-FLEX-LATAM-CONSIDERATION-DISPLAYVIDEO-24-25_vid_prs-1_PREROLL-3",
+        "landing": "https://formscloud.iese.edu/landings-pdd-flex-2/",
+        "aws_path_1": "IESE/2024/10/preroll_3/",
+        "aws_path_2": "/index.html",
+        "link": "https://formscloud.iese.edu/landings-pdd-flex-2/?utm_source=display&utm_medium=video&utm_campaign=701Qu00000Gxkk4&utm_content=preroll-3",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_IESE%20Business%20School.js?tc=",
+        "tcs": ["149749", "149750"]
+    }
+]

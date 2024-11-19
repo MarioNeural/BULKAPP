@@ -1,0 +1,56 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "name": "iese-es_v1mp_NEP-EMBA-SOUTHEUROPE_CONVERSION_DISPLAYRETARGETING_ONLINE_PAID_24-25_dis_rtg-1_DB",
+        "landing": "https://formscloud.iese.edu/landings-emba/",
+        "aws_path_1": "IESE/2024/11/conversion_2/",
+        "aws_path_2": "/index.html",
+        "link": "https://formscloud.iese.edu/landings-emba/?utm_source=display&utm_medium=rtg&utm_campaign=701Qu00000H8EiM&utm_term=DB",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_IESE%20Business%20School.js?tc=",
+        "tcs": [
+            "150469",
+            "150470",
+            "150471",
+            "150472",
+            "150473",
+            "150474"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "name": "iese-es_v1mp_NEP-EMBA-SOUTHEUROPE_CONVERSION_DISPLAYRETARGETING_ONLINE_PAID_24-25_dis_rtg-1_RI",
+        "landing": "https://formscloud.iese.edu/landings-emba-solicita-entrevista/",
+        "aws_path_1": "IESE/2024/11/conversion_2/",
+        "aws_path_2": "/index.html",
+        "link": "https://formscloud.iese.edu/landings-emba-solicita-entrevista/?utm_source=display&utm_medium=rtg&utm_campaign=701Qu00000H8EiM&utm_term=RI",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_IESE%20Business%20School.js?tc=",
+        "tcs": [
+            "150475",
+            "150476",
+            "150477",
+            "150478",
+            "150479",
+            "150480"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

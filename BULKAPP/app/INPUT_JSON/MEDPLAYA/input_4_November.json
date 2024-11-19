@@ -1,0 +1,56 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "160x600",
+            "970x250",
+            "728x90"
+        ],
+        "name": "medplaya-gb_v1mp_AO-GB_dis_prs-1_EARLY-BOOKING-2025",
+        "landing": "https://www.medplaya.com/",
+        "aws_path_1": "MEDPLAYA/2024/11/eb/prs/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.medplaya.com/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-gb&utm_term=early-booking-2025",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Medplaya.js?tc=",
+        "tcs": [
+            "149631",
+            "149632",
+            "149633",
+            "149634",
+            "149635",
+            "149636"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "160x600",
+            "970x250",
+            "728x90"
+        ],
+        "name": "medplaya-gb_v1mp_AO-GB_dis_rtg-1_EARLY-BOOKING-2025",
+        "landing": "https://www.medplaya.com/",
+        "aws_path_1": "MEDPLAYA/2024/11/eb/rtg/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.medplaya.com/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao-gb&utm_term=early-booking-2025",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Medplaya.js?tc=",
+        "tcs": [
+            "149637",
+            "149638",
+            "149639",
+            "149640",
+            "149641",
+            "149642"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

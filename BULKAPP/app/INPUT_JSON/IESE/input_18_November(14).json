@@ -1,0 +1,15 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "name": "iese-roeu_v1mp_IEP-GEMBA-ROE-AWARENESS- DISPLAYVIDEO-ONLINE-PAID-24-25_vid_prs-1_DB-NOV",
+        "landing": "https://formscloud.iese.edu/landings-gemba/",
+        "aws_path_1": "IESE/2024/11/preroll_6/",
+        "aws_path_2": "/index.html",
+        "link": "https://formscloud.iese.edu/landings-gemba/?utm_source=display&utm_medium=video&utm_campaign=701Qu00000HKEGZ&utm_term=db-nov",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_IESE%20Business%20School.js?tc=",
+        "tcs": ["151854", "151855"],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

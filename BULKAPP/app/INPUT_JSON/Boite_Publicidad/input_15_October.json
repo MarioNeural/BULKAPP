@@ -1,0 +1,24 @@
+[
+    {
+        "type": "link",
+        "sizes": ["728x90", "320x100", "300x600", "300x250", "160x600"],
+        "name": "boite-es_adg_REAGAN_dis_prs-1_REAGAN",
+        "landing": "https://www.youtube.com/watch?v=Lu5v6SyJQxQ",
+        "aws_path_1": "Boite_Publicidad/2024/10/v1/",
+        "aws_path_2": ".gif",
+        "url": "https://www.youtube.com/watch?v=Lu5v6SyJQxQ?utm_source=adg&utm_medium=dis-prs-1&utm_campaign=reagan",
+        "tcs": [],
+        "impression_tag": ""
+    },
+    {
+        "type": "link",
+        "sizes": ["160x600"],
+        "name": "boite-es_adg_REAGAN_dis_prs-1_REAGAN-2",
+        "landing": "https://www.youtube.com/watch?v=Lu5v6SyJQxQ",
+        "aws_path_1": "Boite_Publicidad/2024/10/v2/",
+        "aws_path_2": ".gif",
+        "url": "https://www.youtube.com/watch?v=Lu5v6SyJQxQ?utm_source=adg&utm_medium=dis-prs-1&utm_campaign=reagan",
+        "tcs": [],
+        "impression_tag": ""
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "160x600", "300x250", "320x100", "728x90", "970x250"],
+        "name": "ok-mobility-es_v1mp_AO_dis-dco_rtg-1_DCO",
+        "landing": "https://okmobility.com/es/rent/",
+        "aws_path_1": "FLEXICAR/2024/10/dco/",
+        "aws_path_2": ".html",
+        "link": "https://okmobility.com/es/rent/?promo=BREAK&utm_source=v1mp&utm_medium=dis-dco-rtg-1&utm_campaign=ao&utm_term=es",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_okmobility-es_np_",
+        "tcs": ["125887", "126590", "126591", "126592", "126593", "126594"],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

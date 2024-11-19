@@ -1,0 +1,56 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "name": "poseidon-es_v1mp_AO_dis_prs-1_OFERTA-60-ES",
+        "landing": "https://hotelesposeidon.com/oferta-oferta-60",
+        "aws_path_1": "HOTELES_POSEIDON/2024/11/oferta/",
+        "aws_path_2": "/index.html",
+        "link": "https://hotelesposeidon.com/oferta-oferta-60?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=oferta-60-es",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hoteles%20Poseidon.js?tc=",
+        "tcs": [
+            "149646",
+            "149647",
+            "149648",
+            "149649",
+            "149650",
+            "149651"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "name": "poseidon-es_v1mp_AO_dis_rtg-1_OFERTA-60-ES",
+        "landing": "https://hotelesposeidon.com/oferta-oferta-60",
+        "aws_path_1": "HOTELES_POSEIDON/2024/11/oferta/",
+        "aws_path_2": "/index.html",
+        "link": "https://hotelesposeidon.com/oferta-oferta-60?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=oferta-60-es",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hoteles%20Poseidon.js?tc=",
+        "tcs": [
+            "149652",
+            "149653",
+            "149654",
+            "149655",
+            "149656",
+            "149657"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

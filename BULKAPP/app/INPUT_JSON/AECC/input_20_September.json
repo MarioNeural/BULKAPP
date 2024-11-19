@@ -1,0 +1,39 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "name": "aecc-es_v1mp_AO-DONACION_dis_prs-1_INVESTIGACION-TRADUCTOR",
+        "landing": "https://colabora.contraelcancer.es/campanas/investigacion-2024",
+        "aws_path_1": "AECC/2024/09/donacion/",
+        "aws_path_2": "/index.html",
+        "link": "https://colabora.contraelcancer.es/campanas/investigacion-2024?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-donacion&utm_term=investigacion-traductor",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_AECC.js?tc=",
+        "tcs": ["144879", "144880"],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "name": "aecc-es_v1mp_AO-DONACION_dis_rtg-1_INVESTIGACION-TRADUCTOR",
+        "landing": "https://colabora.contraelcancer.es/campanas/investigacion-2024",
+        "aws_path_1": "AECC/2024/09/donacion/",
+        "aws_path_2": "/index.html",
+        "link": "https://colabora.contraelcancer.es/campanas/investigacion-2024?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao-donacion&utm_term=investigacion-traductor",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_AECC.js?tc=",
+        "tcs": ["144881", "144882"],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "name": "aecc-es_v1mp_AO-DONACION_dis_prs-1_SEPT",
+        "landing": "https://colabora.contraelcancer.es/dona",
+        "aws_path_1": "AECC/2024/03/standard/dona/",
+        "aws_path_2": "/index.html",
+        "link": "https://colabora.contraelcancer.es/dona?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-donacion",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_AECC.js?tc=",
+        "tcs": ["144883", "144884", "144885", "144886", "144887", "144888"]
+    }
+]

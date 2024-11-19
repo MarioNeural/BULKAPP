@@ -1,0 +1,24 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "name": "iese-es_v1mp_BRAND-ESP-AWARENESS-YOUNG-DISPLAYPREMIUM-ONLINE-PAID-24-25_dis_prs-1_SLIDER",
+        "landing": "https://formscloud.iese.edu/landings-iese-programas/",
+        "aws_path_1": "IESE/2024/11/spliter/",
+        "aws_path_2": "/index.html",
+        "link": "https://formscloud.iese.edu/landings-iese-programas/?utm_source=display&utm_medium=premium&utm_campaign=701Qu00000FvrqB&utm_content=slider",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_IESE%20Business%20School.js?tc=",
+        "tcs": ["149789"]
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "name": "iese-es_v1mp_BRAND-ESP-AWARENESS-ADULT-DISPLAYPREMIUM-ONLINE-PAID-24-25_dis_prs-1_SLIDER",
+        "landing": "https://formscloud.iese.edu/landings-iese-programas/",
+        "aws_path_1": "IESE/2024/11/spliter/",
+        "aws_path_2": "/index.html",
+        "link": "https://formscloud.iese.edu/landings-iese-programas/?utm_source=display&utm_medium=premium&utm_campaign=701Qu00000FvlbH&utm_content=slider",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_IESE%20Business%20School.js?tc=",
+        "tcs": ["149790"]
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "name": "iese-row_v1mp_BRAND-USUK-AWARENESS-ADULT-DISPLAY-VIDEO-ONLINE-PAID-24-25_dis_prs-1_PREROLL",
+        "landing": "https://formscloud.iese.edu/landings-iese-programs/",
+        "aws_path_1": "IESE/2024/11/preroll_2/",
+        "aws_path_2": "/index.html",
+        "link": "https://formscloud.iese.edu/landings-iese-programs/?utm_source=display&utm_medium=video&utm_campaign=701Qu00000GZElL&utm_content=preroll",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_IESE%20Business%20School.js?tc=",
+        "tcs": ["150069", "150070"]
+    }
+]

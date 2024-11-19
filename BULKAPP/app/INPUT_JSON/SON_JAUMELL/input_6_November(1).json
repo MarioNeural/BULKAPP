@@ -1,0 +1,218 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "son-jaumell-es_v1mp_AO_dis_prs-1_EB-25",
+        "landing": "https://www.hotelsonjaumell.com/es/",
+        "aws_path_1": "SON_JAUMELL/2024/11/eb_25/prs/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsonjaumell.com/es/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "150018",
+            "150019",
+            "150020",
+            "150021",
+            "150022",
+            "150023"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "son-jaumell-es_v1mp_AO_dis_rtg-1_EB-25",
+        "landing": "https://www.hotelsonjaumell.com/es/",
+        "aws_path_1": "SON_JAUMELL/2024/11/eb_25/rtg/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsonjaumell.com/es/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "150024",
+            "150025",
+            "150026",
+            "150027",
+            "150028",
+            "150029"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "son-jaumell-de_v1mp_AO_dis_prs-1_EB-25",
+        "landing": "https://www.hotelsonjaumell.com/de/",
+        "aws_path_1": "SON_JAUMELL/2024/11/eb_25/prs/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsonjaumell.com/de/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "150030",
+            "150031",
+            "150032",
+            "150033",
+            "150034",
+            "150035"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "son-jaumell-de_v1mp_AO_dis_rtg-1_EB-25",
+        "landing": "https://www.hotelsonjaumell.com/de/",
+        "aws_path_1": "SON_JAUMELL/2024/11/eb_25/rtg/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsonjaumell.com/de/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "150036",
+            "150037",
+            "150038",
+            "150039",
+            "150040",
+            "150041"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "son-jaumell-row_v1mp_AO_dis_rtg-1_EB-25",
+        "landing": "https://www.hotelsonjaumell.com/en/",
+        "aws_path_1": "SON_JAUMELL/2024/11/eb_25/rtg/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsonjaumell.com/en/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "150042",
+            "150043",
+            "150044",
+            "150045",
+            "150046",
+            "150047"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "son-jaumell-us_v1mp_AO_dis_rtg-1_EB-25",
+        "landing": "https://www.hotelsonjaumell.com/en/",
+        "aws_path_1": "SON_JAUMELL/2024/11/eb_25/rtg/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsonjaumell.com/en/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "150048",
+            "150049",
+            "150050",
+            "150051",
+            "150052",
+            "150053"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "son-jaumell-gb_v1mp_AO_dis_prs-1_EB-25",
+        "landing": "https://www.hotelsonjaumell.com/en/",
+        "aws_path_1": "SON_JAUMELL/2024/11/eb_25/prs/en/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsonjaumell.com/en/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "150054",
+            "150055",
+            "150056",
+            "150057",
+            "150058",
+            "150059"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "son-jaumell-gb_v1mp_AO_dis_rtg-1_EB-25",
+        "landing": "https://www.hotelsonjaumell.com/en/",
+        "aws_path_1": "SON_JAUMELL/2024/11/eb_25/rtg/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsonjaumell.com/en/?&utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "150060",
+            "150061",
+            "150062",
+            "150063",
+            "150064",
+            "150065"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

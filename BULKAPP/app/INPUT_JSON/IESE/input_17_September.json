@@ -1,0 +1,29 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "name": "iese-es_v1mp_NEP-PDD-SOUTHEUROPE-CONVERSION-GOOGLE-DEMANDGEN-ONLINE-PAID-24-25_dis_prs-1_RI",
+        "landing": "https://formscloud.iese.edu/landings-open-nacional-entrevista-2/",
+        "aws_path_1": "IESE/2024/09/pdd/",
+        "aws_path_2": "/index.html",
+        "link": "https://formscloud.iese.edu/landings-open-nacional-entrevista-2/?utm_source=google&utm_medium=demandgen&utm_campaign=701Qu00000D9F2G&utm_term=ri",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_IESE%20Business%20School.js?tc=",
+        "tcs": [
+            "144533",
+            "144534",
+            "144535",
+            "144536",
+            "144537",
+            "144538"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

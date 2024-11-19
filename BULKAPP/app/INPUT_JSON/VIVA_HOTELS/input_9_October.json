@@ -1,0 +1,104 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "name": "viva-es_v1mp_AO_dis-p20_prs-1_EB-25",
+        "landing": "https://www.hotelsviva.com/es/",
+        "aws_path_1": "VIVA_HOTELS/2024/10/preroll/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/es/?&utm_source=v1mp&utm_medium=dis-p20-prs-1&utm_campaign=ao&utm_term=es&utm_content=EB-25",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "147072",
+            "147102"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "name": "viva-ch_v1mp_AO_dis-p20_prs-1_EB-25",
+        "landing": "https://www.hotelsviva.com/de/",
+        "aws_path_1": "VIVA_HOTELS/2024/10/preroll/ch/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/?&utm_source=v1mp&utm_medium=dis-p20-prs-1&utm_campaign=ao&utm_term=ch&utm_content=EB-25",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "147077",
+            "147107"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "name": "viva-de_v1mp_AO_dis-p20_prs-1_EB-25",
+        "landing": "https://www.hotelsviva.com/de/",
+        "aws_path_1": "VIVA_HOTELS/2024/10/preroll/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/de/?&utm_source=v1mp&utm_medium=dis-p20-prs-1&utm_campaign=ao&utm_term=de&utm_content=EB-25",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "147082",
+            "147112"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "name": "viva-fr_v1mp_AO_dis-p20_prs-1_EB-25",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/10/preroll/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-p20-prs-1&utm_campaign=ao&utm_term=fr&utm_content=EB-25",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "147087",
+            "147117"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "name": "viva-row_v1mp_AO_dis-p20_rtg-1_EB-25",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/10/preroll/row/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-p20-rtg-1&utm_campaign=ao&utm_term=row&utm_content=EB-25",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "147092",
+            "147122"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "name": "viva-gb_v1mp_AO_dis-p20_prs-1_EB-25",
+        "landing": "https://www.hotelsviva.com/en/",
+        "aws_path_1": "VIVA_HOTELS/2024/10/preroll/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsviva.com/en/?&utm_source=v1mp&utm_medium=dis-p20-prs-1&utm_campaign=ao&utm_term=gb&utm_content=EB-25",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": [
+            "147097",
+            "147127"
+        ]
+    }
+]

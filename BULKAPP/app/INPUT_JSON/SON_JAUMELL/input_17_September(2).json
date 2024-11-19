@@ -1,0 +1,15 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "name": "son-jaumell-es_v1mp_AO_dis_prs-1_ESCAPADAS",
+        "landing": "https://www.hotelsonjaumell.com/es/",
+        "aws_path_1": "SON_JAUMELL/2024/09/escapadas/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.hotelsonjaumell.com/es/?&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Viva%20Hotels.js?tc=",
+        "tcs": ["144713", "144714", "144715", "144716", "144717", "144718"],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

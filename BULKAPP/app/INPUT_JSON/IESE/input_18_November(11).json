@@ -1,0 +1,15 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "300x250", "320x100", "970x250", "160x600"],
+        "name": "iese-lam_v1mp_IEP-GEMBA-LATAM-CONVERSION-DISPLAYRETARGETING-ONLINE-PAID-24-25_dis_rtg-1_OD-NOV",
+        "landing": "https://formscloud.iese.edu/landings-gemba-request-interview/",
+        "aws_path_1": "IESE/2024/11/display_7/",
+        "aws_path_2": "/index.html",
+        "link": "https://formscloud.iese.edu/landings-gemba-request-interview/?utm_source=display&utm_medium=dis-rtg-1&utm_campaign=701Qu00000HKbeQ&utm_term=od-nov",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_IESE%20Business%20School.js?tc=",
+        "tcs": ["151768", "151769", "151770", "151771", "151772"],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

@@ -1,0 +1,118 @@
+[
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "name": "oasis-mx_v1mp_HOT-TRAVEL_dis_prs-1_ESP",
+        "landing": "https://oasishoteles.com/es/ofertas-hoteles-hot-travel",
+        "aws_path_1": "OASIS/2024/10/hot_travel/mx/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/es/ofertas-hoteles-hot-travel?utm_source=adgmedia&utm_medium=display&utm_campaign=hottravel&utm_term=prospecting-oferta-mex&utm_content=corporativo&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "145862",
+            "145863",
+            "145864",
+            "145865",
+            "145866",
+            "145867",
+            "145868",
+            "145869"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "name": "oasis-mx_v1mp_HOT-TRAVEL_dis_rtg-1_ESP",
+        "landing": "https://oasishoteles.com/es/ofertas-hoteles-hot-travel",
+        "aws_path_1": "OASIS/2024/10/hot_travel/mx/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/es/ofertas-hoteles-hot-travel?utm_source=adgmedia&utm_medium=display&utm_campaign=hottravel&utm_term=retargeting-oferta-mex&utm_content=corporativo&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "145870",
+            "145871",
+            "145872",
+            "145873",
+            "145874",
+            "145875",
+            "145876",
+            "145877"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "name": "oasis-us_v1mp_HOT-TRAVEL_dis_prs-1_ING",
+        "landing": "https://oasishoteles.com/en/hotel-offers-hot-travel",
+        "aws_path_1": "OASIS/2024/10/hot_travel/us/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/en/hotel-offers-hot-travel?utm_source=adgmedia&utm_medium=display&utm_campaign=hottravel&utm_term=prospecting-oferta-usa&utm_content=corporativo&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "145878",
+            "145879",
+            "145880",
+            "145881",
+            "145882",
+            "145883",
+            "145884",
+            "145885"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "320x100",
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "320x50",
+            "250x250",
+            "120x600"
+        ],
+        "name": "oasis-us_v1mp_HOT-TRAVEL_dis_rtg-1_ING",
+        "landing": "https://oasishoteles.com/en/hotel-offers-hot-travel",
+        "aws_path_1": "OASIS/2024/10/hot_travel/us/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/en/hotel-offers-hot-travel?utm_source=adgmedia&utm_medium=display&utm_campaign=hottravel&utm_term=retargeting-oferta-usa&utm_content=corporativo&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "145886",
+            "145887",
+            "145888",
+            "145889",
+            "145890",
+            "145891",
+            "145892",
+            "145893"
+        ]
+    }
+]

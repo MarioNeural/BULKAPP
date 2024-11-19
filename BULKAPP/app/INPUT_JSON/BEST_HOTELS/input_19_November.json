@@ -1,0 +1,35 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "name": "best-us_v1mp_SERENADE-USA-CAN_dis-prem_prs-1_SERENADE-BF-24",
+        "landing": "https://www.serenadepuntacana.com/black-friday.html",
+        "aws_path_1": "BEST_HOTELS/2024/11/booking_banner/serenade/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.serenadepuntacana.com/black-friday.html?utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=serenade-usa-can&utm_content=SERENADE-BF-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Best%20Hotels.js?tc=",
+        "tcs": ["151950"]
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "970x250"],
+        "name": "best-us_v1mp_SERENADE-USA-CAN_dis_prs-1_SERENADE-BF-24",
+        "landing": "https://www.serenadepuntacana.com/black-friday.html",
+        "aws_path_1": "BEST_HOTELS/2024/11/standard/serenade/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.serenadepuntacana.com/black-friday.html?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=serenade-usa-can&utm_content=SERENADE-BF-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Best%20Hotels.js?tc=",
+        "tcs": ["151952", "151953", "151954", "151955", "151956"]
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "970x250"],
+        "name": "best-us_v1mp_SERENADE-USA-CAN_dis_prs-1_ALLSUITS-BF-24",
+        "landing": "https://www.serenadeallsuites.com/black-friday.html",
+        "aws_path_1": "BEST_HOTELS/2024/11/standard/allsuits/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.serenadeallsuites.com/black-friday.html?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=serenade-usa-can&utm_content=ALLSUITS-BF-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Best%20Hotels.js?tc=",
+        "tcs": ["151957", "151958", "151959", "151960", "151961"]
+    }
+]

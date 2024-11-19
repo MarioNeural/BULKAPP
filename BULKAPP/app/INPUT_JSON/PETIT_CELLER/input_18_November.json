@@ -1,0 +1,28 @@
+[
+    {
+        "type": "link",
+        "sizes": ["970x250", "300x600", "300x250", "160x600", "320x50", "728x90"],
+        "name": "petit-celler-es_imp_ALWAYS-ON_dis_prs-1_LANSON",
+        "landing": "https://www.petitceller.com/es/vino/lanson",
+        "aws_path_1": "PETIT_CELLER/2024/11/larson/",
+        "aws_path_2": ".jpg",
+        "url": "https://www.petitceller.com/es/vino/lanson?utm_source=programatica&utm_medium=display&utm_campaign=always-on&utm_term=LANSON",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Excelsia.js?tc=",
+        "tcs": ["151437", "151438", "151439", "151440", "151441", "151442"],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "link",
+        "sizes": ["970x250", "300x600", "300x250", "160x600", "320x50", "728x90"],
+        "name": "petit-celler-es_imp_ALWAYS-ON_dis_prs-1_ESPECIAL-BLACKFRIDAY",
+        "landing": "https://www.petitceller.com/es/mas-vendidos",
+        "aws_path_1": "PETIT_CELLER/2024/11/bf/",
+        "aws_path_2": ".jpg",
+        "url": "https://www.petitceller.com/es/mas-vendidos?utm_source=programatica&utm_medium=display&utm_campaign=always-on&utm_term=ESPECIAL-BLACKFRIDAY",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Excelsia.js?tc=",
+        "tcs": ["151443", "151444", "151445", "151446", "151447", "151448"],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

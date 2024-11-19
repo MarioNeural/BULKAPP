@@ -1,0 +1,15 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "728x90", "970x250"],
+        "name": "iese-es_v1mp_NEP-PDD-SOUTHEUROPE-CONVERSION-DISPLAYRETARGETING-ONLINE-PAID-24-25_dis_rtg-1_DB",
+        "landing": "https://formscloud.iese.edu/landings-pdd-reunion/",
+        "aws_path_1": "IESE/2024/11/display_2/",
+        "aws_path_2": "/index.html",
+        "link": "https://formscloud.iese.edu/landings-pdd-reunion/?utm_source=display&utm_medium=rtg&utm_campaign=701Qu00000H8EVU&utm_term=DB",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_IESE%20Business%20School.js?tc=",
+        "tcs": ["150892", "150893", "150894", "150895", "150896", "150897"],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

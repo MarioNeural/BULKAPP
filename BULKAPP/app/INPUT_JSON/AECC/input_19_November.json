@@ -1,0 +1,68 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "name": "aecc-es_v1mp_CARRERA-BCN_dis_prs-1_CARRERA-CAT",
+        "landing": "https://enmarcha.contraelcancer.es/ca/esdeveniment/barcelona-en-marxa-contra-el-cancer-deichmann-kmxtothom",
+        "aws_path_1": "AECC/2024/11/carrera/cat/",
+        "aws_path_2": "/index.html",
+        "link": "https://enmarcha.contraelcancer.es/ca/esdeveniment/barcelona-en-marxa-contra-el-cancer-deichmann-kmxtothom?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=carrera-bcn&utm_content=carrera-cat",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_AECC.js?tc=",
+        "tcs": ["151902", "151903", "151904", "151905", "151906", "151907"]
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "name": "aecc-es_v1mp_CARRERA-BCN_dis_rtg-1_CARRERA-CAT",
+        "landing": "https://enmarcha.contraelcancer.es/ca/esdeveniment/barcelona-en-marxa-contra-el-cancer-deichmann-kmxtothom",
+        "aws_path_1": "AECC/2024/11/carrera/cat/",
+        "aws_path_2": "/index.html",
+        "link": "https://enmarcha.contraelcancer.es/ca/esdeveniment/barcelona-en-marxa-contra-el-cancer-deichmann-kmxtothom?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=carrera-bcn&utm_content=carrera-cat",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_AECC.js?tc=",
+        "tcs": ["151908", "151909", "151910", "151911", "151912", "151913"]
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "name": "aecc-es_v1mp_CARRERA-BCN_dis_prs-1_CARRERA-ES",
+        "landing": "https://enmarcha.contraelcancer.es/es/evento/barcelona-en-marxa-contra-el-cancer-deichmann-kmxtothom",
+        "aws_path_1": "AECC/2024/11/carrera/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://enmarcha.contraelcancer.es/es/evento/barcelona-en-marxa-contra-el-cancer-deichmann-kmxtothom?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=carrera-bcn&utm_content=carrera-es",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_AECC.js?tc=",
+        "tcs": ["151914", "151915", "151916", "151917", "151918", "151919"]
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250", "728x90", "320x100", "300x600", "300x250", "160x600"],
+        "name": "aecc-es_v1mp_CARRERA-BCN_dis_rtg-1_CARRERA-ES",
+        "landing": "https://enmarcha.contraelcancer.es/es/evento/barcelona-en-marxa-contra-el-cancer-deichmann-kmxtothom",
+        "aws_path_1": "AECC/2024/11/carrera/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://enmarcha.contraelcancer.es/es/evento/barcelona-en-marxa-contra-el-cancer-deichmann-kmxtothom?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=carrera-bcn&utm_content=carrera-es",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_AECC.js?tc=",
+        "tcs": ["151920", "151921", "151922", "151923", "151924", "151925"]
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "name": "aecc-es_v1mp_CARRERA-BCN_dis_prs-1_COUNTDOWN-CAT",
+        "landing": "https://enmarcha.contraelcancer.es/ca/esdeveniment/barcelona-en-marxa-contra-el-cancer-deichmann-kmxtothom",
+        "aws_path_1": "AECC/2024/11/countdown/",
+        "aws_path_2": ".html",
+        "link": "https://enmarcha.contraelcancer.es/ca/esdeveniment/barcelona-en-marxa-contra-el-cancer-deichmann-kmxtothom?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=carrera-bcn&utm_content=countdown-cat",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_AECC.js?tc=",
+        "tcs": ["151926"]
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "name": "aecc-es_v1mp_CARRERA-BCN_dis_prs-1_COUNTDOWN-ES",
+        "landing": "https://enmarcha.contraelcancer.es/es/evento/barcelona-en-marxa-contra-el-cancer-deichmann-kmxtothom",
+        "aws_path_1": "AECC/2024/11/countdown_es/",
+        "aws_path_2": ".html",
+        "link": "https://enmarcha.contraelcancer.es/es/evento/barcelona-en-marxa-contra-el-cancer-deichmann-kmxtothom?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=carrera-bcn&utm_content=countdown-es",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_AECC.js?tc=",
+        "tcs": ["151927"]
+    }
+]

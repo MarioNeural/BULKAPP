@@ -1,0 +1,302 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "name": "insotel-de_v1mp_AO_dis_prs-1_EARLYBOOKING",
+        "landing": "https://www.insotelhotelgroup.com/de",
+        "aws_path_1": "INSOTEL/2024/10/early_booking/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/de?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=de",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc=",
+        "tcs": [
+            "148149",
+            "148150",
+            "148151",
+            "148152",
+            "148153",
+            "148154"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "name": "insotel-de_v1mp_AO_dis_rtg-1_EARLYBOOKING",
+        "landing": "https://www.insotelhotelgroup.com/de",
+        "aws_path_1": "INSOTEL/2024/10/early_booking/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/de?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=de",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc=",
+        "tcs": [
+            "148155",
+            "148156",
+            "148157",
+            "148158",
+            "148159",
+            "148160"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "name": "insotel-es_v1mp_AO_dis_prs-1_EARLYBOOKING",
+        "landing": "https://www.insotelhotelgroup.com/",
+        "aws_path_1": "INSOTEL/2024/10/early_booking/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=es",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc=",
+        "tcs": [
+            "148161",
+            "148162",
+            "148163",
+            "148164",
+            "148165",
+            "148166"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "name": "insotel-es_v1mp_AO_dis_rtg-1_EARLYBOOKING",
+        "landing": "https://www.insotelhotelgroup.com/",
+        "aws_path_1": "INSOTEL/2024/10/early_booking/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=es",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc=",
+        "tcs": [
+            "148167",
+            "148168",
+            "148169",
+            "148170",
+            "148171",
+            "148172"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "name": "insotel-gb_v1mp_AO_dis_prs-1_EARLYBOOKING",
+        "landing": "https://www.insotelhotelgroup.com/en",
+        "aws_path_1": "INSOTEL/2024/10/early_booking/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/en?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=gb",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc=",
+        "tcs": [
+            "148173",
+            "148174",
+            "148175",
+            "148176",
+            "148177",
+            "148178"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "name": "insotel-gb_v1mp_AO_dis_rtg-1_EARLYBOOKING",
+        "landing": "https://www.insotelhotelgroup.com/en",
+        "aws_path_1": "INSOTEL/2024/10/early_booking/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/en?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=gb",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc=",
+        "tcs": [
+            "148179",
+            "148180",
+            "148181",
+            "148182",
+            "148183",
+            "148184"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "name": "insotel-row_v1mp_AO_dis_prs-1_EARLYBOOKING",
+        "landing": "https://www.insotelhotelgroup.com/en",
+        "aws_path_1": "INSOTEL/2024/10/early_booking/row/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/en?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=row",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc=",
+        "tcs": [
+            "148185",
+            "148186",
+            "148187",
+            "148188",
+            "148189",
+            "148190"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "name": "insotel-row_v1mp_AO_dis_rtg-1_EARLYBOOKING",
+        "landing": "https://www.insotelhotelgroup.com/en",
+        "aws_path_1": "INSOTEL/2024/10/early_booking/row/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/en?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=row",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc=",
+        "tcs": [
+            "148191",
+            "148192",
+            "148193",
+            "148194",
+            "148195",
+            "148196"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "name": "insotel-pt_v1mp_AO_dis_prs-1_EARLYBOOKING",
+        "landing": "https://www.insotelhotelgroup.com/en",
+        "aws_path_1": "INSOTEL/2024/10/early_booking/pt/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/en?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=pt",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc=",
+        "tcs": [
+            "148197",
+            "148198",
+            "148199",
+            "148200",
+            "148201",
+            "148202"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "name": "insotel-pt_v1mp_AO_dis_rtg-1_EARLYBOOKING",
+        "landing": "https://www.insotelhotelgroup.com/en",
+        "aws_path_1": "INSOTEL/2024/10/early_booking/pt/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/en?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=pt",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc=",
+        "tcs": [
+            "148203",
+            "148204",
+            "148205",
+            "148206",
+            "148207",
+            "148208"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "name": "insotel-it_v1mp_AO_dis_prs-1_EARLYBOOKING",
+        "landing": "https://www.insotelhotelgroup.com/it",
+        "aws_path_1": "INSOTEL/2024/10/early_booking/it/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/it?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=it",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc=",
+        "tcs": [
+            "148209",
+            "148210",
+            "148211",
+            "148212",
+            "148213",
+            "148214"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "name": "insotel-it_v1mp_AO_dis_rtg-1_EARLYBOOKING",
+        "landing": "https://www.insotelhotelgroup.com/it",
+        "aws_path_1": "INSOTEL/2024/10/early_booking/it/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/it?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=it",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc=",
+        "tcs": [
+            "148215",
+            "148216",
+            "148217",
+            "148218",
+            "148219",
+            "148220"
+        ]
+    }
+]

@@ -30,7 +30,6 @@ class IMG_aws_TAG_Bulk:
             print(error)
             return
         # print(self._ALL_LIST)
-        print('Hola Mario')
 
         self.DSPs = {
             "TTD": ["TTD", "TTD_ESC"],
@@ -169,6 +168,17 @@ class IMG_aws_TAG_Bulk:
                             if item["impression_tag"]:
 
                                 view = item.get("impression_tag")
+                                
+                                obj["tag"] += view
+
+                        except Exception as error:
+                            return error
+                        
+                    if item.get("impression_tag_2"):
+                        try:
+                            if item["impression_tag_2"]:
+
+                                view = item.get("impression_tag_2")
                                 
                                 obj["tag"] += view
 

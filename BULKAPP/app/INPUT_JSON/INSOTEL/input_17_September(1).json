@@ -1,0 +1,77 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "name": "insotel-es_v1mp_RES-FORMENTERA_dis_prs-1_GEN",
+        "landing": "https://www.insotelhotelgroup.com/hoteles/formentera/insotel-hotel-formentera-playa",
+        "aws_path_1": "INSOTEL/2024/09/res/formentera/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/hoteles/formentera/insotel-hotel-formentera-playa?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=RESIDENTES&utm_term=ESP",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc=",
+        "tcs": [
+            "144589",
+            "144590",
+            "144591",
+            "144592",
+            "144593",
+            "144594"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "name": "insotel-es_v1mp_RES-CALA-MANDIA_dis_prs-1_GEN",
+        "landing": "https://www.insotelhotelgroup.com/hoteles/mallorca/insotel-cala-mandia-resort-spa",
+        "aws_path_1": "INSOTEL/2024/09/res/mandia/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/hoteles/mallorca/insotel-cala-mandia-resort-spa?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=RESIDENTES&utm_term=ESP",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc=",
+        "tcs": [
+            "144595",
+            "144596",
+            "144597",
+            "144598",
+            "144599",
+            "144600"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "name": "insotel-es_v1mp_RES-MARYLAND_dis_prs-1_GEN",
+        "landing": "https://www.insotelhotelgroup.com/hoteles/formentera/insotel-club-maryland",
+        "aws_path_1": "INSOTEL/2024/09/res/maryland/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.insotelhotelgroup.com/hoteles/formentera/insotel-club-maryland?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=RESIDENTES&utm_term=ESP",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Insotel%20Hotel%20group.js?tc=",
+        "tcs": [
+            "144601",
+            "144602",
+            "144603",
+            "144604",
+            "144605",
+            "144606"
+        ]
+    }
+]

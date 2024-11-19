@@ -1,0 +1,15 @@
+[
+    {
+        "type": "link",
+        "sizes": ["970x250", "300x600", "300x250", "160x600", "320x50", "728x90"],
+        "name": "petit-celler-es_imp_ALWAYS-ON_dis_prs-1_ESPUMOSOS-BLACKFRIDAY",
+        "landing": "https://www.petitceller.com/es/vino/espumosos",
+        "aws_path_1": "PETIT_CELLER/2024/11/espumosos/",
+        "aws_path_2": ".jpg",
+        "url": "https://www.petitceller.com/es/vino/espumosos?utm_source=programatica&utm_medium=display&utm_campaign=always-on&utm_term=ESPUMOSOS-BLACKFRIDAY",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Excelsia.js?tc=",
+        "tcs": ["150941", "150942", "150943", "150944", "150945", "150946"],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

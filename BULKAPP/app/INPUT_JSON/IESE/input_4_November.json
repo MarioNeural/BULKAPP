@@ -1,0 +1,57 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "name": "iese-dach_v1mp_MUC-EMBA-DACH-AWARENESS-DISPLAYPREMIUM-ONLINE-PAID-24-25_dis_prs-1_FLIPCARD-DB",
+        "landing": "https://formscloud.iese.edu/landings-emba-munich-a/",
+        "aws_path_1": "IESE/2024/10/3dcard_4/",
+        "aws_path_2": "/index.html",
+        "link": "https://formscloud.iese.edu/landings-emba-munich-a/?utm_source=display&utm_medium=premium&utm_campaign=701Qu00000H6ozR&utm_content=flipcard-db",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_IESE%20Business%20School.js?tc=",
+        "tcs": ["149709"]
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "name": "iese-dach_v1mp_MUC-EMBA-DACH-AWARENESS-DISPLAYPREMIUM-ONLINE-PAID-24-25_dis_prs-1_FLIPCARD-RI",
+        "landing": "https://formscloud.iese.edu/landings-emba-munich-advising/",
+        "aws_path_1": "IESE/2024/10/3dcard_4/",
+        "aws_path_2": "/index.html",
+        "link": "https://formscloud.iese.edu/landings-emba-munich-advising/?utm_source=display&utm_medium=premium&utm_campaign=701Qu00000H6ozR&utm_content=flipcard-ri",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_IESE%20Business%20School.js?tc=",
+        "tcs": ["149710"]
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "970x250"],
+        "name": "iese-dach_v1mp_MUC-EMBA-DACH-CONVERSION-DISPLAYRETARGETING-ONLINE-PAID-24-25_dis_rtg-1_DB",
+        "landing": "https://formscloud.iese.edu/landings-emba-munich-a/",
+        "aws_path_1": "IESE/2024/11/display/",
+        "aws_path_2": "/index.html",
+        "link": "https://formscloud.iese.edu/landings-emba-munich-a/?utm_source=display&utm_medium=dis-rtg&utm_campaign=701Qu00000H77Sg&utm_content=DB",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_IESE%20Business%20School.js?tc=",
+        "tcs": ["149711", "149712", "149713", "149714", "149715"]
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "970x250"],
+        "name": "iese-dach_v1mp_MUC-EMBA-DACH-CONVERSION-DISPLAYRETARGETING-ONLINE-PAID-24-25_dis_rtg-1_RI",
+        "landing": "https://formscloud.iese.edu/landings-emba-munich-advising/",
+        "aws_path_1": "IESE/2024/11/display/",
+        "aws_path_2": "/index.html",
+        "link": "https://formscloud.iese.edu/landings-emba-munich-advising/?utm_source=display&utm_medium=dis-rtg&utm_campaign=701Qu00000H77Sg&utm_content=RI",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_IESE%20Business%20School.js?tc=",
+        "tcs": ["149716", "149717", "149718", "149719", "149720"]
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "970x250"],
+        "name": "iese-dach_v1mp_MUC-EMBA-DACH-CONVERSION-DISPLAYRETARGETING-ONLINE-PAID-24-25_dis_rtg-1_OD",
+        "landing": "https://apply.iese.edu/emba-muc-online-november-2024/",
+        "aws_path_1": "IESE/2024/11/display/",
+        "aws_path_2": "/index.html",
+        "link": "https://apply.iese.edu/emba-muc-online-november-2024/?utm_source=display&utm_medium=dis-rtg&utm_campaign=701Qu00000H77Sg&utm_content=OD",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_IESE%20Business%20School.js?tc=",
+        "tcs": ["149721", "149722", "149723", "149724", "149725"]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x600", "300x250", "320x100", "970x250"],
+        "name": "clinicas-ddl-es_adg_MADRID_dis-dco_rtg-1_DCO",
+        "landing": "https://www.clinicasdiegodeleon.com/",
+        "aws_path_1": "DIEGODELEON/2024/04/dco/",
+        "aws_path_2": ".html",
+        "link": "https://www.clinicasdiegodeleon.com/?utm_source=adg&utm_medium=dis-dco-rtg-1&utm_campaign=madrid&utm_term=DCO",
+        "tcs": []
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "name": "clinicas-ddl-es_adg_MADRID-MAYO_dis_prs-1_3DTP",
+        "landing": "https://www.clinicasdiegodeleon.com/ofertas/operacion-tipazo-360/?utm_source=adg&utm_medium=adg-brand&utm_campaign=tipazo-360",
+        "aws_path_1": "DIEGODELEON/2024/05/3dcard_tp/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.clinicasdiegodeleon.com/ofertas/operacion-tipazo-360/?utm_source=adg&utm_medium=adg-brand&utm_campaign=tipazo-360?",
+        "tcs": []
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "name": "clinicas-ddl-es_adg_MADRID-MAYO_dis_prs-1_3DRMDLC",
+        "landing": "https://www.clinicasdiegodeleon.com/ofertas/operacion-tipazo-360/?utm_source=adg&utm_medium=adg-brand&utm_campaign=tipazo-360",
+        "aws_path_1": "DIEGODELEON/2024/05/3dcard_rmdlc/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.clinicasdiegodeleon.com/ofertas/operacion-tipazo-360/?utm_source=adg&utm_medium=adg-brand&utm_campaign=tipazo-360?",
+        "tcs": []
+    }
+]

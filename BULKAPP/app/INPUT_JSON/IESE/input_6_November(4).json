@@ -1,0 +1,54 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "name": "iese-es_v1mp_DEG-MIM-ES_AWARENESS_DISPLAYPREMIUM_ONLINE_PAID_24-25_dis-prem_prs-1_DB-NOV",
+        "landing": "https://formscloud.iese.edu/landings-mim/",
+        "aws_path_1": "IESE/2024/11/3dcard/",
+        "aws_path_2": "/index.html",
+        "link": "https://formscloud.iese.edu/landings-mim/?utm_source=display&utm_medium=premium&utm_campaign=701Qu00000HBVd8&utm_term=DB-NOV-PRS",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_IESE%20Business%20School.js?tc=",
+        "tcs": ["149862"],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "name": "iese-es_v1mp_DEG-MIM-ES_AWARENESS_DISPLAYPREMIUM_ONLINE_PAID_24-25_dis-prem_prs-1_RI-NOV",
+        "landing": "https://prdt.iese.edu/eng/madrid/mim/master-management/commercial/requestinterview",
+        "aws_path_1": "IESE/2024/11/3dcard/",
+        "aws_path_2": "/index.html",
+        "link": "https://prdt.iese.edu/eng/madrid/mim/master-management/commercial/requestinterview?utm_source=display&utm_medium=premium&utm_campaign=701Qu00000HBVd8&utm_term=RI-NOV-PRS",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_IESE%20Business%20School.js?tc=",
+        "tcs": ["149863"],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "name": "iese-es_v1mp_DEG-MIM-ES_AWARENESS_DISPLAYPREMIUM_ONLINE_PAID_24-25_dis-prem_rtg-1_DB-NOV",
+        "landing": "https://formscloud.iese.edu/landings-mim/",
+        "aws_path_1": "IESE/2024/11/3dcard/",
+        "aws_path_2": "/index.html",
+        "link": "https://formscloud.iese.edu/landings-mim/?utm_source=display&utm_medium=premium&utm_campaign=701Qu00000HBVd8&utm_term=DB-NOV-RTG",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_IESE%20Business%20School.js?tc=",
+        "tcs": ["149864"],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "name": "iese-es_v1mp_DEG-MIM-ES_AWARENESS_DISPLAYPREMIUM_ONLINE_PAID_24-25_dis-prem_rtg-1_RI-NOV",
+        "landing": "https://prdt.iese.edu/eng/madrid/mim/master-management/commercial/requestinterview",
+        "aws_path_1": "IESE/2024/11/3dcard/",
+        "aws_path_2": "/index.html",
+        "link": "https://prdt.iese.edu/eng/madrid/mim/master-management/commercial/requestinterview?utm_source=display&utm_medium=premium&utm_campaign=701Qu00000HBVd8&utm_term=RI-NOV-RTG",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_IESE%20Business%20School.js?tc=",
+        "tcs": ["149865"],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "name": "best-gb_v1mp_AO-UK-IR_dis_prs-1_COSTA-SOL-OCT24",
+        "landing": "https://www.besthotels.es/costa-del-sol.html",
+        "aws_path_1": "BEST_HOTELS/2024/10/uk_ir/costa/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.besthotels.es/costa-del-sol.html?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-uk-ir&utm_term=costa-dorada",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Best%20Hotels.js?tc=",
+        "tcs": [
+            "147624",
+            "147625",
+            "147626",
+            "147627",
+            "147628",
+            "147629"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "name": "best-gb_v1mp_AO-UK-IR_dis_prs-1_TENERIFE-OCT24",
+        "landing": "https://www.besthotels.es/tenerife.html",
+        "aws_path_1": "BEST_HOTELS/2024/10/uk_ir/tenerife/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.besthotels.es/tenerife.html?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-uk-ir&utm_term=costa-dorada",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Best%20Hotels.js?tc=",
+        "tcs": [
+            "147630",
+            "147631",
+            "147632",
+            "147633",
+            "147634",
+            "147635"
+        ]
+    }
+]

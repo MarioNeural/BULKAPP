@@ -1,0 +1,12 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "300x250", "320x100", "970x250", "728x90", "160x600"],
+        "name": "eurofitness-es_imp_AO_dis_prs-1_NOVIEMBRE",
+        "landing": "https://eurofitness.com/",
+        "aws_path_1": "EUROFITNESS/2024/11/display/",
+        "aws_path_2": "/index.html",
+        "link": "https://eurofitness.com/?utm_source=imp&utm_medium=dis-prs-1&utm_campaign=ao",
+        "tcs": []
+    }
+]

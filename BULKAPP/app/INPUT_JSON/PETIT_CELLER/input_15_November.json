@@ -1,0 +1,15 @@
+[
+    {
+        "type": "link",
+        "sizes": ["970x250", "300x600", "300x250", "160x600", "320x50"],
+        "name": "petit-celler-es_imp_ALWAYS-ON_dis_prs-1_VIERNES-NEGRO",
+        "landing": "https://www.petitceller.com/es/ofertas/vinos-black-friday",
+        "aws_path_1": "PETIT_CELLER/2024/11/viernes_negro/",
+        "aws_path_2": ".jpg",
+        "url": "https://www.petitceller.com/es/ofertas/vinos-black-friday?utm_source=programatica&utm_medium=display&utm_campaign=always-on&utm_term=VIERNES-NEGRO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Excelsia.js?tc=",
+        "tcs": ["150929", "150930", "150931", "150932", "150933"],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

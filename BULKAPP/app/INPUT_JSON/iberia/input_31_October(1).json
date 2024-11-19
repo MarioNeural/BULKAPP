@@ -1,0 +1,13 @@
+[
+    {
+        "type": "link",
+        "sizes": ["970x250", "728x90", "320x100", "300x250", "160x600"],
+        "name": "iberia-express-es_imp_AO-RESERVAS-CAN_dis_prs-1_DIMECOMOVUELAS",
+        "landing": "https://www.iberiaexpress.com/",
+        "aws_path_1": "iberia/2024/10/dimecomovuelas/",
+        "aws_path_2": ".jpg",
+        "url": "https://www.iberiaexpress.com/?utm_source=imp&utm_medium=dis-prs-1&utm_campaign=ao-reservas-can&utm_content=DIMECOMOVUELAS",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Iberia%20Express.js?tc=",
+        "tcs": ["149566", "149567", "149568", "149569", "149570"]
+    }
+]

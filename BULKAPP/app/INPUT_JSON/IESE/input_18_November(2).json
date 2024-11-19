@@ -1,0 +1,28 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "300x250", "320x100", "970x250", "160x600", "728x90"],
+        "name": "iese-roeu_v1mp_IEP-AMP-ROE-CONVERSION-DISPLAYRETARGETING-ONLINE-PAID-24-25_dis_prs-1_DB-NOV",
+        "landing": "https://formscloud.iese.edu/landings-amp-barcelona/",
+        "aws_path_1": "IESE/2024/11/display_3/",
+        "aws_path_2": "/index.html",
+        "link": "https://formscloud.iese.edu/landings-amp-barcelona/?utm_source=display&utm_medium=dis-rtg&utm_campaign=701Qu00000HKT0s&utm_term=db-nov",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_IESE%20Business%20School.js?tc=",
+        "tcs": ["151349", "151350", "151351", "151352", "151353", "151354"],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "300x250", "320x100", "970x250", "160x600", "728x90"],
+        "name": "iese-roeu_v1mp_IEP-AMP-ROE-CONVERSION-DISPLAYRETARGETING-ONLINE-PAID-24-25_dis_prs-1_RI-NOV",
+        "landing": "https://formscloud.iese.edu/landings-amp-barcelona-advising/",
+        "aws_path_1": "IESE/2024/11/display_3/",
+        "aws_path_2": "/index.html",
+        "link": "https://formscloud.iese.edu/landings-amp-barcelona-advising/?utm_source=display&utm_medium=dis-rtg&utm_campaign=701Qu00000HKT0s&utm_term=ri-nov",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_IESE%20Business%20School.js?tc=",
+        "tcs": ["151355", "151356", "151357", "151358", "151359", "151360"],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

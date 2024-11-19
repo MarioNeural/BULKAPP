@@ -1,0 +1,24 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "300x250", "320x100", "970x250", "728x90", "160x600"],
+        "name": "poseidon-es_v1mp_AO_dis_prs-1_HALLOWEEN",
+        "landing": "https://hotelesposeidon.com/evento-halloween-2024",
+        "aws_path_1": "HOTELES_POSEIDON/2024/09/halloween/",
+        "aws_path_2": "/index.html",
+        "link": "https://hotelesposeidon.com/evento-halloween-2024?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=halloween",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hoteles%20Poseidon.js?tc=",
+        "tcs": ["145486", "145487", "145488", "145489", "145490", "145491"]
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "300x250", "320x100", "970x250", "728x90", "160x600"],
+        "name": "poseidon-es_v1mp_AO_dis_rtg-1_HALLOWEEN",
+        "landing": "https://hotelesposeidon.com/evento-halloween-2024",
+        "aws_path_1": "HOTELES_POSEIDON/2024/09/halloween/",
+        "aws_path_2": "/index.html",
+        "link": "https://hotelesposeidon.com/evento-halloween-2024?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=halloween",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hoteles%20Poseidon.js?tc=",
+        "tcs": ["145492", "145493", "145494", "145495", "145496", "145497"]
+    }
+]

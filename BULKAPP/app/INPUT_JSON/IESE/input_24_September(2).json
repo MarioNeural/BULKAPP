@@ -1,0 +1,41 @@
+[
+    {
+        "type": "link",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "728x90", "970x250"],
+        "name": "iese-es_v1mp_NEP-PDD-SOUTHEUROPE-CONVERSION-GOOGLE-DEMANDGEN-ONLINE-PAID-24-25_dis_prs-1_RI-V2-1",
+        "landing": "https://formscloud.iese.edu/landings-open-nacional-entrevista-2/",
+        "aws_path_1": "IESE/2024/09/nep/v1/",
+        "aws_path_2": ".png",
+        "url": "https://formscloud.iese.edu/landings-open-nacional-entrevista-2/?utm_source=google&utm_medium=demandgen&utm_campaign=701Qu00000D9F2G&utm_term=ri-v2-1",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_IESE%20Business%20School.js?tc=",
+        "tcs": ["145064", "145065", "145066", "145067", "145068", "145069"],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "link",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "728x90", "970x250"],
+        "name": "iese-es_v1mp_NEP-PDD-SOUTHEUROPE-CONVERSION-GOOGLE-DEMANDGEN-ONLINE-PAID-24-25_dis_prs-1_RI-V2-2",
+        "landing": "https://formscloud.iese.edu/landings-open-nacional-entrevista-2/",
+        "aws_path_1": "IESE/2024/09/nep/v2/",
+        "aws_path_2": ".png",
+        "url": "https://formscloud.iese.edu/landings-open-nacional-entrevista-2/?utm_source=google&utm_medium=demandgen&utm_campaign=701Qu00000D9F2G&utm_term=ri-v2-2",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_IESE%20Business%20School.js?tc=",
+        "tcs": ["145070", "145071", "145072", "145073", "145074", "145075"],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "link",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "728x90", "970x250"],
+        "name": "iese-es_v1mp_NEP-PDD-SOUTHEUROPE-CONVERSION-GOOGLE-DEMANDGEN-ONLINE-PAID-24-25_dis_prs-1_RI-V2-3",
+        "landing": "https://formscloud.iese.edu/landings-open-nacional-entrevista-2/",
+        "aws_path_1": "IESE/2024/09/nep/v3/",
+        "aws_path_2": ".png",
+        "url": "https://formscloud.iese.edu/landings-open-nacional-entrevista-2/?utm_source=google&utm_medium=demandgen&utm_campaign=701Qu00000D9F2G&utm_term=ri-v2-3",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_IESE%20Business%20School.js?tc=",
+        "tcs": ["145076", "145077", "145078", "145079", "145080", "145081"],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

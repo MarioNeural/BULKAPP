@@ -1,0 +1,30 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "name": "solvia-es_adg_PROSPECTING_dis-prem_prs-1_DCO-PREMIUM",
+        "landing": "https://www.solvia.es/es/comprar/viviendas?utm_campaign=viviendas_prospecting_conversion&utm_source=adgravity&utm_medium=programmatic&utm_content=rtg_standard_970x250_dco-traccion&utm_term=na&utm_id=dck%7C11653913%7C31242051%7C8419980%7C409067094%7C226242330&n_o_aut_tc=409067094&dclid=CKOtofCa6IkDFf1D9ggdzRw9IA",
+        "aws_path_1": "SOLVIA/2024/11/dco/",
+        "aws_path_2": ".html",
+        "link": "https://www.solvia.es/es/comprar/viviendas?utm_campaign=viviendas_prospecting_conversion&utm_source=adgravity&utm_medium=programmatic&utm_content=rtg_standard_970x250_dco-traccion&utm_term=na&utm_id=dck%7C11653913%7C31242051%7C8419980%7C409067094%7C226242330&n_o_aut_tc=409067094&dclid=CKOtofCa6IkDFf1D9ggdzRw9IA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Solvia.js?tc=",
+        "tcs": [
+            "151942"
+        ],
+        "impression_tag": "<IMG SRC='https://ad.doubleclick.net/ddm/trackimp/N1658534.3195207ADGRAVITY/B31242051.409067094;dc_trk_aid=600865158;dc_trk_cid=226242330;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc BORDER='0' HEIGHT='1' WIDTH='1' ALT='Advertisement'>"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["970x250"],
+        "name": "solvia-es_adg_PROSPECTING_dis-prem_prs-1_DCO-PREMIUM",
+        "landing": "https://www.solvia.es/es/comprar/viviendas?utm_campaign=viviendas_prospecting_conversion&utm_source=adgravity&utm_medium=programmatic&utm_content=rtg_standard_970x250_dco-traccion&utm_term=na&utm_id=dck%7C11653913%7C31242051%7C8419980%7C409067337%7C226242330&n_o_aut_tc=409067337&dclid=CKOtofCa6IkDFf1D9ggdzRw9IA",
+        "aws_path_1": "SOLVIA/2024/11/dco/",
+        "aws_path_2": ".html",
+        "link": "https://www.solvia.es/es/comprar/viviendas?utm_campaign=viviendas_prospecting_conversion&utm_source=adgravity&utm_medium=programmatic&utm_content=rtg_standard_970x250_dco-traccion&utm_term=na&utm_id=dck%7C11653913%7C31242051%7C8419980%7C409067337%7C226242330&n_o_aut_tc=409067337&dclid=CKOtofCa6IkDFf1D9ggdzRw9IA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Solvia.js?tc=",
+        "tcs": [
+            "151943"
+        ],
+        "impression_tag": "<IMG SRC='https://ad.doubleclick.net/ddm/trackimp/N1658534.3195207ADGRAVITY/B31242051.409067337;dc_trk_aid=600794578;dc_trk_cid=226242330;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc BORDER='0' HEIGHT='1' WIDTH='1' ALT='Advertisement'>"
+    }
+]

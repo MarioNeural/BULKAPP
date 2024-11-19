@@ -1,0 +1,52 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "plan-internacional-es_adg_COLE_dis_prs-1_GENERICO",
+        "landing": "https://apoya.plan-international.es/extraescolar-para-otros?utm_source=adgravity&utm_medium=display&utm_content=prs",
+        "aws_path_1": "PLAN_INTERNACIONAL/2024/09/dona/",
+        "aws_path_2": "/index.html",
+        "link": "https://apoya.plan-international.es/extraescolar-para-otros?utm_source=adgravity&utm_medium=display&utm_content=prs",
+        "viewability": "",
+        "tcs": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "plan-internacional-es_adg_COLE_dis_rtg-1_GENERICO",
+        "landing": "https://proyectos.plan-international.es/extraescolar-para-otro?utm_source=adgravity&utm_medium=display&utm_content=rtg",
+        "aws_path_1": "PLAN_INTERNACIONAL/2024/09/dona/",
+        "aws_path_2": "/index.html",
+        "link": "https://proyectos.plan-international.es/extraescolar-para-otro?utm_source=adgravity&utm_medium=display&utm_content=rtg",
+        "viewability": "",
+        "tcs": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    }
+]

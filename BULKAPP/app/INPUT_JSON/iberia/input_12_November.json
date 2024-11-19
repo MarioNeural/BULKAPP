@@ -1,0 +1,13 @@
+[
+    {
+        "type": "link",
+        "sizes": ["300x600", "320x100", "160x600", "970x250", "300x250", "728x90", "320x50", "120x600"],
+        "name": "iberia-express-es_imp_AO-LEADS_dis_prs-1_PRE-BLACK-FRIDAY",
+        "landing": "https://club.iberiaexpress.com/clubExpress/",
+        "aws_path_1": "iberia/2024/11/pre_black_friday/",
+        "aws_path_2": ".gif",
+        "url": "https://club.iberiaexpress.com/clubExpress/?utm_source=imp&utm_medium=dis-prs-1&utm_campaign=ao-leads&utm_content=pre-black-friday",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Iberia%20Express.js?tc=",
+        "tcs": ["150488", "150489", "150490", "150491", "150492", "150493", "150494", "150495"]
+    }
+]

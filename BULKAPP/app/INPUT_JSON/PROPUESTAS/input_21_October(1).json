@@ -1,0 +1,24 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "name": "capsa-es_imp_OCTUBRE_dis-3d_prs-1_GEN_V1",
+        "landing": "https://ad.doubleclick.net/ddm/trackclk/N522604.3870325ADIMPULSION/B32622146.405576172;dc_trk_aid=597691722;dc_trk_cid=105577966;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+        "aws_path_1": "PROPUESTAS/2024/ASTURIANA/3dcard/",
+        "aws_path_2": "/index.html",
+        "link": "https://ad.doubleclick.net/ddm/trackclk/N522604.3870325ADIMPULSION/B32622146.405576172;dc_trk_aid=597691722;dc_trk_cid=105577966;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+        "tcs": [],
+        "impression_tag":"<SCRIPT language='JavaScript1.1' SRC='https://ad.doubleclick.net/ddm/trackimpj/N522604.3870325ADIMPULSION/B32622146.405576172;dc_trk_aid=597691722;dc_trk_cid=105577966;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></SCRIPT>"
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "name": "capsa-es_imp_OCTUBRE_dis-3d_prs-1_GEN_V2",
+        "landing": "https://ad.doubleclick.net/ddm/trackclk/N522604.3870325ADIMPULSION/B32622146.405576172;dc_trk_aid=597691722;dc_trk_cid=105577966;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+        "aws_path_1": "PROPUESTAS/2024/ASTURIANA/3dcard_2/",
+        "aws_path_2": "/index.html",
+        "link": "https://ad.doubleclick.net/ddm/trackclk/N522604.3870325ADIMPULSION/B32622146.405576172;dc_trk_aid=597691722;dc_trk_cid=105577966;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+        "tcs": [],
+        "impression_tag":"<SCRIPT language='JavaScript1.1' SRC='https://ad.doubleclick.net/ddm/trackimpj/N522604.3870325ADIMPULSION/B32622146.405576172;dc_trk_aid=597691722;dc_trk_cid=105577966;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></SCRIPT>"
+    }
+]

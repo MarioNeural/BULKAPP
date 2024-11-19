@@ -1,0 +1,53 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "160x600",
+            "970x250"
+        ],
+        "name": "fp-maragall-es_adg_MINI-BRAINS_dis_prs-1_AWARENES",
+        "landing": "https://colabora.fpmaragall.org/minibrainsrtg",
+        "aws_path_1": "FP_MARAGALL/2024/10/awareness/",
+        "aws_path_2": "/index.html",
+        "link": "https://colabora.fpmaragall.org/minibrainsrtg?utm_source=display&utm_medium=banner&utm_campaign=mini-brains&utm_term=ES&utm_content=AWARENES",
+        "tcs": []
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "160x600",
+            "970x250"
+        ],
+        "name": "fp-maragall-es_adg_MINI-BRAINS_dis_prs-1_CONSIDERACION",
+        "landing": "https://colabora.fpmaragall.org/minibrainsrtg",
+        "aws_path_1": "FP_MARAGALL/2024/10/consideracion/",
+        "aws_path_2": "/index.html",
+        "link": "https://colabora.fpmaragall.org/minibrainsrtg?utm_source=display&utm_medium=banner&utm_campaign=mini-brains&utm_term=ES&utm_content=CONSIDERACION",
+        "tcs": []
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "160x600",
+            "970x250"
+        ],
+        "name": "fp-maragall-es_adg_MINI-BRAINS_dis_prs-1_CONVERSION",
+        "landing": "https://colabora.fpmaragall.org/minibrainsrtg",
+        "aws_path_1": "FP_MARAGALL/2024/10/conversion/",
+        "aws_path_2": "/index.html",
+        "link": "https://colabora.fpmaragall.org/minibrainsrtg?utm_source=display&utm_medium=banner&utm_campaign=mini-brains&utm_term=ES&utm_content=CONVERSION",
+        "tcs": []
+    }
+]

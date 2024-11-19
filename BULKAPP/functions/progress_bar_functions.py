@@ -1,42 +1,35 @@
 import tkinter as tk
-import os
-from tkinter import ttk
 
 class ProgressBarHandler:
-    def __init__(self, app, progress_bar):
+    def __init__(self, app, canvas, square_size=30):
         self.app = app
-        self.progress_bar = progress_bar
-        self.script_running = False
+        self.canvas = canvas
+        self.square_size = square_size
+        self.position = 0
+        self.square = self.canvas.create_rectangle(0, 0, square_size, canvas.winfo_height(), fill="green")
+        self.running = False
+        self.canvas.grid_remove()  # Oculta el canvas inicialmente
 
-    def get_file_size(self):
-        filepath = 'app/INPUT_JSON/input.json' 
-        if os.path.isfile(filepath):
-            return os.path.getsize(filepath)
-        else:
-            return 0
+    def start(self):
+        self.running = True
+        self.canvas.grid()  # Muestra el canvas
+        self.move_square()
 
-    def update_progress_bar(self):
-        if not self.script_running:
-            return 
+    def stop(self):
+        self.running = False
+        self.canvas.grid_remove()  # Oculta el canvas cuando se detiene
 
-        file_size = self.get_file_size()
-        if file_size == 0:
+    def move_square(self):
+        if not self.running:
             return
+        
+        # Mueve el cuadrado de izquierda a derecha y lo reinicia cuando sale del canvas
+        self.position += 5
+        if self.position > self.canvas.winfo_width():
+            self.position = -self.square_size  # Reinicia la posición al salir del canvas
 
-        interval = max(file_size / 50, 20) 
-
-        if self.progress_bar['value'] < 99:
-            new_value = self.progress_bar['value'] + 1
-            self.progress_bar['value'] = new_value
-            self.app.after(int(interval), self.update_progress_bar)
-        else:
-            self.stop_progress_bar()
-
-    def start_progress_bar(self):
-        self.script_running = True
-        self.progress_bar['value'] = 0
-        self.update_progress_bar()
-
-    def stop_progress_bar(self):
-        self.script_running = False
-        self.progress_bar['value'] = 100
+        # Actualiza la posición del cuadrado
+        self.canvas.coords(self.square, self.position, 0, self.position + self.square_size, self.canvas.winfo_height())
+        
+        # Llama a esta función de nuevo después de un breve retraso para crear el efecto de animación
+        self.app.after(30, self.move_square)

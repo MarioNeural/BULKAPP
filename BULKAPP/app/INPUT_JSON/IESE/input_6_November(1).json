@@ -1,0 +1,110 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "320x100",
+            "970x250",
+            "160x600",
+            "728x90"
+        ],
+        "name": "iese-roeu_v1mp_DEG-MIM-ROE_CONVERSION_DISPLAYRETARGETING_ONLINE_PAID_24-25_dis_rtg-1_DB-NOV",
+        "landing": "https://formscloud.iese.edu/landings-mim/",
+        "aws_path_1": "IESE/2024/11/conversion/",
+        "aws_path_2": "/index.html",
+        "link": "https://formscloud.iese.edu/landings-mim/?utm_source=display&utm_medium=dis-rtg&utm_campaign=701Qu00000HBVLL&utm_term=DB-NOV",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_IESE%20Business%20School.js?tc=",
+        "tcs": [
+            "149837",
+            "149838",
+            "149839",
+            "149840",
+            "149841",
+            "149842"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "320x100",
+            "970x250",
+            "160x600",
+            "728x90"
+        ],
+        "name": "iese-roeu_v1mp_DEG-MIM-ROE_CONVERSION_DISPLAYRETARGETING_ONLINE_PAID_24-25_dis_rtg-1_RI-NOV",
+        "landing": "https://prdt.iese.edu/eng/madrid/mim/master-management/commercial/requestinterview",
+        "aws_path_1": "IESE/2024/11/conversion/",
+        "aws_path_2": "/index.html",
+        "link": "https://prdt.iese.edu/eng/madrid/mim/master-management/commercial/requestinterview?utm_source=display&utm_medium=dis-rtg&utm_campaign=701Qu00000HBVLL&utm_term=RI-NOV",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_IESE%20Business%20School.js?tc=",
+        "tcs": [
+            "149843",
+            "149844",
+            "149845",
+            "149846",
+            "149847",
+            "149848"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "320x100",
+            "970x250",
+            "160x600",
+            "728x90"
+        ],
+        "name": "iese-roeu_v1mp_DEG-MIM-ROE_CONVERSION_DISPLAYRETARGETING_ONLINE_PAID_24-25_dis_rtg-1_OD-NOV",
+        "landing": "https://apply.iese.edu/mim-case-discussion/",
+        "aws_path_1": "IESE/2024/11/conversion/",
+        "aws_path_2": "/index.html",
+        "link": "https://apply.iese.edu/mim-case-discussion/?utm_source=display&utm_medium=dis-rtg&utm_campaign=701Qu00000HBVLL&utm_term=OD-NOV",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_IESE%20Business%20School.js?tc=",
+        "tcs": [
+            "149849",
+            "149850",
+            "149851",
+            "149852",
+            "149853",
+            "149854"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "320x100",
+            "970x250",
+            "160x600",
+            "728x90"
+        ],
+        "name": "iese-roeu_v1mp_DEG-MIM-ROE_CONVERSION_DISPLAYRETARGETING_ONLINE_PAID_24-25_dis_rtg-1_ER-NOV",
+        "landing": "https://formscloud.iese.edu/landings-mim-employment/",
+        "aws_path_1": "IESE/2024/11/conversion/",
+        "aws_path_2": "/index.html",
+        "link": "https://formscloud.iese.edu/landings-mim-employment/?utm_source=display&utm_medium=dis-rtg&utm_campaign=701Qu00000HBVLL&utm_term=ER-NOV",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_IESE%20Business%20School.js?tc=",
+        "tcs": [
+            "149855",
+            "149856",
+            "149857",
+            "149858",
+            "149859",
+            "149860"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

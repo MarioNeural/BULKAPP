@@ -1,0 +1,13 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "name": "best-es_v1mp_AO-ES_dis-prem_prs-1_HALLOWEEN-24",
+        "landing": "https://www.besthotels.es/halloween-en-best-hotels.html",
+        "aws_path_1": "BEST_HOTELS/2024/09/carrusel/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.besthotels.es/halloween-en-best-hotels.html?utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=ao-es&utm_content=HALLOWEEN-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Best%20Hotels.js?tc=",
+        "tcs": ["145848", "145849"]
+    }
+]

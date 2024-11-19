@@ -1,0 +1,163 @@
+[
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "250x250"
+        ],
+        "name": "oasis-mx_v1mp_BUEN-FIN_dis_prs-1_CORP",
+        "landing": "https://oasishoteles.com/es/ofertas-hoteles-buen-fin",
+        "aws_path_1": "OASIS/2024/11/buen_fin/corp/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/es/ofertas-hoteles-buen-fin?utm_source=adgmedia&utm_medium=display&utm_campaign=buenfin&utm_term=prospecting-oferta-mex&utm_content=corporativo&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "150825",
+            "150826",
+            "150827",
+            "150828",
+            "150830"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "250x250"
+        ],
+        "name": "oasis-mx_v1mp_BUEN-FIN_dis_rtg-1_TPC",
+        "landing": "https://oasishoteles.com/es/ofertas-hoteles-buen-fin",
+        "aws_path_1": "OASIS/2024/11/buen_fin/tpc/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/es/ofertas-hoteles-buen-fin?utm_source=adgmedia&utm_medium=display&utm_campaign=buenfin&utm_term=retargeting-oferta-mex&utm_content=the-pyramid-cancun&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "150833",
+            "150834",
+            "150835",
+            "150836",
+            "150838"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "250x250"
+        ],
+        "name": "oasis-mx_v1mp_BUEN-FIN_dis_rtg-1_GOC",
+        "landing": "https://oasishoteles.com/es/ofertas-hoteles-buen-fin",
+        "aws_path_1": "OASIS/2024/11/buen_fin/goc/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/es/ofertas-hoteles-buen-fin?utm_source=adgmedia&utm_medium=display&utm_campaign=buenfin&utm_term=retargeting-oferta-mex&utm_content=grand-oasis-cancun&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "150841",
+            "150842",
+            "150843",
+            "150844",
+            "150846"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "250x250"
+        ],
+        "name": "oasis-mx_v1mp_BUEN-FIN_dis_rtg-1_TSC",
+        "landing": "https://oasishoteles.com/es/ofertas-hoteles-buen-fin",
+        "aws_path_1": "OASIS/2024/11/buen_fin/tsc/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/es/ofertas-hoteles-buen-fin?utm_source=adgmedia&utm_medium=display&utm_campaign=buenfin&utm_term=retargeting-oferta-mex&utm_content=the-sens-cancun&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "150849",
+            "150850",
+            "150851",
+            "150852",
+            "150854"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "250x250"
+        ],
+        "name": "oasis-mx_v1mp_BUEN-FIN_dis_rtg-1_GOP",
+        "landing": "https://oasishoteles.com/es/ofertas-hoteles-buen-fin",
+        "aws_path_1": "OASIS/2024/11/buen_fin/gop/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/es/ofertas-hoteles-buen-fin?utm_source=adgmedia&utm_medium=display&utm_campaign=buenfin&utm_term=retargeting-oferta-mex&utm_content=grand-oasis-palm&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "150857",
+            "150858",
+            "150859",
+            "150860",
+            "150862"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "250x250"
+        ],
+        "name": "oasis-mx_v1mp_BUEN-FIN_dis_rtg-1_TSTR",
+        "landing": "https://oasishoteles.com/es/ofertas-hoteles-buen-fin",
+        "aws_path_1": "OASIS/2024/11/buen_fin/tstr/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/es/ofertas-hoteles-buen-fin?utm_source=adgmedia&utm_medium=display&utm_campaign=buenfin&utm_term=retargeting-oferta-mex&utm_content=the-sens-tulum-riviera&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "150865",
+            "150866",
+            "150867",
+            "150868",
+            "150870"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "250x250"
+        ],
+        "name": "oasis-mx_v1mp_BUEN-FIN_dis_rtg-1_GOTR",
+        "landing": "https://oasishoteles.com/es/ofertas-hoteles-buen-fin",
+        "aws_path_1": "OASIS/2024/11/buen_fin/gotr/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/es/ofertas-hoteles-buen-fin?utm_source=adgmedia&utm_medium=display&utm_campaign=buenfin&utm_term=retargeting-oferta-mex&utm_content=grand-oasis-tulum-riviera&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "150873",
+            "150874",
+            "150875",
+            "150876",
+            "150878"
+        ]
+    }
+]

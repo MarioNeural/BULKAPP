@@ -1,0 +1,13 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "320x100", "970x250", "160x600", "728x90"],
+        "name": "campus-tr-es_imp_AO_dis-dco_rtg-1_DCO",
+        "landing": "https://cemp.es/",
+        "aws_path_1": "CEMP/2024/11/dco/",
+        "aws_path_2": ".html",
+        "link": "https://cemp.es/?utm_source=impulsion&utm_medium=display&utm_campaign=dcotc_alt=149679",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_CEMP.js?tc=",
+        "tcs": ["149679", "149680", "149681", "149682", "149683", "149684"]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "320x100", "728x90", "970x250"],
+        "name": "medicos-dm-es_v1mp_ALWAYS-ON_dis_prs-1_DANA-VALENCIA",
+        "landing": "https://www.medicosdelmundo.org/donacion-ong/campana/emergencia-dana-valencia/",
+        "aws_path_1": "medicos_mundo/2024/11/dana/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.medicosdelmundo.org/donacion-ong/campana/emergencia-dana-valencia/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=always-on&utm_term=dana-valencia",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Medicos%20del%20Mundo.js?tc=",
+        "tcs": ["150010", "150011", "150012", "150013"],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "320x100", "728x90", "970x250"],
+        "name": "medicos-dm-es_v1mp_ALWAYS-ON_dis_rtg-1_DANA-VALENCIA",
+        "landing": "https://www.medicosdelmundo.org/donacion-ong/campana/emergencia-dana-valencia/",
+        "aws_path_1": "medicos_mundo/2024/11/dana/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.medicosdelmundo.org/donacion-ong/campana/emergencia-dana-valencia/?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=always-on&utm_term=dana-valencia",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Medicos%20del%20Mundo.js?tc=",
+        "tcs": ["150014", "150015", "150016", "150017"],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

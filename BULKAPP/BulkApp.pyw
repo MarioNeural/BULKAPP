@@ -196,6 +196,9 @@ def save_json(json_data):
             f.write(json_output)
 
     except Exception as e:
+        root = tk.Tk()
+        root.withdraw()
+        root.attributes('-topmost', True)
         messagebox.showerror("Error", f"Error al guardar los datos: {e}")
 
 
@@ -293,7 +296,7 @@ def execute_auto_aws(aws_path):
     try:
         result = subprocess.run(["python", script_path, base_url, path], capture_output=True, text=True)
         if result.returncode == 0:
-            messagebox.showinfo("Éxito", "Script ejecutado correctamente")
+            show_temp_message("Éxito", "El script se ha ejecutado correctamente", duration=2000)
         else:
             messagebox.showerror("Error", f"Error al ejecutar el script: {result.stderr}")
     except Exception as e:
@@ -306,20 +309,31 @@ def apply_to_all(json_data, aws_path_1_entry, aws_path_2_combobox, custom_entry,
     custom_entry_value = custom_entry.get()
     aws_auto_value = aws_auto_entry.get()
 
-    for obj in json_data:
-        obj['aws_path_1'] = aws_path_1_entry_value.replace("s3://adgravity/", "")
+    progress_bar_handler.start()
+    app.update()
 
-        if aws_path_2_combobox_value == "Custom":
-            obj['aws_path_2'] = custom_entry_value
-        else:
-            obj['aws_path_2'] = aws_path_2_combobox_value
+    def run_apply():
+        try:
+            for obj in json_data:
+                obj['aws_path_1'] = aws_path_1_entry_value.replace("s3://adgravity/", "")
 
-    save_json(json_data)
-    messagebox.showinfo("Completo", "Todos los objetos procesados y aplicados.")
-    toggle_frame(output_text)
+                if aws_path_2_combobox_value == "Custom":
+                    obj['aws_path_2'] = custom_entry_value
+                else:
+                    obj['aws_path_2'] = aws_path_2_combobox_value
 
-    if aws_auto_value:
-        execute_auto_aws(aws_auto_value)
+            save_json(json_data)
+
+            if aws_auto_value:
+                execute_auto_aws(aws_auto_value)
+
+        except Exception as e:
+            messagebox.showerror("Error", f"Error al aplicar a todos: {e}")
+        finally:
+            progress_bar_handler.stop()
+            toggle_frame(output_text)
+
+    threading.Thread(target=run_apply).start()
 
 
 def process_current_object(json_data, index, aws_path_1_entry, aws_path_2_combobox, custom_entry):
@@ -348,7 +362,7 @@ def process_current_object(json_data, index, aws_path_1_entry, aws_path_2_combob
         show_object_window(json_data, next_index)  
     else:
         save_json(json_data) 
-        messagebox.showinfo("Completo", "Todos los objetos procesados.")
+        show_temp_message("Completo", "Todos los objetos procesados.", duration=2000)
         toggle_frame(output_text)
 
 
@@ -424,7 +438,6 @@ def ejecutar_script(script_name):
         result = subprocess.run(["python", script_path], capture_output=True, text=True)
         output_text.insert(tk.END, result.stdout)
         output_text.see(tk.END)
-        # timer_updater.set_last_execution_time(time.time())
     except Exception as e:
         messagebox.showerror("Error", f"Error al ejecutar {script_name}: {e}")
 
@@ -436,8 +449,10 @@ script_completed = False
 
 def ejecutar_img_aws_bulk_thread():
     global csv_generated, iframe_detected, last_execution_time, script_running
+    
 
     try:
+        toggle_frame(output_text)
         script_path = os.path.join("app", "__IMG_aws_Bulk_v08.pyw")
         process = subprocess.Popen(["pythonw", script_path], stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True, universal_newlines=True)
 
@@ -458,20 +473,14 @@ def ejecutar_img_aws_bulk_thread():
         process.stdout.close()
         process.stderr.close()
 
-        # timer_updater.set_last_execution_time(time.time())
-
     except Exception as e:
         messagebox.showerror("Error", f"Error al ejecutar el script: {e}")
     finally:
         script_running = False
-        progress_bar['value'] = 100 
-
-        app.after(1000, lambda: progress_bar.grid_forget())
-        app.after(1000, lambda: progress_bar.grid_forget())
-
-        if not script_running:
-            csv_generated = True 
-            generar_csv_btn.config(state=tk.NORMAL)
+        csv_generated = True 
+        generar_csv_btn.config(state=tk.NORMAL)
+        open_test_html()
+        progress_bar_handler.stop()  
 
 def confirmacion_ejecucion():
     def on_si():
@@ -504,11 +513,8 @@ def confirmacion_ejecucion():
 def iniciar_ejecucion_bulk():
     global script_running
     script_running = True
-    progress_bar_handler.start_progress_bar()
-    progress_bar.grid(row=3, column=0, columnspan=7, pady=10)
-    progress_bar['mode'] = 'determinate'
-    progress_bar['value'] = 0
-
+    progress_bar_handler.start()  # Inicia la animación del cuadrado
+    
     thread = threading.Thread(target=ejecutar_img_aws_bulk_thread)
     thread.start()
 
@@ -588,19 +594,28 @@ def generar_csv():
 
 
 def execute_main_script(data):
-    try:
-        script_path = os.path.join(FOLDER_PATH, "TC_GEN", "tc_gen.py")
-        process = subprocess.Popen(["python", script_path], stdin=subprocess.PIPE, text=True)
-        stdout, stderr = process.communicate(input=data)
-        
-        if process.returncode != 0:
-            raise Exception(stderr.strip() if stderr else 'Script failed without an error message.')
-        else:
-            messagebox.showinfo("Éxito", "El script se ejecutó correctamente.")
-    except Exception as e:
-        messagebox.showerror("Error", f"Error al ejecutar el script: {e}")
-    finally:
-        toggle_frame(output_text)
+    def run_script():
+        try:
+            script_path = os.path.join(FOLDER_PATH, "TC_GEN", "tc_gen.py")
+            process = subprocess.Popen(["python", script_path], stdin=subprocess.PIPE, text=True)
+            stdout, stderr = process.communicate(input=data)
+            
+            if process.returncode != 0:
+                raise Exception(stderr.strip() if stderr else 'Script failed without an error message.')
+            else:
+                show_temp_message("Éxito", "El script se ejecutó correctamente")  # Mostrar mensaje temporal
+        except Exception as e:
+            messagebox.showerror("Error", f"Error al ejecutar el script: {e}")
+        finally:
+            progress_bar_handler.stop()  # Detiene la animación
+            toggle_frame(output_text)
+
+    # Inicia la animación y ejecuta el script en un hilo
+    progress_bar_handler.start()
+    app.update()  # Asegura que la animación aparezca inmediatamente
+    threading.Thread(target=run_script).start()
+
+
 
 
 def show_create_tcs_window():
@@ -644,26 +659,55 @@ def show_aws_popup():
     btn_continue.pack(padx=10, pady=10)
 
 def execute_script(aws_path, popup):
-    parts = aws_path.split('/', 3) 
-    if len(parts) < 4:
-        messagebox.showerror("Error", "La ruta de AWS debe ser completa, incluyendo bucket y path.")
-        return
+    def run_script():
+        try:
+            parts = aws_path.split('/', 3) 
+            if len(parts) < 4:
+                messagebox.showerror("Error", "La ruta de AWS debe ser completa, incluyendo bucket y path.")
+                return
 
-    base_url = f"s3://{parts[2]}"
-    path = parts[3]
+            base_url = f"s3://{parts[2]}"
+            path = parts[3]
 
-    script_path = os.path.join("app", "AWS_AUTO", "aws_auto.py")
-    
-    try:
-        result = subprocess.run(["python", script_path, base_url, path], capture_output=True, text=True)
-        if result.returncode == 0:
-            messagebox.showinfo("Éxito", "Script ejecutado correctamente")
-        else:
-            messagebox.showerror("Error", "Error al ejecutar el script")
-    except Exception as e:
-        messagebox.showerror("Error", str(e))
-    finally:
-        popup.destroy()
+            script_path = os.path.join("app", "AWS_AUTO", "aws_auto.py")
+            result = subprocess.run(["python", script_path, base_url, path], capture_output=True, text=True)
+            
+            if result.returncode == 0:
+                show_temp_message("Éxito", "Script ejecutado correctamente")  # Mostrar mensaje temporal
+            else:
+                messagebox.showerror("Error", f"Error al ejecutar el script: {result.stderr}")
+        except Exception as e:
+            messagebox.showerror("Error", str(e))
+        finally:
+            progress_bar_handler.stop()  # Detiene la animación
+            popup.destroy()
+
+    # Inicia la animación y ejecuta el script en un hilo
+    progress_bar_handler.start()
+    app.update()  # Asegura que la animación aparezca inmediatamente
+    threading.Thread(target=run_script).start()
+
+
+
+def show_temp_message(title, message, duration=2000):
+    popup = tk.Toplevel(app)
+    popup.title(title)
+    popup.configure(bg=DARK_GREEN)
+
+    # Configurar el tamaño y posición
+    window_width = 300
+    window_height = 100
+    pos_x = app.winfo_x() + (app.winfo_width() // 2) - (window_width // 2)
+    pos_y = app.winfo_y() + (app.winfo_height() // 2) - (window_height // 2)
+    popup.geometry(f"{window_width}x{window_height}+{pos_x}+{pos_y}")
+
+    # Contenido del mensaje
+    label = tk.Label(popup, text=message, bg=DARK_GREEN, fg=TEXT_BLACK)
+    label.pack(pady=20)
+
+    # Cierra automáticamente después de `duration` milisegundos
+    popup.after(duration, popup.destroy)
+
 
 
 btn_show_input = tk.Button(frame, text="Introduce datos", command=show_input_window, bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)
@@ -676,8 +720,10 @@ input_frame = tk.Frame(app, bg=DARK_GREEN)
 create_tcs_frame = tk.Frame(app, bg=DARK_GREEN)
 object_frame = tk.Frame(app, bg=DARK_GREEN) 
 
-progress_bar = ttk.Progressbar(frame, orient="horizontal", mode="indeterminate", length=150)
-progress_bar_handler = ProgressBarHandler(app, progress_bar)
+progress_canvas = tk.Canvas(frame, width=150, height=20, bg='white')
+progress_canvas.grid(row=3, column=0, columnspan=7, pady=10)
+
+progress_bar_handler = ProgressBarHandler(app, progress_canvas)
 
 output_text = tk.Text(frame, wrap=tk.WORD, bg=LIGHT_GREEN, fg=TEXT_BLACK, width=70)
 output_text.grid(row=4, column=0, columnspan=4, pady=5, padx=10)

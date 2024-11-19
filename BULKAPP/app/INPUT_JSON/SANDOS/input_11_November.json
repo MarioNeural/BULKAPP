@@ -1,0 +1,326 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "320x100",
+            "300x250",
+            "970x250",
+            "300x600",
+            "160x600",
+            "728x90"
+        ],
+        "name": "sandos-mx_v1mp_ALWAYS-ON_dis_prs-1_BLACK-FRIDAY-GENERICO",
+        "landing": "https://www.sandos.com/es/black-friday",
+        "aws_path_1": "SANDOS/2024/11/black_friday/generico/mx/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.sandos.com/es/black-friday?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=always-on&utm_term=BLACK-FRIDAY-GENERICO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Sandos.js?tc=",
+        "tcs": [
+            "150354",
+            "150355",
+            "150356",
+            "150357",
+            "150358",
+            "150359"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "320x100",
+            "300x250",
+            "970x250",
+            "300x600",
+            "160x600",
+            "728x90"
+        ],
+        "name": "sandos-mx_v1mp_ALWAYS-ON_dis_rtg-1_BLACK-FRIDAY-CANCUN",
+        "landing": "https://www.sandos.com/es/black-friday",
+        "aws_path_1": "SANDOS/2024/11/black_friday/cancun/mx/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.sandos.com/es/black-friday?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=always-on&utm_term=BLACK-FRIDAY-CANCUN",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Sandos.js?tc=",
+        "tcs": [
+            "150360",
+            "150361",
+            "150362",
+            "150363",
+            "150364",
+            "150365"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "320x100",
+            "300x250",
+            "970x250",
+            "300x600",
+            "160x600",
+            "728x90"
+        ],
+        "name": "sandos-mx_v1mp_ALWAYS-ON_dis_rtg-1_BLACK-FRIDAY-CARACOL",
+        "landing": "https://www.sandos.com/es/black-friday",
+        "aws_path_1": "SANDOS/2024/11/black_friday/caracol/mx/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.sandos.com/es/black-friday?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=always-on&utm_term=BLACK-FRIDAY-CARACOL",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Sandos.js?tc=",
+        "tcs": [
+            "150366",
+            "150367",
+            "150368",
+            "150369",
+            "150370",
+            "150371"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "320x100",
+            "300x250",
+            "970x250",
+            "300x600",
+            "160x600",
+            "728x90"
+        ],
+        "name": "sandos-mx_v1mp_ALWAYS-ON_dis_rtg-1_BLACK-FRIDAY-FINISTERRA",
+        "landing": "https://www.sandos.com/es/black-friday",
+        "aws_path_1": "SANDOS/2024/11/black_friday/finisterra/mx/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.sandos.com/es/black-friday?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=always-on&utm_term=BLACK-FRIDAY-FINISTERRA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Sandos.js?tc=",
+        "tcs": [
+            "150372",
+            "150373",
+            "150374",
+            "150375",
+            "150376",
+            "150377"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "320x100",
+            "300x250",
+            "970x250",
+            "300x600",
+            "160x600",
+            "728x90"
+        ],
+        "name": "sandos-mx_v1mp_ALWAYS-ON_dis_rtg-1_BLACK-FRIDAY-PLAYACAR",
+        "landing": "https://www.sandos.com/es/black-friday",
+        "aws_path_1": "SANDOS/2024/11/black_friday/playacar/mx/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.sandos.com/es/black-friday?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=always-on&utm_term=BLACK-FRIDAY-PLAYACAR",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Sandos.js?tc=",
+        "tcs": [
+            "150378",
+            "150379",
+            "150380",
+            "150381",
+            "150382",
+            "150383"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "320x100",
+            "300x250",
+            "970x250",
+            "300x600",
+            "160x600",
+            "728x90"
+        ],
+        "name": "sandos-mx_v1mp_ALWAYS-ON_dis_rtg-1_BLACK-FRIDAY-GENERICO",
+        "landing": "https://www.sandos.com/es/black-friday",
+        "aws_path_1": "SANDOS/2024/11/black_friday/generico/mx/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.sandos.com/es/black-friday?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=always-on&utm_term=BLACK-FRIDAY-GENERICO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Sandos.js?tc=",
+        "tcs": [
+            "150384",
+            "150385",
+            "150386",
+            "150387",
+            "150388",
+            "150389"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "320x100",
+            "300x250",
+            "970x250",
+            "300x600",
+            "160x600",
+            "728x90"
+        ],
+        "name": "sandos-us_v1mp_ALWAYS-ON_dis_prs-1_BLACK-FRIDAY-GENERICO",
+        "landing": "https://www.sandos.com/black-friday",
+        "aws_path_1": "SANDOS/2024/11/black_friday/generico/us/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.sandos.com/black-friday?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=always-on&utm_term=BLACK-FRIDAY-GENERICO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Sandos.js?tc=",
+        "tcs": [
+            "150390",
+            "150391",
+            "150392",
+            "150393",
+            "150394",
+            "150395"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "320x100",
+            "300x250",
+            "970x250",
+            "300x600",
+            "160x600",
+            "728x90"
+        ],
+        "name": "sandos-us_v1mp_ALWAYS-ON_dis_rtg-1_BLACK-FRIDAY-CANCUN",
+        "landing": "https://www.sandos.com/black-friday",
+        "aws_path_1": "SANDOS/2024/11/black_friday/cancun/us/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.sandos.com/black-friday?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=always-on&utm_term=BLACK-FRIDAY-CANCUN",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Sandos.js?tc=",
+        "tcs": [
+            "150396",
+            "150397",
+            "150398",
+            "150399",
+            "150400",
+            "150401"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "320x100",
+            "300x250",
+            "970x250",
+            "300x600",
+            "160x600",
+            "728x90"
+        ],
+        "name": "sandos-us_v1mp_ALWAYS-ON_dis_rtg-1_BLACK-FRIDAY-CARACOL",
+        "landing": "https://www.sandos.com/black-friday",
+        "aws_path_1": "SANDOS/2024/11/black_friday/caracol/us/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.sandos.com/black-friday?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=always-on&utm_term=BLACK-FRIDAY-CARACOL",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Sandos.js?tc=",
+        "tcs": [
+            "150402",
+            "150403",
+            "150404",
+            "150405",
+            "150406",
+            "150407"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "320x100",
+            "300x250",
+            "970x250",
+            "300x600",
+            "160x600",
+            "728x90"
+        ],
+        "name": "sandos-us_v1mp_ALWAYS-ON_dis_rtg-1_BLACK-FRIDAY-FINISTERRA",
+        "landing": "https://www.sandos.com/black-friday",
+        "aws_path_1": "SANDOS/2024/11/black_friday/finisterra/us/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.sandos.com/black-friday?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=always-on&utm_term=BLACK-FRIDAY-FINISTERRA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Sandos.js?tc=",
+        "tcs": [
+            "150408",
+            "150409",
+            "150410",
+            "150411",
+            "150412",
+            "150413"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "320x100",
+            "300x250",
+            "970x250",
+            "300x600",
+            "160x600",
+            "728x90"
+        ],
+        "name": "sandos-us_v1mp_ALWAYS-ON_dis_rtg-1_BLACK-FRIDAY-PLAYACAR",
+        "landing": "https://www.sandos.com/black-friday",
+        "aws_path_1": "SANDOS/2024/11/black_friday/playacar/us/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.sandos.com/black-friday?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=always-on&utm_term=BLACK-FRIDAY-PLAYACAR",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Sandos.js?tc=",
+        "tcs": [
+            "150414",
+            "150415",
+            "150416",
+            "150417",
+            "150418",
+            "150419"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "320x100",
+            "300x250",
+            "970x250",
+            "300x600",
+            "160x600",
+            "728x90"
+        ],
+        "name": "sandos-us_v1mp_ALWAYS-ON_dis_rtg-1_BLACK-FRIDAY-GENERICO",
+        "landing": "https://www.sandos.com/es/black-friday",
+        "aws_path_1": "SANDOS/2024/11/black_friday/generico/us/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.sandos.com/es/black-friday?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=always-on&utm_term=BLACK-FRIDAY-GENERICO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Sandos.js?tc=",
+        "tcs": [
+            "150420",
+            "150421",
+            "150422",
+            "150423",
+            "150424",
+            "150425"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

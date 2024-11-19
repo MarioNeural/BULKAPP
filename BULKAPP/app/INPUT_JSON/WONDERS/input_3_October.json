@@ -1,0 +1,13 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "970x250", "728x90", "320x100"],
+        "name": "wonders-es_v1mp_NUEVA-COLECCION_dis_rtg-1_FINAL-TEMPORADA",
+        "landing": "https://wonders.com/ES/es/outlet-final-temporada",
+        "aws_path_1": "WONDERS/2024/09/fin_temporada/",
+        "aws_path_2": "/index.html",
+        "link": "https://wonders.com/ES/es/outlet-final-temporada?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=nueva-coleccion&utm_content=FINAL-TEMPORADA",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Wonders.js?tc=",
+        "tcs": ["145968", "145969", "145970", "145971", "145972", "145973"]
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "manos-unidas-es_v1mp_RETO-SOLIDARIO_dis_prs-1_LIBANO",
+        "landing": "https://colabora.manosunidas.org/75/Reto-Libano",
+        "aws_path_1": "manos_unidas/2024/10/display_libano/",
+        "aws_path_2": "/index.html",
+        "link": "https://colabora.manosunidas.org/75/Reto-Libano?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=reto-solidario&utm_term=LIBANO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Manos%20Unidas.js?tc=",
+        "tcs": [
+            "148459",
+            "148460",
+            "148461",
+            "148462",
+            "148463",
+            "148464"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "manos-unidas-es_v1mp_RETO-SOLIDARIO_dis_rtg-1_LIBANO",
+        "landing": "https://colabora.manosunidas.org/75/Reto-Libano",
+        "aws_path_1": "manos_unidas/2024/10/display_libano/",
+        "aws_path_2": "/index.html",
+        "link": "https://colabora.manosunidas.org/75/Reto-Libano?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=reto-solidario&utm_term=LIBANO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Manos%20Unidas.js?tc=",
+        "tcs": [
+            "148465",
+            "148466",
+            "148467",
+            "148468",
+            "148469",
+            "148470"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

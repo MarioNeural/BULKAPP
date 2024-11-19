@@ -1,0 +1,35 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "320x100", "970x250", "160x600"],
+        "name": "flexicar-es_v1mp_AO_dis-dco_rtg-1_GENERICO",
+        "landing": "https://www.flexicar.es?utm_source=neural&utm_medium=retargeting&utm_campaign=adg-retargeting",
+        "aws_path_1": "FLEXICAR/2024/10/dco/",
+        "aws_path_2": ".html",
+        "link": "https://www.flexicar.es?utm_source=neural&utm_medium=retargeting&utm_campaign=adg-retargeting",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Flexicar.js?tc=",
+        "tcs": ["147152", "147153", "147154", "147155", "147156"]
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "320x100", "970x250", "160x600"],
+        "name": "flexicar-es_v1mp_AO_dis_prs-1_V1",
+        "landing": "https://www.flexicar.es?utm_source=neural&utm_medium=display&utm_campaign=display-prospecting",
+        "aws_path_1": "FLEXICAR/2024/10/standard/v1/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.flexicar.es?utm_source=neural&utm_medium=display&utm_campaign=display-prospecting",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Flexicar.js?tc=",
+        "tcs": ["147157", "147158", "147159", "147160", "147161"]
+    },
+    {
+        "type": "iframe",
+        "sizes": ["300x250", "300x600", "320x100", "970x250", "160x600"],
+        "name": "flexicar-es_v1mp_AO_dis_prs-1_V2",
+        "landing": "https://www.flexicar.es?utm_source=neural&utm_medium=display&utm_campaign=display-prospecting",
+        "aws_path_1": "FLEXICAR/2024/10/standard/v2/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.flexicar.es?utm_source=neural&utm_medium=display&utm_campaign=display-prospecting",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Flexicar.js?tc=",
+        "tcs": ["147162", "147163", "147164", "147165", "147166"]
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "970x250"],
+        "name": "campus-tr-es_imp_AO_dis-carrusel_prs-1_CURSO-CARRUSEL",
+        "landing": "https://masters.cemp.es/",
+        "aws_path_1": "CEMP/2024/10/carroussel/",
+        "aws_path_2": "/index.html",
+        "link": "https://masters.cemp.es/",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_CEMP.js?tc=",
+        "tcs": ["145960", "145961"]
+
+    }
+]

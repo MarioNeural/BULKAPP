@@ -1,0 +1,13 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600", "160x600", "300x250", "320x100", "728x90", "970x250"],
+        "name": "ok-mobility-es_v1mp_AO_dis-dco_rtg-1_DCO",
+        "landing": "https://okmobility.com/es/rent/",
+        "aws_path_1": "FLEXICAR/2024/10/dco/",
+        "aws_path_2": ".html",
+        "link": "",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_okmobility-es_np_",
+        "tcs": ["125887", "126590", "126591", "126592", "126593", "126594"]
+    }
+]

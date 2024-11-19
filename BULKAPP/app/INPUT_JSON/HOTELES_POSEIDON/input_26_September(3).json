@@ -1,0 +1,56 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "name": "poseidon-es_v1mp_AO_dis_prs-1_FIESTA-FAMILIA",
+        "landing": "https://hotelesposeidon.com/evento-fiesta-familia-guardamar",
+        "aws_path_1": "HOTELES_POSEIDON/2024/09/fiesta_familia/",
+        "aws_path_2": "/index.html",
+        "link": "https://hotelesposeidon.com/evento-fiesta-familia-guardamar?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_term=fiesta-familia",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hoteles%20Poseidon.js?tc=",
+        "tcs": [
+            "145503",
+            "145504",
+            "145505",
+            "145506",
+            "145507",
+            "145508"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "320x100",
+            "970x250",
+            "728x90",
+            "160x600"
+        ],
+        "name": "poseidon-es_v1mp_AO_dis_rtg-1_FIESTA-FAMILIA",
+        "landing": "https://hotelesposeidon.com/evento-fiesta-familia-guardamar",
+        "aws_path_1": "HOTELES_POSEIDON/2024/09/fiesta_familia/",
+        "aws_path_2": "/index.html",
+        "link": "https://hotelesposeidon.com/evento-fiesta-familia-guardamar?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao&utm_term=fiesta-familia",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hoteles%20Poseidon.js?tc=",
+        "tcs": [
+            "145509",
+            "145510",
+            "145511",
+            "145512",
+            "145513",
+            "145514"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "970x250"
+        ],
+        "name": "why-tenerife-mx__OCT-24_dis-p20_prs-1_GENERICO",
+        "landing": "https://www.whytenerife.com/",
+        "aws_path_1": "WHY_TENERIFE/2024/10/preroll/prs/mx/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.whytenerife.com/?&utm_medium=dis-p20-prs-1&utm_campaign=oct-24&utm_term=generico",
+        "tcs": [],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "970x250"
+        ],
+        "name": "why-tenerife-mx__OCT-24_dis-p20_rtg-1_GENERICO",
+        "landing": "https://www.whytenerife.com/",
+        "aws_path_1": "WHY_TENERIFE/2024/10/preroll/rtg/mx/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.whytenerife.com/?&utm_medium=dis-p20-rtg-1&utm_campaign=oct-24&utm_term=generico",
+        "tcs": [],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "970x250"
+        ],
+        "name": "why-tenerife-co__OCT-24_dis-p20_prs-1_GENERICO",
+        "landing": "https://www.whytenerife.com/",
+        "aws_path_1": "WHY_TENERIFE/2024/10/preroll/prs/co/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.whytenerife.com/?&utm_medium=dis-p20-prs-1&utm_campaign=oct-24&utm_term=generico",
+        "tcs": [],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "970x250"
+        ],
+        "name": "why-tenerife-co__OCT-24_dis-p20_rtg-1_GENERICO",
+        "landing": "https://www.whytenerife.com/",
+        "aws_path_1": "WHY_TENERIFE/2024/10/preroll/rtg/co/",
+        "aws_path_2": "/index.html",
+        "link": "#REF!",
+        "tcs": []
+    }
+]

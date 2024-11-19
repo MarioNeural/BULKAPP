@@ -1,0 +1,15 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["300x600"],
+        "name": "iese-lam_v1mp_IEP-GEMBA-LATAM-AWARENESS- DISPLAYPREMIUM-ONLINE-PAID-24-25_dis-prem_prs-1_DB-NOV",
+        "landing": "https://formscloud.iese.edu/landings-gemba/",
+        "aws_path_1": "IESE/2024/11/3dcard_4/",
+        "aws_path_2": "/index.html",
+        "link": "https://formscloud.iese.edu/landings-gemba/?utm_source=display&utm_medium=premium&utm_campaign=701Qu00000HKTQi&utm_term=db-nov",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_IESE%20Business%20School.js?tc=",
+        "tcs": ["151774"],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

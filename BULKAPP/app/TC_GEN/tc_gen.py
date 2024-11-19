@@ -8,6 +8,7 @@ import boto3
 from dotenv import load_dotenv
 import tkinter as tk
 from tkinter import messagebox
+import re
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
 from styles.styles import DARK_GREEN, LIGHT_GREEN, TEXT_BLACK, TEXT_WHITE, RED, BLUE, GRAY, ORANGE
@@ -55,6 +56,12 @@ advertiser_number_map = {
     'Hoteles Poseidón': 395,
     'Megacentro': 362,
     'H10': 34,
+    'Campus Training': 414,
+    'Culmia': 358,
+    'Flexicar': 410,
+    'Aproperties': 408,
+    'ING Direct': 36,
+    'Vercine': 36,
     # Agrega más anunciantes según sea necesario
 }
 
@@ -132,6 +139,7 @@ def get_manual_inputs(missing_elements):
     root = tk.Tk()
     root.title("IDs faltantes")
     root.configure(bg=DARK_GREEN)
+    root.attributes('-topmost', True)
 
     window_width = 400
     max_window_height = 400
@@ -191,8 +199,23 @@ def check_sizes(df):
     if len(invalid_sizes) > 0:
         root = tk.Tk()
         root.withdraw()
+        root.attributes('-topmost', True) 
         messagebox.showwarning("Advertencia", f"Hay tamaños no incluidos en los estándares: {', '.join(invalid_sizes)}")
         root.destroy()
+
+def validate_trackingcode_name(trackingcode_name):
+    # Definir los caracteres no permitidos en una URL
+    invalid_characters = re.compile(r'[ ñÑáéíóúÁÉÍÓÚ%&#¿?$¡!/çÇ<>€.,:;"Üü{}=@|ºª]')
+    # invalid_characters = re.compile(r'[ñÑçÇ]')
+    
+    if invalid_characters.search(trackingcode_name):
+        root = tk.Tk()
+        root.withdraw() 
+        root.attributes('-topmost', True) 
+        messagebox.showwarning("Advertencia", f"El trackingcode '{trackingcode_name}' contiene caracteres no permitidos para una URL.")
+        sys.exit(1)
+        root.destroy()
+        raise ValueError(f"El trackingcode '{trackingcode_name}' contiene caracteres no permitidos para una URL.")
 
 def main():
     data_df = load_data()
@@ -238,11 +261,16 @@ def main():
         if not row.get('trackingcode'):
             continue
 
+        trackingcode_name = str(row.get('trackingcode', '')).strip()
+
+        # Llamamos a la función para validar el trackingcode_name
+        validate_trackingcode_name(trackingcode_name)
+
         lineitem_cleaned = clean_lineitem_name(str(row.get('lineitem', '')).strip())
         
         new_row = {col: '' for col in crear_tcs_df.columns}
 
-        new_row['trackingcode_name'] = str(row.get('trackingcode', '')).strip()
+        new_row['trackingcode_name'] = trackingcode_name
         new_row['publisher_id'] = find_id_or_name('publisher', str(row.get('publisher', '')).strip(), mapping_dicts, missing_elements, str(row.get('publisher', '')).strip())
         
         if 'campaign name' in data_df.columns:
@@ -272,7 +300,13 @@ def main():
         new_row['placement_id'] = find_id_or_name('placement id', str(row.get('placement id', '')).strip(), mapping_dicts, missing_elements, str(row.get('placement id', '')).strip())
 
         awareness_type = str(row.get('awareness type', '')).strip().lower()
-        if awareness_type == "verdadero":
+        if awareness_type == "TRUE":
+            new_row['awareness_type'] = True
+        if awareness_type == "true":
+            new_row['awareness_type'] = True
+        elif awareness_type == "verdadero":
+            new_row['awareness_type'] = True
+        elif awareness_type == "VERDADERO":
             new_row['awareness_type'] = True
         else:
             new_row['awareness_type'] = ""

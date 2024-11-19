@@ -1,0 +1,19 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "320x100",
+            "970x250",
+            "160x600",
+            "728x90"
+        ],
+        "name": "preview",
+        "landing": "https://ofertas.bintercanarias.com/",
+        "aws_path_1": "BINTER/2024/11/display/",
+        "aws_path_2": "/index.html",
+        "link": "https://ofertas.bintercanarias.com/",
+        "tcs": [ ]
+    }
+]

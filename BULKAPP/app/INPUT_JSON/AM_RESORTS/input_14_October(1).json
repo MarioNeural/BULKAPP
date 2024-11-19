@@ -1,0 +1,407 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "name": "amresorts-eu_v1mp_AO-ALUA_dis_rtg-1_AUTUMM-BREAK",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/all-inclusive-resorts-canary-islands",
+        "aws_path_1": "AM_RESORTS/2024/10/islas_canarias/alua/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/en-uk/all-inclusive-resorts-canary-islands?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=AO-alua&utm_term=AUTUMM-BREAK",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "147938",
+            "147939",
+            "147940",
+            "147941",
+            "147942",
+            "147943"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "name": "amresorts-eu_v1mp_AO-DREAMS_dis_rtg-1_AUTUMM-BREAK",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/all-inclusive-resorts-canary-islands",
+        "aws_path_1": "AM_RESORTS/2024/10/islas_canarias/dreams/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/en-uk/all-inclusive-resorts-canary-islands?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=AO-dreams&utm_term=AUTUMM-BREAK",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "147944",
+            "147945",
+            "147946",
+            "147947",
+            "147948",
+            "147949"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "name": "amresorts-eu_v1mp_AO-SECRETS_dis_rtg-1_AUTUMM-BREAK",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/all-inclusive-resorts-canary-islands",
+        "aws_path_1": "AM_RESORTS/2024/10/islas_canarias/secrets/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/en-uk/all-inclusive-resorts-canary-islands?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=AO-secrets&utm_term=AUTUMM-BREAK",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "147950",
+            "147951",
+            "147952",
+            "147953",
+            "147954",
+            "147955"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "name": "amresorts-es_v1mp_AO-ALUA_dis_rtg-1_AUTUMM-BREAK",
+        "landing": "https://resorts.hyattinclusivecollection.com/es-es/resorts-todo-incluido-en-islas-canarias",
+        "aws_path_1": "AM_RESORTS/2024/10/islas_canarias/alua/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/es-es/resorts-todo-incluido-en-islas-canarias?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=AO-alua&utm_term=AUTUMM-BREAK",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "147956",
+            "147957",
+            "147958",
+            "147959",
+            "147960",
+            "147961"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "name": "amresorts-es_v1mp_AO-DREAMS_dis_rtg-1_AUTUMM-BREAK",
+        "landing": "https://resorts.hyattinclusivecollection.com/es-es/resorts-todo-incluido-en-islas-canarias",
+        "aws_path_1": "AM_RESORTS/2024/10/islas_canarias/dreams/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/es-es/resorts-todo-incluido-en-islas-canarias?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=AO-dreams&utm_term=AUTUMM-BREAK",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "147962",
+            "147963",
+            "147964",
+            "147965",
+            "147966",
+            "147967"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "name": "amresorts-es_v1mp_AO-SECRETS_dis_rtg-1_AUTUMM-BREAK",
+        "landing": "https://resorts.hyattinclusivecollection.com/es-es/resorts-todo-incluido-en-islas-canarias",
+        "aws_path_1": "AM_RESORTS/2024/10/islas_canarias/secrets/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/es-es/resorts-todo-incluido-en-islas-canarias?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=AO-secrets&utm_term=AUTUMM-BREAK",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "147968",
+            "147969",
+            "147970",
+            "147971",
+            "147972",
+            "147973"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "name": "amresorts-gb_v1mp_AO-ALUA_dis_rtg-1_AUTUMM-BREAK",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/all-inclusive-resorts-canary-islands",
+        "aws_path_1": "AM_RESORTS/2024/10/islas_canarias/alua/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/en-uk/all-inclusive-resorts-canary-islands?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=AO-alua&utm_term=AUTUMM-BREAK",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "147974",
+            "147975",
+            "147976",
+            "147977",
+            "147978",
+            "147979"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "name": "amresorts-gb_v1mp_AO-DREAMS_dis_rtg-1_AUTUMM-BREAK",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/all-inclusive-resorts-canary-islands",
+        "aws_path_1": "AM_RESORTS/2024/10/islas_canarias/dreams/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/en-uk/all-inclusive-resorts-canary-islands?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=AO-dreams&utm_term=AUTUMM-BREAK",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "147980",
+            "147981",
+            "147982",
+            "147983",
+            "147984",
+            "147985"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "name": "amresorts-gb_v1mp_AO-SECRETS_dis_rtg-1_AUTUMM-BREAK",
+        "landing": "https://resorts.hyattinclusivecollection.com/en-uk/all-inclusive-resorts-canary-islands",
+        "aws_path_1": "AM_RESORTS/2024/10/islas_canarias/secrets/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/en-uk/all-inclusive-resorts-canary-islands?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=AO-secrets&utm_term=AUTUMM-BREAK",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "147986",
+            "147987",
+            "147988",
+            "147989",
+            "147990",
+            "147991"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "name": "amresorts-de_v1mp_AO-ALUA_dis_rtg-1_AUTUMM-BREAK",
+        "landing": "https://resorts.hyattinclusivecollection.com/de-de/all-inclusive-resorts-kanarischen-inseln",
+        "aws_path_1": "AM_RESORTS/2024/10/islas_canarias/alua/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/de-de/all-inclusive-resorts-kanarischen-inseln?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=AO-alua&utm_term=AUTUMM-BREAK",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "147992",
+            "147993",
+            "147994",
+            "147995",
+            "147996",
+            "147997"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "name": "amresorts-de_v1mp_AO-DREAMS_dis_rtg-1_AUTUMM-BREAK",
+        "landing": "https://resorts.hyattinclusivecollection.com/de-de/all-inclusive-resorts-kanarischen-inseln",
+        "aws_path_1": "AM_RESORTS/2024/10/islas_canarias/dreams/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/de-de/all-inclusive-resorts-kanarischen-inseln?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=AO-dreams&utm_term=AUTUMM-BREAK",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "147998",
+            "147999",
+            "148000",
+            "148001",
+            "148002",
+            "148003"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "name": "amresorts-de_v1mp_AO-SECRETS_dis_rtg-1_AUTUMM-BREAK",
+        "landing": "https://resorts.hyattinclusivecollection.com/de-de/all-inclusive-resorts-kanarischen-inseln",
+        "aws_path_1": "AM_RESORTS/2024/10/islas_canarias/secrets/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/de-de/all-inclusive-resorts-kanarischen-inseln?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=AO-secrets&utm_term=AUTUMM-BREAK",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "148004",
+            "148005",
+            "148006",
+            "148007",
+            "148008",
+            "148009"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "name": "amresorts-fr_v1mp_AO-ALUA_dis_rtg-1_AUTUMM-BREAK",
+        "landing": "https://resorts.hyattinclusivecollection.com/fr-fr/resorts-tout-compris-aux-iles-canaries",
+        "aws_path_1": "AM_RESORTS/2024/10/islas_canarias/alua/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/fr-fr/resorts-tout-compris-aux-iles-canaries?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=AO-alua&utm_term=AUTUMM-BREAK",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "148010",
+            "148011",
+            "148012",
+            "148013",
+            "148014",
+            "148015"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "name": "amresorts-fr_v1mp_AO-DREAMS_dis_rtg-1_AUTUMM-BREAK",
+        "landing": "https://resorts.hyattinclusivecollection.com/fr-fr/resorts-tout-compris-aux-iles-canaries",
+        "aws_path_1": "AM_RESORTS/2024/10/islas_canarias/dreams/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/fr-fr/resorts-tout-compris-aux-iles-canaries?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=AO-dreams&utm_term=AUTUMM-BREAK",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "148016",
+            "148017",
+            "148018",
+            "148019",
+            "148020",
+            "148021"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "160x600",
+            "300x250",
+            "320x100",
+            "728x90"
+        ],
+        "name": "amresorts-fr_v1mp_AO-SECRETS_dis_rtg-1_AUTUMM-BREAK",
+        "landing": "https://resorts.hyattinclusivecollection.com/fr-fr/resorts-tout-compris-aux-iles-canaries",
+        "aws_path_1": "AM_RESORTS/2024/10/islas_canarias/secrets/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://resorts.hyattinclusivecollection.com/fr-fr/resorts-tout-compris-aux-iles-canaries?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=AO-secrets&utm_term=AUTUMM-BREAK",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Hyatt%20Inclusive%20Collection.js?tc=",
+        "tcs": [
+            "148022",
+            "148023",
+            "148024",
+            "148025",
+            "148026",
+            "148027"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "type": "link",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "300x250",
+            "160x600",
+            "320x50",
+            "728x90"
+        ],
+        "name": "petit-celler-es_imp_ALWAYS-ON_dis_prs-1_VITICOLA-SILEO",
+        "landing": "https://www.petitceller.com/es/vino/companyia-viticola-sileo",
+        "aws_path_1": "PETIT_CELLER/2024/11/vinos/sileo/",
+        "aws_path_2": ".jpg",
+        "url": "https://www.petitceller.com/es/vino/companyia-viticola-sileo?utm_source=programatica&utm_medium=display&utm_campaign=always-on&utm_term=VITICOLA-SILEO",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Excelsia.js?tc=",
+        "tcs": [
+            "149661",
+            "149662",
+            "149663",
+            "149664",
+            "149665",
+            "149666"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "970x250",
+            "300x600",
+            "300x250",
+            "160x600",
+            "320x50",
+            "728x90"
+        ],
+        "name": "petit-celler-es_imp_ALWAYS-ON_dis_prs-1_SEMANA-VINOS-JEREZ",
+        "landing": "https://www.petitceller.com/es/vino/jerez-xeres-sherry",
+        "aws_path_1": "PETIT_CELLER/2024/11/vinos/jerez/",
+        "aws_path_2": ".jpg",
+        "url": "https://www.petitceller.com/es/vino/jerez-xeres-sherry?utm_source=programatica&utm_medium=display&utm_campaign=always-on&utm_term=SEMANA-VINOS-JEREZ",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Excelsia.js?tc=",
+        "tcs": [
+            "149667",
+            "149668",
+            "149669",
+            "149670",
+            "149671",
+            "149672"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]
