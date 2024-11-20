@@ -1,0 +1,13 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "970x250", "728x90"],
+        "name": "iese-dach_v1mp_MUC-EMBA-DACH-CONVERSION-DISPLAYRETARGETING-ONLINE-PAID-24-25_dis_rtg-1_OD-DIC",
+        "landing": "https://apply.iese.edu/emba-openday-december-2024/",
+        "aws_path_1": "IESE/2024/11/display_8/",
+        "aws_path_2": "/index.html",
+        "link": "https://apply.iese.edu/emba-openday-december-2024/?utm_source=display&utm_medium=dis-rtg&utm_campaign=701Qu00000H77Sg&utm_content=OD-DIC",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_IESE%20Business%20School.js?tc=",
+        "tcs": ["152062", "152063", "152064", "152065", "152066", "152067"]
+    }
+]

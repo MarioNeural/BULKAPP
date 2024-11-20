@@ -1,0 +1,102 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "name": "savoy-gb_v1mp_AO_dis_prs-1_ESCAPADA-VERANO",
+        "landing": "https://www.savoysignature.com/en/",
+        "aws_path_1": "SAVOY_SIGNATURE/2024/11/escapada/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.savoysignature.com/en/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=GB",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Savoy%20Signature.js?tc=",
+        "tcs": [
+            "152068",
+            "152069",
+            "152070",
+            "152071",
+            "152072",
+            "152073"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "name": "savoy-pt_v1mp_AO_dis_prs-1_ESCAPADA-VERANO",
+        "landing": "https://www.savoysignature.com/pt/",
+        "aws_path_1": "SAVOY_SIGNATURE/2024/11/escapada/pt/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.savoysignature.com/pt/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=PT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Savoy%20Signature.js?tc=",
+        "tcs": [
+            "152074",
+            "152075",
+            "152076",
+            "152077",
+            "152078",
+            "152079"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "name": "savoy-fr_v1mp_AO_dis_prs-1_ESCAPADA-VERANO",
+        "landing": "https://www.savoysignature.com/en/reservations-directes/",
+        "aws_path_1": "SAVOY_SIGNATURE/2024/11/escapada/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.savoysignature.com/en/reservations-directes/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=FR",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Savoy%20Signature.js?tc=",
+        "tcs": [
+            "152080",
+            "152081",
+            "152082",
+            "152083",
+            "152084",
+            "152085"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "728x90",
+            "970x250"
+        ],
+        "name": "savoy-us_v1mp_AO_dis_prs-1_ESCAPADA-VERANO",
+        "landing": "https://www.savoysignature.com/en/",
+        "aws_path_1": "SAVOY_SIGNATURE/2024/11/escapada/us/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.savoysignature.com/en/?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao&utm_content=US",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Savoy%20Signature.js?tc=",
+        "tcs": [
+            "152086",
+            "152087",
+            "152088",
+            "152089",
+            "152090",
+            "152091"
+        ]
+    }
+]

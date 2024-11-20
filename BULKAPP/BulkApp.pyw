@@ -525,72 +525,108 @@ def ejecutar_img_aws_bulk():
 
 def generar_archivo_csv(src_csv_filename):
     try:
+        # Construir la ruta del archivo fuente
         src_csv_path = os.path.join("app", src_csv_filename)
 
+        # Verificar si el archivo fuente existe
+        if not os.path.exists(src_csv_path):
+            raise FileNotFoundError(f"El archivo {src_csv_path} no existe. Por favor, verifica que se haya generado correctamente.")
+
+        # Construir la ruta de la carpeta de destino
         compartir_folder_path = os.path.join("app", "COMPARTIR")
         os.makedirs(compartir_folder_path, exist_ok=True)
 
-        if src_csv_filename == "360_ENC_file.csv":
-            dest_csv_filename = "360_file.csv"
-        else:
-            dest_csv_filename = "360_ENC_file.csv"
+        # Limpiar la carpeta COMPARTIR antes de copiar el nuevo archivo
+        for filename in os.listdir(compartir_folder_path):
+            file_path = os.path.join(compartir_folder_path, filename)
+            if os.path.isfile(file_path):
+                os.remove(file_path)
 
-        dest_csv_path = os.path.join(compartir_folder_path, dest_csv_filename)
-        if os.path.exists(dest_csv_path):
-            os.remove(dest_csv_path)
-
+        # Construir la ruta del archivo destino
         dest_csv_path = os.path.join(compartir_folder_path, src_csv_filename)
+
+        # Copiar el archivo fuente al destino
         shutil.copyfile(src_csv_path, dest_csv_path)
 
+        # Abrir la carpeta de destino para mostrar el archivo copiado
         os.startfile(compartir_folder_path)
 
+    except FileNotFoundError as e:
+        messagebox.showerror("Archivo no encontrado", str(e))
     except Exception as e:
-        print(f"Error al generar y copiar los archivos CSV: {e}")
+        messagebox.showerror("Error", f"Error al generar y copiar los archivos CSV: {e}")
 
-def generar_csv():
+
+
+
+
+def generar_csv(plataforma):
     global csv_generated
-    if csv_generated:
-        output_text_content = output_text.get("1.0", tk.END)
+    if not csv_generated:
+        messagebox.showerror("Error", "No se ha generado el contenido necesario para crear un CSV.")
+        return
 
-        last_iframe_index = output_text_content.rfind('<iframe')
-        last_a_index = output_text_content.rfind('<a')
+    # Diccionario con los nombres de archivos por plataforma
+    plataformas_archivos = {
+        "DV360": ("360_ENC_file.csv", "360_file.csv"),
+        "Quantcast": ("QCT_ESC_file.xlsx", "QCT_file.csv"),
+        "Zeta": ("RKT_file.xlsx", "RKT_file.xlsx"),
+        "StackAdapt": ("STACK_ENC_file.xlsx", "STACK_file.xlsx"),
+        "TTD": ("TTD_ESC_file.xlsx", "TTD_file.xlsx"),
+        "Zemanta": ("ZEM_ENC_file.xlsx", "ZEM_file.xlsx"),
+        "AdForm": ("ADF_file.xlsx", "ADF_file.xlsx"),
+    }
 
-        if last_iframe_index > last_a_index:
-            src_csv_filename = "360_ENC_file.csv"
-            success_msg = "Se va a generar el archivo 360_ENC_file.csv para creatividades tipo <iframe>."
-        elif last_a_index > last_iframe_index:
-            src_csv_filename = "360_file.csv"
-            success_msg = "Se va a generar el archivo 360_file.csv para creatividades tipo <a>."
-        else:
-            messagebox.showerror("Error", "No se pudo determinar el tipo de archivo CSV a generar.")
-            return
+    # Obtener el contenido del campo de texto para analizar
+    output_text_content = output_text.get("1.0", tk.END)
 
-        def on_si():
-            generar_archivo_csv(src_csv_filename)
-            csv_popup.destroy()
+    # Seleccionar los archivos según la plataforma
+    if plataforma not in plataformas_archivos:
+        messagebox.showerror("Error", f"La plataforma '{plataforma}' no está configurada.")
+        return
 
-        def on_no():
-            csv_popup.destroy()
+    # Determinar si es un archivo de iframe o link
+    if "<iframe" in output_text_content:
+        src_csv_filename = plataformas_archivos[plataforma][0]
+    elif "<a" in output_text_content:
+        src_csv_filename = plataformas_archivos[plataforma][1]
+    else:
+        messagebox.showerror("Error", "No se detectó el tipo de contenido adecuado (iframe o link).")
+        return
 
-        csv_popup = tk.Toplevel(app)
-        csv_popup.title("Generar CSV")
-        csv_popup.configure(bg=DARK_GREEN)
+    # Intentar generar el archivo
+    generar_archivo_csv(src_csv_filename)
 
-        window_width = 460
-        window_height = 150
-        pos_x = app.winfo_x() + (app.winfo_width() // 2) - (window_width // 2)
-        pos_y = app.winfo_y() + (app.winfo_height() // 6) - (window_height // 6)
+def mostrar_opciones_archivo():
+    # Crear una ventana emergente para las opciones
+    popup = tk.Toplevel(app)
+    popup.title("Selecciona una plataforma")
+    popup.configure(bg=DARK_GREEN)
 
-        csv_popup.geometry(f"{window_width}x{window_height}+{pos_x}+{pos_y}")
+    # Configurar tamaño y posición de la ventana emergente
+    window_width = 300
+    window_height = 400
+    pos_x = app.winfo_x() + (app.winfo_width() // 2) - (window_width // 2)
+    pos_y = app.winfo_y() + (app.winfo_height() // 2) - (window_height // 2)
+    popup.geometry(f"{window_width}x{window_height}+{pos_x}+{pos_y}")
 
-        label = tk.Label(csv_popup, text=success_msg + "\n¿Desea generar el archivo y abrir la carpeta ahora?", bg=DARK_GREEN, fg=TEXT_BLACK)
-        label.grid(row=0, column=0, columnspan=2, padx=30, pady=10, sticky='ew') 
+    # Lista de plataformas disponibles
+    plataformas = ["DV360", "Quantcast", "Zeta", "StackAdapt", "TTD", "Zemanta", "AdForm"]
 
-        boton_si = tk.Button(csv_popup, text="Sí", command=on_si, bg=BLUE, fg=TEXT_WHITE, font=("Helvetica", 12, "bold"), height=1, width=10)
-        boton_si.grid(row=1, column=0, padx=10, pady=10, sticky='e') 
+    # Crear botones para cada plataforma
+    for plataforma in plataformas:
+        btn = tk.Button(
+            popup,
+            text=plataforma,
+            command=lambda p=plataforma: [popup.destroy(), generar_csv(p)],
+            bg=LIGHT_GREEN,
+            fg=TEXT_BLACK,
+            width=ancho_btn
+        )
+        btn.pack(pady=5)
 
-        boton_no = tk.Button(csv_popup, text="No", command=on_no, bg=RED, fg=TEXT_WHITE, font=("Helvetica", 12, "bold"), height=1, width=10)
-        boton_no.grid(row=1, column=1, padx=10, pady=10, sticky='w') 
+
+
 
 
 def execute_main_script(data):
@@ -747,7 +783,8 @@ open_html_btn.grid(row=3, column=0)
 open_json_btn = tk.Button(frame, text="Abrir JSON", command=open_json_with_vscode, bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)
 open_json_btn.grid(row=2, column=2, columnspan=4)
 
-generar_csv_btn = tk.Button(frame, text="Generar CSV DV360", command=generar_csv, bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)
+# generar_csv_btn = tk.Button(frame, text="Generar CSV DV360", command=generar_csv, bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)
+generar_csv_btn = tk.Button(frame, text="Generar Archivo", command=mostrar_opciones_archivo, bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)
 generar_csv_btn.grid(row=2, column=0, padx=10)
 generar_csv_btn.config(state=tk.DISABLED) 
 

@@ -93,15 +93,15 @@ def perform_checks(tag, index, csv_file_name):
     if link_url:
         check_report['url'] = link_url
     
-    check_tc_alt = 'tc_alt' in tag  # Comprobamos si el tag contiene 'tc_alt'
+    check_tc_alt = 'tc_alt' in tag  
     check_report['tc_alt'] = check_tc_alt
     
     # Extraemos la URL del bucket si está presente
     bucket_url_match = re.search(r'<script[^>]+src=["\'](https?://[^"\']*bucket[^"\']*|//[^"\']*bucket[^"\']*)["\']', tag)
     if bucket_url_match:
         bucket_url = bucket_url_match.group(1)
-    if bucket_url.startswith("//"):
-        bucket_url = f"https:{bucket_url}"
+        if bucket_url.startswith("//"):
+            bucket_url = f"https:{bucket_url}" 
         print(f"Bucket URL extraída: {bucket_url}")
         check_report['bucket_checked'] = True
     else:
@@ -131,23 +131,7 @@ def perform_checks(tag, index, csv_file_name):
     
     status_ok = True
 
-    if check_tc_alt:
-        base_url = get_base_url(link_url)  # Procesamos la URL base eliminando parámetros utm_
-        print(f"Base URL procesada: {base_url}")
-
-        if base_url in verified_urls:
-            print(f"La URL base '{base_url}' ya ha sido verificada.")
-            script_contains_keywords = verified_urls[base_url]
-        else:
-            # script_contains_keywords = check_script_contains_keywords_selenium(link_url)
-            # verified_urls[base_url] = script_contains_keywords
-
-            # Comprobación ficticia ya que se comenta la parte de Selenium
-            script_contains_keywords = True  # Para no generar errores, lo marcamos como True
-
-        check_report['universal_checked'] = False
-        check_report['universal_status'] = ''  # Dejamos vacío el estado de 'universal'
-    
+    # Verificamos el estado del bucket URL
     if bucket_url:
         status_ok = check_http_status(bucket_url)
         check_report['bucket_status'] = '200 OK' if status_ok else 'Error'
@@ -155,6 +139,7 @@ def perform_checks(tag, index, csv_file_name):
         if not status_ok:
             errors.append(f"Fila {index + 1}: El bucket URL {bucket_url} no responde con estado 200.")
     
+    # Verificamos el estado del pixel URL
     if pixel_url:
         pixel_status_ok = check_http_status(pixel_url)
         check_report['pixel_status'] = '200 OK' if pixel_status_ok else 'Error'
@@ -165,6 +150,7 @@ def perform_checks(tag, index, csv_file_name):
 
     report.append(check_report)
     return status_ok
+
 
 def find_csv_file():
     for file_name in CSV_FILE_NAMES:
