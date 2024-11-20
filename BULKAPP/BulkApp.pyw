@@ -447,79 +447,113 @@ iframe_detected = False
 script_running = False 
 script_completed = False 
 
-def ejecutar_img_aws_bulk_thread():
-    global csv_generated, iframe_detected, last_execution_time, script_running
-    
+def ejecutar_bulk_thread(script_path):
+    """Ejecuta un script en un hilo y actualiza la barra de progreso."""
+    global script_running, csv_generated
 
-    try:
-        toggle_frame(output_text)
-        script_path = os.path.join("app", "__IMG_aws_Bulk_v08.pyw")
-        process = subprocess.Popen(["pythonw", script_path], stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True, universal_newlines=True)
+    def run_script():
+        try:
+            toggle_frame(output_text)
+            progress_bar_handler.start()  # Inicia la barra de progreso
+            process = subprocess.Popen(
+                ["pythonw", script_path],
+                stdout=subprocess.PIPE,
+                stderr=subprocess.PIPE,
+                text=True,
+                universal_newlines=True,
+            )
 
-        while True:
-            line = process.stdout.readline()
-            if not line:
-                break
-            output_text.insert(tk.END, line)
-            output_text.see(tk.END)
+            while True:
+                line = process.stdout.readline()
+                if not line:
+                    break
+                output_text.insert(tk.END, line)
+                output_text.see(tk.END)
 
-        while True:
-            error_line = process.stderr.readline()
-            if not error_line:
-                break
-            output_text.insert(tk.END, error_line)
-            output_text.see(tk.END)
+            while True:
+                error_line = process.stderr.readline()
+                if not error_line:
+                    break
+                output_text.insert(tk.END, error_line)
+                output_text.see(tk.END)
 
-        process.stdout.close()
-        process.stderr.close()
+            process.stdout.close()
+            process.stderr.close()
 
-    except Exception as e:
-        messagebox.showerror("Error", f"Error al ejecutar el script: {e}")
-    finally:
-        script_running = False
-        csv_generated = True 
-        generar_csv_btn.config(state=tk.NORMAL)
-        open_test_html()
-        progress_bar_handler.stop()  
+        except Exception as e:
+            messagebox.showerror("Error", f"Error al ejecutar el script: {e}")
+        finally:
+            script_running = False
+            csv_generated = True
+            generar_csv_btn.config(state=tk.NORMAL)
+            open_test_html()
+            progress_bar_handler.stop()  # Detiene la barra de progreso
 
-def confirmacion_ejecucion():
-    def on_si():
-        popup.destroy()
-        iniciar_ejecucion_bulk()
+    # Ejecutar el script en un hilo para no bloquear la UI
+    script_running = True
+    threading.Thread(target=run_script).start()
 
-    def on_no():
-        popup.destroy()
-
+def mostrar_opciones_bulk():
+    toggle_frame(output_text)
     popup = tk.Toplevel(app)
-    popup.title("Confirmación")
+    popup.title("Selecciona el tipo de Bulk")
     popup.configure(bg=DARK_GREEN)
 
-    window_width = 220
-    window_height = 100
+    # Configurar tamaño y posición
+    window_width = 300
+    window_height = 300
     pos_x = app.winfo_x() + (app.winfo_width() // 2) - (window_width // 2)
-    pos_y = app.winfo_y() + (app.winfo_height() // 6) - (window_height // 6)
-
+    pos_y = app.winfo_y() + (app.winfo_height() // 2) - (window_height // 2)
     popup.geometry(f"{window_width}x{window_height}+{pos_x}+{pos_y}")
 
-    label = tk.Label(popup, text="¿Desea ejecutar el Bulk ahora?", bg=DARK_GREEN, fg=TEXT_BLACK)
-    label.grid(row=0, column=0, columnspan=2, padx=30, pady=10, sticky='ew') 
+    # Definir scripts asociados a cada botón
+    botones = [
+        ("BULK 08", os.path.join("app", "__IMG_aws_Bulk_v08.pyw")),
+        ("H10", os.path.join("app", "__IMG_aws_Bulk_v04-h10.pyw")),
+        ("Ocean Hotels", os.path.join("app", "__IMG_aws_Bulk_v04-h10.pyw")),
+        ("Okmobility", os.path.join("app", "__IMG_aws_Bulk_v04-okmobility.pyw")),
+    ]
 
-    boton_si = tk.Button(popup, text="Sí", command=on_si, bg=BLUE, fg=TEXT_WHITE, font=("Helvetica", 12, "bold"), height=1, width=6)
-    boton_si.grid(row=1, column=0, padx=10, pady=10, sticky='e') 
+    def ejecutar_bulk(script_path):
+        popup.destroy()  # Cierra la ventana emergente
+        ejecutar_bulk_thread(script_path)  # Llama a la función que ejecuta el script
 
-    boton_no = tk.Button(popup, text="No", command=on_no, bg=RED, fg=TEXT_WHITE, font=("Helvetica", 12, "bold"), height=1, width=6)
-    boton_no.grid(row=1, column=1, padx=10, pady=10, sticky='w') 
+    # Crear botones para cada tipo de Bulk
+    for texto, script in botones:
+        btn = tk.Button(
+            popup,
+            text=texto,
+            command=lambda s=script: ejecutar_bulk(s),
+            bg=LIGHT_GREEN,
+            fg=TEXT_BLACK,
+            width=ancho_btn,
+        )
+        btn.pack(pady=(20, 5))
 
-def iniciar_ejecucion_bulk():
-    global script_running
-    script_running = True
-    progress_bar_handler.start()  # Inicia la animación del cuadrado
+    # Botón para cancelar
+    btn_cancelar = tk.Button(
+        popup,
+        text="Cancelar",
+        command=popup.destroy,
+        bg=RED,
+        fg=TEXT_WHITE,
+        width=ancho_btn,
+    )
+    btn_cancelar.pack(pady=(25, 5))
+
+
+
+
+# def iniciar_ejecucion_bulk():
+#     global script_running
+#     script_running = True
+#     progress_bar_handler.start()  # Inicia la animación del cuadrado
     
-    thread = threading.Thread(target=ejecutar_img_aws_bulk_thread)
-    thread.start()
+#     thread = threading.Thread(target=ejecutar_img_aws_bulk_thread)
+#     thread.start()
 
-def ejecutar_img_aws_bulk():
-    confirmacion_ejecucion() 
+# def ejecutar_img_aws_bulk():
+    # confirmacion_ejecucion() 
 
 
 
@@ -600,12 +634,12 @@ def generar_csv(plataforma):
 def mostrar_opciones_archivo():
     # Crear una ventana emergente para las opciones
     popup = tk.Toplevel(app)
-    popup.title("Selecciona una plataforma")
+    popup.title("Selecciona")
     popup.configure(bg=DARK_GREEN)
 
     # Configurar tamaño y posición de la ventana emergente
     window_width = 300
-    window_height = 400
+    window_height = 300
     pos_x = app.winfo_x() + (app.winfo_width() // 2) - (window_width // 2)
     pos_y = app.winfo_y() + (app.winfo_height() // 2) - (window_height // 2)
     popup.geometry(f"{window_width}x{window_height}+{pos_x}+{pos_y}")
@@ -623,7 +657,7 @@ def mostrar_opciones_archivo():
             fg=TEXT_BLACK,
             width=ancho_btn
         )
-        btn.pack(pady=5)
+        btn.pack(pady=(10, 5))  
 
 
 
@@ -764,9 +798,8 @@ progress_bar_handler = ProgressBarHandler(app, progress_canvas)
 output_text = tk.Text(frame, wrap=tk.WORD, bg=LIGHT_GREEN, fg=TEXT_BLACK, width=70)
 output_text.grid(row=4, column=0, columnspan=4, pady=5, padx=10)
 
-btn_img_aws_bulk = tk.Button(frame, text="Ejecutar BULK", command=ejecutar_img_aws_bulk, bg=BLUE, fg=TEXT_WHITE, width=ancho_btn)
+btn_img_aws_bulk = tk.Button(frame, text="Ejecutar BULK", command=mostrar_opciones_bulk, bg=BLUE, fg=TEXT_WHITE, width=ancho_btn)
 btn_img_aws_bulk.grid(row=0, column=0, rowspan=2, pady=(0, 10), sticky='ns')
-
 
 btn_create_tcs = tk.Button(frame, text="Crear TCs", command=show_create_tcs_window, bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)
 btn_create_tcs.grid(row=0, column=1, padx=10)
@@ -783,7 +816,6 @@ open_html_btn.grid(row=3, column=0)
 open_json_btn = tk.Button(frame, text="Abrir JSON", command=open_json_with_vscode, bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)
 open_json_btn.grid(row=2, column=2, columnspan=4)
 
-# generar_csv_btn = tk.Button(frame, text="Generar CSV DV360", command=generar_csv, bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)
 generar_csv_btn = tk.Button(frame, text="Generar Archivo", command=mostrar_opciones_archivo, bg=LIGHT_GREEN, fg=TEXT_BLACK, width=ancho_btn)
 generar_csv_btn.grid(row=2, column=0, padx=10)
 generar_csv_btn.config(state=tk.DISABLED) 
