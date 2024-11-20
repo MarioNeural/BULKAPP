@@ -12,7 +12,7 @@ import threading
 # FUNCIONES
 from functions.process_json import process_json
 from functions.one_line_arrays import one_line_arrays
-from functions.timer_functions import TimerUpdater
+# from functions.timer_functions import TimerUpdater
 from functions.progress_bar_functions import ProgressBarHandler
 from functions.open import open_test_html, open_folder, open_json_with_vscode
 
@@ -483,8 +483,6 @@ def ejecutar_bulk_thread(script_path):
         except Exception as e:
             messagebox.showerror("Error", f"Error al ejecutar el script: {e}")
         finally:
-            script_running = False
-            csv_generated = True
             generar_csv_btn.config(state=tk.NORMAL)
             open_test_html()
             progress_bar_handler.stop()  # Detiene la barra de progreso
@@ -542,21 +540,6 @@ def mostrar_opciones_bulk():
     btn_cancelar.pack(pady=(25, 5))
 
 
-
-
-# def iniciar_ejecucion_bulk():
-#     global script_running
-#     script_running = True
-#     progress_bar_handler.start()  # Inicia la animación del cuadrado
-    
-#     thread = threading.Thread(target=ejecutar_img_aws_bulk_thread)
-#     thread.start()
-
-# def ejecutar_img_aws_bulk():
-    # confirmacion_ejecucion() 
-
-
-
 def generar_archivo_csv(src_csv_filename):
     try:
         # Construir la ruta del archivo fuente
@@ -591,11 +574,9 @@ def generar_archivo_csv(src_csv_filename):
         messagebox.showerror("Error", f"Error al generar y copiar los archivos CSV: {e}")
 
 
-
-
-
 def generar_csv(plataforma):
     global csv_generated
+    csv_generated = True
     if not csv_generated:
         messagebox.showerror("Error", "No se ha generado el contenido necesario para crear un CSV.")
         return
@@ -660,9 +641,6 @@ def mostrar_opciones_archivo():
         btn.pack(pady=(10, 5))  
 
 
-
-
-
 def execute_main_script(data):
     def run_script():
         try:
@@ -684,8 +662,6 @@ def execute_main_script(data):
     progress_bar_handler.start()
     app.update()  # Asegura que la animación aparezca inmediatamente
     threading.Thread(target=run_script).start()
-
-
 
 
 def show_create_tcs_window():
