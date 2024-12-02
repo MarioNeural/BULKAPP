@@ -1,0 +1,278 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "name": "ok-mobility-pt_v1mp_AO_dis-prem_prs-1_COUNTDOWN",
+        "landing": "https://okmobility.com/pt/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/11/bf/countdown/pt/",
+        "aws_path_2": ".html",
+        "link": "https://okmobility.com/pt/rent/?promo=RENT&utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=BF24&utm_term=PT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ok%20Mobility.js?tc=",
+        "tcs": [
+            "152730",
+            "152731"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "name": "ok-mobility-it_v1mp_AO_dis-prem_prs-1_COUNTDOWN",
+        "landing": "https://okmobility.com/it/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/11/bf/countdown/it/",
+        "aws_path_2": ".html",
+        "link": "https://okmobility.com/it/rent/?promo=RENT&utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=BF24&utm_term=it",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ok%20Mobility.js?tc=",
+        "tcs": [
+            "152732",
+            "152733"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "name": "ok-mobility-fr_v1mp_AO_dis-prem_prs-1_COUNTDOWN",
+        "landing": "https://okmobility.com/fr/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/11/bf/countdown/fr/",
+        "aws_path_2": ".html",
+        "link": "https://okmobility.com/fr/rent/?promo=RENT&utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=BF24&utm_term=fr",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ok%20Mobility.js?tc=",
+        "tcs": [
+            "152734",
+            "152735"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "name": "ok-mobility-es_v1mp_AO_dis-prem_prs-1_COUNTDOWN",
+        "landing": "https://okmobility.com/es/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/11/bf/countdown/es/",
+        "aws_path_2": ".html",
+        "link": "https://okmobility.com/es/rent/?promo=RENT&utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=BF24&utm_term=es",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ok%20Mobility.js?tc=",
+        "tcs": [
+            "152736",
+            "152737"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "name": "ok-mobility-gb_v1mp_AO_dis-prem_prs-1_COUNTDOWN",
+        "landing": "https://okmobility.com/en/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/11/bf/countdown/gb/",
+        "aws_path_2": ".html",
+        "link": "https://okmobility.com/en/rent/?promo=RENT&utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=BF24&utm_term=gb",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ok%20Mobility.js?tc=",
+        "tcs": [
+            "152738",
+            "152739"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "name": "ok-mobility-de_v1mp_AO_dis-prem_prs-1_COUNTDOWN",
+        "landing": "https://okmobility.com/de/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/11/bf/countdown/de/",
+        "aws_path_2": ".html",
+        "link": "https://okmobility.com/de/rent/?promo=RENT&utm_source=v1mp&utm_medium=dis-prem-prs-1&utm_campaign=BF24&utm_term=de",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ok%20Mobility.js?tc=",
+        "tcs": [
+            "152740",
+            "152741"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "ok-mobility-pt_v1mp_AO_dis_prs-1_STANDARD-BF",
+        "landing": "https://okmobility.com/pt/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/11/bf/standard/pt/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/pt/rent/?promo=RENT&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=BF24&utm_term=pt",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ok%20Mobility.js?tc=",
+        "tcs": [
+            "152742",
+            "152743",
+            "152744",
+            "152745",
+            "152746",
+            "152747"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "ok-mobility-it_v1mp_AO_dis_prs-1_STANDARD-BF",
+        "landing": "https://okmobility.com/it/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/11/bf/standard/it/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/it/rent/?promo=RENT&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=BF24&utm_term=it",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ok%20Mobility.js?tc=",
+        "tcs": [
+            "152748",
+            "152749",
+            "152750",
+            "152751",
+            "152752",
+            "152753"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "ok-mobility-fr_v1mp_AO_dis_prs-1_STANDARD-BF",
+        "landing": "https://okmobility.com/fr/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/11/bf/standard/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/fr/rent/?promo=RENT&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=BF24&utm_term=fr",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ok%20Mobility.js?tc=",
+        "tcs": [
+            "152754",
+            "152755",
+            "152756",
+            "152757",
+            "152758",
+            "152759"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "ok-mobility-es_v1mp_AO_dis_prs-1_STANDARD-BF",
+        "landing": "https://okmobility.com/es/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/11/bf/standard/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/es/rent/?promo=RENT&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=BF24&utm_term=es",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ok%20Mobility.js?tc=",
+        "tcs": [
+            "152760",
+            "152761",
+            "152762",
+            "152763",
+            "152764",
+            "152765"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "ok-mobility-gb_v1mp_AO_dis_prs-1_STANDARD-BF",
+        "landing": "https://okmobility.com/en/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/11/bf/standard/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/en/rent/?promo=RENT&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=BF24&utm_term=gb",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ok%20Mobility.js?tc=",
+        "tcs": [
+            "152766",
+            "152767",
+            "152768",
+            "152769",
+            "152770",
+            "152771"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "728x90",
+            "320x100",
+            "300x600",
+            "300x250",
+            "160x600"
+        ],
+        "name": "ok-mobility-de_v1mp_AO_dis_prs-1_STANDARD-BF",
+        "landing": "https://okmobility.com/de/rent/",
+        "aws_path_1": "OK_MOBILITY/2024/11/bf/standard/de/",
+        "aws_path_2": "/index.html",
+        "link": "https://okmobility.com/de/rent/?promo=RENT&utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=BF24&utm_term=de",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ok%20Mobility.js?tc=",
+        "tcs": [
+            "152772",
+            "152773",
+            "152774",
+            "152775",
+            "152776",
+            "152777"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

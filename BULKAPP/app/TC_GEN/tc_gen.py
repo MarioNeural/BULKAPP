@@ -62,6 +62,8 @@ advertiser_number_map = {
     'Aproperties': 408,
     'ING Direct': 36,
     'Vercine': 36,
+    'Vodafone': 36,
+    'Aldeas Infantiles': 422,
     # Agrega más anunciantes según sea necesario
 }
 

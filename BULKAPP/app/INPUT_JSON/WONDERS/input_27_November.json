@@ -1,0 +1,52 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "970x250",
+            "728x90",
+            "320x100"
+        ],
+        "name": "wonders-es_v1mp_NUEVA-COLECCION_dis_prs-1_BF-24",
+        "landing": "https://wonders.com/ES/es/zapatos-mujer-black-friday",
+        "aws_path_1": "WONDERS/2024/11/bf/prs/",
+        "aws_path_2": "/index.html",
+        "link": "https://wonders.com/ES/es/zapatos-mujer-black-friday?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=nueva-coleccion&utm_content=BF-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Wonders.js?tc=",
+        "tcs": [
+            "152669",
+            "152670",
+            "152671",
+            "152672",
+            "152673",
+            "152674"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "970x250",
+            "728x90",
+            "320x100"
+        ],
+        "name": "wonders-es_v1mp_NUEVA-COLECCION_dis_rtg-1_BODEGONES-BF-24",
+        "landing": "https://wonders.com/ES/es/zapatos-mujer-black-friday",
+        "aws_path_1": "WONDERS/2024/11/bf/rtg/",
+        "aws_path_2": "/index.html",
+        "link": "https://wonders.com/ES/es/zapatos-mujer-black-friday?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=nueva-coleccion&utm_content=BODEGONES-BF-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Wonders.js?tc=",
+        "tcs": [
+            "152675",
+            "152676",
+            "152677",
+            "152678",
+            "152679",
+            "152680"
+        ]
+    }
+]

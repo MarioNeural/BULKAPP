@@ -1,0 +1,152 @@
+[
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "300x600",
+            "970x250",
+            "300x250",
+            "160x600",
+            "320x100"
+        ],
+        "name": "ocean-us_v1mp_AO_dis_prs-1_MX-ADULTOS-BF",
+        "landing": "https://www.oceanhotels.com/en",
+        "aws_path_1": "OCEAN_HOTELS/2024/11/bf/",
+        "aws_path_2": ".png",
+        "url": "https://www.oceanhotels.com/en?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_H10-Hotels.js?tc=",
+        "tcs": [
+            "152989",
+            "152990",
+            "152991",
+            "152992",
+            "152993",
+            "152994"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "300x600",
+            "970x250",
+            "300x250",
+            "160x600",
+            "320x100"
+        ],
+        "name": "ocean-us_v1mp_AO_dis_prs-1_MX-FAMILAS-BF",
+        "landing": "https://www.oceanhotels.com/en",
+        "aws_path_1": "OCEAN_HOTELS/2024/11/bf/",
+        "aws_path_2": ".png",
+        "url": "https://www.oceanhotels.com/en?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_H10-Hotels.js?tc=",
+        "tcs": [
+            "152995",
+            "152996",
+            "152997",
+            "152998",
+            "152999",
+            "153000"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "300x600",
+            "970x250",
+            "300x250",
+            "160x600",
+            "320x100"
+        ],
+        "name": "ocean-us_v1mp_AO_dis_prs-1_RD-FAMILIAS-BF",
+        "landing": "https://www.oceanhotels.com/en",
+        "aws_path_1": "OCEAN_HOTELS/2024/11/bf/",
+        "aws_path_2": ".png",
+        "url": "https://www.oceanhotels.com/en?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_H10-Hotels.js?tc=",
+        "tcs": [
+            "153001",
+            "153002",
+            "153003",
+            "153004",
+            "153005",
+            "153006"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "300x600",
+            "970x250",
+            "300x250",
+            "160x600",
+            "320x100"
+        ],
+        "name": "ocean-us_v1mp_AO_dis_prs-1_RD-ADULTOS-BF",
+        "landing": "https://www.oceanhotels.com/en",
+        "aws_path_1": "OCEAN_HOTELS/2024/11/bf/",
+        "aws_path_2": ".png",
+        "url": "https://www.oceanhotels.com/en?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_H10-Hotels.js?tc=",
+        "tcs": [
+            "153007",
+            "153008",
+            "153009",
+            "153010",
+            "153011",
+            "153012"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "300x600",
+            "970x250",
+            "300x250",
+            "160x600",
+            "320x100"
+        ],
+        "name": "ocean-us_v1mp_AO_dis_prs-1_JAMAICA-ADULTOS-BF",
+        "landing": "https://www.oceanhotels.com/en",
+        "aws_path_1": "OCEAN_HOTELS/2024/11/bf/",
+        "aws_path_2": ".png",
+        "url": "https://www.oceanhotels.com/en?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_H10-Hotels.js?tc=",
+        "tcs": [
+            "153013",
+            "153014",
+            "153015",
+            "153016",
+            "153017",
+            "153018"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "728x90",
+            "300x600",
+            "970x250",
+            "300x250",
+            "160x600",
+            "320x100"
+        ],
+        "name": "ocean-us_v1mp_AO_dis_prs-1_JAMAICA-FAMILIAS-BF",
+        "landing": "https://www.oceanhotels.com/en",
+        "aws_path_1": "OCEAN_HOTELS/2024/11/bf/",
+        "aws_path_2": ".png",
+        "url": "https://www.oceanhotels.com/en?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_H10-Hotels.js?tc=",
+        "tcs": [
+            "153019",
+            "153020",
+            "153021",
+            "153022",
+            "153023",
+            "153024"
+        ]
+    }
+]

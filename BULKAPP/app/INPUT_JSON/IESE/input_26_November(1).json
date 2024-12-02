@@ -1,0 +1,19 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600"
+        ],
+        "name": "iese-lam_v1mp_IEP-GEMBA-LATAM-AWARENESS-DISPLAYPREMIUM-ONLINE-PAID-24-25_dis-prem_prs-1_OD-4DIC",
+        "landing": "https://apply.iese.edu/gemba-open-day-december/",
+        "aws_path_1": "IESE/2024/11/3dcard_5/",
+        "aws_path_2": "/index.html",
+        "link": "https://apply.iese.edu/gemba-open-day-december/?utm_source=display&utm_medium=premium&utm_campaign=701Qu00000HKTQi&utm_term=od-4dic",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_IESE%20Business%20School.js?tc=",
+        "tcs": [
+            "152657"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

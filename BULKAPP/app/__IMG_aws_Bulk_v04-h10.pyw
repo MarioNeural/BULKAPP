@@ -853,16 +853,24 @@ class IMG_aws_TAG_Bulk:
     def create_CSV(self, DSP):
         wb = xlrd.open_workbook(f'{ROOT_PATH}/{DSP}_file.xlsx')
         sh = wb.sheet_by_name('Sheet1')
-
+    
+        # Abre el archivo CSV y escribe los datos
         csv_file = open(f'{ROOT_PATH}/{DSP}_file.csv', 'w', newline='')
         wr = csv.writer(csv_file, quoting=csv.QUOTE_ALL)
         for rownum in range(sh.nrows):
             wr.writerow(sh.row_values(rownum))
-
         csv_file.close()
-        # delete .xlsx after creating .csv
-        os.remove(f'{ROOT_PATH}/{DSP}_file.xlsx')
-
+    
+        # Libera recursos asociados al workbook
+        wb.release_resources()
+        del wb
+    
+        # Intenta eliminar el archivo Excel con manejo de errores
+        try:
+            os.remove(f'{ROOT_PATH}/{DSP}_file.xlsx')
+        except PermissionError as e:
+            print(f"Error al intentar eliminar el archivo: {e}")
+    
 # --------- end of IMG_aws_TAG_Bulk() --------
 
 

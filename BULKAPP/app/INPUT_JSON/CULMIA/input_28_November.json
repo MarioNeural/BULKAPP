@@ -1,0 +1,19 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250",
+            "300x600"
+        ],
+        "name": "culmia-es_v1mp_FINCA-MOSSARA_dis-prem_prs-1_P20",
+        "landing": "https://fincamossara.com/?ciega=1&utm_medium=cpcdisplay&utm_source=programatica&utm_campaign=display_campana_v1mp_finca-mossara&utm_content=display",
+        "aws_path_1": "CULMIA/2024/11/dis_preroll/",
+        "aws_path_2": "/index.html",
+        "link": "https://fincamossara.com/?ciega=1&utm_medium=cpcdisplay&utm_source=programatica&utm_campaign=display_campana_v1mp_finca-mossara&utm_content=display",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Culmia%20Inmobiliaria.js?tc=",
+        "tcs": [
+            "152985",
+            "152986"
+        ]
+    }
+]

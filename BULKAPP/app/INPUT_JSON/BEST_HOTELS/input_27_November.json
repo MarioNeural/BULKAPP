@@ -1,0 +1,77 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90"
+        ],
+        "name": "best-pt_v1mp_AO-PT_dis_prs-1_BF-24",
+        "landing": "https://www.besthotels.es/black-friday.html",
+        "aws_path_1": "BEST_HOTELS/2024/11/bf/pt/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.besthotels.es/black-friday.html?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-pt&utm_content=BF-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Best%20Hotels.js?tc=",
+        "tcs": [
+            "152699",
+            "152700",
+            "152701",
+            "152702",
+            "152703",
+            "152704"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90"
+        ],
+        "name": "best-es_v1mp_AO-ES_dis_prs-1_BF-24",
+        "landing": "https://www.besthotels.es/black-friday.html",
+        "aws_path_1": "BEST_HOTELS/2024/11/bf/es/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.besthotels.es/black-friday.html?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-es&utm_content=BF-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Best%20Hotels.js?tc=",
+        "tcs": [
+            "152705",
+            "152706",
+            "152707",
+            "152708",
+            "152709",
+            "152710"
+        ]
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250",
+            "728x90"
+        ],
+        "name": "best-fr_v1mp_AO-FR_dis_prs-1_BF-24",
+        "landing": "https://www.besthotels.es/fr/black-friday.html",
+        "aws_path_1": "BEST_HOTELS/2024/11/bf/fr/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.besthotels.es/fr/black-friday.html?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-fr&utm_content=BF-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Best%20Hotels.js?tc=",
+        "tcs": [
+            "152711",
+            "152712",
+            "152713",
+            "152714",
+            "152715",
+            "152716"
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250"
+        ],
+        "name": "v-f-es_v1mp_APADRINA_dis_prs-3_NAVIDAD",
+        "landing": "https://www.fundacionvicenteferrer.org/apadrinar",
+        "aws_path_1": "VICENTE_FERRER/2024/11/apadrina_navidad/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.fundacionvicenteferrer.org/apadrinar?c=G00112900C06&o=DS&f=DS&utm_source=display&utm_medium=cpm&utm_campaign=apadrina&utm_term=navidad",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Vicente%20Ferrer.js?tc=",
+        "tcs": [
+            "152640",
+            "152641",
+            "152642",
+            "152643",
+            "152644"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "160x600",
+            "300x250",
+            "300x600",
+            "320x100",
+            "970x250"
+        ],
+        "name": "v-f-es_v1mp_APADRINA_dis_rtg-3_NAVIDAD",
+        "landing": "https://www.fundacionvicenteferrer.org/apadrinar",
+        "aws_path_1": "VICENTE_FERRER/2024/11/apadrina_navidad/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.fundacionvicenteferrer.org/apadrinar?c=G00112900C06&o=DS&f=DS&utm_source=display&utm_medium=cpm&utm_campaign=apadrina&utm_term=navidad",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Vicente%20Ferrer.js?tc=",
+        "tcs": [
+            "152645",
+            "152646",
+            "152647",
+            "152648",
+            "152649"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

@@ -1,0 +1,324 @@
+[
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "250x250"
+        ],
+        "name": "oasis-mx_v1mp_AO_dis_prs-1_CYBER-CORP",
+        "landing": "https://oasishoteles.com/es/ofertas-hoteles-cyber-week",
+        "aws_path_1": "OASIS/2024/11/cyber/corp/mx/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/es/ofertas-hoteles-cyber-week?utm_source=adgmedia&utm_medium=display&utm_campaign=cyberweek&utm_term=prospecting-oferta-mex&utm_content=corporativo&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "152779",
+            "152780",
+            "152781",
+            "152782",
+            "152784"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "250x250"
+        ],
+        "name": "oasis-mx_v1mp_AO_dis_rtg-1_CYBER-TPC",
+        "landing": "https://oasishoteles.com/es/ofertas-hoteles-cyber-week",
+        "aws_path_1": "OASIS/2024/11/cyber/tpc/mx/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/es/ofertas-hoteles-cyber-week?utm_source=adgmedia&utm_medium=display&utm_campaign=cyberweek&utm_term=retargeting-oferta-mex&utm_content=the-pyramid-cancun&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "152787",
+            "152788",
+            "152789",
+            "152790",
+            "152792"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "250x250"
+        ],
+        "name": "oasis-mx_v1mp_AO_dis_rtg-1_CYBER-GOC",
+        "landing": "https://oasishoteles.com/es/ofertas-hoteles-cyber-week",
+        "aws_path_1": "OASIS/2024/11/cyber/goc/mx/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/es/ofertas-hoteles-cyber-week?utm_source=adgmedia&utm_medium=display&utm_campaign=cyberweek&utm_term=retargeting-oferta-mex&utm_content=grand-oasis-cancun&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "152795",
+            "152796",
+            "152797",
+            "152798",
+            "152800"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "250x250"
+        ],
+        "name": "oasis-mx_v1mp_AO_dis_rtg-1_CYBER-TSC",
+        "landing": "https://oasishoteles.com/es/ofertas-hoteles-cyber-week",
+        "aws_path_1": "OASIS/2024/11/cyber/tsc/mx/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/es/ofertas-hoteles-cyber-week?utm_source=adgmedia&utm_medium=display&utm_campaign=cyberweek&utm_term=retargeting-oferta-mex&utm_content=the-sens-cancun&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "152803",
+            "152804",
+            "152805",
+            "152806",
+            "152808"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "250x250"
+        ],
+        "name": "oasis-mx_v1mp_AO_dis_rtg-1_CYBER-GOP",
+        "landing": "https://oasishoteles.com/es/ofertas-hoteles-cyber-week",
+        "aws_path_1": "OASIS/2024/11/cyber/gop/mx/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/es/ofertas-hoteles-cyber-week?utm_source=adgmedia&utm_medium=display&utm_campaign=cyberweek&utm_term=retargeting-oferta-mex&utm_content=grand-oasis-palm&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "152811",
+            "152812",
+            "152813",
+            "152814",
+            "152816"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "250x250"
+        ],
+        "name": "oasis-mx_v1mp_AO_dis_rtg-1_CYBER-TSTR",
+        "landing": "https://oasishoteles.com/es/ofertas-hoteles-cyber-week",
+        "aws_path_1": "OASIS/2024/11/cyber/tstr/mx/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/es/ofertas-hoteles-cyber-week?utm_source=adgmedia&utm_medium=display&utm_campaign=cyberweek&utm_term=retargeting-oferta-mex&utm_content=the-sens-tulum-riviera&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "152819",
+            "152820",
+            "152821",
+            "152822",
+            "152824"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "250x250"
+        ],
+        "name": "oasis-mx_v1mp_AO_dis_rtg-1_CYBER-GOTR",
+        "landing": "https://oasishoteles.com/es/ofertas-hoteles-cyber-week",
+        "aws_path_1": "OASIS/2024/11/cyber/gotr/mx/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/es/ofertas-hoteles-cyber-week?utm_source=adgmedia&utm_medium=display&utm_campaign=cyberweek&utm_term=retargeting-oferta-mex&utm_content=grand-oasis-tulum-riviera&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "152827",
+            "152828",
+            "152829",
+            "152830",
+            "152832"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "250x250"
+        ],
+        "name": "oasis-us_v1mp_AO_dis_prs-1_CYBER-CORP",
+        "landing": "https://oasishoteles.com/en/hotel-offers-cyber-week",
+        "aws_path_1": "OASIS/2024/11/cyber/corp/us/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/en/hotel-offers-cyber-week?utm_source=adgmedia&utm_medium=display&utm_campaign=cyberweek&utm_term=prospecting-oferta-usa&utm_content=corporativo&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "152835",
+            "152836",
+            "152837",
+            "152838",
+            "152840"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "250x250"
+        ],
+        "name": "oasis-us_v1mp_AO_dis_rtg-1_CYBER-TPC",
+        "landing": "https://oasishoteles.com/en/hotel-offers-cyber-week",
+        "aws_path_1": "OASIS/2024/11/cyber/tpc/us/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/en/hotel-offers-cyber-week?utm_source=adgmedia&utm_medium=display&utm_campaign=cyberweek&utm_term=retargeting-oferta-usa&utm_content=the-pyramid-cancun&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "152843",
+            "152844",
+            "152845",
+            "152846",
+            "152848"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "250x250"
+        ],
+        "name": "oasis-us_v1mp_AO_dis_rtg-1_CYBER-GOC",
+        "landing": "https://oasishoteles.com/en/hotel-offers-cyber-week",
+        "aws_path_1": "OASIS/2024/11/cyber/goc/us/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/en/hotel-offers-cyber-week?utm_source=adgmedia&utm_medium=display&utm_campaign=cyberweek&utm_term=retargeting-oferta-usa&utm_content=grand-oasis-cancun&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "152851",
+            "152852",
+            "152853",
+            "152854",
+            "152856"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "250x250"
+        ],
+        "name": "oasis-us_v1mp_AO_dis_rtg-1_CYBER-TSC",
+        "landing": "https://oasishoteles.com/en/hotel-offers-cyber-week",
+        "aws_path_1": "OASIS/2024/11/cyber/tsc/us/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/en/hotel-offers-cyber-week?utm_source=adgmedia&utm_medium=display&utm_campaign=cyberweek&utm_term=retargeting-oferta-usa&utm_content=the-sens-cancun&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "152859",
+            "152860",
+            "152861",
+            "152862",
+            "152864"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "250x250"
+        ],
+        "name": "oasis-us_v1mp_AO_dis_rtg-1_CYBER-GOP",
+        "landing": "https://oasishoteles.com/en/hotel-offers-cyber-week",
+        "aws_path_1": "OASIS/2024/11/cyber/gop/us/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/en/hotel-offers-cyber-week?utm_source=adgmedia&utm_medium=display&utm_campaign=cyberweek&utm_term=retargeting-oferta-usa&utm_content=grand-oasis-palm&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "152867",
+            "152868",
+            "152869",
+            "152870",
+            "152872"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "250x250"
+        ],
+        "name": "oasis-us_v1mp_AO_dis_rtg-1_CYBER-TSTR",
+        "landing": "https://oasishoteles.com/en/hotel-offers-cyber-week",
+        "aws_path_1": "OASIS/2024/11/cyber/tstr/us/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/en/hotel-offers-cyber-week?utm_source=adgmedia&utm_medium=display&utm_campaign=cyberweek&utm_term=retargeting-oferta-usa&utm_content=the-sens-tulum-riviera&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "152875",
+            "152876",
+            "152877",
+            "152878",
+            "152880"
+        ]
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "300x250",
+            "728x90",
+            "468x60",
+            "250x250"
+        ],
+        "name": "oasis-us_v1mp_AO_dis_rtg-1_CYBER-GOTR",
+        "landing": "https://oasishoteles.com/en/hotel-offers-cyber-week",
+        "aws_path_1": "OASIS/2024/11/cyber/gotr/us/",
+        "aws_path_2": ".gif",
+        "url": "https://oasishoteles.com/en/hotel-offers-cyber-week?utm_source=adgmedia&utm_medium=display&utm_campaign=cyberweek&utm_term=retargeting-oferta-usa&utm_content=grand-oasis-tulum-riviera&utm_id=1234",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Oasis%20Hotels.js?tc=",
+        "tcs": [
+            "152883",
+            "152884",
+            "152885",
+            "152886",
+            "152888"
+        ]
+    }
+]

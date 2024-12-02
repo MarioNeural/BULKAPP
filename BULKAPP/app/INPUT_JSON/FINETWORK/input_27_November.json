@@ -1,0 +1,41 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600"
+        ],
+        "name": "globant-es_imp_FINETWORK_dis-p20",
+        "landing": "https://www.finetwork.com/ofertas/black-friday",
+        "aws_path_1": "FINETWORK/2024/11/preroll/",
+        "aws_path_2": "/index.html",
+        "link": "https://ad.doubleclick.net/ddm/trackclk/N1962171.3378211DV360/B32695792.409640843;dc_trk_aid=601721764;dc_trk_cid=226472207;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+        "tcs": [],
+        "impression_tag": "<SCRIPT language='JavaScript1.1' SRC='https://ad.doubleclick.net/ddm/trackimpj/N1962171.3378211DV360/B32695792.409640843;dc_trk_aid=601721764;dc_trk_cid=226472207;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></SCRIPT>"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x250"
+        ],
+        "name": "globant-es_imp_FINETWORK_dis-p20",
+        "landing": "https://www.finetwork.com/ofertas/black-friday",
+        "aws_path_1": "FINETWORK/2024/11/preroll/",
+        "aws_path_2": "/index.html",
+        "link": "https://ad.doubleclick.net/ddm/trackclk/N1962171.3378211DV360/B32695792.409640846;dc_trk_aid=601721767;dc_trk_cid=226472213;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+        "tcs": [],
+        "impression_tag": "<SCRIPT language='JavaScript1.1' SRC='https://ad.doubleclick.net/ddm/trackimpj/N1962171.3378211DV360/B32695792.409640846;dc_trk_aid=601721767;dc_trk_cid=226472213;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></SCRIPT>"
+    },
+    {
+        "type": "iframe",
+        "sizes": [
+            "970x250"
+        ],
+        "name": "globant-es_imp_FINETWORK_dis-p20",
+        "landing": "https://www.finetwork.com/ofertas/black-friday",
+        "aws_path_1": "FINETWORK/2024/11/preroll/",
+        "aws_path_2": "/index.html",
+        "link": "https://ad.doubleclick.net/ddm/trackclk/N1962171.3378211DV360/B32695792.409640849;dc_trk_aid=601721770;dc_trk_cid=226471460;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+        "tcs": [],
+        "impression_tag": "<SCRIPT language='JavaScript1.1' SRC='https://ad.doubleclick.net/ddm/trackimpj/N1962171.3378211DV360/B32695792.409640849;dc_trk_aid=601721770;dc_trk_cid=226471460;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?' attributionsrc ></SCRIPT>"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "970x250", "728x90"],
+        "name": "best-gb_v1mp_AO-UK-IR_dis_prs-3_BF-24",
+        "landing": "https://www.besthotels.es/en/black-friday.html",
+        "aws_path_1": "BEST_HOTELS/2024/11/bf/gb/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.besthotels.es/en/black-friday.html?utm_source=v1mp&utm_medium=dis-prs-3&utm_campaign=ao-uk-ir&utm_content=BF-24",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Best%20Hotels.js?tc=",
+        "tcs": ["152717", "152718", "152719", "152720", "152721", "152722"]
+    },
+    {
+        "type": "iframe",
+        "sizes": ["160x600", "300x250", "300x600", "320x100", "728x90", "970x250"],
+        "name": "best-gb_v1mp_AO-UK-IR_dis_rtg-3_DCO",
+        "landing": "https://www.besthotels.es/",
+        "aws_path_1": "BEST_HOTELS/2023/04/dco/best/rtg/",
+        "aws_path_2": ".html",
+        "link": "https://www.besthotels.es/?utm_source=v1mp&utm_medium=dis-rtg-3&utm_campaign=ao-uk-ir&utm_content=dco",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Best%20Hotels.js?tc=",
+        "tcs": ["152723", "152724", "152725", "152726", "152727", "152728"]
+    }
+]

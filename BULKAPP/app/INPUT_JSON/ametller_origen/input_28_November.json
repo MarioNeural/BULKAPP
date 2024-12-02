@@ -1,0 +1,128 @@
+[
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "728x90",
+            "300x250"
+        ],
+        "name": "ametller-origen-es_v1mp_AO-CATALUNA_dis_prs-1_NAVIDAD24-CANELONS-ESP",
+        "landing": "https://www.ametllerorigen.com/ca/nadal/canelons-i-plats-preparats",
+        "aws_path_1": "ametller_origen/2024/11/navidad24/canelons/esp/",
+        "aws_path_2": ".gif",
+        "url": "https://www.ametllerorigen.com/ca/nadal/canelons-i-plats-preparats?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-cataluna&utm_term=NAVIDAD24-CANELONS-ESP",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ametller%20Origen.js?tc=",
+        "tcs": [
+            "152890",
+            "152891",
+            "152892"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "728x90",
+            "300x250"
+        ],
+        "name": "ametller-origen-es_v1mp_AO-CATALUNA_dis_rtg-1_NAVIDAD24-CANELONS-CAT",
+        "landing": "https://www.ametllerorigen.com/es/navidad/canelones-y-platos-preparados",
+        "aws_path_1": "ametller_origen/2024/11/navidad24/canelons/cat/",
+        "aws_path_2": ".gif",
+        "url": "https://www.ametllerorigen.com/es/navidad/canelones-y-platos-preparados?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao-cataluna&utm_term=NAVIDAD24-CANELONS-CAT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ametller%20Origen.js?tc=",
+        "tcs": [
+            "152893",
+            "152894",
+            "152895"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "728x90",
+            "300x250"
+        ],
+        "name": "ametller-origen-es_v1mp_AO-CATALUNA_dis_prs-1_NAVIDAD24-PANETTONE-ESP",
+        "landing": "https://www.ametllerorigen.com/ca/panettone-i-pandoro",
+        "aws_path_1": "ametller_origen/2024/11/navidad24/panettone/esp/",
+        "aws_path_2": ".gif",
+        "url": "https://www.ametllerorigen.com/ca/panettone-i-pandoro?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-cataluna&utm_term=NAVIDAD24-PANETTONE-ESP",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ametller%20Origen.js?tc=",
+        "tcs": [
+            "152896",
+            "152897",
+            "152898"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "728x90",
+            "300x250"
+        ],
+        "name": "ametller-origen-es_v1mp_AO-CATALUNA_dis_rtg-1_NAVIDAD24-PANETTONE-CAT",
+        "landing": "https://www.ametllerorigen.com/es/panettone-y-pandoro",
+        "aws_path_1": "ametller_origen/2024/11/navidad24/panettone/cat/",
+        "aws_path_2": ".gif",
+        "url": "https://www.ametllerorigen.com/es/panettone-y-pandoro?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao-cataluna&utm_term=NAVIDAD24-PANETTONE-CAT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ametller%20Origen.js?tc=",
+        "tcs": [
+            "152899",
+            "152900",
+            "152901"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "728x90",
+            "300x250"
+        ],
+        "name": "ametller-origen-es_v1mp_AO-CATALUNA_dis_prs-1_NAVIDAD24-LOTES-ESP",
+        "landing": "https://www.ametllerorigen.com/ca/nadal/lots-de-nadal",
+        "aws_path_1": "ametller_origen/2024/11/navidad24/lotes/esp/",
+        "aws_path_2": ".gif",
+        "url": "https://www.ametllerorigen.com/ca/nadal/lots-de-nadal?utm_source=v1mp&utm_medium=dis-prs-1&utm_campaign=ao-cataluna&utm_term=NAVIDAD24-LOTES-ESP",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ametller%20Origen.js?tc=",
+        "tcs": [
+            "152902",
+            "152903",
+            "152904"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    },
+    {
+        "type": "link",
+        "sizes": [
+            "300x600",
+            "728x90",
+            "300x250"
+        ],
+        "name": "ametller-origen-es_v1mp_AO-CATALUNA_dis_rtg-1_NAVIDAD24-LOTES-CAT",
+        "landing": "https://www.ametllerorigen.com/es/navidad/cestas-de-navidad",
+        "aws_path_1": "ametller_origen/2024/11/navidad24/lotes/cat/",
+        "aws_path_2": ".gif",
+        "url": "https://www.ametllerorigen.com/es/navidad/cestas-de-navidad?utm_source=v1mp&utm_medium=dis-rtg-1&utm_campaign=ao-cataluna&utm_term=NAVIDAD24-LOTES-CAT",
+        "viewability": "//bucket.cdnwebcloud.com/n_one_vway_Ametller%20Origen.js?tc=",
+        "tcs": [
+            "152905",
+            "152906",
+            "152907"
+        ],
+        "add_utm_size": "utm_content=",
+        "utm_content": "utm_content="
+    }
+]

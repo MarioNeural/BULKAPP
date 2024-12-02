@@ -28,7 +28,7 @@ def open_folder():
 def open_json_with_vscode():
     json_file_path = os.path.abspath(os.path.join('app', 'INPUT_JSON', 'input.json'))
     try:
-        vscode_path = r"C:\Users\usuario\AppData\Local\Programs\Microsoft VS Code\Code.exe"
+        vscode_path = r"C:\Users\Mario Neural\AppData\Local\Programs\Microsoft VS Code\Code.exe"
         subprocess.run([vscode_path, json_file_path], check=True)
     except subprocess.CalledProcessError as e:
         messagebox.showerror("Error", f"No se pudo abrir el archivo: {e}")

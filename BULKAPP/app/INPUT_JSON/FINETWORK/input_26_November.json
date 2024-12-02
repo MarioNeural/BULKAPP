@@ -1,0 +1,16 @@
+[
+    {
+        "type": "iframe",
+        "sizes": [
+            "300x600","300x250","970x250"
+        ],
+        "name": "preview",
+        "landing": "https://www.finetwork.com/ofertas/black-friday?utm_source=dv360&utm_medium=impulsion&utm_campaign=brd-conv-pros-ao&utm_content=video-inbanner&utm_term=black-friday&dclid=",
+        "aws_path_1": "FINETWORK/2024/11/preroll/",
+        "aws_path_2": "/index.html",
+        "link": "https://www.finetwork.com/ofertas/black-friday?utm_source=dv360&utm_medium=impulsion&utm_campaign=brd-conv-pros-ao&utm_content=video-inbanner&utm_term=black-friday&dclid=",
+        "tcs": [
+            ""
+        ]
+    }
+]
